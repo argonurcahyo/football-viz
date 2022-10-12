@@ -1,0 +1,88 @@
+,match_id,home_club_id,away_club_id,home_club_name,away_club_name,match_date,home_score,away_score,home_xG,away_xG,potm
+0,3900932,9826,9825,Crystal Palace,Arsenal,2022-08-06,0,2,1.21,1.0,Zinchenko
+1,3900933,9879,8650,Fulham,Liverpool,2022-08-06,2,2,1.25,1.23,Mitrovic
+2,3900934,8678,10252,AFC Bournemouth,Aston Villa,2022-08-06,2,0,0.59,0.66,Kelly
+3,3900935,8463,8602,Leeds United,Wolverhampton Wanderers,2022-08-06,2,1,0.8,1.84,Harrison
+4,3900937,10261,10203,Newcastle United,Nottingham Forest,2022-08-06,2,0,1.74,0.28,Schär
+5,3900938,8586,8466,Tottenham Hotspur,Southampton,2022-08-06,4,1,1.57,0.48,Kulusevski
+6,3900939,8668,8455,Everton,Chelsea,2022-08-06,0,1,0.67,1.64,Kanté
+7,3900936,8197,9937,Leicester City,Brentford,2022-08-07,2,2,0.62,0.76,Tielemans
+8,3900940,10260,10204,Manchester United,Brighton & Hove Albion,2022-08-07,1,2,1.38,1.5,Gross
+9,3900941,8654,8456,West Ham United,Manchester City,2022-08-07,0,2,0.49,2.23,Haaland
+10,3900943,10252,8668,Aston Villa,Everton,2022-08-13,2,1,2.31,1.58,Watkins
+11,3900942,9825,8197,Arsenal,Leicester City,2022-08-13,4,2,2.96,0.46,Jesus
+12,3900945,10204,10261,Brighton & Hove Albion,Newcastle United,2022-08-13,0,0,1.5,0.22,Pope
+13,3900948,8456,8678,Manchester City,AFC Bournemouth,2022-08-13,4,0,1.75,0.13,De Bruyne
+14,3900950,8466,8463,Southampton,Leeds United,2022-08-13,2,2,1.22,1.93,Rodrigo
+15,3900951,8602,9879,Wolverhampton Wanderers,Fulham,2022-08-13,0,0,0.89,1.49,Sá
+16,3900944,9937,10260,Brentford,Manchester United,2022-08-13,4,0,1.61,0.92,Jensen
+17,3900949,10203,8654,Nottingham Forest,West Ham United,2022-08-14,1,0,1.36,2.26,Henderson
+18,3900946,8455,8586,Chelsea,Tottenham Hotspur,2022-08-14,2,2,1.58,1.01,Højbjerg
+19,3900947,8650,9826,Liverpool,Crystal Palace,2022-08-16,1,1,2.07,1.04,Diaz
+20,3900960,8586,8602,Tottenham Hotspur,Wolverhampton Wanderers,2022-08-20,1,0,1.67,0.71,Kane
+21,3900953,9826,10252,Crystal Palace,Aston Villa,2022-08-20,3,1,2.69,0.9,Zaha
+22,3900954,8668,10203,Everton,Nottingham Forest,2022-08-20,1,1,1.51,0.99,Gray
+23,3900955,9879,9937,Fulham,Brentford,2022-08-20,3,2,2.54,1.8,Pereira
+24,3900957,8197,8466,Leicester City,Southampton,2022-08-20,1,2,0.29,0.92,Adams
+25,3900952,8678,9825,AFC Bournemouth,Arsenal,2022-08-20,0,3,0.28,1.32,Ødegaard
+26,3900956,8463,8455,Leeds United,Chelsea,2022-08-21,3,0,2.22,0.88,Harrison
+27,3900961,8654,10204,West Ham United,Brighton & Hove Albion,2022-08-21,0,2,0.89,1.71,Allister
+28,3900959,10261,8456,Newcastle United,Manchester City,2022-08-21,3,3,1.81,2.11,Saint-Maximin
+29,3900958,10260,8650,Manchester United,Liverpool,2022-08-23,2,1,1.79,1.35,Sancho
+30,3900970,8466,10260,Southampton,Manchester United,2022-08-27,0,1,1.45,1.4,Dalot
+31,3900964,9937,8668,Brentford,Everton,2022-08-27,1,1,2.14,1.07,Tarkowski
+32,3900965,10204,8463,Brighton & Hove Albion,Leeds United,2022-08-27,1,0,2.02,1.84,Gross
+33,3900966,8455,8197,Chelsea,Leicester City,2022-08-27,2,1,1.75,2.52,Sterling
+34,3900967,8650,8678,Liverpool,AFC Bournemouth,2022-08-27,9,0,3.32,0.33,Firmino
+35,3900968,8456,9826,Manchester City,Crystal Palace,2022-08-27,4,2,2.42,0.12,Haaland
+36,3900962,9825,9879,Arsenal,Fulham,2022-08-27,2,1,2.73,0.83,Ødegaard
+37,3900963,10252,8654,Aston Villa,West Ham United,2022-08-28,0,1,0.49,0.56,Fornals
+38,3900971,8602,10261,Wolverhampton Wanderers,Newcastle United,2022-08-28,1,1,0.71,1.77,Neves
+39,3900969,10203,8586,Nottingham Forest,Tottenham Hotspur,2022-08-28,0,2,0.95,2.4,Kane
+40,3900978,9826,9937,Crystal Palace,Brentford,2022-08-31,1,1,0.98,1.43,Doucouré
+41,3900974,9879,10204,Fulham,Brighton & Hove Albion,2022-08-31,2,1,0.68,1.42,Allister
+42,3900979,8466,8455,Southampton,Chelsea,2022-08-31,2,1,1.1,1.1,Elyounoussi
+43,3900975,8463,8668,Leeds United,Everton,2022-08-31,1,1,1.01,1.0,Struijk
+44,3900973,8678,8602,AFC Bournemouth,Wolverhampton Wanderers,2022-09-01,0,0,0.42,1.51,Neves
+45,3900972,9825,10252,Arsenal,Aston Villa,2022-09-01,2,1,2.56,0.45,Martinelli
+46,3900981,8456,10203,Manchester City,Nottingham Forest,2022-09-01,6,0,3.32,0.66,Haaland
+47,3900977,8654,8586,West Ham United,Tottenham Hotspur,2022-09-01,1,1,1.24,0.63,Soucek
+48,3900980,8650,10261,Liverpool,Newcastle United,2022-09-01,2,1,1.5,0.72,Salah
+49,3900976,8197,10260,Leicester City,Manchester United,2022-09-02,0,1,0.73,1.55,Dalot
+50,3900986,8668,8650,Everton,Liverpool,2022-09-03,0,0,1.72,2.19,Pickford
+51,3900983,9937,8463,Brentford,Leeds United,2022-09-03,5,2,2.43,1.92,Toney
+52,3900985,8455,8654,Chelsea,West Ham United,2022-09-03,2,1,0.87,1.1,Silva
+53,3900988,10261,9826,Newcastle United,Crystal Palace,2022-09-03,0,0,2.83,1.01,Guaita
+54,3900989,10203,8678,Nottingham Forest,AFC Bournemouth,2022-09-03,2,3,1.9,0.78,Solanke
+55,3900990,8586,9879,Tottenham Hotspur,Fulham,2022-09-03,2,1,2.98,0.73,Richarlison
+56,3900991,8602,8466,Wolverhampton Wanderers,Southampton,2022-09-03,1,0,0.8,1.2,Nunes
+57,3900982,10252,8456,Aston Villa,Manchester City,2022-09-03,1,1,0.34,2.1,De Bruyne
+58,3900984,10204,8197,Brighton & Hove Albion,Leicester City,2022-09-04,5,2,2.76,1.45,Allister
+59,3900987,10260,9825,Manchester United,Arsenal,2022-09-04,3,1,1.55,1.32,Rashford
+70,3901002,10252,8466,Aston Villa,Southampton,2022-09-17,1,0,0.92,0.34,Ramsey
+71,3901009,10203,9879,Nottingham Forest,Fulham,2022-09-17,2,3,1.41,0.94,Palhinha
+72,3901011,8602,8456,Wolverhampton Wanderers,Manchester City,2022-09-17,0,3,0.41,1.06,Grealish
+74,3901008,10261,8678,Newcastle United,AFC Bournemouth,2022-09-17,1,1,1.92,0.75,Billing
+75,3901010,8586,8197,Tottenham Hotspur,Leicester City,2022-09-17,6,2,2.19,1.77,Son
+76,3901003,9937,9825,Brentford,Arsenal,2022-09-18,0,3,0.53,1.52,Saka
+78,3901006,8668,8654,Everton,West Ham United,2022-09-18,1,0,0.36,1.04,Iwobi
+80,3901012,9825,8586,Arsenal,Tottenham Hotspur,2022-10-01,3,1,2.38,1.57,Partey
+81,3901013,8678,9937,AFC Bournemouth,Brentford,2022-10-01,0,0,0.38,0.87,Neto
+82,3901014,9826,8455,Crystal Palace,Chelsea,2022-10-01,1,2,0.44,1.14,Silva
+83,3901015,9879,10261,Fulham,Newcastle United,2022-10-01,1,4,0.47,3.55,Almiron
+84,3901018,8650,10204,Liverpool,Brighton & Hove Albion,2022-10-01,3,3,1.47,1.37,Trossard
+85,3901020,8466,8668,Southampton,Everton,2022-10-01,1,2,1.75,1.96,McNeil
+86,3901021,8654,8602,West Ham United,Wolverhampton Wanderers,2022-10-01,2,0,0.92,0.74,Rice
+87,3901019,8456,10260,Manchester City,Manchester United,2022-10-02,6,3,3.3,1.67,Haaland
+88,3901016,8463,10252,Leeds United,Aston Villa,2022-10-02,0,0,0.37,2.23,Luiz
+89,3901017,8197,10203,Leicester City,Nottingham Forest,2022-10-04,4,0,1.32,1.16,Maddison
+90,3901023,8678,8197,AFC Bournemouth,Leicester City,2022-10-08,2,1,1.14,1.08,Christie
+91,3901025,8455,8602,Chelsea,Wolverhampton Wanderers,2022-10-08,3,0,1.9,1.11,Mount
+92,3901028,8456,8466,Manchester City,Southampton,2022-10-08,4,0,2.47,0.16,Cancelo
+93,3901029,10261,9937,Newcastle United,Brentford,2022-10-08,5,1,1.53,1.19,Guimaraes
+94,3901024,10204,8586,Brighton & Hove Albion,Tottenham Hotspur,2022-10-08,0,1,0.72,0.79,Lloris
+95,3901026,9826,8463,Crystal Palace,Leeds United,2022-10-09,2,1,1.08,0.96,Eze
+96,3901031,8654,9879,West Ham United,Fulham,2022-10-09,3,1,3.04,0.7,Scamacca
+97,3901022,9825,8650,Arsenal,Liverpool,2022-10-09,3,2,3.09,1.13,Saka
+98,3901027,8668,10260,Everton,Manchester United,2022-10-10,1,2,0.65,1.45,Iwobi
+99,3901030,10203,10252,Nottingham Forest,Aston Villa,2022-10-11,1,1,0.31,0.69,Young
