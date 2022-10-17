@@ -1,0 +1,361 @@
+,match_id,date,variable,value,venue,team_id,team_name,league_name
+0,3900341,2022-08-06,xG_for,0.45,H,10228,SC Heerenveen,Eredivisie
+1,3900341,2022-08-06,xG_ag,0.34,H,10228,SC Heerenveen,Eredivisie
+2,3900341,2022-08-06,xG_for,0.34,A,8614,Sparta Rotterdam,Eredivisie
+3,3900341,2022-08-06,xG_ag,0.45,A,8614,Sparta Rotterdam,Eredivisie
+4,3900342,2022-08-06,xG_for,1.02,H,6422,Fortuna Sittard,Eredivisie
+5,3900342,2022-08-06,xG_ag,1.91,H,6422,Fortuna Sittard,Eredivisie
+6,3900342,2022-08-06,xG_for,1.91,A,8593,Ajax,Eredivisie
+7,3900342,2022-08-06,xG_ag,1.02,A,8593,Ajax,Eredivisie
+8,3900343,2022-08-06,xG_for,3.97,H,7788,Cambuur,Eredivisie
+9,3900343,2022-08-06,xG_ag,1.25,H,7788,Cambuur,Eredivisie
+10,3900343,2022-08-06,xG_for,1.25,A,10218,Excelsior,Eredivisie
+11,3900343,2022-08-06,xG_ag,3.97,A,10218,Excelsior,Eredivisie
+12,3900344,2022-08-07,xG_for,1.73,H,8640,PSV Eindhoven,Eredivisie
+13,3900344,2022-08-07,xG_ag,0.57,H,8640,PSV Eindhoven,Eredivisie
+14,3900344,2022-08-07,xG_for,0.57,A,6660,FC Emmen,Eredivisie
+15,3900344,2022-08-07,xG_ag,1.73,A,6660,FC Emmen,Eredivisie
+16,3900345,2022-08-07,xG_for,1.89,H,10219,RKC Waalwijk,Eredivisie
+17,3900345,2022-08-07,xG_ag,2.06,H,10219,RKC Waalwijk,Eredivisie
+18,3900345,2022-08-07,xG_for,2.06,A,9908,FC Utrecht,Eredivisie
+19,3900345,2022-08-07,xG_ag,1.89,A,9908,FC Utrecht,Eredivisie
+20,3900346,2022-08-07,xG_for,1.8,H,8674,FC Groningen,Eredivisie
+21,3900346,2022-08-07,xG_ag,1.5,H,8674,FC Groningen,Eredivisie
+22,3900346,2022-08-07,xG_for,1.5,A,6601,FC Volendam,Eredivisie
+23,3900346,2022-08-07,xG_ag,1.8,A,6601,FC Volendam,Eredivisie
+24,3900347,2022-08-07,xG_for,0.58,H,8277,Vitesse,Eredivisie
+25,3900347,2022-08-07,xG_ag,2.51,H,8277,Vitesse,Eredivisie
+26,3900347,2022-08-07,xG_for,2.51,A,10235,Feyenoord,Eredivisie
+27,3900347,2022-08-07,xG_ag,0.58,A,10235,Feyenoord,Eredivisie
+28,3900348,2022-08-07,xG_for,0.99,H,8464,NEC Nijmegen,Eredivisie
+29,3900348,2022-08-07,xG_ag,0.9,H,8464,NEC Nijmegen,Eredivisie
+30,3900348,2022-08-07,xG_for,0.9,A,8611,FC Twente,Eredivisie
+31,3900348,2022-08-07,xG_ag,0.99,A,8611,FC Twente,Eredivisie
+32,3900349,2022-08-07,xG_for,2.37,H,10229,AZ Alkmaar,Eredivisie
+33,3900349,2022-08-07,xG_ag,1.0,H,10229,AZ Alkmaar,Eredivisie
+34,3900349,2022-08-07,xG_for,1.0,A,6433,Go Ahead Eagles,Eredivisie
+35,3900349,2022-08-07,xG_ag,2.37,A,6433,Go Ahead Eagles,Eredivisie
+36,3900350,2022-08-13,xG_for,1.5,H,10218,Excelsior,Eredivisie
+37,3900350,2022-08-13,xG_ag,2.0,H,10218,Excelsior,Eredivisie
+38,3900350,2022-08-13,xG_for,2.0,A,8277,Vitesse,Eredivisie
+39,3900350,2022-08-13,xG_ag,1.5,A,8277,Vitesse,Eredivisie
+40,3900351,2022-08-13,xG_for,0.91,H,6433,Go Ahead Eagles,Eredivisie
+41,3900351,2022-08-13,xG_ag,3.1,H,6433,Go Ahead Eagles,Eredivisie
+42,3900351,2022-08-13,xG_for,3.1,A,8640,PSV Eindhoven,Eredivisie
+43,3900351,2022-08-13,xG_ag,0.91,A,8640,PSV Eindhoven,Eredivisie
+44,3900352,2022-08-14,xG_for,1.41,H,6660,FC Emmen,Eredivisie
+45,3900352,2022-08-14,xG_ag,0.71,H,6660,FC Emmen,Eredivisie
+46,3900352,2022-08-14,xG_for,0.71,A,10219,RKC Waalwijk,Eredivisie
+47,3900352,2022-08-14,xG_ag,1.41,A,10219,RKC Waalwijk,Eredivisie
+48,3900353,2022-08-14,xG_for,1.5,H,9908,FC Utrecht,Eredivisie
+49,3900353,2022-08-14,xG_ag,0.84,H,9908,FC Utrecht,Eredivisie
+50,3900353,2022-08-14,xG_for,0.84,A,7788,Cambuur,Eredivisie
+51,3900353,2022-08-14,xG_ag,1.5,A,7788,Cambuur,Eredivisie
+52,3900354,2022-08-14,xG_for,1.86,H,10235,Feyenoord,Eredivisie
+53,3900354,2022-08-14,xG_ag,0.79,H,10235,Feyenoord,Eredivisie
+54,3900354,2022-08-14,xG_for,0.79,A,10228,SC Heerenveen,Eredivisie
+55,3900354,2022-08-14,xG_ag,1.86,A,10228,SC Heerenveen,Eredivisie
+56,3900355,2022-08-14,xG_for,1.25,H,6601,FC Volendam,Eredivisie
+57,3900355,2022-08-14,xG_ag,1.78,H,6601,FC Volendam,Eredivisie
+58,3900355,2022-08-14,xG_for,1.78,A,8464,NEC Nijmegen,Eredivisie
+59,3900355,2022-08-14,xG_ag,1.25,A,8464,NEC Nijmegen,Eredivisie
+60,3900356,2022-08-14,xG_for,3.46,H,8593,Ajax,Eredivisie
+61,3900356,2022-08-14,xG_ag,0.51,H,8593,Ajax,Eredivisie
+62,3900356,2022-08-14,xG_for,0.51,A,8674,FC Groningen,Eredivisie
+63,3900356,2022-08-14,xG_ag,3.46,A,8674,FC Groningen,Eredivisie
+64,3900357,2022-08-14,xG_for,1.71,H,8611,FC Twente,Eredivisie
+65,3900357,2022-08-14,xG_ag,0.73,H,8611,FC Twente,Eredivisie
+66,3900357,2022-08-14,xG_for,0.73,A,6422,Fortuna Sittard,Eredivisie
+67,3900357,2022-08-14,xG_ag,1.71,A,6422,Fortuna Sittard,Eredivisie
+68,3900358,2022-08-14,xG_for,0.88,H,8614,Sparta Rotterdam,Eredivisie
+69,3900358,2022-08-14,xG_ag,2.9,H,8614,Sparta Rotterdam,Eredivisie
+70,3900358,2022-08-14,xG_for,2.9,A,10229,AZ Alkmaar,Eredivisie
+71,3900358,2022-08-14,xG_ag,0.88,A,10229,AZ Alkmaar,Eredivisie
+72,3900359,2022-08-20,xG_for,0.73,H,8277,Vitesse,Eredivisie
+73,3900359,2022-08-20,xG_ag,1.65,H,8277,Vitesse,Eredivisie
+74,3900359,2022-08-20,xG_for,1.65,A,10228,SC Heerenveen,Eredivisie
+75,3900359,2022-08-20,xG_ag,0.73,A,10228,SC Heerenveen,Eredivisie
+76,3900360,2022-08-21,xG_for,0.45,H,8674,FC Groningen,Eredivisie
+77,3900360,2022-08-21,xG_ag,0.37,H,8674,FC Groningen,Eredivisie
+78,3900360,2022-08-21,xG_for,0.37,A,6433,Go Ahead Eagles,Eredivisie
+79,3900360,2022-08-21,xG_ag,0.45,A,6433,Go Ahead Eagles,Eredivisie
+80,3900361,2022-08-31,xG_for,5.02,H,8640,PSV Eindhoven,Eredivisie
+81,3900361,2022-08-31,xG_ag,1.25,H,8640,PSV Eindhoven,Eredivisie
+82,3900361,2022-08-31,xG_for,1.25,A,6601,FC Volendam,Eredivisie
+83,3900361,2022-08-31,xG_ag,5.02,A,6601,FC Volendam,Eredivisie
+84,3900362,2022-08-21,xG_for,1.09,H,6660,FC Emmen,Eredivisie
+85,3900362,2022-08-21,xG_ag,1.29,H,6660,FC Emmen,Eredivisie
+86,3900362,2022-08-21,xG_for,1.29,A,9908,FC Utrecht,Eredivisie
+87,3900362,2022-08-21,xG_ag,1.09,A,9908,FC Utrecht,Eredivisie
+88,3900363,2022-08-20,xG_for,1.23,H,6422,Fortuna Sittard,Eredivisie
+89,3900363,2022-08-20,xG_ag,0.91,H,6422,Fortuna Sittard,Eredivisie
+90,3900363,2022-08-20,xG_for,0.91,A,7788,Cambuur,Eredivisie
+91,3900363,2022-08-20,xG_ag,1.23,A,7788,Cambuur,Eredivisie
+92,3900364,2022-08-21,xG_for,0.65,H,8614,Sparta Rotterdam,Eredivisie
+93,3900364,2022-08-21,xG_ag,2.07,H,8614,Sparta Rotterdam,Eredivisie
+94,3900364,2022-08-21,xG_for,2.07,A,8593,Ajax,Eredivisie
+95,3900364,2022-08-21,xG_ag,0.65,A,8593,Ajax,Eredivisie
+96,3900365,2022-09-02,xG_for,2.62,H,10229,AZ Alkmaar,Eredivisie
+97,3900365,2022-09-02,xG_ag,0.07,H,10229,AZ Alkmaar,Eredivisie
+98,3900365,2022-09-02,xG_for,0.07,A,8464,NEC Nijmegen,Eredivisie
+99,3900365,2022-09-02,xG_ag,2.62,A,8464,NEC Nijmegen,Eredivisie
+100,3900366,2022-08-21,xG_for,1.05,H,10219,RKC Waalwijk,Eredivisie
+101,3900366,2022-08-21,xG_ag,1.88,H,10219,RKC Waalwijk,Eredivisie
+102,3900366,2022-08-21,xG_for,1.88,A,10235,Feyenoord,Eredivisie
+103,3900366,2022-08-21,xG_ag,1.05,A,10235,Feyenoord,Eredivisie
+104,3900367,2022-09-01,xG_for,2.19,H,8611,FC Twente,Eredivisie
+105,3900367,2022-09-01,xG_ag,0.8,H,8611,FC Twente,Eredivisie
+106,3900367,2022-09-01,xG_for,0.8,A,10218,Excelsior,Eredivisie
+107,3900367,2022-09-01,xG_ag,2.19,A,10218,Excelsior,Eredivisie
+108,3900368,2022-08-27,xG_for,1.25,H,8464,NEC Nijmegen,Eredivisie
+109,3900368,2022-08-27,xG_ag,0.95,H,8464,NEC Nijmegen,Eredivisie
+110,3900368,2022-08-27,xG_for,0.95,A,8674,FC Groningen,Eredivisie
+111,3900368,2022-08-27,xG_ag,1.25,A,8674,FC Groningen,Eredivisie
+112,3900369,2022-08-27,xG_for,0.48,H,6433,Go Ahead Eagles,Eredivisie
+113,3900369,2022-08-27,xG_ag,1.75,H,6433,Go Ahead Eagles,Eredivisie
+114,3900369,2022-08-27,xG_for,1.75,A,8614,Sparta Rotterdam,Eredivisie
+115,3900369,2022-08-27,xG_ag,0.48,A,8614,Sparta Rotterdam,Eredivisie
+116,3900370,2022-08-27,xG_for,3.25,H,8277,Vitesse,Eredivisie
+117,3900370,2022-08-27,xG_ag,0.67,H,8277,Vitesse,Eredivisie
+118,3900370,2022-08-27,xG_for,0.67,A,10219,RKC Waalwijk,Eredivisie
+119,3900370,2022-08-27,xG_ag,3.25,A,10219,RKC Waalwijk,Eredivisie
+120,3900371,2022-08-28,xG_for,2.21,H,10235,Feyenoord,Eredivisie
+121,3900371,2022-08-28,xG_ag,0.61,H,10235,Feyenoord,Eredivisie
+122,3900371,2022-08-28,xG_for,0.61,A,6660,FC Emmen,Eredivisie
+123,3900371,2022-08-28,xG_ag,2.21,A,6660,FC Emmen,Eredivisie
+124,3900372,2022-08-28,xG_for,2.16,H,10228,SC Heerenveen,Eredivisie
+125,3900372,2022-08-28,xG_ag,1.07,H,10228,SC Heerenveen,Eredivisie
+126,3900372,2022-08-28,xG_for,1.07,A,6422,Fortuna Sittard,Eredivisie
+127,3900372,2022-08-28,xG_ag,2.16,A,6422,Fortuna Sittard,Eredivisie
+128,3900373,2022-08-28,xG_for,0.24,H,9908,FC Utrecht,Eredivisie
+129,3900373,2022-08-28,xG_ag,1.22,H,9908,FC Utrecht,Eredivisie
+130,3900373,2022-08-28,xG_for,1.22,A,8593,Ajax,Eredivisie
+131,3900373,2022-08-28,xG_ag,0.24,A,8593,Ajax,Eredivisie
+132,3900374,2022-08-28,xG_for,0.93,H,10218,Excelsior,Eredivisie
+133,3900374,2022-08-28,xG_ag,4.03,H,10218,Excelsior,Eredivisie
+134,3900374,2022-08-28,xG_for,4.03,A,8640,PSV Eindhoven,Eredivisie
+135,3900374,2022-08-28,xG_ag,0.93,A,8640,PSV Eindhoven,Eredivisie
+136,3900375,2022-08-28,xG_for,2.24,H,6601,FC Volendam,Eredivisie
+137,3900375,2022-08-28,xG_ag,2.26,H,6601,FC Volendam,Eredivisie
+138,3900375,2022-08-28,xG_for,2.26,A,8611,FC Twente,Eredivisie
+139,3900375,2022-08-28,xG_ag,2.24,A,8611,FC Twente,Eredivisie
+140,3900376,2022-08-28,xG_for,0.86,H,7788,Cambuur,Eredivisie
+141,3900376,2022-08-28,xG_ag,1.05,H,7788,Cambuur,Eredivisie
+142,3900376,2022-08-28,xG_for,1.05,A,10229,AZ Alkmaar,Eredivisie
+143,3900376,2022-08-28,xG_ag,0.86,A,10229,AZ Alkmaar,Eredivisie
+144,3900377,2022-09-03,xG_for,2.03,H,6422,Fortuna Sittard,Eredivisie
+145,3900377,2022-09-03,xG_ag,3.87,H,6422,Fortuna Sittard,Eredivisie
+146,3900377,2022-09-03,xG_for,3.87,A,9908,FC Utrecht,Eredivisie
+147,3900377,2022-09-03,xG_ag,2.03,A,9908,FC Utrecht,Eredivisie
+148,3900378,2022-09-03,xG_for,3.1,H,8593,Ajax,Eredivisie
+149,3900378,2022-09-03,xG_ag,0.38,H,8593,Ajax,Eredivisie
+150,3900378,2022-09-03,xG_for,0.38,A,7788,Cambuur,Eredivisie
+151,3900378,2022-09-03,xG_ag,3.1,A,7788,Cambuur,Eredivisie
+152,3900379,2022-09-03,xG_for,0.97,H,8611,FC Twente,Eredivisie
+153,3900379,2022-09-03,xG_ag,1.06,H,8611,FC Twente,Eredivisie
+154,3900379,2022-09-03,xG_for,1.06,A,8640,PSV Eindhoven,Eredivisie
+155,3900379,2022-09-03,xG_ag,0.97,A,8640,PSV Eindhoven,Eredivisie
+156,3900380,2022-09-04,xG_for,1.46,H,8614,Sparta Rotterdam,Eredivisie
+157,3900380,2022-09-04,xG_ag,1.79,H,8614,Sparta Rotterdam,Eredivisie
+158,3900380,2022-09-04,xG_for,1.79,A,6601,FC Volendam,Eredivisie
+159,3900380,2022-09-04,xG_ag,1.46,A,6601,FC Volendam,Eredivisie
+160,3900381,2022-09-04,xG_for,1.67,H,6433,Go Ahead Eagles,Eredivisie
+161,3900381,2022-09-04,xG_ag,2.32,H,6433,Go Ahead Eagles,Eredivisie
+162,3900381,2022-09-04,xG_for,2.32,A,10235,Feyenoord,Eredivisie
+163,3900381,2022-09-04,xG_ag,1.67,A,10235,Feyenoord,Eredivisie
+164,3900382,2022-09-04,xG_for,2.46,H,10219,RKC Waalwijk,Eredivisie
+165,3900382,2022-09-04,xG_ag,1.07,H,10219,RKC Waalwijk,Eredivisie
+166,3900382,2022-09-04,xG_for,1.07,A,10218,Excelsior,Eredivisie
+167,3900382,2022-09-04,xG_ag,2.46,A,10218,Excelsior,Eredivisie
+168,3900383,2022-09-04,xG_for,0.57,H,6660,FC Emmen,Eredivisie
+169,3900383,2022-09-04,xG_ag,2.46,H,6660,FC Emmen,Eredivisie
+170,3900383,2022-09-04,xG_for,2.46,A,10229,AZ Alkmaar,Eredivisie
+171,3900383,2022-09-04,xG_ag,0.57,A,10229,AZ Alkmaar,Eredivisie
+172,3900384,2022-09-04,xG_for,0.79,H,10228,SC Heerenveen,Eredivisie
+173,3900384,2022-09-04,xG_ag,0.49,H,10228,SC Heerenveen,Eredivisie
+174,3900384,2022-09-04,xG_for,0.49,A,8464,NEC Nijmegen,Eredivisie
+175,3900384,2022-09-04,xG_ag,0.79,A,8464,NEC Nijmegen,Eredivisie
+176,3900385,2022-09-04,xG_for,0.8,H,8674,FC Groningen,Eredivisie
+177,3900385,2022-09-04,xG_ag,2.32,H,8674,FC Groningen,Eredivisie
+178,3900385,2022-09-04,xG_for,2.32,A,8277,Vitesse,Eredivisie
+179,3900385,2022-09-04,xG_ag,0.8,A,8277,Vitesse,Eredivisie
+180,3900386,2022-09-10,xG_for,1.38,H,6601,FC Volendam,Eredivisie
+181,3900386,2022-09-10,xG_ag,1.04,H,6601,FC Volendam,Eredivisie
+182,3900386,2022-09-10,xG_for,1.04,A,6433,Go Ahead Eagles,Eredivisie
+183,3900386,2022-09-10,xG_ag,1.38,A,6433,Go Ahead Eagles,Eredivisie
+184,3900387,2022-09-10,xG_for,2.17,H,8464,NEC Nijmegen,Eredivisie
+185,3900387,2022-09-10,xG_ag,0.58,H,8464,NEC Nijmegen,Eredivisie
+186,3900387,2022-09-10,xG_for,0.58,A,6422,Fortuna Sittard,Eredivisie
+187,3900387,2022-09-10,xG_ag,2.17,A,6422,Fortuna Sittard,Eredivisie
+188,3900388,2022-09-10,xG_for,3.51,H,8593,Ajax,Eredivisie
+189,3900388,2022-09-10,xG_ag,0.68,H,8593,Ajax,Eredivisie
+190,3900388,2022-09-10,xG_for,0.68,A,10228,SC Heerenveen,Eredivisie
+191,3900388,2022-09-10,xG_ag,3.51,A,10228,SC Heerenveen,Eredivisie
+192,3900389,2022-09-11,xG_for,0.86,H,10218,Excelsior,Eredivisie
+193,3900389,2022-09-11,xG_ag,0.98,H,10218,Excelsior,Eredivisie
+194,3900389,2022-09-11,xG_for,0.98,A,6660,FC Emmen,Eredivisie
+195,3900389,2022-09-11,xG_ag,0.86,A,6660,FC Emmen,Eredivisie
+196,3900390,2022-09-11,xG_for,3.55,H,8640,PSV Eindhoven,Eredivisie
+197,3900390,2022-09-11,xG_ag,0.58,H,8640,PSV Eindhoven,Eredivisie
+198,3900390,2022-09-11,xG_for,0.58,A,10219,RKC Waalwijk,Eredivisie
+199,3900390,2022-09-11,xG_ag,3.55,A,10219,RKC Waalwijk,Eredivisie
+200,3900391,2022-09-11,xG_for,0.94,H,9908,FC Utrecht,Eredivisie
+201,3900391,2022-09-11,xG_ag,0.51,H,9908,FC Utrecht,Eredivisie
+202,3900391,2022-09-11,xG_for,0.51,A,8277,Vitesse,Eredivisie
+203,3900391,2022-09-11,xG_ag,0.94,A,8277,Vitesse,Eredivisie
+204,3900392,2022-09-11,xG_for,1.04,H,7788,Cambuur,Eredivisie
+205,3900392,2022-09-11,xG_ag,0.6,H,7788,Cambuur,Eredivisie
+206,3900392,2022-09-11,xG_for,0.6,A,8674,FC Groningen,Eredivisie
+207,3900392,2022-09-11,xG_ag,1.04,A,8674,FC Groningen,Eredivisie
+208,3900393,2022-09-11,xG_for,0.76,H,10229,AZ Alkmaar,Eredivisie
+209,3900393,2022-09-11,xG_ag,0.62,H,10229,AZ Alkmaar,Eredivisie
+210,3900393,2022-09-11,xG_for,0.62,A,8611,FC Twente,Eredivisie
+211,3900393,2022-09-11,xG_ag,0.76,A,8611,FC Twente,Eredivisie
+212,3900394,2022-09-12,xG_for,1.42,H,10235,Feyenoord,Eredivisie
+213,3900394,2022-09-12,xG_ag,0.86,H,10235,Feyenoord,Eredivisie
+214,3900394,2022-09-12,xG_for,0.86,A,8614,Sparta Rotterdam,Eredivisie
+215,3900394,2022-09-12,xG_ag,1.42,A,8614,Sparta Rotterdam,Eredivisie
+216,3900395,2022-09-17,xG_for,1.13,H,9908,FC Utrecht,Eredivisie
+217,3900395,2022-09-17,xG_ag,1.08,H,9908,FC Utrecht,Eredivisie
+218,3900395,2022-09-17,xG_for,1.08,A,8464,NEC Nijmegen,Eredivisie
+219,3900395,2022-09-17,xG_ag,1.13,A,8464,NEC Nijmegen,Eredivisie
+220,3900396,2022-09-17,xG_for,1.46,H,8614,Sparta Rotterdam,Eredivisie
+221,3900396,2022-09-17,xG_ag,0.31,H,8614,Sparta Rotterdam,Eredivisie
+222,3900396,2022-09-17,xG_for,0.31,A,8674,FC Groningen,Eredivisie
+223,3900396,2022-09-17,xG_ag,1.46,A,8674,FC Groningen,Eredivisie
+224,3900397,2022-09-17,xG_for,1.26,H,8277,Vitesse,Eredivisie
+225,3900397,2022-09-17,xG_ag,1.09,H,8277,Vitesse,Eredivisie
+226,3900397,2022-09-17,xG_for,1.09,A,6601,FC Volendam,Eredivisie
+227,3900397,2022-09-17,xG_ag,1.26,A,6601,FC Volendam,Eredivisie
+228,3900398,2022-09-18,xG_for,4.85,H,10219,RKC Waalwijk,Eredivisie
+229,3900398,2022-09-18,xG_ag,0.43,H,10219,RKC Waalwijk,Eredivisie
+230,3900398,2022-09-18,xG_for,0.43,A,7788,Cambuur,Eredivisie
+231,3900398,2022-09-18,xG_ag,4.85,A,7788,Cambuur,Eredivisie
+232,3900399,2022-09-18,xG_for,1.5,H,6422,Fortuna Sittard,Eredivisie
+233,3900399,2022-09-18,xG_ag,0.65,H,6422,Fortuna Sittard,Eredivisie
+234,3900399,2022-09-18,xG_for,0.65,A,10218,Excelsior,Eredivisie
+235,3900399,2022-09-18,xG_ag,1.5,A,10218,Excelsior,Eredivisie
+236,3900400,2022-09-18,xG_for,1.19,H,6433,Go Ahead Eagles,Eredivisie
+237,3900400,2022-09-18,xG_ag,0.9,H,6433,Go Ahead Eagles,Eredivisie
+238,3900400,2022-09-18,xG_for,0.9,A,6660,FC Emmen,Eredivisie
+239,3900400,2022-09-18,xG_ag,1.19,A,6660,FC Emmen,Eredivisie
+240,3900401,2022-09-18,xG_for,2.82,H,8640,PSV Eindhoven,Eredivisie
+241,3900401,2022-09-18,xG_ag,1.28,H,8640,PSV Eindhoven,Eredivisie
+242,3900401,2022-09-18,xG_for,1.28,A,10235,Feyenoord,Eredivisie
+243,3900401,2022-09-18,xG_ag,2.82,A,10235,Feyenoord,Eredivisie
+244,3900402,2022-09-18,xG_for,1.85,H,10228,SC Heerenveen,Eredivisie
+245,3900402,2022-09-18,xG_ag,1.05,H,10228,SC Heerenveen,Eredivisie
+246,3900402,2022-09-18,xG_for,1.05,A,8611,FC Twente,Eredivisie
+247,3900402,2022-09-18,xG_ag,1.85,A,8611,FC Twente,Eredivisie
+248,3900403,2022-09-18,xG_for,1.49,H,10229,AZ Alkmaar,Eredivisie
+249,3900403,2022-09-18,xG_ag,2.32,H,10229,AZ Alkmaar,Eredivisie
+250,3900403,2022-09-18,xG_for,2.32,A,8593,Ajax,Eredivisie
+251,3900403,2022-09-18,xG_ag,1.49,A,8593,Ajax,Eredivisie
+252,3900404,2022-10-01,xG_for,0.47,H,7788,Cambuur,Eredivisie
+253,3900404,2022-10-01,xG_ag,0.99,H,7788,Cambuur,Eredivisie
+254,3900404,2022-10-01,xG_for,0.99,A,8640,PSV Eindhoven,Eredivisie
+255,3900404,2022-10-01,xG_ag,0.47,A,8640,PSV Eindhoven,Eredivisie
+256,3900405,2022-10-02,xG_for,1.14,H,10218,Excelsior,Eredivisie
+257,3900405,2022-10-02,xG_ag,2.5,H,10218,Excelsior,Eredivisie
+258,3900405,2022-10-02,xG_for,2.5,A,9908,FC Utrecht,Eredivisie
+259,3900405,2022-10-02,xG_ag,1.14,A,9908,FC Utrecht,Eredivisie
+260,3900406,2022-10-02,xG_for,2.23,H,8593,Ajax,Eredivisie
+261,3900406,2022-10-02,xG_ag,0.35,H,8593,Ajax,Eredivisie
+262,3900406,2022-10-02,xG_for,0.35,A,6433,Go Ahead Eagles,Eredivisie
+263,3900406,2022-10-02,xG_ag,2.23,A,6433,Go Ahead Eagles,Eredivisie
+264,3900407,2022-10-02,xG_for,1.49,H,8611,FC Twente,Eredivisie
+265,3900407,2022-10-02,xG_ag,0.62,H,8611,FC Twente,Eredivisie
+266,3900407,2022-10-02,xG_for,0.62,A,8277,Vitesse,Eredivisie
+267,3900407,2022-10-02,xG_ag,1.49,A,8277,Vitesse,Eredivisie
+268,3900408,2022-10-01,xG_for,0.94,H,8674,FC Groningen,Eredivisie
+269,3900408,2022-10-01,xG_ag,1.7,H,8674,FC Groningen,Eredivisie
+270,3900408,2022-10-01,xG_for,1.7,A,10229,AZ Alkmaar,Eredivisie
+271,3900408,2022-10-01,xG_ag,0.94,A,10229,AZ Alkmaar,Eredivisie
+272,3900409,2022-10-03,xG_for,1.12,H,6660,FC Emmen,Eredivisie
+273,3900409,2022-10-03,xG_ag,0.39,H,6660,FC Emmen,Eredivisie
+274,3900409,2022-10-03,xG_for,0.39,A,10228,SC Heerenveen,Eredivisie
+275,3900409,2022-10-03,xG_ag,1.12,A,10228,SC Heerenveen,Eredivisie
+276,3900410,2022-10-02,xG_for,1.83,H,6422,Fortuna Sittard,Eredivisie
+277,3900410,2022-10-02,xG_ag,0.96,H,6422,Fortuna Sittard,Eredivisie
+278,3900410,2022-10-02,xG_for,0.96,A,6601,FC Volendam,Eredivisie
+279,3900410,2022-10-02,xG_ag,1.83,A,6601,FC Volendam,Eredivisie
+280,3900411,2022-10-02,xG_for,0.39,H,8464,NEC Nijmegen,Eredivisie
+281,3900411,2022-10-02,xG_ag,1.35,H,8464,NEC Nijmegen,Eredivisie
+282,3900411,2022-10-02,xG_for,1.35,A,10235,Feyenoord,Eredivisie
+283,3900411,2022-10-02,xG_ag,0.39,A,10235,Feyenoord,Eredivisie
+284,3900412,2022-10-02,xG_for,0.97,H,10219,RKC Waalwijk,Eredivisie
+285,3900412,2022-10-02,xG_ag,1.03,H,10219,RKC Waalwijk,Eredivisie
+286,3900412,2022-10-02,xG_for,1.03,A,8614,Sparta Rotterdam,Eredivisie
+287,3900412,2022-10-02,xG_ag,0.97,A,8614,Sparta Rotterdam,Eredivisie
+288,3900413,2022-10-08,xG_for,1.63,H,8674,FC Groningen,Eredivisie
+289,3900413,2022-10-08,xG_ag,2.09,H,8674,FC Groningen,Eredivisie
+290,3900413,2022-10-08,xG_for,2.09,A,10219,RKC Waalwijk,Eredivisie
+291,3900413,2022-10-08,xG_ag,1.63,A,10219,RKC Waalwijk,Eredivisie
+292,3900414,2022-10-08,xG_for,1.37,H,6601,FC Volendam,Eredivisie
+293,3900414,2022-10-08,xG_ag,2.97,H,6601,FC Volendam,Eredivisie
+294,3900414,2022-10-08,xG_for,2.97,A,8593,Ajax,Eredivisie
+295,3900414,2022-10-08,xG_ag,1.37,A,8593,Ajax,Eredivisie
+296,3900415,2022-10-09,xG_for,0.76,H,8464,NEC Nijmegen,Eredivisie
+297,3900415,2022-10-09,xG_ag,0.64,H,8464,NEC Nijmegen,Eredivisie
+298,3900415,2022-10-09,xG_for,0.64,A,10218,Excelsior,Eredivisie
+299,3900415,2022-10-09,xG_ag,0.76,A,10218,Excelsior,Eredivisie
+300,3900416,2022-10-08,xG_for,1.34,H,8614,Sparta Rotterdam,Eredivisie
+301,3900416,2022-10-08,xG_ag,1.25,H,8614,Sparta Rotterdam,Eredivisie
+302,3900416,2022-10-08,xG_for,1.25,A,6660,FC Emmen,Eredivisie
+303,3900416,2022-10-08,xG_ag,1.34,A,6660,FC Emmen,Eredivisie
+304,3900417,2022-10-09,xG_for,0.68,H,10228,SC Heerenveen,Eredivisie
+305,3900417,2022-10-09,xG_ag,0.85,H,10228,SC Heerenveen,Eredivisie
+306,3900417,2022-10-09,xG_for,0.85,A,8640,PSV Eindhoven,Eredivisie
+307,3900417,2022-10-09,xG_ag,0.68,A,8640,PSV Eindhoven,Eredivisie
+308,3900418,2022-10-09,xG_for,1.42,H,6433,Go Ahead Eagles,Eredivisie
+309,3900418,2022-10-09,xG_ag,0.62,H,6433,Go Ahead Eagles,Eredivisie
+310,3900418,2022-10-09,xG_for,0.62,A,7788,Cambuur,Eredivisie
+311,3900418,2022-10-09,xG_ag,1.42,A,7788,Cambuur,Eredivisie
+312,3900419,2022-10-09,xG_for,2.38,H,10235,Feyenoord,Eredivisie
+313,3900419,2022-10-09,xG_ag,0.68,H,10235,Feyenoord,Eredivisie
+314,3900419,2022-10-09,xG_for,0.68,A,8611,FC Twente,Eredivisie
+315,3900419,2022-10-09,xG_ag,2.38,A,8611,FC Twente,Eredivisie
+316,3900420,2022-10-10,xG_for,0.58,H,8277,Vitesse,Eredivisie
+317,3900420,2022-10-10,xG_ag,0.77,H,8277,Vitesse,Eredivisie
+318,3900420,2022-10-10,xG_for,0.77,A,6422,Fortuna Sittard,Eredivisie
+319,3900420,2022-10-10,xG_ag,0.58,A,6422,Fortuna Sittard,Eredivisie
+320,3900421,2022-10-09,xG_for,0.77,H,9908,FC Utrecht,Eredivisie
+321,3900421,2022-10-09,xG_ag,0.89,H,9908,FC Utrecht,Eredivisie
+322,3900421,2022-10-09,xG_for,0.89,A,10229,AZ Alkmaar,Eredivisie
+323,3900421,2022-10-09,xG_ag,0.77,A,10229,AZ Alkmaar,Eredivisie
+324,3900422,2022-10-15,xG_for,1.78,H,6660,FC Emmen,Eredivisie
+325,3900422,2022-10-15,xG_ag,0.62,H,6660,FC Emmen,Eredivisie
+326,3900422,2022-10-15,xG_for,0.62,A,6601,FC Volendam,Eredivisie
+327,3900422,2022-10-15,xG_ag,1.78,A,6601,FC Volendam,Eredivisie
+328,3900423,2022-10-16,xG_for,2.06,H,6433,Go Ahead Eagles,Eredivisie
+329,3900423,2022-10-16,xG_ag,1.46,H,6433,Go Ahead Eagles,Eredivisie
+330,3900423,2022-10-16,xG_for,1.46,A,10228,SC Heerenveen,Eredivisie
+331,3900423,2022-10-16,xG_ag,2.06,A,10228,SC Heerenveen,Eredivisie
+332,3900424,2022-10-17,xG_for,4.53,H,8593,Ajax,Eredivisie
+333,3900424,2022-10-17,xG_ag,0.41,H,8593,Ajax,Eredivisie
+334,3900424,2022-10-17,xG_for,0.41,A,10218,Excelsior,Eredivisie
+335,3900424,2022-10-17,xG_ag,4.53,A,10218,Excelsior,Eredivisie
+336,3900425,2022-10-15,xG_for,0.5,H,6422,Fortuna Sittard,Eredivisie
+337,3900425,2022-10-15,xG_ag,0.54,H,6422,Fortuna Sittard,Eredivisie
+338,3900425,2022-10-15,xG_for,0.54,A,10219,RKC Waalwijk,Eredivisie
+339,3900425,2022-10-15,xG_ag,0.5,A,10219,RKC Waalwijk,Eredivisie
+340,3900426,2022-10-16,xG_for,0.83,H,7788,Cambuur,Eredivisie
+341,3900426,2022-10-16,xG_ag,1.73,H,7788,Cambuur,Eredivisie
+342,3900426,2022-10-16,xG_for,1.73,A,8277,Vitesse,Eredivisie
+343,3900426,2022-10-16,xG_ag,0.83,A,8277,Vitesse,Eredivisie
+344,3900427,2022-10-16,xG_for,1.24,H,8614,Sparta Rotterdam,Eredivisie
+345,3900427,2022-10-16,xG_ag,0.72,H,8614,Sparta Rotterdam,Eredivisie
+346,3900427,2022-10-16,xG_for,0.72,A,8464,NEC Nijmegen,Eredivisie
+347,3900427,2022-10-16,xG_ag,1.24,A,8464,NEC Nijmegen,Eredivisie
+348,3900428,2022-10-16,xG_for,2.21,H,8611,FC Twente,Eredivisie
+349,3900428,2022-10-16,xG_ag,0.21,H,8611,FC Twente,Eredivisie
+350,3900428,2022-10-16,xG_for,0.21,A,8674,FC Groningen,Eredivisie
+351,3900428,2022-10-16,xG_ag,2.21,A,8674,FC Groningen,Eredivisie
+352,3900429,2022-10-16,xG_for,2.93,H,8640,PSV Eindhoven,Eredivisie
+353,3900429,2022-10-16,xG_ag,0.73,H,8640,PSV Eindhoven,Eredivisie
+354,3900429,2022-10-16,xG_for,0.73,A,9908,FC Utrecht,Eredivisie
+355,3900429,2022-10-16,xG_ag,2.93,A,9908,FC Utrecht,Eredivisie
+356,3900430,2022-10-16,xG_for,0.77,H,10229,AZ Alkmaar,Eredivisie
+357,3900430,2022-10-16,xG_ag,1.28,H,10229,AZ Alkmaar,Eredivisie
+358,3900430,2022-10-16,xG_for,1.28,A,10235,Feyenoord,Eredivisie
+359,3900430,2022-10-16,xG_ag,0.77,A,10235,Feyenoord,Eredivisie
