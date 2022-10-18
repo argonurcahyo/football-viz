@@ -1,1153 +1,1601 @@
-,match_id,date,variable,value,venue,team_id,team_name,league_name
-0,3377484,2020-09-26,xG_for,1.4,H,8611,FC Twente,Eredivisie
-1,3377484,2020-09-26,xG_ag,1.2,H,8611,FC Twente,Eredivisie
-2,3377484,2020-09-26,xG_for,1.2,A,8674,FC Groningen,Eredivisie
-3,3377484,2020-09-26,xG_ag,1.4,A,8674,FC Groningen,Eredivisie
-4,3377485,2020-09-26,xG_for,2.33,H,6413,PEC Zwolle,Eredivisie
-5,3377485,2020-09-26,xG_ag,0.86,H,6413,PEC Zwolle,Eredivisie
-6,3377485,2020-09-26,xG_for,0.86,A,8614,Sparta Rotterdam,Eredivisie
-7,3377485,2020-09-26,xG_ag,2.33,A,8614,Sparta Rotterdam,Eredivisie
-8,3377486,2020-09-26,xG_for,1.32,H,6422,Fortuna Sittard,Eredivisie
-9,3377486,2020-09-26,xG_ag,1.96,H,6422,Fortuna Sittard,Eredivisie
-10,3377486,2020-09-26,xG_for,1.96,A,10229,AZ Alkmaar,Eredivisie
-11,3377486,2020-09-26,xG_ag,1.32,A,10229,AZ Alkmaar,Eredivisie
-12,3377487,2020-09-27,xG_for,1.71,H,10228,SC Heerenveen,Eredivisie
-13,3377487,2020-09-27,xG_ag,0.54,H,10228,SC Heerenveen,Eredivisie
-14,3377487,2020-09-27,xG_for,0.54,A,9839,VVV-Venlo,Eredivisie
-15,3377487,2020-09-27,xG_ag,1.71,A,9839,VVV-Venlo,Eredivisie
-16,3377488,2020-09-27,xG_for,2.16,H,8593,Ajax,Eredivisie
-17,3377488,2020-09-27,xG_ag,1.86,H,8593,Ajax,Eredivisie
-18,3377488,2020-09-27,xG_for,1.86,A,8277,Vitesse,Eredivisie
-19,3377488,2020-09-27,xG_ag,2.16,A,8277,Vitesse,Eredivisie
-20,3377489,2020-09-27,xG_for,2.87,H,10235,Feyenoord,Eredivisie
-21,3377489,2020-09-27,xG_ag,1.86,H,10235,Feyenoord,Eredivisie
-22,3377489,2020-09-27,xG_for,1.86,A,10217,ADO Den Haag,Eredivisie
-23,3377489,2020-09-27,xG_ag,2.87,A,10217,ADO Den Haag,Eredivisie
-24,3377490,2020-09-27,xG_for,2.4,H,9908,FC Utrecht,Eredivisie
-25,3377490,2020-09-27,xG_ag,0.6,H,9908,FC Utrecht,Eredivisie
-26,3377490,2020-09-27,xG_for,0.6,A,10219,RKC Waalwijk,Eredivisie
-27,3377490,2020-09-27,xG_ag,2.4,A,10219,RKC Waalwijk,Eredivisie
-28,3377491,2020-09-27,xG_for,1.39,H,9791,Heracles,Eredivisie
-29,3377491,2020-09-27,xG_ag,1.48,H,9791,Heracles,Eredivisie
-30,3377491,2020-09-27,xG_for,1.48,A,8640,PSV Eindhoven,Eredivisie
-31,3377491,2020-09-27,xG_ag,1.39,A,8640,PSV Eindhoven,Eredivisie
-32,3377492,2020-09-27,xG_for,1.4,H,6660,FC Emmen,Eredivisie
-33,3377492,2020-09-27,xG_ag,1.41,H,6660,FC Emmen,Eredivisie
-34,3377492,2020-09-27,xG_for,1.41,A,8525,Willem II,Eredivisie
-35,3377492,2020-09-27,xG_ag,1.4,A,8525,Willem II,Eredivisie
-36,3377493,2020-10-03,xG_for,3.6,H,9908,FC Utrecht,Eredivisie
-37,3377493,2020-10-03,xG_ag,0.67,H,9908,FC Utrecht,Eredivisie
-38,3377493,2020-10-03,xG_for,0.67,A,10228,SC Heerenveen,Eredivisie
-39,3377493,2020-10-03,xG_ag,3.6,A,10228,SC Heerenveen,Eredivisie
-40,3377494,2020-10-03,xG_for,1.67,H,8277,Vitesse,Eredivisie
-41,3377494,2020-10-03,xG_ag,0.55,H,8277,Vitesse,Eredivisie
-42,3377494,2020-10-03,xG_for,0.55,A,9791,Heracles,Eredivisie
-43,3377494,2020-10-03,xG_ag,1.67,A,9791,Heracles,Eredivisie
-44,3377495,2020-10-21,xG_for,1.05,H,10219,RKC Waalwijk,Eredivisie
-45,3377495,2020-10-21,xG_ag,2.6,H,10219,RKC Waalwijk,Eredivisie
-46,3377495,2020-10-21,xG_for,2.6,A,6413,PEC Zwolle,Eredivisie
-47,3377495,2020-10-21,xG_ag,1.05,A,6413,PEC Zwolle,Eredivisie
-48,3377496,2020-10-04,xG_for,0.56,H,9839,VVV-Venlo,Eredivisie
-49,3377496,2020-10-04,xG_ag,1.78,H,9839,VVV-Venlo,Eredivisie
-50,3377496,2020-10-04,xG_for,1.78,A,10217,ADO Den Haag,Eredivisie
-51,3377496,2020-10-04,xG_ag,0.56,A,10217,ADO Den Haag,Eredivisie
-52,3377497,2020-10-04,xG_for,1.82,H,8611,FC Twente,Eredivisie
-53,3377497,2020-10-04,xG_ag,1.14,H,8611,FC Twente,Eredivisie
-54,3377497,2020-10-04,xG_for,1.14,A,6660,FC Emmen,Eredivisie
-55,3377497,2020-10-04,xG_ag,1.82,A,6660,FC Emmen,Eredivisie
-56,3377498,2020-10-04,xG_for,1.09,H,8674,FC Groningen,Eredivisie
-57,3377498,2020-10-04,xG_ag,1.95,H,8674,FC Groningen,Eredivisie
-58,3377498,2020-10-04,xG_for,1.95,A,8593,Ajax,Eredivisie
-59,3377498,2020-10-04,xG_ag,1.09,A,8593,Ajax,Eredivisie
-60,3377499,2020-10-04,xG_for,1.85,H,8614,Sparta Rotterdam,Eredivisie
-61,3377499,2020-10-04,xG_ag,3.48,H,8614,Sparta Rotterdam,Eredivisie
-62,3377499,2020-10-04,xG_for,3.48,A,10229,AZ Alkmaar,Eredivisie
-63,3377499,2020-10-04,xG_ag,1.85,A,10229,AZ Alkmaar,Eredivisie
-64,3377500,2020-10-04,xG_for,0.7,H,8525,Willem II,Eredivisie
-65,3377500,2020-10-04,xG_ag,2.37,H,8525,Willem II,Eredivisie
-66,3377500,2020-10-04,xG_for,2.37,A,10235,Feyenoord,Eredivisie
-67,3377500,2020-10-04,xG_ag,0.7,A,10235,Feyenoord,Eredivisie
-68,3377501,2020-10-04,xG_for,1.85,H,8640,PSV Eindhoven,Eredivisie
-69,3377501,2020-10-04,xG_ag,1.06,H,8640,PSV Eindhoven,Eredivisie
-70,3377501,2020-10-04,xG_for,1.06,A,6422,Fortuna Sittard,Eredivisie
-71,3377501,2020-10-04,xG_ag,1.85,A,6422,Fortuna Sittard,Eredivisie
-72,3377502,2020-10-18,xG_for,2.9,H,8593,Ajax,Eredivisie
-73,3377502,2020-10-18,xG_ag,1.01,H,8593,Ajax,Eredivisie
-74,3377502,2020-10-18,xG_for,1.01,A,10228,SC Heerenveen,Eredivisie
-75,3377502,2020-10-18,xG_ag,2.9,A,10228,SC Heerenveen,Eredivisie
-76,3377503,2020-10-18,xG_for,1.8,H,8525,Willem II,Eredivisie
-77,3377503,2020-10-18,xG_ag,3.11,H,8525,Willem II,Eredivisie
-78,3377503,2020-10-18,xG_for,3.11,A,8611,FC Twente,Eredivisie
-79,3377503,2020-10-18,xG_ag,1.8,A,8611,FC Twente,Eredivisie
-80,3377504,2020-10-17,xG_for,1.84,H,9791,Heracles,Eredivisie
-81,3377504,2020-10-17,xG_ag,0.26,H,9791,Heracles,Eredivisie
-82,3377504,2020-10-17,xG_for,0.26,A,10219,RKC Waalwijk,Eredivisie
-83,3377504,2020-10-17,xG_ag,1.84,A,10219,RKC Waalwijk,Eredivisie
-84,3377505,2020-10-18,xG_for,1.51,H,10229,AZ Alkmaar,Eredivisie
-85,3377505,2020-10-18,xG_ag,1.64,H,10229,AZ Alkmaar,Eredivisie
-86,3377505,2020-10-18,xG_for,1.64,A,9839,VVV-Venlo,Eredivisie
-87,3377505,2020-10-18,xG_ag,1.51,A,9839,VVV-Venlo,Eredivisie
-88,3377506,2020-10-18,xG_for,1.24,H,10235,Feyenoord,Eredivisie
-89,3377506,2020-10-18,xG_ag,2.15,H,10235,Feyenoord,Eredivisie
-90,3377506,2020-10-18,xG_for,2.15,A,8614,Sparta Rotterdam,Eredivisie
-91,3377506,2020-10-18,xG_ag,1.24,A,8614,Sparta Rotterdam,Eredivisie
-92,3377507,2020-10-18,xG_for,1.18,H,10217,ADO Den Haag,Eredivisie
-93,3377507,2020-10-18,xG_ag,1.41,H,10217,ADO Den Haag,Eredivisie
-94,3377507,2020-10-18,xG_for,1.41,A,8277,Vitesse,Eredivisie
-95,3377507,2020-10-18,xG_ag,1.18,A,8277,Vitesse,Eredivisie
-96,3377508,2020-10-19,xG_for,1.46,H,6660,FC Emmen,Eredivisie
-97,3377508,2020-10-19,xG_ag,1.49,H,6660,FC Emmen,Eredivisie
-98,3377508,2020-10-19,xG_for,1.49,A,6422,Fortuna Sittard,Eredivisie
-99,3377508,2020-10-19,xG_ag,1.46,A,6422,Fortuna Sittard,Eredivisie
-100,3377509,2020-10-18,xG_for,1.04,H,8674,FC Groningen,Eredivisie
-101,3377509,2020-10-18,xG_ag,1.64,H,8674,FC Groningen,Eredivisie
-102,3377509,2020-10-18,xG_for,1.64,A,9908,FC Utrecht,Eredivisie
-103,3377509,2020-10-18,xG_ag,1.04,A,9908,FC Utrecht,Eredivisie
-104,3377510,2020-10-18,xG_for,2.13,H,6413,PEC Zwolle,Eredivisie
-105,3377510,2020-10-18,xG_ag,2.5,H,6413,PEC Zwolle,Eredivisie
-106,3377510,2020-10-18,xG_for,2.5,A,8640,PSV Eindhoven,Eredivisie
-107,3377510,2020-10-18,xG_ag,2.13,A,8640,PSV Eindhoven,Eredivisie
-108,3377511,2020-10-24,xG_for,0.32,H,9839,VVV-Venlo,Eredivisie
-109,3377511,2020-10-24,xG_ag,9.28,H,9839,VVV-Venlo,Eredivisie
-110,3377511,2020-10-24,xG_for,9.28,A,8593,Ajax,Eredivisie
-111,3377511,2020-10-24,xG_ag,0.32,A,8593,Ajax,Eredivisie
-112,3377512,2020-10-24,xG_for,1.36,H,9908,FC Utrecht,Eredivisie
-113,3377512,2020-10-24,xG_ag,1.18,H,9908,FC Utrecht,Eredivisie
-114,3377512,2020-10-24,xG_for,1.18,A,8611,FC Twente,Eredivisie
-115,3377512,2020-10-24,xG_ag,1.36,A,8611,FC Twente,Eredivisie
-116,3377513,2020-10-26,xG_for,0.65,H,10217,ADO Den Haag,Eredivisie
-117,3377513,2020-10-26,xG_ag,2.31,H,10217,ADO Den Haag,Eredivisie
-118,3377513,2020-10-26,xG_for,2.31,A,10229,AZ Alkmaar,Eredivisie
-119,3377513,2020-10-26,xG_ag,0.65,A,10229,AZ Alkmaar,Eredivisie
-120,3377514,2020-10-25,xG_for,2.19,H,10228,SC Heerenveen,Eredivisie
-121,3377514,2020-10-25,xG_ag,0.54,H,10228,SC Heerenveen,Eredivisie
-122,3377514,2020-10-25,xG_for,0.54,A,6660,FC Emmen,Eredivisie
-123,3377514,2020-10-25,xG_ag,2.19,A,6660,FC Emmen,Eredivisie
-124,3377515,2020-10-25,xG_for,0.5,H,10219,RKC Waalwijk,Eredivisie
-125,3377515,2020-10-25,xG_ag,1.52,H,10219,RKC Waalwijk,Eredivisie
-126,3377515,2020-10-25,xG_for,1.52,A,10235,Feyenoord,Eredivisie
-127,3377515,2020-10-25,xG_ag,0.5,A,10235,Feyenoord,Eredivisie
-128,3377516,2020-10-25,xG_for,1.4,H,6422,Fortuna Sittard,Eredivisie
-129,3377516,2020-10-25,xG_ag,2.6,H,6422,Fortuna Sittard,Eredivisie
-130,3377516,2020-10-25,xG_for,2.6,A,8674,FC Groningen,Eredivisie
-131,3377516,2020-10-25,xG_ag,1.4,A,8674,FC Groningen,Eredivisie
-132,3377517,2020-10-25,xG_for,0.84,H,8277,Vitesse,Eredivisie
-133,3377517,2020-10-25,xG_ag,0.76,H,8277,Vitesse,Eredivisie
-134,3377517,2020-10-25,xG_for,0.76,A,8640,PSV Eindhoven,Eredivisie
-135,3377517,2020-10-25,xG_ag,0.84,A,8640,PSV Eindhoven,Eredivisie
-136,3377518,2020-10-25,xG_for,0.89,H,6413,PEC Zwolle,Eredivisie
-137,3377518,2020-10-25,xG_ag,1.02,H,6413,PEC Zwolle,Eredivisie
-138,3377518,2020-10-25,xG_for,1.02,A,8525,Willem II,Eredivisie
-139,3377518,2020-10-25,xG_ag,0.89,A,8525,Willem II,Eredivisie
-140,3377519,2020-10-25,xG_for,0.65,H,8614,Sparta Rotterdam,Eredivisie
-141,3377519,2020-10-25,xG_ag,1.5,H,8614,Sparta Rotterdam,Eredivisie
-142,3377519,2020-10-25,xG_for,1.5,A,9791,Heracles,Eredivisie
-143,3377519,2020-10-25,xG_ag,0.65,A,9791,Heracles,Eredivisie
-144,3377520,2020-11-01,xG_for,5.64,H,8593,Ajax,Eredivisie
-145,3377520,2020-11-01,xG_ag,0.95,H,8593,Ajax,Eredivisie
-146,3377520,2020-11-01,xG_for,0.95,A,6422,Fortuna Sittard,Eredivisie
-147,3377520,2020-11-01,xG_ag,5.64,A,6422,Fortuna Sittard,Eredivisie
-148,3377521,2020-11-01,xG_for,0.91,H,8674,FC Groningen,Eredivisie
-149,3377521,2020-11-01,xG_ag,0.74,H,8674,FC Groningen,Eredivisie
-150,3377521,2020-11-01,xG_for,0.74,A,9839,VVV-Venlo,Eredivisie
-151,3377521,2020-11-01,xG_ag,0.91,A,9839,VVV-Venlo,Eredivisie
-152,3377522,2020-11-01,xG_for,1.4,H,8611,FC Twente,Eredivisie
-153,3377522,2020-11-01,xG_ag,1.25,H,8611,FC Twente,Eredivisie
-154,3377522,2020-11-01,xG_for,1.25,A,6413,PEC Zwolle,Eredivisie
-155,3377522,2020-11-01,xG_ag,1.4,A,6413,PEC Zwolle,Eredivisie
-156,3377523,2020-11-02,xG_for,3.51,H,10229,AZ Alkmaar,Eredivisie
-157,3377523,2020-11-02,xG_ag,0.37,H,10229,AZ Alkmaar,Eredivisie
-158,3377523,2020-11-02,xG_for,0.37,A,10219,RKC Waalwijk,Eredivisie
-159,3377523,2020-11-02,xG_ag,3.51,A,10219,RKC Waalwijk,Eredivisie
-160,3377524,2020-11-01,xG_for,2.14,H,9791,Heracles,Eredivisie
-161,3377524,2020-11-01,xG_ag,1.79,H,9791,Heracles,Eredivisie
-162,3377524,2020-11-01,xG_for,1.79,A,9908,FC Utrecht,Eredivisie
-163,3377524,2020-11-01,xG_ag,2.14,A,9908,FC Utrecht,Eredivisie
-164,3377525,2020-11-01,xG_for,3.35,H,8640,PSV Eindhoven,Eredivisie
-165,3377525,2020-11-01,xG_ag,0.42,H,8640,PSV Eindhoven,Eredivisie
-166,3377525,2020-11-01,xG_for,0.42,A,10217,ADO Den Haag,Eredivisie
-167,3377525,2020-11-01,xG_ag,3.35,A,10217,ADO Den Haag,Eredivisie
-168,3377526,2020-11-01,xG_for,1.52,H,8614,Sparta Rotterdam,Eredivisie
-169,3377526,2020-11-01,xG_ag,2.09,H,8614,Sparta Rotterdam,Eredivisie
-170,3377526,2020-11-01,xG_for,2.09,A,10228,SC Heerenveen,Eredivisie
-171,3377526,2020-11-01,xG_ag,1.52,A,10228,SC Heerenveen,Eredivisie
-172,3377527,2020-11-01,xG_for,1.2,H,6660,FC Emmen,Eredivisie
-173,3377527,2020-11-01,xG_ag,3.07,H,6660,FC Emmen,Eredivisie
-174,3377527,2020-11-01,xG_for,3.07,A,10235,Feyenoord,Eredivisie
-175,3377527,2020-11-01,xG_ag,1.2,A,10235,Feyenoord,Eredivisie
-176,3377528,2020-11-01,xG_for,1.05,H,8525,Willem II,Eredivisie
-177,3377528,2020-11-01,xG_ag,1.57,H,8525,Willem II,Eredivisie
-178,3377528,2020-11-01,xG_for,1.57,A,8277,Vitesse,Eredivisie
-179,3377528,2020-11-01,xG_ag,1.05,A,8277,Vitesse,Eredivisie
-180,3377529,2020-11-07,xG_for,0.68,H,6422,Fortuna Sittard,Eredivisie
-181,3377529,2020-11-07,xG_ag,0.54,H,6422,Fortuna Sittard,Eredivisie
-182,3377529,2020-11-07,xG_for,0.54,A,6413,PEC Zwolle,Eredivisie
-183,3377529,2020-11-07,xG_ag,0.68,A,6413,PEC Zwolle,Eredivisie
-184,3377530,2020-11-07,xG_for,0.57,H,10217,ADO Den Haag,Eredivisie
-185,3377530,2020-11-07,xG_ag,2.33,H,10217,ADO Den Haag,Eredivisie
-186,3377530,2020-11-07,xG_for,2.33,A,8611,FC Twente,Eredivisie
-187,3377530,2020-11-07,xG_ag,0.57,A,8611,FC Twente,Eredivisie
-188,3377531,2020-11-08,xG_for,3.14,H,9839,VVV-Venlo,Eredivisie
-189,3377531,2020-11-08,xG_ag,1.23,H,9839,VVV-Venlo,Eredivisie
-190,3377531,2020-11-08,xG_for,1.23,A,9791,Heracles,Eredivisie
-191,3377531,2020-11-08,xG_ag,3.14,A,9791,Heracles,Eredivisie
-192,3377532,2020-11-08,xG_for,0.52,H,10228,SC Heerenveen,Eredivisie
-193,3377532,2020-11-08,xG_ag,1.96,H,10228,SC Heerenveen,Eredivisie
-194,3377532,2020-11-08,xG_for,1.96,A,10229,AZ Alkmaar,Eredivisie
-195,3377532,2020-11-08,xG_ag,0.52,A,10229,AZ Alkmaar,Eredivisie
-196,3377533,2020-11-08,xG_for,1.1,H,8277,Vitesse,Eredivisie
-197,3377533,2020-11-08,xG_ag,2.48,H,8277,Vitesse,Eredivisie
-198,3377533,2020-11-08,xG_for,2.48,A,6660,FC Emmen,Eredivisie
-199,3377533,2020-11-08,xG_ag,1.1,A,6660,FC Emmen,Eredivisie
-200,3377534,2020-11-08,xG_for,0.85,H,9908,FC Utrecht,Eredivisie
-201,3377534,2020-11-08,xG_ag,2.86,H,9908,FC Utrecht,Eredivisie
-202,3377534,2020-11-08,xG_for,2.86,A,8593,Ajax,Eredivisie
-203,3377534,2020-11-08,xG_ag,0.85,A,8593,Ajax,Eredivisie
-204,3377535,2020-11-09,xG_for,2.19,H,8640,PSV Eindhoven,Eredivisie
-205,3377535,2020-11-09,xG_ag,1.01,H,8640,PSV Eindhoven,Eredivisie
-206,3377535,2020-11-09,xG_for,1.01,A,8525,Willem II,Eredivisie
-207,3377535,2020-11-09,xG_ag,2.19,A,8525,Willem II,Eredivisie
-208,3377536,2020-11-08,xG_for,0.75,H,10219,RKC Waalwijk,Eredivisie
-209,3377536,2020-11-08,xG_ag,1.73,H,10219,RKC Waalwijk,Eredivisie
-210,3377536,2020-11-08,xG_for,1.73,A,8614,Sparta Rotterdam,Eredivisie
-211,3377536,2020-11-08,xG_ag,0.75,A,8614,Sparta Rotterdam,Eredivisie
-212,3377537,2020-11-08,xG_for,1.9,H,10235,Feyenoord,Eredivisie
-213,3377537,2020-11-08,xG_ag,0.66,H,10235,Feyenoord,Eredivisie
-214,3377537,2020-11-08,xG_for,0.66,A,8674,FC Groningen,Eredivisie
-215,3377537,2020-11-08,xG_ag,1.9,A,8674,FC Groningen,Eredivisie
-216,3377538,2020-11-22,xG_for,2.28,H,8593,Ajax,Eredivisie
-217,3377538,2020-11-22,xG_ag,0.44,H,8593,Ajax,Eredivisie
-218,3377538,2020-11-22,xG_for,0.44,A,9791,Heracles,Eredivisie
-219,3377538,2020-11-22,xG_ag,2.28,A,9791,Heracles,Eredivisie
-220,3377539,2020-11-22,xG_for,0.72,H,8525,Willem II,Eredivisie
-221,3377539,2020-11-22,xG_ag,1.84,H,8525,Willem II,Eredivisie
-222,3377539,2020-11-22,xG_for,1.84,A,9839,VVV-Venlo,Eredivisie
-223,3377539,2020-11-22,xG_ag,0.72,A,9839,VVV-Venlo,Eredivisie
-224,3377540,2020-11-23,xG_for,3.25,H,10229,AZ Alkmaar,Eredivisie
-225,3377540,2020-11-23,xG_ag,0.35,H,10229,AZ Alkmaar,Eredivisie
-226,3377540,2020-11-23,xG_for,0.35,A,6660,FC Emmen,Eredivisie
-227,3377540,2020-11-23,xG_ag,3.25,A,6660,FC Emmen,Eredivisie
-228,3377541,2020-11-22,xG_for,0.81,H,6413,PEC Zwolle,Eredivisie
-229,3377541,2020-11-22,xG_ag,0.44,H,6413,PEC Zwolle,Eredivisie
-230,3377541,2020-11-22,xG_for,0.44,A,9908,FC Utrecht,Eredivisie
-231,3377541,2020-11-22,xG_ag,0.81,A,9908,FC Utrecht,Eredivisie
-232,3377542,2020-11-22,xG_for,3.04,H,8614,Sparta Rotterdam,Eredivisie
-233,3377542,2020-11-22,xG_ag,0.1,H,8614,Sparta Rotterdam,Eredivisie
-234,3377542,2020-11-22,xG_for,0.1,A,10217,ADO Den Haag,Eredivisie
-235,3377542,2020-11-22,xG_ag,3.04,A,10217,ADO Den Haag,Eredivisie
-236,3377543,2020-11-22,xG_for,0.64,H,8674,FC Groningen,Eredivisie
-237,3377543,2020-11-22,xG_ag,1.56,H,8674,FC Groningen,Eredivisie
-238,3377543,2020-11-22,xG_for,1.56,A,8277,Vitesse,Eredivisie
-239,3377543,2020-11-22,xG_ag,0.64,A,8277,Vitesse,Eredivisie
-240,3377544,2020-11-22,xG_for,1.06,H,6422,Fortuna Sittard,Eredivisie
-241,3377544,2020-11-22,xG_ag,3.21,H,6422,Fortuna Sittard,Eredivisie
-242,3377544,2020-11-22,xG_for,3.21,A,10235,Feyenoord,Eredivisie
-243,3377544,2020-11-22,xG_ag,1.06,A,10235,Feyenoord,Eredivisie
-244,3377545,2020-11-22,xG_for,1.18,H,8611,FC Twente,Eredivisie
-245,3377545,2020-11-22,xG_ag,2.9,H,8611,FC Twente,Eredivisie
-246,3377545,2020-11-22,xG_for,2.9,A,8640,PSV Eindhoven,Eredivisie
-247,3377545,2020-11-22,xG_ag,1.18,A,8640,PSV Eindhoven,Eredivisie
-248,3377546,2020-11-22,xG_for,2.45,H,10219,RKC Waalwijk,Eredivisie
-249,3377546,2020-11-22,xG_ag,1.86,H,10219,RKC Waalwijk,Eredivisie
-250,3377546,2020-11-22,xG_for,1.86,A,10228,SC Heerenveen,Eredivisie
-251,3377546,2020-11-22,xG_ag,2.45,A,10228,SC Heerenveen,Eredivisie
-252,3377547,2020-11-28,xG_for,1.54,H,8611,FC Twente,Eredivisie
-253,3377547,2020-11-28,xG_ag,1.09,H,8611,FC Twente,Eredivisie
-254,3377547,2020-11-28,xG_for,1.09,A,10219,RKC Waalwijk,Eredivisie
-255,3377547,2020-11-28,xG_ag,1.54,A,10219,RKC Waalwijk,Eredivisie
-256,3377548,2020-11-29,xG_for,0.7,H,10217,ADO Den Haag,Eredivisie
-257,3377548,2020-11-29,xG_ag,2.58,H,10217,ADO Den Haag,Eredivisie
-258,3377548,2020-11-29,xG_for,2.58,A,10228,SC Heerenveen,Eredivisie
-259,3377548,2020-11-29,xG_ag,0.7,A,10228,SC Heerenveen,Eredivisie
-260,3377549,2020-11-29,xG_for,0.13,H,6660,FC Emmen,Eredivisie
-261,3377549,2020-11-29,xG_ag,4.39,H,6660,FC Emmen,Eredivisie
-262,3377549,2020-11-29,xG_for,4.39,A,8593,Ajax,Eredivisie
-263,3377549,2020-11-29,xG_ag,0.13,A,8593,Ajax,Eredivisie
-264,3377550,2020-11-29,xG_for,0.2,H,9791,Heracles,Eredivisie
-265,3377550,2020-11-29,xG_ag,2.28,H,9791,Heracles,Eredivisie
-266,3377550,2020-11-29,xG_for,2.28,A,10229,AZ Alkmaar,Eredivisie
-267,3377550,2020-11-29,xG_ag,0.2,A,10229,AZ Alkmaar,Eredivisie
-268,3377551,2020-11-29,xG_for,1.35,H,9839,VVV-Venlo,Eredivisie
-269,3377551,2020-11-29,xG_ag,2.11,H,9839,VVV-Venlo,Eredivisie
-270,3377551,2020-11-29,xG_for,2.11,A,6413,PEC Zwolle,Eredivisie
-271,3377551,2020-11-29,xG_ag,1.35,A,6413,PEC Zwolle,Eredivisie
-272,3377552,2020-11-29,xG_for,1.6,H,8277,Vitesse,Eredivisie
-273,3377552,2020-11-29,xG_ag,0.54,H,8277,Vitesse,Eredivisie
-274,3377552,2020-11-29,xG_for,0.54,A,6422,Fortuna Sittard,Eredivisie
-275,3377552,2020-11-29,xG_ag,1.6,A,6422,Fortuna Sittard,Eredivisie
-276,3377553,2020-11-29,xG_for,0.77,H,8674,FC Groningen,Eredivisie
-277,3377553,2020-11-29,xG_ag,0.17,H,8674,FC Groningen,Eredivisie
-278,3377553,2020-11-29,xG_for,0.17,A,8525,Willem II,Eredivisie
-279,3377553,2020-11-29,xG_ag,0.77,A,8525,Willem II,Eredivisie
-280,3377554,2020-11-29,xG_for,0.87,H,10235,Feyenoord,Eredivisie
-281,3377554,2020-11-29,xG_ag,2.0,H,10235,Feyenoord,Eredivisie
-282,3377554,2020-11-29,xG_for,2.0,A,9908,FC Utrecht,Eredivisie
-283,3377554,2020-11-29,xG_ag,0.87,A,9908,FC Utrecht,Eredivisie
-284,3377555,2020-11-30,xG_for,1.24,H,8640,PSV Eindhoven,Eredivisie
-285,3377555,2020-11-30,xG_ag,1.08,H,8640,PSV Eindhoven,Eredivisie
-286,3377555,2020-11-30,xG_for,1.08,A,8614,Sparta Rotterdam,Eredivisie
-287,3377555,2020-11-30,xG_ag,1.24,A,8614,Sparta Rotterdam,Eredivisie
-288,3377556,2020-12-06,xG_for,3.33,H,6413,PEC Zwolle,Eredivisie
-289,3377556,2020-12-06,xG_ag,1.65,H,6413,PEC Zwolle,Eredivisie
-290,3377556,2020-12-06,xG_for,1.65,A,8277,Vitesse,Eredivisie
-291,3377556,2020-12-06,xG_ag,3.33,A,8277,Vitesse,Eredivisie
-292,3377557,2020-12-05,xG_for,2.7,H,10219,RKC Waalwijk,Eredivisie
-293,3377557,2020-12-05,xG_ag,1.33,H,10219,RKC Waalwijk,Eredivisie
-294,3377557,2020-12-05,xG_for,1.33,A,9839,VVV-Venlo,Eredivisie
-295,3377557,2020-12-05,xG_ag,2.7,A,9839,VVV-Venlo,Eredivisie
-296,3377558,2020-12-06,xG_for,0.65,H,10229,AZ Alkmaar,Eredivisie
-297,3377558,2020-12-06,xG_ag,1.14,H,10229,AZ Alkmaar,Eredivisie
-298,3377558,2020-12-06,xG_for,1.14,A,8674,FC Groningen,Eredivisie
-299,3377558,2020-12-06,xG_ag,0.65,A,8674,FC Groningen,Eredivisie
-300,3377559,2020-12-05,xG_for,0.7,H,8614,Sparta Rotterdam,Eredivisie
-301,3377559,2020-12-05,xG_ag,1.12,H,8614,Sparta Rotterdam,Eredivisie
-302,3377559,2020-12-05,xG_for,1.12,A,6660,FC Emmen,Eredivisie
-303,3377559,2020-12-05,xG_ag,0.7,A,6660,FC Emmen,Eredivisie
-304,3377560,2020-12-06,xG_for,2.21,H,8593,Ajax,Eredivisie
-305,3377560,2020-12-06,xG_ag,0.74,H,8593,Ajax,Eredivisie
-306,3377560,2020-12-06,xG_for,0.74,A,8611,FC Twente,Eredivisie
-307,3377560,2020-12-06,xG_ag,2.21,A,8611,FC Twente,Eredivisie
-308,3377561,2020-12-06,xG_for,1.7,H,9908,FC Utrecht,Eredivisie
-309,3377561,2020-12-06,xG_ag,1.3,H,9908,FC Utrecht,Eredivisie
-310,3377561,2020-12-06,xG_for,1.3,A,10217,ADO Den Haag,Eredivisie
-311,3377561,2020-12-06,xG_ag,1.7,A,10217,ADO Den Haag,Eredivisie
-312,3377562,2020-12-06,xG_for,2.39,H,10235,Feyenoord,Eredivisie
-313,3377562,2020-12-06,xG_ag,0.7,H,10235,Feyenoord,Eredivisie
-314,3377562,2020-12-06,xG_for,0.7,A,9791,Heracles,Eredivisie
-315,3377562,2020-12-06,xG_ag,2.39,A,9791,Heracles,Eredivisie
-316,3377563,2020-12-06,xG_for,1.61,H,6422,Fortuna Sittard,Eredivisie
-317,3377563,2020-12-06,xG_ag,0.49,H,6422,Fortuna Sittard,Eredivisie
-318,3377563,2020-12-06,xG_for,0.49,A,8525,Willem II,Eredivisie
-319,3377563,2020-12-06,xG_ag,1.61,A,8525,Willem II,Eredivisie
-320,3377564,2020-12-06,xG_for,1.6,H,10228,SC Heerenveen,Eredivisie
-321,3377564,2020-12-06,xG_ag,2.15,H,10228,SC Heerenveen,Eredivisie
-322,3377564,2020-12-06,xG_for,2.15,A,8640,PSV Eindhoven,Eredivisie
-323,3377564,2020-12-06,xG_ag,1.6,A,8640,PSV Eindhoven,Eredivisie
-324,3377565,2020-12-12,xG_for,1.42,H,9791,Heracles,Eredivisie
-325,3377565,2020-12-12,xG_ag,0.96,H,9791,Heracles,Eredivisie
-326,3377565,2020-12-12,xG_for,0.96,A,6422,Fortuna Sittard,Eredivisie
-327,3377565,2020-12-12,xG_ag,1.42,A,6422,Fortuna Sittard,Eredivisie
-328,3377566,2020-12-14,xG_for,1.52,H,8611,FC Twente,Eredivisie
-329,3377566,2020-12-14,xG_ag,2.08,H,8611,FC Twente,Eredivisie
-330,3377566,2020-12-14,xG_for,2.08,A,10229,AZ Alkmaar,Eredivisie
-331,3377566,2020-12-14,xG_ag,1.52,A,10229,AZ Alkmaar,Eredivisie
-332,3377567,2020-12-13,xG_for,2.06,H,6660,FC Emmen,Eredivisie
-333,3377567,2020-12-13,xG_ag,0.51,H,6660,FC Emmen,Eredivisie
-334,3377567,2020-12-13,xG_for,0.51,A,10217,ADO Den Haag,Eredivisie
-335,3377567,2020-12-13,xG_ag,2.06,A,10217,ADO Den Haag,Eredivisie
-336,3377568,2020-12-13,xG_for,3.06,H,8593,Ajax,Eredivisie
-337,3377568,2020-12-13,xG_ag,0.53,H,8593,Ajax,Eredivisie
-338,3377568,2020-12-13,xG_for,0.53,A,6413,PEC Zwolle,Eredivisie
-339,3377568,2020-12-13,xG_ag,3.06,A,6413,PEC Zwolle,Eredivisie
-340,3377569,2020-12-12,xG_for,1.63,H,8674,FC Groningen,Eredivisie
-341,3377569,2020-12-12,xG_ag,0.54,H,8674,FC Groningen,Eredivisie
-342,3377569,2020-12-12,xG_for,0.54,A,10219,RKC Waalwijk,Eredivisie
-343,3377569,2020-12-12,xG_ag,1.63,A,10219,RKC Waalwijk,Eredivisie
-344,3377570,2020-12-13,xG_for,1.19,H,8640,PSV Eindhoven,Eredivisie
-345,3377570,2020-12-13,xG_ag,1.48,H,8640,PSV Eindhoven,Eredivisie
-346,3377570,2020-12-13,xG_for,1.48,A,9908,FC Utrecht,Eredivisie
-347,3377570,2020-12-13,xG_ag,1.19,A,9908,FC Utrecht,Eredivisie
-348,3377571,2020-12-13,xG_for,1.83,H,8277,Vitesse,Eredivisie
-349,3377571,2020-12-13,xG_ag,1.27,H,8277,Vitesse,Eredivisie
-350,3377571,2020-12-13,xG_for,1.27,A,10228,SC Heerenveen,Eredivisie
-351,3377571,2020-12-13,xG_ag,1.83,A,10228,SC Heerenveen,Eredivisie
-352,3377572,2020-12-13,xG_for,0.64,H,9839,VVV-Venlo,Eredivisie
-353,3377572,2020-12-13,xG_ag,1.54,H,9839,VVV-Venlo,Eredivisie
-354,3377572,2020-12-13,xG_for,1.54,A,10235,Feyenoord,Eredivisie
-355,3377572,2020-12-13,xG_ag,0.64,A,10235,Feyenoord,Eredivisie
-356,3377573,2020-12-13,xG_for,1.77,H,8525,Willem II,Eredivisie
-357,3377573,2020-12-13,xG_ag,3.23,H,8525,Willem II,Eredivisie
-358,3377573,2020-12-13,xG_for,3.23,A,8614,Sparta Rotterdam,Eredivisie
-359,3377573,2020-12-13,xG_ag,1.77,A,8614,Sparta Rotterdam,Eredivisie
-360,3377574,2020-12-19,xG_for,1.11,H,6413,PEC Zwolle,Eredivisie
-361,3377574,2020-12-19,xG_ag,0.36,H,6413,PEC Zwolle,Eredivisie
-362,3377574,2020-12-19,xG_for,0.36,A,6660,FC Emmen,Eredivisie
-363,3377574,2020-12-19,xG_ag,1.11,A,6660,FC Emmen,Eredivisie
-364,3377575,2020-12-19,xG_for,1.62,H,8614,Sparta Rotterdam,Eredivisie
-365,3377575,2020-12-19,xG_ag,1.84,H,8614,Sparta Rotterdam,Eredivisie
-366,3377575,2020-12-19,xG_for,1.84,A,8674,FC Groningen,Eredivisie
-367,3377575,2020-12-19,xG_ag,1.62,A,8674,FC Groningen,Eredivisie
-368,3377576,2020-12-20,xG_for,0.56,H,9839,VVV-Venlo,Eredivisie
-369,3377576,2020-12-20,xG_ag,1.46,H,9839,VVV-Venlo,Eredivisie
-370,3377576,2020-12-20,xG_for,1.46,A,8611,FC Twente,Eredivisie
-371,3377576,2020-12-20,xG_ag,0.56,A,8611,FC Twente,Eredivisie
-372,3377577,2020-12-20,xG_for,0.86,H,10219,RKC Waalwijk,Eredivisie
-373,3377577,2020-12-20,xG_ag,2.06,H,10219,RKC Waalwijk,Eredivisie
-374,3377577,2020-12-20,xG_for,2.06,A,8640,PSV Eindhoven,Eredivisie
-375,3377577,2020-12-20,xG_ag,0.86,A,8640,PSV Eindhoven,Eredivisie
-376,3377578,2020-12-20,xG_for,2.94,H,9908,FC Utrecht,Eredivisie
-377,3377578,2020-12-20,xG_ag,1.13,H,9908,FC Utrecht,Eredivisie
-378,3377578,2020-12-20,xG_for,1.13,A,6422,Fortuna Sittard,Eredivisie
-379,3377578,2020-12-20,xG_ag,2.94,A,6422,Fortuna Sittard,Eredivisie
-380,3377579,2020-12-20,xG_for,1.68,H,8277,Vitesse,Eredivisie
-381,3377579,2020-12-20,xG_ag,2.37,H,8277,Vitesse,Eredivisie
-382,3377579,2020-12-20,xG_for,2.37,A,10235,Feyenoord,Eredivisie
-383,3377579,2020-12-20,xG_ag,1.68,A,10235,Feyenoord,Eredivisie
-384,3377580,2020-12-20,xG_for,0.62,H,10217,ADO Den Haag,Eredivisie
-385,3377580,2020-12-20,xG_ag,4.11,H,10217,ADO Den Haag,Eredivisie
-386,3377580,2020-12-20,xG_for,4.11,A,8593,Ajax,Eredivisie
-387,3377580,2020-12-20,xG_ag,0.62,A,8593,Ajax,Eredivisie
-388,3377581,2020-12-20,xG_for,1.07,H,10228,SC Heerenveen,Eredivisie
-389,3377581,2020-12-20,xG_ag,1.69,H,10228,SC Heerenveen,Eredivisie
-390,3377581,2020-12-20,xG_for,1.69,A,9791,Heracles,Eredivisie
-391,3377581,2020-12-20,xG_ag,1.07,A,9791,Heracles,Eredivisie
-392,3377582,2020-12-20,xG_for,1.78,H,10229,AZ Alkmaar,Eredivisie
-393,3377582,2020-12-20,xG_ag,1.55,H,10229,AZ Alkmaar,Eredivisie
-394,3377582,2020-12-20,xG_for,1.55,A,8525,Willem II,Eredivisie
-395,3377582,2020-12-20,xG_ag,1.78,A,8525,Willem II,Eredivisie
-396,3377583,2020-12-22,xG_for,3.42,H,6422,Fortuna Sittard,Eredivisie
-397,3377583,2020-12-22,xG_ag,1.02,H,6422,Fortuna Sittard,Eredivisie
-398,3377583,2020-12-22,xG_for,1.02,A,10219,RKC Waalwijk,Eredivisie
-399,3377583,2020-12-22,xG_ag,3.42,A,10219,RKC Waalwijk,Eredivisie
-400,3377584,2020-12-23,xG_for,1.18,H,6660,FC Emmen,Eredivisie
-401,3377584,2020-12-23,xG_ag,2.46,H,6660,FC Emmen,Eredivisie
-402,3377584,2020-12-23,xG_for,2.46,A,9908,FC Utrecht,Eredivisie
-403,3377584,2020-12-23,xG_ag,1.18,A,9908,FC Utrecht,Eredivisie
-404,3377585,2020-12-23,xG_for,4.89,H,8640,PSV Eindhoven,Eredivisie
-405,3377585,2020-12-23,xG_ag,0.39,H,8640,PSV Eindhoven,Eredivisie
-406,3377585,2020-12-23,xG_for,0.39,A,9839,VVV-Venlo,Eredivisie
-407,3377585,2020-12-23,xG_ag,4.89,A,9839,VVV-Venlo,Eredivisie
-408,3377586,2020-12-23,xG_for,0.75,H,8611,FC Twente,Eredivisie
-409,3377586,2020-12-23,xG_ag,1.31,H,8611,FC Twente,Eredivisie
-410,3377586,2020-12-23,xG_for,1.31,A,8614,Sparta Rotterdam,Eredivisie
-411,3377586,2020-12-23,xG_ag,0.75,A,8614,Sparta Rotterdam,Eredivisie
-412,3377587,2020-12-23,xG_for,1.71,H,10229,AZ Alkmaar,Eredivisie
-413,3377587,2020-12-23,xG_ag,1.41,H,10229,AZ Alkmaar,Eredivisie
-414,3377587,2020-12-23,xG_for,1.41,A,8277,Vitesse,Eredivisie
-415,3377587,2020-12-23,xG_ag,1.71,A,8277,Vitesse,Eredivisie
-416,3377588,2020-12-24,xG_for,0.46,H,8525,Willem II,Eredivisie
-417,3377588,2020-12-24,xG_ag,2.71,H,8525,Willem II,Eredivisie
-418,3377588,2020-12-24,xG_for,2.71,A,8593,Ajax,Eredivisie
-419,3377588,2020-12-24,xG_ag,0.46,A,8593,Ajax,Eredivisie
-420,3377589,2020-12-24,xG_for,1.01,H,8674,FC Groningen,Eredivisie
-421,3377589,2020-12-24,xG_ag,1.29,H,8674,FC Groningen,Eredivisie
-422,3377589,2020-12-24,xG_for,1.29,A,9791,Heracles,Eredivisie
-423,3377589,2020-12-24,xG_ag,1.01,A,9791,Heracles,Eredivisie
-424,3377590,2020-12-24,xG_for,0.45,H,10217,ADO Den Haag,Eredivisie
-425,3377590,2020-12-24,xG_ag,0.96,H,10217,ADO Den Haag,Eredivisie
-426,3377590,2020-12-24,xG_for,0.96,A,6413,PEC Zwolle,Eredivisie
-427,3377590,2020-12-24,xG_ag,0.45,A,6413,PEC Zwolle,Eredivisie
-428,3377591,2020-12-24,xG_for,3.59,H,10235,Feyenoord,Eredivisie
-429,3377591,2020-12-24,xG_ag,0.49,H,10235,Feyenoord,Eredivisie
-430,3377591,2020-12-24,xG_for,0.49,A,10228,SC Heerenveen,Eredivisie
-431,3377591,2020-12-24,xG_ag,3.59,A,10228,SC Heerenveen,Eredivisie
-432,3377592,2021-01-10,xG_for,0.54,H,6660,FC Emmen,Eredivisie
-433,3377592,2021-01-10,xG_ag,1.78,H,6660,FC Emmen,Eredivisie
-434,3377592,2021-01-10,xG_for,1.78,A,8611,FC Twente,Eredivisie
-435,3377592,2021-01-10,xG_ag,0.54,A,8611,FC Twente,Eredivisie
-436,3377593,2021-01-10,xG_for,1.29,H,9791,Heracles,Eredivisie
-437,3377593,2021-01-10,xG_ag,0.88,H,9791,Heracles,Eredivisie
-438,3377593,2021-01-10,xG_for,0.88,A,8277,Vitesse,Eredivisie
-439,3377593,2021-01-10,xG_ag,1.29,A,8277,Vitesse,Eredivisie
-440,3377594,2021-01-10,xG_for,0.83,H,6413,PEC Zwolle,Eredivisie
-441,3377594,2021-01-10,xG_ag,0.96,H,6413,PEC Zwolle,Eredivisie
-442,3377594,2021-01-10,xG_for,0.96,A,10229,AZ Alkmaar,Eredivisie
-443,3377594,2021-01-10,xG_ag,0.83,A,10229,AZ Alkmaar,Eredivisie
-444,3377595,2021-01-10,xG_for,2.83,H,9908,FC Utrecht,Eredivisie
-445,3377595,2021-01-10,xG_ag,1.02,H,9908,FC Utrecht,Eredivisie
-446,3377595,2021-01-10,xG_for,1.02,A,8674,FC Groningen,Eredivisie
-447,3377595,2021-01-10,xG_ag,2.83,A,8674,FC Groningen,Eredivisie
-448,3377596,2021-01-09,xG_for,1.54,H,10219,RKC Waalwijk,Eredivisie
-449,3377596,2021-01-09,xG_ag,0.54,H,10219,RKC Waalwijk,Eredivisie
-450,3377596,2021-01-09,xG_for,0.54,A,10217,ADO Den Haag,Eredivisie
-451,3377596,2021-01-09,xG_ag,1.54,A,10217,ADO Den Haag,Eredivisie
-452,3377597,2021-01-10,xG_for,0.51,H,8614,Sparta Rotterdam,Eredivisie
-453,3377597,2021-01-10,xG_ag,2.3,H,8614,Sparta Rotterdam,Eredivisie
-454,3377597,2021-01-10,xG_for,2.3,A,10235,Feyenoord,Eredivisie
-455,3377597,2021-01-10,xG_ag,0.51,A,10235,Feyenoord,Eredivisie
-456,3377598,2021-01-10,xG_for,1.27,H,10228,SC Heerenveen,Eredivisie
-457,3377598,2021-01-10,xG_ag,1.73,H,10228,SC Heerenveen,Eredivisie
-458,3377598,2021-01-10,xG_for,1.73,A,6422,Fortuna Sittard,Eredivisie
-459,3377598,2021-01-10,xG_ag,1.27,A,6422,Fortuna Sittard,Eredivisie
-460,3377599,2021-01-10,xG_for,1.36,H,9839,VVV-Venlo,Eredivisie
-461,3377599,2021-01-10,xG_ag,1.72,H,9839,VVV-Venlo,Eredivisie
-462,3377599,2021-01-10,xG_for,1.72,A,8525,Willem II,Eredivisie
-463,3377599,2021-01-10,xG_ag,1.36,A,8525,Willem II,Eredivisie
-464,3377600,2021-01-10,xG_for,1.69,H,8593,Ajax,Eredivisie
-465,3377600,2021-01-10,xG_ag,1.16,H,8593,Ajax,Eredivisie
-466,3377600,2021-01-10,xG_for,1.16,A,8640,PSV Eindhoven,Eredivisie
-467,3377600,2021-01-10,xG_ag,1.69,A,8640,PSV Eindhoven,Eredivisie
-468,3377601,2021-01-13,xG_for,1.03,H,8277,Vitesse,Eredivisie
-469,3377601,2021-01-13,xG_ag,0.81,H,8277,Vitesse,Eredivisie
-470,3377601,2021-01-13,xG_for,0.81,A,9908,FC Utrecht,Eredivisie
-471,3377601,2021-01-13,xG_ag,1.03,A,9908,FC Utrecht,Eredivisie
-472,3377602,2021-01-13,xG_for,2.48,H,9791,Heracles,Eredivisie
-473,3377602,2021-01-13,xG_ag,0.55,H,9791,Heracles,Eredivisie
-474,3377602,2021-01-13,xG_for,0.55,A,6660,FC Emmen,Eredivisie
-475,3377602,2021-01-13,xG_ag,2.48,A,6660,FC Emmen,Eredivisie
-476,3377603,2021-01-14,xG_for,0.67,H,8640,PSV Eindhoven,Eredivisie
-477,3377603,2021-01-14,xG_ag,1.14,H,8640,PSV Eindhoven,Eredivisie
-478,3377603,2021-01-14,xG_for,1.14,A,10229,AZ Alkmaar,Eredivisie
-479,3377603,2021-01-14,xG_ag,0.67,A,10229,AZ Alkmaar,Eredivisie
-480,3377604,2021-01-14,xG_for,0.63,H,6422,Fortuna Sittard,Eredivisie
-481,3377604,2021-01-14,xG_ag,1.38,H,6422,Fortuna Sittard,Eredivisie
-482,3377604,2021-01-14,xG_for,1.38,A,8614,Sparta Rotterdam,Eredivisie
-483,3377604,2021-01-14,xG_ag,0.63,A,8614,Sparta Rotterdam,Eredivisie
-484,3377605,2021-01-14,xG_for,1.0,H,10217,ADO Den Haag,Eredivisie
-485,3377605,2021-01-14,xG_ag,2.8,H,10217,ADO Den Haag,Eredivisie
-486,3377605,2021-01-14,xG_for,2.8,A,9839,VVV-Venlo,Eredivisie
-487,3377605,2021-01-14,xG_ag,1.0,A,9839,VVV-Venlo,Eredivisie
-488,3377606,2021-01-14,xG_for,2.0,H,10235,Feyenoord,Eredivisie
-489,3377606,2021-01-14,xG_ag,0.64,H,10235,Feyenoord,Eredivisie
-490,3377606,2021-01-14,xG_for,0.64,A,6413,PEC Zwolle,Eredivisie
-491,3377606,2021-01-14,xG_ag,2.0,A,6413,PEC Zwolle,Eredivisie
-492,3377607,2021-01-15,xG_for,1.62,H,10228,SC Heerenveen,Eredivisie
-493,3377607,2021-01-15,xG_ag,1.03,H,10228,SC Heerenveen,Eredivisie
-494,3377607,2021-01-15,xG_for,1.03,A,10219,RKC Waalwijk,Eredivisie
-495,3377607,2021-01-15,xG_ag,1.62,A,10219,RKC Waalwijk,Eredivisie
-496,3377608,2021-01-15,xG_for,1.4,H,8611,FC Twente,Eredivisie
-497,3377608,2021-01-15,xG_ag,3.46,H,8611,FC Twente,Eredivisie
-498,3377608,2021-01-15,xG_for,3.46,A,8593,Ajax,Eredivisie
-499,3377608,2021-01-15,xG_ag,1.4,A,8593,Ajax,Eredivisie
-500,3377609,2021-01-15,xG_for,1.23,H,8525,Willem II,Eredivisie
-501,3377609,2021-01-15,xG_ag,1.9,H,8525,Willem II,Eredivisie
-502,3377609,2021-01-15,xG_for,1.9,A,8674,FC Groningen,Eredivisie
-503,3377609,2021-01-15,xG_ag,1.23,A,8674,FC Groningen,Eredivisie
-504,3377610,2021-01-16,xG_for,1.48,H,6660,FC Emmen,Eredivisie
-505,3377610,2021-01-16,xG_ag,1.88,H,6660,FC Emmen,Eredivisie
-506,3377610,2021-01-16,xG_for,1.88,A,8277,Vitesse,Eredivisie
-507,3377610,2021-01-16,xG_ag,1.48,A,8277,Vitesse,Eredivisie
-508,3377611,2021-01-17,xG_for,2.39,H,9908,FC Utrecht,Eredivisie
-509,3377611,2021-01-17,xG_ag,0.08,H,9908,FC Utrecht,Eredivisie
-510,3377611,2021-01-17,xG_for,0.08,A,9791,Heracles,Eredivisie
-511,3377611,2021-01-17,xG_ag,2.39,A,9791,Heracles,Eredivisie
-512,3377612,2021-01-17,xG_for,3.19,H,10229,AZ Alkmaar,Eredivisie
-513,3377612,2021-01-17,xG_ag,0.85,H,10229,AZ Alkmaar,Eredivisie
-514,3377612,2021-01-17,xG_for,0.85,A,10217,ADO Den Haag,Eredivisie
-515,3377612,2021-01-17,xG_ag,3.19,A,10217,ADO Den Haag,Eredivisie
-516,3377613,2021-01-17,xG_for,0.67,H,6413,PEC Zwolle,Eredivisie
-517,3377613,2021-01-17,xG_ag,1.79,H,6413,PEC Zwolle,Eredivisie
-518,3377613,2021-01-17,xG_for,1.79,A,6422,Fortuna Sittard,Eredivisie
-519,3377613,2021-01-17,xG_ag,0.67,A,6422,Fortuna Sittard,Eredivisie
-520,3377614,2021-01-17,xG_for,1.55,H,10219,RKC Waalwijk,Eredivisie
-521,3377614,2021-01-17,xG_ag,1.01,H,10219,RKC Waalwijk,Eredivisie
-522,3377614,2021-01-17,xG_for,1.01,A,8525,Willem II,Eredivisie
-523,3377614,2021-01-17,xG_ag,1.55,A,8525,Willem II,Eredivisie
-524,3377615,2021-01-17,xG_for,1.63,H,8674,FC Groningen,Eredivisie
-525,3377615,2021-01-17,xG_ag,0.98,H,8674,FC Groningen,Eredivisie
-526,3377615,2021-01-17,xG_for,0.98,A,8611,FC Twente,Eredivisie
-527,3377615,2021-01-17,xG_ag,1.63,A,8611,FC Twente,Eredivisie
-528,3377616,2021-01-17,xG_for,1.72,H,8614,Sparta Rotterdam,Eredivisie
-529,3377616,2021-01-17,xG_ag,2.22,H,8614,Sparta Rotterdam,Eredivisie
-530,3377616,2021-01-17,xG_for,2.22,A,8640,PSV Eindhoven,Eredivisie
-531,3377616,2021-01-17,xG_ag,1.72,A,8640,PSV Eindhoven,Eredivisie
-532,3377617,2021-01-17,xG_for,1.22,H,8593,Ajax,Eredivisie
-533,3377617,2021-01-17,xG_ag,0.9,H,8593,Ajax,Eredivisie
-534,3377617,2021-01-17,xG_for,0.9,A,10235,Feyenoord,Eredivisie
-535,3377617,2021-01-17,xG_ag,1.22,A,10235,Feyenoord,Eredivisie
-536,3377618,2021-01-17,xG_for,0.61,H,9839,VVV-Venlo,Eredivisie
-537,3377618,2021-01-17,xG_ag,1.86,H,9839,VVV-Venlo,Eredivisie
-538,3377618,2021-01-17,xG_for,1.86,A,10228,SC Heerenveen,Eredivisie
-539,3377618,2021-01-17,xG_ag,0.61,A,10228,SC Heerenveen,Eredivisie
-540,3377619,2021-01-23,xG_for,0.67,H,10217,ADO Den Haag,Eredivisie
-541,3377619,2021-01-23,xG_ag,1.11,H,10217,ADO Den Haag,Eredivisie
-542,3377619,2021-01-23,xG_for,1.11,A,6660,FC Emmen,Eredivisie
-543,3377619,2021-01-23,xG_ag,0.67,A,6660,FC Emmen,Eredivisie
-544,3377620,2021-01-23,xG_for,0.61,H,8525,Willem II,Eredivisie
-545,3377620,2021-01-23,xG_ag,3.21,H,8525,Willem II,Eredivisie
-546,3377620,2021-01-23,xG_for,3.21,A,6413,PEC Zwolle,Eredivisie
-547,3377620,2021-01-23,xG_ag,0.61,A,6413,PEC Zwolle,Eredivisie
-548,3377621,2021-01-24,xG_for,1.73,H,8277,Vitesse,Eredivisie
-549,3377621,2021-01-24,xG_ag,0.37,H,8277,Vitesse,Eredivisie
-550,3377621,2021-01-24,xG_for,0.37,A,8674,FC Groningen,Eredivisie
-551,3377621,2021-01-24,xG_ag,1.73,A,8674,FC Groningen,Eredivisie
-552,3377622,2021-01-24,xG_for,1.1,H,8640,PSV Eindhoven,Eredivisie
-553,3377622,2021-01-24,xG_ag,1.07,H,8640,PSV Eindhoven,Eredivisie
-554,3377622,2021-01-24,xG_for,1.07,A,10219,RKC Waalwijk,Eredivisie
-555,3377622,2021-01-24,xG_ag,1.1,A,10219,RKC Waalwijk,Eredivisie
-556,3377623,2021-01-24,xG_for,1.78,H,9791,Heracles,Eredivisie
-557,3377623,2021-01-24,xG_ag,0.44,H,9791,Heracles,Eredivisie
-558,3377623,2021-01-24,xG_for,0.44,A,10228,SC Heerenveen,Eredivisie
-559,3377623,2021-01-24,xG_ag,1.78,A,10228,SC Heerenveen,Eredivisie
-560,3377624,2021-01-24,xG_for,1.18,H,6422,Fortuna Sittard,Eredivisie
-561,3377624,2021-01-24,xG_ag,3.51,H,6422,Fortuna Sittard,Eredivisie
-562,3377624,2021-01-24,xG_for,3.51,A,8593,Ajax,Eredivisie
-563,3377624,2021-01-24,xG_ag,1.18,A,8593,Ajax,Eredivisie
-564,3377625,2021-01-24,xG_for,1.49,H,8611,FC Twente,Eredivisie
-565,3377625,2021-01-24,xG_ag,0.71,H,8611,FC Twente,Eredivisie
-566,3377625,2021-01-24,xG_for,0.71,A,9839,VVV-Venlo,Eredivisie
-567,3377625,2021-01-24,xG_ag,1.49,A,9839,VVV-Venlo,Eredivisie
-568,3377626,2021-01-24,xG_for,1.44,H,9908,FC Utrecht,Eredivisie
-569,3377626,2021-01-24,xG_ag,0.54,H,9908,FC Utrecht,Eredivisie
-570,3377626,2021-01-24,xG_for,0.54,A,8614,Sparta Rotterdam,Eredivisie
-571,3377626,2021-01-24,xG_ag,1.44,A,8614,Sparta Rotterdam,Eredivisie
-572,3377627,2021-01-24,xG_for,1.42,H,10235,Feyenoord,Eredivisie
-573,3377627,2021-01-24,xG_ag,3.04,H,10235,Feyenoord,Eredivisie
-574,3377627,2021-01-24,xG_for,3.04,A,10229,AZ Alkmaar,Eredivisie
-575,3377627,2021-01-24,xG_ag,1.42,A,10229,AZ Alkmaar,Eredivisie
-576,3377628,2021-01-27,xG_for,0.83,H,6413,PEC Zwolle,Eredivisie
-577,3377628,2021-01-27,xG_ag,1.57,H,6413,PEC Zwolle,Eredivisie
-578,3377628,2021-01-27,xG_for,1.57,A,9791,Heracles,Eredivisie
-579,3377628,2021-01-27,xG_ag,0.83,A,9791,Heracles,Eredivisie
-580,3377629,2021-01-27,xG_for,0.26,H,6660,FC Emmen,Eredivisie
-581,3377629,2021-01-27,xG_ag,2.2,H,6660,FC Emmen,Eredivisie
-582,3377629,2021-01-27,xG_for,2.2,A,8640,PSV Eindhoven,Eredivisie
-583,3377629,2021-01-27,xG_ag,0.26,A,8640,PSV Eindhoven,Eredivisie
-584,3377630,2021-01-27,xG_for,1.47,H,8674,FC Groningen,Eredivisie
-585,3377630,2021-01-27,xG_ag,0.55,H,8674,FC Groningen,Eredivisie
-586,3377630,2021-01-27,xG_for,0.55,A,10217,ADO Den Haag,Eredivisie
-587,3377630,2021-01-27,xG_ag,1.47,A,10217,ADO Den Haag,Eredivisie
-588,3377631,2021-01-28,xG_for,1.29,H,10229,AZ Alkmaar,Eredivisie
-589,3377631,2021-01-28,xG_ag,1.2,H,10229,AZ Alkmaar,Eredivisie
-590,3377631,2021-01-28,xG_for,1.2,A,9908,FC Utrecht,Eredivisie
-591,3377631,2021-01-28,xG_ag,1.29,A,9908,FC Utrecht,Eredivisie
-592,3377632,2021-01-28,xG_for,0.85,H,10219,RKC Waalwijk,Eredivisie
-593,3377632,2021-01-28,xG_ag,3.15,H,10219,RKC Waalwijk,Eredivisie
-594,3377632,2021-01-28,xG_for,3.15,A,6422,Fortuna Sittard,Eredivisie
-595,3377632,2021-01-28,xG_ag,0.85,A,6422,Fortuna Sittard,Eredivisie
-596,3377633,2021-01-28,xG_for,1.98,H,9839,VVV-Venlo,Eredivisie
-597,3377633,2021-01-28,xG_ag,1.93,H,9839,VVV-Venlo,Eredivisie
-598,3377633,2021-01-28,xG_for,1.93,A,8277,Vitesse,Eredivisie
-599,3377633,2021-01-28,xG_ag,1.98,A,8277,Vitesse,Eredivisie
-600,3377634,2021-01-28,xG_for,2.41,H,10228,SC Heerenveen,Eredivisie
-601,3377634,2021-01-28,xG_ag,1.17,H,10228,SC Heerenveen,Eredivisie
-602,3377634,2021-01-28,xG_for,1.17,A,10235,Feyenoord,Eredivisie
-603,3377634,2021-01-28,xG_ag,2.41,A,10235,Feyenoord,Eredivisie
-604,3377635,2021-01-29,xG_for,1.08,H,8614,Sparta Rotterdam,Eredivisie
-605,3377635,2021-01-29,xG_ag,0.52,H,8614,Sparta Rotterdam,Eredivisie
-606,3377635,2021-01-29,xG_for,0.52,A,8611,FC Twente,Eredivisie
-607,3377635,2021-01-29,xG_ag,1.08,A,8611,FC Twente,Eredivisie
-608,3377636,2021-01-29,xG_for,2.62,H,8593,Ajax,Eredivisie
-609,3377636,2021-01-29,xG_ag,0.86,H,8593,Ajax,Eredivisie
-610,3377636,2021-01-29,xG_for,0.86,A,8525,Willem II,Eredivisie
-611,3377636,2021-01-29,xG_ag,2.62,A,8525,Willem II,Eredivisie
-612,3377637,2021-01-30,xG_for,1.07,H,9791,Heracles,Eredivisie
-613,3377637,2021-01-30,xG_ag,1.55,H,9791,Heracles,Eredivisie
-614,3377637,2021-01-30,xG_for,1.55,A,8674,FC Groningen,Eredivisie
-615,3377637,2021-01-30,xG_ag,1.07,A,8674,FC Groningen,Eredivisie
-616,3377638,2021-01-31,xG_for,2.79,H,9908,FC Utrecht,Eredivisie
-617,3377638,2021-01-31,xG_ag,1.7,H,9908,FC Utrecht,Eredivisie
-618,3377638,2021-01-31,xG_for,1.7,A,6413,PEC Zwolle,Eredivisie
-619,3377638,2021-01-31,xG_ag,2.79,A,6413,PEC Zwolle,Eredivisie
-620,3377639,2021-01-31,xG_for,1.35,H,6422,Fortuna Sittard,Eredivisie
-621,3377639,2021-01-31,xG_ag,0.95,H,6422,Fortuna Sittard,Eredivisie
-622,3377639,2021-01-31,xG_for,0.95,A,9839,VVV-Venlo,Eredivisie
-623,3377639,2021-01-31,xG_ag,1.35,A,9839,VVV-Venlo,Eredivisie
-624,3377640,2021-01-31,xG_for,0.51,H,8277,Vitesse,Eredivisie
-625,3377640,2021-01-31,xG_ag,0.6,H,8277,Vitesse,Eredivisie
-626,3377640,2021-01-31,xG_for,0.6,A,10219,RKC Waalwijk,Eredivisie
-627,3377640,2021-01-31,xG_ag,0.51,A,10219,RKC Waalwijk,Eredivisie
-628,3377641,2021-01-31,xG_for,1.58,H,8611,FC Twente,Eredivisie
-629,3377641,2021-01-31,xG_ag,0.35,H,8611,FC Twente,Eredivisie
-630,3377641,2021-01-31,xG_for,0.35,A,10228,SC Heerenveen,Eredivisie
-631,3377641,2021-01-31,xG_ag,1.58,A,10228,SC Heerenveen,Eredivisie
-632,3377642,2021-01-31,xG_for,1.15,H,10235,Feyenoord,Eredivisie
-633,3377642,2021-01-31,xG_ag,1.81,H,10235,Feyenoord,Eredivisie
-634,3377642,2021-01-31,xG_for,1.81,A,8640,PSV Eindhoven,Eredivisie
-635,3377642,2021-01-31,xG_ag,1.15,A,8640,PSV Eindhoven,Eredivisie
-636,3377643,2021-01-31,xG_for,1.82,H,8525,Willem II,Eredivisie
-637,3377643,2021-01-31,xG_ag,1.31,H,8525,Willem II,Eredivisie
-638,3377643,2021-01-31,xG_for,1.31,A,6660,FC Emmen,Eredivisie
-639,3377643,2021-01-31,xG_ag,1.82,A,6660,FC Emmen,Eredivisie
-640,3377644,2021-01-31,xG_for,2.15,H,10229,AZ Alkmaar,Eredivisie
-641,3377644,2021-01-31,xG_ag,2.07,H,10229,AZ Alkmaar,Eredivisie
-642,3377644,2021-01-31,xG_for,2.07,A,8593,Ajax,Eredivisie
-643,3377644,2021-01-31,xG_ag,2.15,A,8593,Ajax,Eredivisie
-644,3377645,2021-01-31,xG_for,0.78,H,10217,ADO Den Haag,Eredivisie
-645,3377645,2021-01-31,xG_ag,1.27,H,10217,ADO Den Haag,Eredivisie
-646,3377645,2021-01-31,xG_for,1.27,A,8614,Sparta Rotterdam,Eredivisie
-647,3377645,2021-01-31,xG_ag,0.78,A,8614,Sparta Rotterdam,Eredivisie
-648,3377646,2021-02-06,xG_for,1.07,H,6422,Fortuna Sittard,Eredivisie
-649,3377646,2021-02-06,xG_ag,0.95,H,6422,Fortuna Sittard,Eredivisie
-650,3377646,2021-02-06,xG_for,0.95,A,9791,Heracles,Eredivisie
-651,3377646,2021-02-06,xG_ag,1.07,A,9791,Heracles,Eredivisie
-652,3377647,2021-02-06,xG_for,3.04,H,8640,PSV Eindhoven,Eredivisie
-653,3377647,2021-02-06,xG_ag,0.19,H,8640,PSV Eindhoven,Eredivisie
-654,3377647,2021-02-06,xG_for,0.19,A,8611,FC Twente,Eredivisie
-655,3377647,2021-02-06,xG_ag,3.04,A,8611,FC Twente,Eredivisie
-656,3377648,2021-02-06,xG_for,1.64,H,6413,PEC Zwolle,Eredivisie
-657,3377648,2021-02-06,xG_ag,0.74,H,6413,PEC Zwolle,Eredivisie
-658,3377648,2021-02-06,xG_for,0.74,A,10219,RKC Waalwijk,Eredivisie
-659,3377648,2021-02-06,xG_ag,1.64,A,10219,RKC Waalwijk,Eredivisie
-660,3377649,2021-02-06,xG_for,0.47,H,6660,FC Emmen,Eredivisie
-661,3377649,2021-02-06,xG_ag,1.29,H,6660,FC Emmen,Eredivisie
-662,3377649,2021-02-06,xG_for,1.29,A,10229,AZ Alkmaar,Eredivisie
-663,3377649,2021-02-06,xG_ag,0.47,A,10229,AZ Alkmaar,Eredivisie
-664,3377650,2021-02-06,xG_for,1.67,H,10228,SC Heerenveen,Eredivisie
-665,3377650,2021-02-06,xG_ag,0.7,H,10228,SC Heerenveen,Eredivisie
-666,3377650,2021-02-06,xG_for,0.7,A,8277,Vitesse,Eredivisie
-667,3377650,2021-02-06,xG_ag,1.67,A,8277,Vitesse,Eredivisie
-668,3377651,2021-02-25,xG_for,1.11,H,8674,FC Groningen,Eredivisie
-669,3377651,2021-02-25,xG_ag,1.69,H,8674,FC Groningen,Eredivisie
-670,3377651,2021-02-25,xG_for,1.69,A,10235,Feyenoord,Eredivisie
-671,3377651,2021-02-25,xG_ag,1.11,A,10235,Feyenoord,Eredivisie
-672,3377652,2021-04-22,xG_for,2.7,H,8593,Ajax,Eredivisie
-673,3377652,2021-04-22,xG_ag,0.99,H,8593,Ajax,Eredivisie
-674,3377652,2021-04-22,xG_for,0.99,A,9908,FC Utrecht,Eredivisie
-675,3377652,2021-04-22,xG_ag,2.7,A,9908,FC Utrecht,Eredivisie
-676,3377653,2021-02-24,xG_for,1.65,H,8525,Willem II,Eredivisie
-677,3377653,2021-02-24,xG_ag,1.07,H,8525,Willem II,Eredivisie
-678,3377653,2021-02-24,xG_for,1.07,A,10217,ADO Den Haag,Eredivisie
-679,3377653,2021-02-24,xG_ag,1.65,A,10217,ADO Den Haag,Eredivisie
-680,3377654,2021-03-10,xG_for,0.82,H,9839,VVV-Venlo,Eredivisie
-681,3377654,2021-03-10,xG_ag,0.61,H,9839,VVV-Venlo,Eredivisie
-682,3377654,2021-03-10,xG_for,0.61,A,8614,Sparta Rotterdam,Eredivisie
-683,3377654,2021-03-10,xG_ag,0.82,A,8614,Sparta Rotterdam,Eredivisie
-684,3377655,2021-02-13,xG_for,0.58,H,10217,ADO Den Haag,Eredivisie
-685,3377655,2021-02-13,xG_ag,5.46,H,10217,ADO Den Haag,Eredivisie
-686,3377655,2021-02-13,xG_for,5.46,A,8640,PSV Eindhoven,Eredivisie
-687,3377655,2021-02-13,xG_ag,0.58,A,8640,PSV Eindhoven,Eredivisie
-688,3377656,2021-02-14,xG_for,2.76,H,10229,AZ Alkmaar,Eredivisie
-689,3377656,2021-02-14,xG_ag,1.31,H,10229,AZ Alkmaar,Eredivisie
-690,3377656,2021-02-14,xG_for,1.31,A,10228,SC Heerenveen,Eredivisie
-691,3377656,2021-02-14,xG_ag,2.76,A,10228,SC Heerenveen,Eredivisie
-692,3377657,2021-02-13,xG_for,1.58,H,8674,FC Groningen,Eredivisie
-693,3377657,2021-02-13,xG_ag,0.61,H,8674,FC Groningen,Eredivisie
-694,3377657,2021-02-13,xG_for,0.61,A,6413,PEC Zwolle,Eredivisie
-695,3377657,2021-02-13,xG_ag,1.58,A,6413,PEC Zwolle,Eredivisie
-696,3377658,2021-02-14,xG_for,3.87,H,9908,FC Utrecht,Eredivisie
-697,3377658,2021-02-14,xG_ag,1.58,H,9908,FC Utrecht,Eredivisie
-698,3377658,2021-02-14,xG_for,1.58,A,9839,VVV-Venlo,Eredivisie
-699,3377658,2021-02-14,xG_ag,3.87,A,9839,VVV-Venlo,Eredivisie
-700,3377659,2021-02-14,xG_for,3.56,H,10235,Feyenoord,Eredivisie
-701,3377659,2021-02-14,xG_ag,0.64,H,10235,Feyenoord,Eredivisie
-702,3377659,2021-02-14,xG_for,0.64,A,8525,Willem II,Eredivisie
-703,3377659,2021-02-14,xG_ag,3.56,A,8525,Willem II,Eredivisie
-704,3377660,2021-02-14,xG_for,2.61,H,9791,Heracles,Eredivisie
-705,3377660,2021-02-14,xG_ag,1.59,H,9791,Heracles,Eredivisie
-706,3377660,2021-02-14,xG_for,1.59,A,8593,Ajax,Eredivisie
-707,3377660,2021-02-14,xG_ag,2.61,A,8593,Ajax,Eredivisie
-708,3377661,2021-02-13,xG_for,1.25,H,10219,RKC Waalwijk,Eredivisie
-709,3377661,2021-02-13,xG_ag,0.61,H,10219,RKC Waalwijk,Eredivisie
-710,3377661,2021-02-13,xG_for,0.61,A,6660,FC Emmen,Eredivisie
-711,3377661,2021-02-13,xG_ag,1.25,A,6660,FC Emmen,Eredivisie
-712,3377662,2021-02-13,xG_for,1.76,H,8614,Sparta Rotterdam,Eredivisie
-713,3377662,2021-02-13,xG_ag,1.96,H,8614,Sparta Rotterdam,Eredivisie
-714,3377662,2021-02-13,xG_for,1.96,A,6422,Fortuna Sittard,Eredivisie
-715,3377662,2021-02-13,xG_ag,1.76,A,6422,Fortuna Sittard,Eredivisie
-716,3377663,2021-02-14,xG_for,0.58,H,8277,Vitesse,Eredivisie
-717,3377663,2021-02-14,xG_ag,1.7,H,8277,Vitesse,Eredivisie
-718,3377663,2021-02-14,xG_for,1.7,A,8611,FC Twente,Eredivisie
-719,3377663,2021-02-14,xG_ag,0.58,A,8611,FC Twente,Eredivisie
-720,3377664,2021-02-22,xG_for,2.22,H,8593,Ajax,Eredivisie
-721,3377664,2021-02-22,xG_ag,1.64,H,8593,Ajax,Eredivisie
-722,3377664,2021-02-22,xG_for,1.64,A,8614,Sparta Rotterdam,Eredivisie
-723,3377664,2021-02-22,xG_ag,2.22,A,8614,Sparta Rotterdam,Eredivisie
-724,3377665,2021-02-21,xG_for,1.28,H,6660,FC Emmen,Eredivisie
-725,3377665,2021-02-21,xG_ag,1.16,H,6660,FC Emmen,Eredivisie
-726,3377665,2021-02-21,xG_for,1.16,A,6413,PEC Zwolle,Eredivisie
-727,3377665,2021-02-21,xG_ag,1.28,A,6413,PEC Zwolle,Eredivisie
-728,3377666,2021-02-21,xG_for,2.84,H,8611,FC Twente,Eredivisie
-729,3377666,2021-02-21,xG_ag,2.52,H,8611,FC Twente,Eredivisie
-730,3377666,2021-02-21,xG_for,2.52,A,10235,Feyenoord,Eredivisie
-731,3377666,2021-02-21,xG_ag,2.84,A,10235,Feyenoord,Eredivisie
-732,3377667,2021-02-21,xG_for,2.13,H,6422,Fortuna Sittard,Eredivisie
-733,3377667,2021-02-21,xG_ag,0.27,H,6422,Fortuna Sittard,Eredivisie
-734,3377667,2021-02-21,xG_for,0.27,A,10217,ADO Den Haag,Eredivisie
-735,3377667,2021-02-21,xG_ag,2.13,A,10217,ADO Den Haag,Eredivisie
-736,3377668,2021-02-21,xG_for,3.07,H,8640,PSV Eindhoven,Eredivisie
-737,3377668,2021-02-21,xG_ag,1.04,H,8640,PSV Eindhoven,Eredivisie
-738,3377668,2021-02-21,xG_for,1.04,A,8277,Vitesse,Eredivisie
-739,3377668,2021-02-21,xG_ag,3.07,A,8277,Vitesse,Eredivisie
-740,3377669,2021-02-21,xG_for,0.95,H,10219,RKC Waalwijk,Eredivisie
-741,3377669,2021-02-21,xG_ag,1.01,H,10219,RKC Waalwijk,Eredivisie
-742,3377669,2021-02-21,xG_for,1.01,A,9791,Heracles,Eredivisie
-743,3377669,2021-02-21,xG_ag,0.95,A,9791,Heracles,Eredivisie
-744,3377670,2021-02-21,xG_for,1.12,H,10228,SC Heerenveen,Eredivisie
-745,3377670,2021-02-21,xG_ag,2.55,H,10228,SC Heerenveen,Eredivisie
-746,3377670,2021-02-21,xG_for,2.55,A,8674,FC Groningen,Eredivisie
-747,3377670,2021-02-21,xG_ag,1.12,A,8674,FC Groningen,Eredivisie
-748,3377671,2021-02-21,xG_for,0.38,H,9839,VVV-Venlo,Eredivisie
-749,3377671,2021-02-21,xG_ag,3.19,H,9839,VVV-Venlo,Eredivisie
-750,3377671,2021-02-21,xG_for,3.19,A,10229,AZ Alkmaar,Eredivisie
-751,3377671,2021-02-21,xG_ag,0.38,A,10229,AZ Alkmaar,Eredivisie
-752,3377672,2021-02-20,xG_for,0.38,H,8525,Willem II,Eredivisie
-753,3377672,2021-02-20,xG_ag,4.71,H,8525,Willem II,Eredivisie
-754,3377672,2021-02-20,xG_for,4.71,A,9908,FC Utrecht,Eredivisie
-755,3377672,2021-02-20,xG_ag,0.38,A,9908,FC Utrecht,Eredivisie
-756,3377673,2021-02-28,xG_for,1.07,H,10217,ADO Den Haag,Eredivisie
-757,3377673,2021-02-28,xG_ag,0.15,H,10217,ADO Den Haag,Eredivisie
-758,3377673,2021-02-28,xG_for,0.15,A,10219,RKC Waalwijk,Eredivisie
-759,3377673,2021-02-28,xG_ag,1.07,A,10219,RKC Waalwijk,Eredivisie
-760,3377674,2021-02-28,xG_for,2.2,H,10229,AZ Alkmaar,Eredivisie
-761,3377674,2021-02-28,xG_ag,1.18,H,10229,AZ Alkmaar,Eredivisie
-762,3377674,2021-02-28,xG_for,1.18,A,10235,Feyenoord,Eredivisie
-763,3377674,2021-02-28,xG_ag,2.2,A,10235,Feyenoord,Eredivisie
-764,3377675,2021-02-28,xG_for,0.44,H,8674,FC Groningen,Eredivisie
-765,3377675,2021-02-28,xG_ag,0.82,H,8674,FC Groningen,Eredivisie
-766,3377675,2021-02-28,xG_for,0.82,A,6422,Fortuna Sittard,Eredivisie
-767,3377675,2021-02-28,xG_ag,0.44,A,6422,Fortuna Sittard,Eredivisie
-768,3377676,2021-02-27,xG_for,1.71,H,9908,FC Utrecht,Eredivisie
-769,3377676,2021-02-27,xG_ag,1.81,H,9908,FC Utrecht,Eredivisie
-770,3377676,2021-02-27,xG_for,1.81,A,6660,FC Emmen,Eredivisie
-771,3377676,2021-02-27,xG_ag,1.71,A,6660,FC Emmen,Eredivisie
-772,3377677,2021-02-28,xG_for,0.79,H,9791,Heracles,Eredivisie
-773,3377677,2021-02-28,xG_ag,0.34,H,9791,Heracles,Eredivisie
-774,3377677,2021-02-28,xG_for,0.34,A,8611,FC Twente,Eredivisie
-775,3377677,2021-02-28,xG_ag,0.79,A,8611,FC Twente,Eredivisie
-776,3377678,2021-02-27,xG_for,2.12,H,6413,PEC Zwolle,Eredivisie
-777,3377678,2021-02-27,xG_ag,1.05,H,6413,PEC Zwolle,Eredivisie
-778,3377678,2021-02-27,xG_for,1.05,A,10228,SC Heerenveen,Eredivisie
-779,3377678,2021-02-27,xG_ag,2.12,A,10228,SC Heerenveen,Eredivisie
-780,3377679,2021-02-28,xG_for,1.64,H,8640,PSV Eindhoven,Eredivisie
-781,3377679,2021-02-28,xG_ag,3.37,H,8640,PSV Eindhoven,Eredivisie
-782,3377679,2021-02-28,xG_for,3.37,A,8593,Ajax,Eredivisie
-783,3377679,2021-02-28,xG_ag,1.64,A,8593,Ajax,Eredivisie
-784,3377680,2021-02-28,xG_for,0.84,H,8614,Sparta Rotterdam,Eredivisie
-785,3377680,2021-02-28,xG_ag,2.46,H,8614,Sparta Rotterdam,Eredivisie
-786,3377680,2021-02-28,xG_for,2.46,A,8525,Willem II,Eredivisie
-787,3377680,2021-02-28,xG_ag,0.84,A,8525,Willem II,Eredivisie
-788,3377681,2021-02-28,xG_for,2.1,H,8277,Vitesse,Eredivisie
-789,3377681,2021-02-28,xG_ag,0.98,H,8277,Vitesse,Eredivisie
-790,3377681,2021-02-28,xG_for,0.98,A,9839,VVV-Venlo,Eredivisie
-791,3377681,2021-02-28,xG_ag,2.1,A,9839,VVV-Venlo,Eredivisie
-792,3377682,2021-03-07,xG_for,3.9,H,8593,Ajax,Eredivisie
-793,3377682,2021-03-07,xG_ag,0.91,H,8593,Ajax,Eredivisie
-794,3377682,2021-03-07,xG_for,0.91,A,8674,FC Groningen,Eredivisie
-795,3377682,2021-03-07,xG_ag,3.9,A,8674,FC Groningen,Eredivisie
-796,3377683,2021-03-06,xG_for,1.73,H,6660,FC Emmen,Eredivisie
-797,3377683,2021-03-06,xG_ag,1.07,H,6660,FC Emmen,Eredivisie
-798,3377683,2021-03-06,xG_for,1.07,A,8614,Sparta Rotterdam,Eredivisie
-799,3377683,2021-03-06,xG_ag,1.73,A,8614,Sparta Rotterdam,Eredivisie
-800,3377684,2021-03-07,xG_for,1.56,H,8611,FC Twente,Eredivisie
-801,3377684,2021-03-07,xG_ag,1.63,H,8611,FC Twente,Eredivisie
-802,3377684,2021-03-07,xG_for,1.63,A,8525,Willem II,Eredivisie
-803,3377684,2021-03-07,xG_ag,1.56,A,8525,Willem II,Eredivisie
-804,3377685,2021-03-06,xG_for,2.1,H,10235,Feyenoord,Eredivisie
-805,3377685,2021-03-06,xG_ag,0.25,H,10235,Feyenoord,Eredivisie
-806,3377685,2021-03-06,xG_for,0.25,A,9839,VVV-Venlo,Eredivisie
-807,3377685,2021-03-06,xG_ag,2.1,A,9839,VVV-Venlo,Eredivisie
-808,3377686,2021-03-07,xG_for,1.04,H,6422,Fortuna Sittard,Eredivisie
-809,3377686,2021-03-07,xG_ag,2.69,H,6422,Fortuna Sittard,Eredivisie
-810,3377686,2021-03-07,xG_for,2.69,A,8640,PSV Eindhoven,Eredivisie
-811,3377686,2021-03-07,xG_ag,1.04,A,8640,PSV Eindhoven,Eredivisie
-812,3377687,2021-03-07,xG_for,2.8,H,9791,Heracles,Eredivisie
-813,3377687,2021-03-07,xG_ag,0.88,H,9791,Heracles,Eredivisie
-814,3377687,2021-03-07,xG_for,0.88,A,6413,PEC Zwolle,Eredivisie
-815,3377687,2021-03-07,xG_ag,2.8,A,6413,PEC Zwolle,Eredivisie
-816,3377688,2021-03-07,xG_for,1.2,H,10219,RKC Waalwijk,Eredivisie
-817,3377688,2021-03-07,xG_ag,2.47,H,10219,RKC Waalwijk,Eredivisie
-818,3377688,2021-03-07,xG_for,2.47,A,9908,FC Utrecht,Eredivisie
-819,3377688,2021-03-07,xG_ag,1.2,A,9908,FC Utrecht,Eredivisie
-820,3377689,2021-03-07,xG_for,2.68,H,10228,SC Heerenveen,Eredivisie
-821,3377689,2021-03-07,xG_ag,0.96,H,10228,SC Heerenveen,Eredivisie
-822,3377689,2021-03-07,xG_for,0.96,A,10217,ADO Den Haag,Eredivisie
-823,3377689,2021-03-07,xG_ag,2.68,A,10217,ADO Den Haag,Eredivisie
-824,3377690,2021-03-07,xG_for,1.15,H,8277,Vitesse,Eredivisie
-825,3377690,2021-03-07,xG_ag,1.62,H,8277,Vitesse,Eredivisie
-826,3377690,2021-03-07,xG_for,1.62,A,10229,AZ Alkmaar,Eredivisie
-827,3377690,2021-03-07,xG_ag,1.15,A,10229,AZ Alkmaar,Eredivisie
-828,3377691,2021-03-14,xG_for,1.05,H,10217,ADO Den Haag,Eredivisie
-829,3377691,2021-03-14,xG_ag,1.4,H,10217,ADO Den Haag,Eredivisie
-830,3377691,2021-03-14,xG_for,1.4,A,9791,Heracles,Eredivisie
-831,3377691,2021-03-14,xG_ag,1.05,A,9791,Heracles,Eredivisie
-832,3377692,2021-03-14,xG_for,1.89,H,10229,AZ Alkmaar,Eredivisie
-833,3377692,2021-03-14,xG_ag,1.03,H,10229,AZ Alkmaar,Eredivisie
-834,3377692,2021-03-14,xG_for,1.03,A,8611,FC Twente,Eredivisie
-835,3377692,2021-03-14,xG_ag,1.89,A,8611,FC Twente,Eredivisie
-836,3377693,2021-03-14,xG_for,1.13,H,8674,FC Groningen,Eredivisie
-837,3377693,2021-03-14,xG_ag,1.57,H,8674,FC Groningen,Eredivisie
-838,3377693,2021-03-14,xG_for,1.57,A,6660,FC Emmen,Eredivisie
-839,3377693,2021-03-14,xG_ag,1.13,A,6660,FC Emmen,Eredivisie
-840,3377694,2021-03-14,xG_for,2.49,H,9908,FC Utrecht,Eredivisie
-841,3377694,2021-03-14,xG_ag,1.27,H,9908,FC Utrecht,Eredivisie
-842,3377694,2021-03-14,xG_for,1.27,A,8277,Vitesse,Eredivisie
-843,3377694,2021-03-14,xG_ag,2.49,A,8277,Vitesse,Eredivisie
-844,3377695,2021-03-14,xG_for,0.1,H,6413,PEC Zwolle,Eredivisie
-845,3377695,2021-03-14,xG_ag,2.79,H,6413,PEC Zwolle,Eredivisie
-846,3377695,2021-03-14,xG_for,2.79,A,8593,Ajax,Eredivisie
-847,3377695,2021-03-14,xG_ag,0.1,A,8593,Ajax,Eredivisie
-848,3377696,2021-03-14,xG_for,1.85,H,8640,PSV Eindhoven,Eredivisie
-849,3377696,2021-03-14,xG_ag,0.96,H,8640,PSV Eindhoven,Eredivisie
-850,3377696,2021-03-14,xG_for,0.96,A,10235,Feyenoord,Eredivisie
-851,3377696,2021-03-14,xG_ag,1.85,A,10235,Feyenoord,Eredivisie
-852,3377697,2021-03-14,xG_for,1.7,H,8614,Sparta Rotterdam,Eredivisie
-853,3377697,2021-03-14,xG_ag,0.43,H,8614,Sparta Rotterdam,Eredivisie
-854,3377697,2021-03-14,xG_for,0.43,A,10219,RKC Waalwijk,Eredivisie
-855,3377697,2021-03-14,xG_ag,1.7,A,10219,RKC Waalwijk,Eredivisie
-856,3377698,2021-03-14,xG_for,1.8,H,9839,VVV-Venlo,Eredivisie
-857,3377698,2021-03-14,xG_ag,2.34,H,9839,VVV-Venlo,Eredivisie
-858,3377698,2021-03-14,xG_for,2.34,A,6422,Fortuna Sittard,Eredivisie
-859,3377698,2021-03-14,xG_ag,1.8,A,6422,Fortuna Sittard,Eredivisie
-860,3377699,2021-03-13,xG_for,1.97,H,8525,Willem II,Eredivisie
-861,3377699,2021-03-13,xG_ag,2.25,H,8525,Willem II,Eredivisie
-862,3377699,2021-03-13,xG_for,2.25,A,10228,SC Heerenveen,Eredivisie
-863,3377699,2021-03-13,xG_ag,1.97,A,10228,SC Heerenveen,Eredivisie
-864,3377700,2021-03-22,xG_for,3.56,H,8593,Ajax,Eredivisie
-865,3377700,2021-03-22,xG_ag,0.06,H,8593,Ajax,Eredivisie
-866,3377700,2021-03-22,xG_for,0.06,A,10217,ADO Den Haag,Eredivisie
-867,3377700,2021-03-22,xG_ag,3.56,A,10217,ADO Den Haag,Eredivisie
-868,3377701,2021-03-21,xG_for,0.43,H,10229,AZ Alkmaar,Eredivisie
-869,3377701,2021-03-21,xG_ag,1.79,H,10229,AZ Alkmaar,Eredivisie
-870,3377701,2021-03-21,xG_for,1.79,A,8640,PSV Eindhoven,Eredivisie
-871,3377701,2021-03-21,xG_ag,0.43,A,8640,PSV Eindhoven,Eredivisie
-872,3377702,2021-03-21,xG_for,1.12,H,10235,Feyenoord,Eredivisie
-873,3377702,2021-03-21,xG_ag,1.33,H,10235,Feyenoord,Eredivisie
-874,3377702,2021-03-21,xG_for,1.33,A,6660,FC Emmen,Eredivisie
-875,3377702,2021-03-21,xG_ag,1.12,A,6660,FC Emmen,Eredivisie
-876,3377703,2021-03-20,xG_for,0.45,H,6422,Fortuna Sittard,Eredivisie
-877,3377703,2021-03-20,xG_ag,2.48,H,6422,Fortuna Sittard,Eredivisie
-878,3377703,2021-03-20,xG_for,2.48,A,9908,FC Utrecht,Eredivisie
-879,3377703,2021-03-20,xG_ag,0.45,A,9908,FC Utrecht,Eredivisie
-880,3377704,2021-03-21,xG_for,0.69,H,9791,Heracles,Eredivisie
-881,3377704,2021-03-21,xG_ag,1.7,H,9791,Heracles,Eredivisie
-882,3377704,2021-03-21,xG_for,1.7,A,8614,Sparta Rotterdam,Eredivisie
-883,3377704,2021-03-21,xG_ag,0.69,A,8614,Sparta Rotterdam,Eredivisie
-884,3377705,2021-03-21,xG_for,2.05,H,6413,PEC Zwolle,Eredivisie
-885,3377705,2021-03-21,xG_ag,1.36,H,6413,PEC Zwolle,Eredivisie
-886,3377705,2021-03-21,xG_for,1.36,A,9839,VVV-Venlo,Eredivisie
-887,3377705,2021-03-21,xG_ag,2.05,A,9839,VVV-Venlo,Eredivisie
-888,3377706,2021-03-21,xG_for,2.24,H,10219,RKC Waalwijk,Eredivisie
-889,3377706,2021-03-21,xG_ag,2.15,H,10219,RKC Waalwijk,Eredivisie
-890,3377706,2021-03-21,xG_for,2.15,A,8674,FC Groningen,Eredivisie
-891,3377706,2021-03-21,xG_ag,2.24,A,8674,FC Groningen,Eredivisie
-892,3377707,2021-03-20,xG_for,0.6,H,10228,SC Heerenveen,Eredivisie
-893,3377707,2021-03-20,xG_ag,1.55,H,10228,SC Heerenveen,Eredivisie
-894,3377707,2021-03-20,xG_for,1.55,A,8611,FC Twente,Eredivisie
-895,3377707,2021-03-20,xG_ag,0.6,A,8611,FC Twente,Eredivisie
-896,3377708,2021-03-21,xG_for,0.61,H,8277,Vitesse,Eredivisie
-897,3377708,2021-03-21,xG_ag,1.48,H,8277,Vitesse,Eredivisie
-898,3377708,2021-03-21,xG_for,1.48,A,8525,Willem II,Eredivisie
-899,3377708,2021-03-21,xG_ag,0.61,A,8525,Willem II,Eredivisie
-900,3377709,2021-04-04,xG_for,0.35,H,10217,ADO Den Haag,Eredivisie
-901,3377709,2021-04-04,xG_ag,3.59,H,10217,ADO Den Haag,Eredivisie
-902,3377709,2021-04-04,xG_for,3.59,A,9908,FC Utrecht,Eredivisie
-903,3377709,2021-04-04,xG_ag,0.35,A,9908,FC Utrecht,Eredivisie
-904,3377710,2021-04-04,xG_for,4.0,H,6660,FC Emmen,Eredivisie
-905,3377710,2021-04-04,xG_ag,0.27,H,6660,FC Emmen,Eredivisie
-906,3377710,2021-04-04,xG_for,0.27,A,10219,RKC Waalwijk,Eredivisie
-907,3377710,2021-04-04,xG_ag,4.0,A,10219,RKC Waalwijk,Eredivisie
-908,3377711,2021-04-04,xG_for,0.82,H,8611,FC Twente,Eredivisie
-909,3377711,2021-04-04,xG_ag,3.49,H,8611,FC Twente,Eredivisie
-910,3377711,2021-04-04,xG_for,3.49,A,8277,Vitesse,Eredivisie
-911,3377711,2021-04-04,xG_ag,0.82,A,8277,Vitesse,Eredivisie
-912,3377712,2021-04-04,xG_for,2.12,H,10235,Feyenoord,Eredivisie
-913,3377712,2021-04-04,xG_ag,0.53,H,10235,Feyenoord,Eredivisie
-914,3377712,2021-04-04,xG_for,0.53,A,6422,Fortuna Sittard,Eredivisie
-915,3377712,2021-04-04,xG_ag,2.12,A,6422,Fortuna Sittard,Eredivisie
-916,3377713,2021-04-04,xG_for,1.11,H,8640,PSV Eindhoven,Eredivisie
-917,3377713,2021-04-04,xG_ag,0.44,H,8640,PSV Eindhoven,Eredivisie
-918,3377713,2021-04-04,xG_for,0.44,A,9791,Heracles,Eredivisie
-919,3377713,2021-04-04,xG_ag,1.11,A,9791,Heracles,Eredivisie
-920,3377714,2021-04-04,xG_for,0.77,H,10228,SC Heerenveen,Eredivisie
-921,3377714,2021-04-04,xG_ag,2.43,H,10228,SC Heerenveen,Eredivisie
-922,3377714,2021-04-04,xG_for,2.43,A,8593,Ajax,Eredivisie
-923,3377714,2021-04-04,xG_ag,0.77,A,8593,Ajax,Eredivisie
-924,3377715,2021-04-04,xG_for,2.95,H,8614,Sparta Rotterdam,Eredivisie
-925,3377715,2021-04-04,xG_ag,1.82,H,8614,Sparta Rotterdam,Eredivisie
-926,3377715,2021-04-04,xG_for,1.82,A,6413,PEC Zwolle,Eredivisie
-927,3377715,2021-04-04,xG_ag,2.95,A,6413,PEC Zwolle,Eredivisie
-928,3377716,2021-04-03,xG_for,0.56,H,9839,VVV-Venlo,Eredivisie
-929,3377716,2021-04-03,xG_ag,0.61,H,9839,VVV-Venlo,Eredivisie
-930,3377716,2021-04-03,xG_for,0.61,A,8674,FC Groningen,Eredivisie
-931,3377716,2021-04-03,xG_ag,0.56,A,8674,FC Groningen,Eredivisie
-932,3377717,2021-04-04,xG_for,0.54,H,8525,Willem II,Eredivisie
-933,3377717,2021-04-04,xG_ag,0.94,H,8525,Willem II,Eredivisie
-934,3377717,2021-04-04,xG_for,0.94,A,10229,AZ Alkmaar,Eredivisie
-935,3377717,2021-04-04,xG_ag,0.54,A,10229,AZ Alkmaar,Eredivisie
-936,3377718,2021-04-11,xG_for,2.18,H,10229,AZ Alkmaar,Eredivisie
-937,3377718,2021-04-11,xG_ag,0.34,H,10229,AZ Alkmaar,Eredivisie
-938,3377718,2021-04-11,xG_for,0.34,A,8614,Sparta Rotterdam,Eredivisie
-939,3377718,2021-04-11,xG_ag,2.18,A,8614,Sparta Rotterdam,Eredivisie
-940,3377719,2021-04-11,xG_for,1.44,H,8674,FC Groningen,Eredivisie
-941,3377719,2021-04-11,xG_ag,2.44,H,8674,FC Groningen,Eredivisie
-942,3377719,2021-04-11,xG_for,2.44,A,10228,SC Heerenveen,Eredivisie
-943,3377719,2021-04-11,xG_ag,1.44,A,10228,SC Heerenveen,Eredivisie
-944,3377720,2021-04-11,xG_for,0.95,H,9908,FC Utrecht,Eredivisie
-945,3377720,2021-04-11,xG_ag,0.39,H,9908,FC Utrecht,Eredivisie
-946,3377720,2021-04-11,xG_for,0.39,A,10235,Feyenoord,Eredivisie
-947,3377720,2021-04-11,xG_ag,0.95,A,10235,Feyenoord,Eredivisie
-948,3377721,2021-04-11,xG_for,0.94,H,6422,Fortuna Sittard,Eredivisie
-949,3377721,2021-04-11,xG_ag,3.08,H,6422,Fortuna Sittard,Eredivisie
-950,3377721,2021-04-11,xG_for,3.08,A,6660,FC Emmen,Eredivisie
-951,3377721,2021-04-11,xG_ag,0.94,A,6660,FC Emmen,Eredivisie
-952,3377722,2021-04-10,xG_for,1.6,H,9791,Heracles,Eredivisie
-953,3377722,2021-04-10,xG_ag,0.58,H,9791,Heracles,Eredivisie
-954,3377722,2021-04-10,xG_for,0.58,A,8525,Willem II,Eredivisie
-955,3377722,2021-04-10,xG_ag,1.6,A,8525,Willem II,Eredivisie
-956,3377723,2021-04-11,xG_for,0.67,H,6413,PEC Zwolle,Eredivisie
-957,3377723,2021-04-11,xG_ag,1.03,H,6413,PEC Zwolle,Eredivisie
-958,3377723,2021-04-11,xG_for,1.03,A,8611,FC Twente,Eredivisie
-959,3377723,2021-04-11,xG_ag,0.67,A,8611,FC Twente,Eredivisie
-960,3377724,2021-04-11,xG_for,0.22,H,10219,RKC Waalwijk,Eredivisie
-961,3377724,2021-04-11,xG_ag,1.34,H,10219,RKC Waalwijk,Eredivisie
-962,3377724,2021-04-11,xG_for,1.34,A,8593,Ajax,Eredivisie
-963,3377724,2021-04-11,xG_ag,0.22,A,8593,Ajax,Eredivisie
-964,3377725,2021-04-10,xG_for,1.36,H,8277,Vitesse,Eredivisie
-965,3377725,2021-04-10,xG_ag,0.31,H,8277,Vitesse,Eredivisie
-966,3377725,2021-04-10,xG_for,0.31,A,10217,ADO Den Haag,Eredivisie
-967,3377725,2021-04-10,xG_ag,1.36,A,10217,ADO Den Haag,Eredivisie
-968,3377726,2021-04-11,xG_for,0.17,H,9839,VVV-Venlo,Eredivisie
-969,3377726,2021-04-11,xG_ag,2.15,H,9839,VVV-Venlo,Eredivisie
-970,3377726,2021-04-11,xG_for,2.15,A,8640,PSV Eindhoven,Eredivisie
-971,3377726,2021-04-11,xG_ag,0.17,A,8640,PSV Eindhoven,Eredivisie
-972,3377727,2021-04-25,xG_for,1.24,H,10217,ADO Den Haag,Eredivisie
-973,3377727,2021-04-25,xG_ag,2.32,H,10217,ADO Den Haag,Eredivisie
-974,3377727,2021-04-25,xG_for,2.32,A,6422,Fortuna Sittard,Eredivisie
-975,3377727,2021-04-25,xG_ag,1.24,A,6422,Fortuna Sittard,Eredivisie
-976,3377728,2021-04-25,xG_for,3.39,H,8593,Ajax,Eredivisie
-977,3377728,2021-04-25,xG_ag,0.96,H,8593,Ajax,Eredivisie
-978,3377728,2021-04-25,xG_for,0.96,A,10229,AZ Alkmaar,Eredivisie
-979,3377728,2021-04-25,xG_ag,3.39,A,10229,AZ Alkmaar,Eredivisie
-980,3377729,2021-04-25,xG_for,1.67,H,6660,FC Emmen,Eredivisie
-981,3377729,2021-04-25,xG_ag,1.12,H,6660,FC Emmen,Eredivisie
-982,3377729,2021-04-25,xG_for,1.12,A,9791,Heracles,Eredivisie
-983,3377729,2021-04-25,xG_ag,1.67,A,9791,Heracles,Eredivisie
-984,3377730,2021-04-25,xG_for,0.82,H,8611,FC Twente,Eredivisie
-985,3377730,2021-04-25,xG_ag,1.46,H,8611,FC Twente,Eredivisie
-986,3377730,2021-04-25,xG_for,1.46,A,9908,FC Utrecht,Eredivisie
-987,3377730,2021-04-25,xG_ag,0.82,A,9908,FC Utrecht,Eredivisie
-988,3377731,2021-04-25,xG_for,1.71,H,10235,Feyenoord,Eredivisie
-989,3377731,2021-04-25,xG_ag,1.89,H,10235,Feyenoord,Eredivisie
-990,3377731,2021-04-25,xG_for,1.89,A,8277,Vitesse,Eredivisie
-991,3377731,2021-04-25,xG_ag,1.71,A,8277,Vitesse,Eredivisie
-992,3377732,2021-04-24,xG_for,3.02,H,8640,PSV Eindhoven,Eredivisie
-993,3377732,2021-04-24,xG_ag,0.72,H,8640,PSV Eindhoven,Eredivisie
-994,3377732,2021-04-24,xG_for,0.72,A,8674,FC Groningen,Eredivisie
-995,3377732,2021-04-24,xG_ag,3.02,A,8674,FC Groningen,Eredivisie
-996,3377733,2021-04-24,xG_for,0.49,H,10228,SC Heerenveen,Eredivisie
-997,3377733,2021-04-24,xG_ag,0.38,H,10228,SC Heerenveen,Eredivisie
-998,3377733,2021-04-24,xG_for,0.38,A,6413,PEC Zwolle,Eredivisie
-999,3377733,2021-04-24,xG_ag,0.49,A,6413,PEC Zwolle,Eredivisie
-1000,3377734,2021-04-24,xG_for,2.03,H,8614,Sparta Rotterdam,Eredivisie
-1001,3377734,2021-04-24,xG_ag,0.97,H,8614,Sparta Rotterdam,Eredivisie
-1002,3377734,2021-04-24,xG_for,0.97,A,9839,VVV-Venlo,Eredivisie
-1003,3377734,2021-04-24,xG_ag,2.03,A,9839,VVV-Venlo,Eredivisie
-1004,3377735,2021-04-23,xG_for,2.68,H,8525,Willem II,Eredivisie
-1005,3377735,2021-04-23,xG_ag,0.5,H,8525,Willem II,Eredivisie
-1006,3377735,2021-04-23,xG_for,0.5,A,10219,RKC Waalwijk,Eredivisie
-1007,3377735,2021-04-23,xG_ag,2.68,A,10219,RKC Waalwijk,Eredivisie
-1008,3377736,2021-05-02,xG_for,1.59,H,10217,ADO Den Haag,Eredivisie
-1009,3377736,2021-05-02,xG_ag,1.4,H,10217,ADO Den Haag,Eredivisie
-1010,3377736,2021-05-02,xG_for,1.4,A,10235,Feyenoord,Eredivisie
-1011,3377736,2021-05-02,xG_ag,1.59,A,10235,Feyenoord,Eredivisie
-1012,3377737,2021-05-02,xG_for,2.68,H,8593,Ajax,Eredivisie
-1013,3377737,2021-05-02,xG_ag,0.81,H,8593,Ajax,Eredivisie
-1014,3377737,2021-05-02,xG_for,0.81,A,6660,FC Emmen,Eredivisie
-1015,3377737,2021-05-02,xG_ag,2.68,A,6660,FC Emmen,Eredivisie
-1016,3377738,2021-05-02,xG_for,1.07,H,8674,FC Groningen,Eredivisie
-1017,3377738,2021-05-02,xG_ag,1.45,H,8674,FC Groningen,Eredivisie
-1018,3377738,2021-05-02,xG_for,1.45,A,8614,Sparta Rotterdam,Eredivisie
-1019,3377738,2021-05-02,xG_ag,1.07,A,8614,Sparta Rotterdam,Eredivisie
-1020,3377739,2021-05-02,xG_for,1.1,H,9908,FC Utrecht,Eredivisie
-1021,3377739,2021-05-02,xG_ag,1.62,H,9908,FC Utrecht,Eredivisie
-1022,3377739,2021-05-02,xG_for,1.62,A,8525,Willem II,Eredivisie
-1023,3377739,2021-05-02,xG_ag,1.1,A,8525,Willem II,Eredivisie
-1024,3377740,2021-05-01,xG_for,4.51,H,6422,Fortuna Sittard,Eredivisie
-1025,3377740,2021-05-01,xG_ag,0.28,H,6422,Fortuna Sittard,Eredivisie
-1026,3377740,2021-05-01,xG_for,0.28,A,8611,FC Twente,Eredivisie
-1027,3377740,2021-05-01,xG_ag,4.51,A,8611,FC Twente,Eredivisie
-1028,3377741,2021-05-01,xG_for,2.24,H,9791,Heracles,Eredivisie
-1029,3377741,2021-05-01,xG_ag,1.41,H,9791,Heracles,Eredivisie
-1030,3377741,2021-05-01,xG_for,1.41,A,9839,VVV-Venlo,Eredivisie
-1031,3377741,2021-05-01,xG_ag,2.24,A,9839,VVV-Venlo,Eredivisie
-1032,3377742,2021-05-02,xG_for,1.43,H,8640,PSV Eindhoven,Eredivisie
-1033,3377742,2021-05-02,xG_ag,0.75,H,8640,PSV Eindhoven,Eredivisie
-1034,3377742,2021-05-02,xG_for,0.75,A,10228,SC Heerenveen,Eredivisie
-1035,3377742,2021-05-02,xG_ag,1.43,A,10228,SC Heerenveen,Eredivisie
-1036,3377743,2021-05-02,xG_for,0.92,H,10219,RKC Waalwijk,Eredivisie
-1037,3377743,2021-05-02,xG_ag,3.21,H,10219,RKC Waalwijk,Eredivisie
-1038,3377743,2021-05-02,xG_for,3.21,A,10229,AZ Alkmaar,Eredivisie
-1039,3377743,2021-05-02,xG_ag,0.92,A,10229,AZ Alkmaar,Eredivisie
-1040,3377744,2021-05-02,xG_for,1.92,H,8277,Vitesse,Eredivisie
-1041,3377744,2021-05-02,xG_ag,1.57,H,8277,Vitesse,Eredivisie
-1042,3377744,2021-05-02,xG_for,1.57,A,6413,PEC Zwolle,Eredivisie
-1043,3377744,2021-05-02,xG_ag,1.92,A,6413,PEC Zwolle,Eredivisie
-1044,3377745,2021-05-09,xG_for,1.88,H,10229,AZ Alkmaar,Eredivisie
-1045,3377745,2021-05-09,xG_ag,0.5,H,10229,AZ Alkmaar,Eredivisie
-1046,3377745,2021-05-09,xG_for,0.5,A,6422,Fortuna Sittard,Eredivisie
-1047,3377745,2021-05-09,xG_ag,1.88,A,6422,Fortuna Sittard,Eredivisie
-1048,3377746,2021-05-09,xG_for,0.31,H,6660,FC Emmen,Eredivisie
-1049,3377746,2021-05-09,xG_ag,2.03,H,6660,FC Emmen,Eredivisie
-1050,3377746,2021-05-09,xG_for,2.03,A,8674,FC Groningen,Eredivisie
-1051,3377746,2021-05-09,xG_ag,0.31,A,8674,FC Groningen,Eredivisie
-1052,3377747,2021-05-08,xG_for,0.97,H,8611,FC Twente,Eredivisie
-1053,3377747,2021-05-08,xG_ag,0.34,H,8611,FC Twente,Eredivisie
-1054,3377747,2021-05-08,xG_for,0.34,A,9791,Heracles,Eredivisie
-1055,3377747,2021-05-08,xG_ag,0.97,A,9791,Heracles,Eredivisie
-1056,3377748,2021-05-09,xG_for,2.92,H,10235,Feyenoord,Eredivisie
-1057,3377748,2021-05-09,xG_ag,0.58,H,10235,Feyenoord,Eredivisie
-1058,3377748,2021-05-09,xG_for,0.58,A,8593,Ajax,Eredivisie
-1059,3377748,2021-05-09,xG_ag,2.92,A,8593,Ajax,Eredivisie
-1060,3377749,2021-05-09,xG_for,0.47,H,6413,PEC Zwolle,Eredivisie
-1061,3377749,2021-05-09,xG_ag,0.36,H,6413,PEC Zwolle,Eredivisie
-1062,3377749,2021-05-09,xG_for,0.36,A,10217,ADO Den Haag,Eredivisie
-1063,3377749,2021-05-09,xG_ag,0.47,A,10217,ADO Den Haag,Eredivisie
-1064,3377750,2021-05-08,xG_for,0.72,H,10228,SC Heerenveen,Eredivisie
-1065,3377750,2021-05-08,xG_ag,0.95,H,10228,SC Heerenveen,Eredivisie
-1066,3377750,2021-05-08,xG_for,0.95,A,9908,FC Utrecht,Eredivisie
-1067,3377750,2021-05-08,xG_ag,0.72,A,9908,FC Utrecht,Eredivisie
-1068,3377751,2021-05-08,xG_for,1.89,H,8614,Sparta Rotterdam,Eredivisie
-1069,3377751,2021-05-08,xG_ag,0.94,H,8614,Sparta Rotterdam,Eredivisie
-1070,3377751,2021-05-08,xG_for,0.94,A,8277,Vitesse,Eredivisie
-1071,3377751,2021-05-08,xG_ag,1.89,A,8277,Vitesse,Eredivisie
-1072,3377752,2021-05-09,xG_for,2.43,H,9839,VVV-Venlo,Eredivisie
-1073,3377752,2021-05-09,xG_ag,2.01,H,9839,VVV-Venlo,Eredivisie
-1074,3377752,2021-05-09,xG_for,2.01,A,10219,RKC Waalwijk,Eredivisie
-1075,3377752,2021-05-09,xG_ag,2.43,A,10219,RKC Waalwijk,Eredivisie
-1076,3377753,2021-05-09,xG_for,0.0,H,8525,Willem II,Eredivisie
-1077,3377753,2021-05-09,xG_ag,1.0,H,8525,Willem II,Eredivisie
-1078,3377753,2021-05-09,xG_for,1.0,A,8640,PSV Eindhoven,Eredivisie
-1079,3377753,2021-05-09,xG_ag,0.0,A,8640,PSV Eindhoven,Eredivisie
-1080,3377754,2021-05-13,xG_for,1.42,H,10217,ADO Den Haag,Eredivisie
-1081,3377754,2021-05-13,xG_ag,3.22,H,10217,ADO Den Haag,Eredivisie
-1082,3377754,2021-05-13,xG_for,3.22,A,8525,Willem II,Eredivisie
-1083,3377754,2021-05-13,xG_ag,1.42,A,8525,Willem II,Eredivisie
-1084,3377755,2021-05-13,xG_for,3.73,H,8593,Ajax,Eredivisie
-1085,3377755,2021-05-13,xG_ag,0.91,H,8593,Ajax,Eredivisie
-1086,3377755,2021-05-13,xG_for,0.91,A,9839,VVV-Venlo,Eredivisie
-1087,3377755,2021-05-13,xG_ag,3.73,A,9839,VVV-Venlo,Eredivisie
-1088,3377756,2021-05-13,xG_for,3.58,H,6660,FC Emmen,Eredivisie
-1089,3377756,2021-05-13,xG_ag,0.21,H,6660,FC Emmen,Eredivisie
-1090,3377756,2021-05-13,xG_for,0.21,A,10228,SC Heerenveen,Eredivisie
-1091,3377756,2021-05-13,xG_ag,3.58,A,10228,SC Heerenveen,Eredivisie
-1092,3377757,2021-05-13,xG_for,0.76,H,8674,FC Groningen,Eredivisie
-1093,3377757,2021-05-13,xG_ag,1.62,H,8674,FC Groningen,Eredivisie
-1094,3377757,2021-05-13,xG_for,1.62,A,10229,AZ Alkmaar,Eredivisie
-1095,3377757,2021-05-13,xG_ag,0.76,A,10229,AZ Alkmaar,Eredivisie
-1096,3377758,2021-05-13,xG_for,0.8,H,6422,Fortuna Sittard,Eredivisie
-1097,3377758,2021-05-13,xG_ag,1.86,H,6422,Fortuna Sittard,Eredivisie
-1098,3377758,2021-05-13,xG_for,1.86,A,8277,Vitesse,Eredivisie
-1099,3377758,2021-05-13,xG_ag,0.8,A,8277,Vitesse,Eredivisie
-1100,3377759,2021-05-13,xG_for,1.48,H,9791,Heracles,Eredivisie
-1101,3377759,2021-05-13,xG_ag,1.21,H,9791,Heracles,Eredivisie
-1102,3377759,2021-05-13,xG_for,1.21,A,10235,Feyenoord,Eredivisie
-1103,3377759,2021-05-13,xG_ag,1.48,A,10235,Feyenoord,Eredivisie
-1104,3377760,2021-05-13,xG_for,2.85,H,8640,PSV Eindhoven,Eredivisie
-1105,3377760,2021-05-13,xG_ag,0.75,H,8640,PSV Eindhoven,Eredivisie
-1106,3377760,2021-05-13,xG_for,0.75,A,6413,PEC Zwolle,Eredivisie
-1107,3377760,2021-05-13,xG_ag,2.85,A,6413,PEC Zwolle,Eredivisie
-1108,3377761,2021-05-13,xG_for,1.55,H,10219,RKC Waalwijk,Eredivisie
-1109,3377761,2021-05-13,xG_ag,1.07,H,10219,RKC Waalwijk,Eredivisie
-1110,3377761,2021-05-13,xG_for,1.07,A,8611,FC Twente,Eredivisie
-1111,3377761,2021-05-13,xG_ag,1.55,A,8611,FC Twente,Eredivisie
-1112,3377762,2021-05-13,xG_for,0.94,H,8614,Sparta Rotterdam,Eredivisie
-1113,3377762,2021-05-13,xG_ag,2.08,H,8614,Sparta Rotterdam,Eredivisie
-1114,3377762,2021-05-13,xG_for,2.08,A,9908,FC Utrecht,Eredivisie
-1115,3377762,2021-05-13,xG_ag,0.94,A,9908,FC Utrecht,Eredivisie
-1116,3377763,2021-05-16,xG_for,5.04,H,10229,AZ Alkmaar,Eredivisie
-1117,3377763,2021-05-16,xG_ag,0.49,H,10229,AZ Alkmaar,Eredivisie
-1118,3377763,2021-05-16,xG_for,0.49,A,9791,Heracles,Eredivisie
-1119,3377763,2021-05-16,xG_ag,5.04,A,9791,Heracles,Eredivisie
-1120,3377764,2021-05-16,xG_for,3.14,H,8611,FC Twente,Eredivisie
-1121,3377764,2021-05-16,xG_ag,0.63,H,8611,FC Twente,Eredivisie
-1122,3377764,2021-05-16,xG_for,0.63,A,10217,ADO Den Haag,Eredivisie
-1123,3377764,2021-05-16,xG_ag,3.14,A,10217,ADO Den Haag,Eredivisie
-1124,3377765,2021-05-16,xG_for,1.39,H,9908,FC Utrecht,Eredivisie
-1125,3377765,2021-05-16,xG_ag,0.8,H,9908,FC Utrecht,Eredivisie
-1126,3377765,2021-05-16,xG_for,0.8,A,8640,PSV Eindhoven,Eredivisie
-1127,3377765,2021-05-16,xG_ag,1.39,A,8640,PSV Eindhoven,Eredivisie
-1128,3377766,2021-05-16,xG_for,1.68,H,10235,Feyenoord,Eredivisie
-1129,3377766,2021-05-16,xG_ag,0.17,H,10235,Feyenoord,Eredivisie
-1130,3377766,2021-05-16,xG_for,0.17,A,10219,RKC Waalwijk,Eredivisie
-1131,3377766,2021-05-16,xG_ag,1.68,A,10219,RKC Waalwijk,Eredivisie
-1132,3377767,2021-05-16,xG_for,0.61,H,6413,PEC Zwolle,Eredivisie
-1133,3377767,2021-05-16,xG_ag,1.44,H,6413,PEC Zwolle,Eredivisie
-1134,3377767,2021-05-16,xG_for,1.44,A,8674,FC Groningen,Eredivisie
-1135,3377767,2021-05-16,xG_ag,0.61,A,8674,FC Groningen,Eredivisie
-1136,3377768,2021-05-16,xG_for,0.75,H,10228,SC Heerenveen,Eredivisie
-1137,3377768,2021-05-16,xG_ag,0.61,H,10228,SC Heerenveen,Eredivisie
-1138,3377768,2021-05-16,xG_for,0.61,A,8614,Sparta Rotterdam,Eredivisie
-1139,3377768,2021-05-16,xG_ag,0.75,A,8614,Sparta Rotterdam,Eredivisie
-1140,3377769,2021-05-16,xG_for,0.77,H,8277,Vitesse,Eredivisie
-1141,3377769,2021-05-16,xG_ag,3.44,H,8277,Vitesse,Eredivisie
-1142,3377769,2021-05-16,xG_for,3.44,A,8593,Ajax,Eredivisie
-1143,3377769,2021-05-16,xG_ag,0.77,A,8593,Ajax,Eredivisie
-1144,3377770,2021-05-16,xG_for,1.04,H,9839,VVV-Venlo,Eredivisie
-1145,3377770,2021-05-16,xG_ag,3.42,H,9839,VVV-Venlo,Eredivisie
-1146,3377770,2021-05-16,xG_for,3.42,A,6660,FC Emmen,Eredivisie
-1147,3377770,2021-05-16,xG_ag,1.04,A,6660,FC Emmen,Eredivisie
-1148,3377771,2021-05-16,xG_for,2.13,H,8525,Willem II,Eredivisie
-1149,3377771,2021-05-16,xG_ag,0.46,H,8525,Willem II,Eredivisie
-1150,3377771,2021-05-16,xG_for,0.46,A,6422,Fortuna Sittard,Eredivisie
-1151,3377771,2021-05-16,xG_ag,2.13,A,6422,Fortuna Sittard,Eredivisie
+,match_id,date,variable,value,venue,team_id,team_name,league_name,round
+0,3377484,2020-09-26,xG_for,1.4,H,8611,FC Twente,Eredivisie,3
+1,3377484,2020-09-26,xG_ag,1.2,H,8611,FC Twente,Eredivisie,3
+2,3377484,2020-09-26,xG_for,1.2,A,8674,FC Groningen,Eredivisie,3
+3,3377484,2020-09-26,xG_ag,1.4,A,8674,FC Groningen,Eredivisie,3
+4,3377485,2020-09-26,xG_for,2.33,H,6413,PEC Zwolle,Eredivisie,3
+5,3377485,2020-09-26,xG_ag,0.86,H,6413,PEC Zwolle,Eredivisie,3
+6,3377485,2020-09-26,xG_for,0.86,A,8614,Sparta Rotterdam,Eredivisie,3
+7,3377485,2020-09-26,xG_ag,2.33,A,8614,Sparta Rotterdam,Eredivisie,3
+8,3377486,2020-09-26,xG_for,1.32,H,6422,Fortuna Sittard,Eredivisie,3
+9,3377486,2020-09-26,xG_ag,1.96,H,6422,Fortuna Sittard,Eredivisie,3
+10,3377486,2020-09-26,xG_for,1.96,A,10229,AZ Alkmaar,Eredivisie,3
+11,3377486,2020-09-26,xG_ag,1.32,A,10229,AZ Alkmaar,Eredivisie,3
+12,3377487,2020-09-27,xG_for,1.71,H,10228,SC Heerenveen,Eredivisie,3
+13,3377487,2020-09-27,xG_ag,0.54,H,10228,SC Heerenveen,Eredivisie,3
+14,3377487,2020-09-27,xG_for,0.54,A,9839,VVV-Venlo,Eredivisie,3
+15,3377487,2020-09-27,xG_ag,1.71,A,9839,VVV-Venlo,Eredivisie,3
+16,3377488,2020-09-27,xG_for,2.16,H,8593,Ajax,Eredivisie,3
+17,3377488,2020-09-27,xG_ag,1.86,H,8593,Ajax,Eredivisie,3
+18,3377488,2020-09-27,xG_for,1.86,A,8277,Vitesse,Eredivisie,3
+19,3377488,2020-09-27,xG_ag,2.16,A,8277,Vitesse,Eredivisie,3
+20,3377489,2020-09-27,xG_for,2.87,H,10235,Feyenoord,Eredivisie,3
+21,3377489,2020-09-27,xG_ag,1.86,H,10235,Feyenoord,Eredivisie,3
+22,3377489,2020-09-27,xG_for,1.86,A,10217,ADO Den Haag,Eredivisie,3
+23,3377489,2020-09-27,xG_ag,2.87,A,10217,ADO Den Haag,Eredivisie,3
+24,3377490,2020-09-27,xG_for,2.4,H,9908,FC Utrecht,Eredivisie,3
+25,3377490,2020-09-27,xG_ag,0.6,H,9908,FC Utrecht,Eredivisie,3
+26,3377490,2020-09-27,xG_for,0.6,A,10219,RKC Waalwijk,Eredivisie,3
+27,3377490,2020-09-27,xG_ag,2.4,A,10219,RKC Waalwijk,Eredivisie,3
+28,3377491,2020-09-27,xG_for,1.39,H,9791,Heracles,Eredivisie,3
+29,3377491,2020-09-27,xG_ag,1.48,H,9791,Heracles,Eredivisie,3
+30,3377491,2020-09-27,xG_for,1.48,A,8640,PSV Eindhoven,Eredivisie,3
+31,3377491,2020-09-27,xG_ag,1.39,A,8640,PSV Eindhoven,Eredivisie,3
+32,3377492,2020-09-27,xG_for,1.4,H,6660,FC Emmen,Eredivisie,3
+33,3377492,2020-09-27,xG_ag,1.41,H,6660,FC Emmen,Eredivisie,3
+34,3377492,2020-09-27,xG_for,1.41,A,8525,Willem II,Eredivisie,3
+35,3377492,2020-09-27,xG_ag,1.4,A,8525,Willem II,Eredivisie,3
+36,3377493,2020-10-03,xG_for,3.6,H,9908,FC Utrecht,Eredivisie,4
+37,3377493,2020-10-03,xG_ag,0.67,H,9908,FC Utrecht,Eredivisie,4
+38,3377493,2020-10-03,xG_for,0.67,A,10228,SC Heerenveen,Eredivisie,4
+39,3377493,2020-10-03,xG_ag,3.6,A,10228,SC Heerenveen,Eredivisie,4
+40,3377494,2020-10-03,xG_for,1.67,H,8277,Vitesse,Eredivisie,4
+41,3377494,2020-10-03,xG_ag,0.55,H,8277,Vitesse,Eredivisie,4
+42,3377494,2020-10-03,xG_for,0.55,A,9791,Heracles,Eredivisie,4
+43,3377494,2020-10-03,xG_ag,1.67,A,9791,Heracles,Eredivisie,4
+44,3377495,2020-10-21,xG_for,1.05,H,10219,RKC Waalwijk,Eredivisie,4
+45,3377495,2020-10-21,xG_ag,2.6,H,10219,RKC Waalwijk,Eredivisie,4
+46,3377495,2020-10-21,xG_for,2.6,A,6413,PEC Zwolle,Eredivisie,4
+47,3377495,2020-10-21,xG_ag,1.05,A,6413,PEC Zwolle,Eredivisie,4
+48,3377496,2020-10-04,xG_for,0.56,H,9839,VVV-Venlo,Eredivisie,4
+49,3377496,2020-10-04,xG_ag,1.78,H,9839,VVV-Venlo,Eredivisie,4
+50,3377496,2020-10-04,xG_for,1.78,A,10217,ADO Den Haag,Eredivisie,4
+51,3377496,2020-10-04,xG_ag,0.56,A,10217,ADO Den Haag,Eredivisie,4
+52,3377497,2020-10-04,xG_for,1.82,H,8611,FC Twente,Eredivisie,4
+53,3377497,2020-10-04,xG_ag,1.14,H,8611,FC Twente,Eredivisie,4
+54,3377497,2020-10-04,xG_for,1.14,A,6660,FC Emmen,Eredivisie,4
+55,3377497,2020-10-04,xG_ag,1.82,A,6660,FC Emmen,Eredivisie,4
+56,3377498,2020-10-04,xG_for,1.09,H,8674,FC Groningen,Eredivisie,4
+57,3377498,2020-10-04,xG_ag,1.95,H,8674,FC Groningen,Eredivisie,4
+58,3377498,2020-10-04,xG_for,1.95,A,8593,Ajax,Eredivisie,4
+59,3377498,2020-10-04,xG_ag,1.09,A,8593,Ajax,Eredivisie,4
+60,3377499,2020-10-04,xG_for,1.85,H,8614,Sparta Rotterdam,Eredivisie,4
+61,3377499,2020-10-04,xG_ag,3.48,H,8614,Sparta Rotterdam,Eredivisie,4
+62,3377499,2020-10-04,xG_for,3.48,A,10229,AZ Alkmaar,Eredivisie,4
+63,3377499,2020-10-04,xG_ag,1.85,A,10229,AZ Alkmaar,Eredivisie,4
+64,3377500,2020-10-04,xG_for,0.7,H,8525,Willem II,Eredivisie,4
+65,3377500,2020-10-04,xG_ag,2.37,H,8525,Willem II,Eredivisie,4
+66,3377500,2020-10-04,xG_for,2.37,A,10235,Feyenoord,Eredivisie,4
+67,3377500,2020-10-04,xG_ag,0.7,A,10235,Feyenoord,Eredivisie,4
+68,3377501,2020-10-04,xG_for,1.85,H,8640,PSV Eindhoven,Eredivisie,4
+69,3377501,2020-10-04,xG_ag,1.06,H,8640,PSV Eindhoven,Eredivisie,4
+70,3377501,2020-10-04,xG_for,1.06,A,6422,Fortuna Sittard,Eredivisie,4
+71,3377501,2020-10-04,xG_ag,1.85,A,6422,Fortuna Sittard,Eredivisie,4
+72,3377502,2020-10-18,xG_for,2.9,H,8593,Ajax,Eredivisie,5
+73,3377502,2020-10-18,xG_ag,1.01,H,8593,Ajax,Eredivisie,5
+74,3377502,2020-10-18,xG_for,1.01,A,10228,SC Heerenveen,Eredivisie,5
+75,3377502,2020-10-18,xG_ag,2.9,A,10228,SC Heerenveen,Eredivisie,5
+76,3377503,,xG_for,,H,,,,0
+77,3377503,,xG_ag,,H,,,,0
+78,3377503,,xG_for,,A,,,,0
+79,3377503,,xG_ag,,A,,,,0
+80,3377504,2020-10-17,xG_for,1.84,H,9791,Heracles,Eredivisie,5
+81,3377504,2020-10-17,xG_ag,0.26,H,9791,Heracles,Eredivisie,5
+82,3377504,2020-10-17,xG_for,0.26,A,10219,RKC Waalwijk,Eredivisie,5
+83,3377504,2020-10-17,xG_ag,1.84,A,10219,RKC Waalwijk,Eredivisie,5
+84,3377505,2020-10-18,xG_for,1.51,H,10229,AZ Alkmaar,Eredivisie,5
+85,3377505,2020-10-18,xG_ag,1.64,H,10229,AZ Alkmaar,Eredivisie,5
+86,3377505,2020-10-18,xG_for,1.64,A,9839,VVV-Venlo,Eredivisie,5
+87,3377505,2020-10-18,xG_ag,1.51,A,9839,VVV-Venlo,Eredivisie,5
+88,3377506,2020-10-18,xG_for,1.24,H,10235,Feyenoord,Eredivisie,5
+89,3377506,2020-10-18,xG_ag,2.15,H,10235,Feyenoord,Eredivisie,5
+90,3377506,2020-10-18,xG_for,2.15,A,8614,Sparta Rotterdam,Eredivisie,5
+91,3377506,2020-10-18,xG_ag,1.24,A,8614,Sparta Rotterdam,Eredivisie,5
+92,3377507,2020-10-18,xG_for,1.18,H,10217,ADO Den Haag,Eredivisie,5
+93,3377507,2020-10-18,xG_ag,1.41,H,10217,ADO Den Haag,Eredivisie,5
+94,3377507,2020-10-18,xG_for,1.41,A,8277,Vitesse,Eredivisie,5
+95,3377507,2020-10-18,xG_ag,1.18,A,8277,Vitesse,Eredivisie,5
+96,3377508,2020-10-19,xG_for,1.46,H,6660,FC Emmen,Eredivisie,5
+97,3377508,2020-10-19,xG_ag,1.49,H,6660,FC Emmen,Eredivisie,5
+98,3377508,2020-10-19,xG_for,1.49,A,6422,Fortuna Sittard,Eredivisie,5
+99,3377508,2020-10-19,xG_ag,1.46,A,6422,Fortuna Sittard,Eredivisie,5
+100,3377509,2020-10-18,xG_for,1.04,H,8674,FC Groningen,Eredivisie,5
+101,3377509,2020-10-18,xG_ag,1.64,H,8674,FC Groningen,Eredivisie,5
+102,3377509,2020-10-18,xG_for,1.64,A,9908,FC Utrecht,Eredivisie,5
+103,3377509,2020-10-18,xG_ag,1.04,A,9908,FC Utrecht,Eredivisie,5
+104,3377510,2020-10-18,xG_for,2.13,H,6413,PEC Zwolle,Eredivisie,5
+105,3377510,2020-10-18,xG_ag,2.5,H,6413,PEC Zwolle,Eredivisie,5
+106,3377510,2020-10-18,xG_for,2.5,A,8640,PSV Eindhoven,Eredivisie,5
+107,3377510,2020-10-18,xG_ag,2.13,A,8640,PSV Eindhoven,Eredivisie,5
+108,3377511,2020-10-24,xG_for,0.32,H,9839,VVV-Venlo,Eredivisie,6
+109,3377511,2020-10-24,xG_ag,9.28,H,9839,VVV-Venlo,Eredivisie,6
+110,3377511,2020-10-24,xG_for,9.28,A,8593,Ajax,Eredivisie,6
+111,3377511,2020-10-24,xG_ag,0.32,A,8593,Ajax,Eredivisie,6
+112,3377512,2020-10-24,xG_for,1.36,H,9908,FC Utrecht,Eredivisie,6
+113,3377512,2020-10-24,xG_ag,1.18,H,9908,FC Utrecht,Eredivisie,6
+114,3377512,2020-10-24,xG_for,1.18,A,8611,FC Twente,Eredivisie,6
+115,3377512,2020-10-24,xG_ag,1.36,A,8611,FC Twente,Eredivisie,6
+116,3377513,2020-10-26,xG_for,0.65,H,10217,ADO Den Haag,Eredivisie,6
+117,3377513,2020-10-26,xG_ag,2.31,H,10217,ADO Den Haag,Eredivisie,6
+118,3377513,2020-10-26,xG_for,2.31,A,10229,AZ Alkmaar,Eredivisie,6
+119,3377513,2020-10-26,xG_ag,0.65,A,10229,AZ Alkmaar,Eredivisie,6
+120,3377514,2020-10-25,xG_for,2.19,H,10228,SC Heerenveen,Eredivisie,6
+121,3377514,2020-10-25,xG_ag,0.54,H,10228,SC Heerenveen,Eredivisie,6
+122,3377514,2020-10-25,xG_for,0.54,A,6660,FC Emmen,Eredivisie,6
+123,3377514,2020-10-25,xG_ag,2.19,A,6660,FC Emmen,Eredivisie,6
+124,3377515,2020-10-25,xG_for,0.5,H,10219,RKC Waalwijk,Eredivisie,6
+125,3377515,2020-10-25,xG_ag,1.52,H,10219,RKC Waalwijk,Eredivisie,6
+126,3377515,2020-10-25,xG_for,1.52,A,10235,Feyenoord,Eredivisie,6
+127,3377515,2020-10-25,xG_ag,0.5,A,10235,Feyenoord,Eredivisie,6
+128,3377516,2020-10-25,xG_for,1.4,H,6422,Fortuna Sittard,Eredivisie,6
+129,3377516,2020-10-25,xG_ag,2.6,H,6422,Fortuna Sittard,Eredivisie,6
+130,3377516,2020-10-25,xG_for,2.6,A,8674,FC Groningen,Eredivisie,6
+131,3377516,2020-10-25,xG_ag,1.4,A,8674,FC Groningen,Eredivisie,6
+132,3377517,2020-10-25,xG_for,0.84,H,8277,Vitesse,Eredivisie,6
+133,3377517,2020-10-25,xG_ag,0.76,H,8277,Vitesse,Eredivisie,6
+134,3377517,2020-10-25,xG_for,0.76,A,8640,PSV Eindhoven,Eredivisie,6
+135,3377517,2020-10-25,xG_ag,0.84,A,8640,PSV Eindhoven,Eredivisie,6
+136,3377518,2020-10-25,xG_for,0.89,H,6413,PEC Zwolle,Eredivisie,6
+137,3377518,2020-10-25,xG_ag,1.02,H,6413,PEC Zwolle,Eredivisie,6
+138,3377518,2020-10-25,xG_for,1.02,A,8525,Willem II,Eredivisie,6
+139,3377518,2020-10-25,xG_ag,0.89,A,8525,Willem II,Eredivisie,6
+140,3377519,2020-10-25,xG_for,0.65,H,8614,Sparta Rotterdam,Eredivisie,6
+141,3377519,2020-10-25,xG_ag,1.5,H,8614,Sparta Rotterdam,Eredivisie,6
+142,3377519,2020-10-25,xG_for,1.5,A,9791,Heracles,Eredivisie,6
+143,3377519,2020-10-25,xG_ag,0.65,A,9791,Heracles,Eredivisie,6
+144,3377520,2020-11-01,xG_for,5.64,H,8593,Ajax,Eredivisie,7
+145,3377520,2020-11-01,xG_ag,0.95,H,8593,Ajax,Eredivisie,7
+146,3377520,2020-11-01,xG_for,0.95,A,6422,Fortuna Sittard,Eredivisie,7
+147,3377520,2020-11-01,xG_ag,5.64,A,6422,Fortuna Sittard,Eredivisie,7
+148,3377521,2020-11-01,xG_for,0.91,H,8674,FC Groningen,Eredivisie,7
+149,3377521,2020-11-01,xG_ag,0.74,H,8674,FC Groningen,Eredivisie,7
+150,3377521,2020-11-01,xG_for,0.74,A,9839,VVV-Venlo,Eredivisie,7
+151,3377521,2020-11-01,xG_ag,0.91,A,9839,VVV-Venlo,Eredivisie,7
+152,3377522,2020-11-01,xG_for,1.4,H,8611,FC Twente,Eredivisie,7
+153,3377522,2020-11-01,xG_ag,1.25,H,8611,FC Twente,Eredivisie,7
+154,3377522,2020-11-01,xG_for,1.25,A,6413,PEC Zwolle,Eredivisie,7
+155,3377522,2020-11-01,xG_ag,1.4,A,6413,PEC Zwolle,Eredivisie,7
+156,3377523,2020-11-02,xG_for,3.51,H,10229,AZ Alkmaar,Eredivisie,7
+157,3377523,2020-11-02,xG_ag,0.37,H,10229,AZ Alkmaar,Eredivisie,7
+158,3377523,2020-11-02,xG_for,0.37,A,10219,RKC Waalwijk,Eredivisie,7
+159,3377523,2020-11-02,xG_ag,3.51,A,10219,RKC Waalwijk,Eredivisie,7
+160,3377524,2020-11-01,xG_for,2.14,H,9791,Heracles,Eredivisie,7
+161,3377524,2020-11-01,xG_ag,1.79,H,9791,Heracles,Eredivisie,7
+162,3377524,2020-11-01,xG_for,1.79,A,9908,FC Utrecht,Eredivisie,7
+163,3377524,2020-11-01,xG_ag,2.14,A,9908,FC Utrecht,Eredivisie,7
+164,3377525,2020-11-01,xG_for,3.35,H,8640,PSV Eindhoven,Eredivisie,7
+165,3377525,2020-11-01,xG_ag,0.42,H,8640,PSV Eindhoven,Eredivisie,7
+166,3377525,2020-11-01,xG_for,0.42,A,10217,ADO Den Haag,Eredivisie,7
+167,3377525,2020-11-01,xG_ag,3.35,A,10217,ADO Den Haag,Eredivisie,7
+168,3377526,2020-11-01,xG_for,1.52,H,8614,Sparta Rotterdam,Eredivisie,7
+169,3377526,2020-11-01,xG_ag,2.09,H,8614,Sparta Rotterdam,Eredivisie,7
+170,3377526,2020-11-01,xG_for,2.09,A,10228,SC Heerenveen,Eredivisie,7
+171,3377526,2020-11-01,xG_ag,1.52,A,10228,SC Heerenveen,Eredivisie,7
+172,3377527,2020-11-01,xG_for,1.2,H,6660,FC Emmen,Eredivisie,7
+173,3377527,2020-11-01,xG_ag,3.07,H,6660,FC Emmen,Eredivisie,7
+174,3377527,2020-11-01,xG_for,3.07,A,10235,Feyenoord,Eredivisie,7
+175,3377527,2020-11-01,xG_ag,1.2,A,10235,Feyenoord,Eredivisie,7
+176,3377528,2020-11-01,xG_for,1.05,H,8525,Willem II,Eredivisie,7
+177,3377528,2020-11-01,xG_ag,1.57,H,8525,Willem II,Eredivisie,7
+178,3377528,2020-11-01,xG_for,1.57,A,8277,Vitesse,Eredivisie,7
+179,3377528,2020-11-01,xG_ag,1.05,A,8277,Vitesse,Eredivisie,7
+180,3377529,2020-11-07,xG_for,0.68,H,6422,Fortuna Sittard,Eredivisie,8
+181,3377529,2020-11-07,xG_ag,0.54,H,6422,Fortuna Sittard,Eredivisie,8
+182,3377529,2020-11-07,xG_for,0.54,A,6413,PEC Zwolle,Eredivisie,8
+183,3377529,2020-11-07,xG_ag,0.68,A,6413,PEC Zwolle,Eredivisie,8
+184,3377530,2020-11-07,xG_for,0.57,H,10217,ADO Den Haag,Eredivisie,8
+185,3377530,2020-11-07,xG_ag,2.33,H,10217,ADO Den Haag,Eredivisie,8
+186,3377530,2020-11-07,xG_for,2.33,A,8611,FC Twente,Eredivisie,8
+187,3377530,2020-11-07,xG_ag,0.57,A,8611,FC Twente,Eredivisie,8
+188,3377531,2020-11-08,xG_for,3.14,H,9839,VVV-Venlo,Eredivisie,8
+189,3377531,2020-11-08,xG_ag,1.23,H,9839,VVV-Venlo,Eredivisie,8
+190,3377531,2020-11-08,xG_for,1.23,A,9791,Heracles,Eredivisie,8
+191,3377531,2020-11-08,xG_ag,3.14,A,9791,Heracles,Eredivisie,8
+192,3377532,2020-11-08,xG_for,0.52,H,10228,SC Heerenveen,Eredivisie,8
+193,3377532,2020-11-08,xG_ag,1.96,H,10228,SC Heerenveen,Eredivisie,8
+194,3377532,2020-11-08,xG_for,1.96,A,10229,AZ Alkmaar,Eredivisie,8
+195,3377532,2020-11-08,xG_ag,0.52,A,10229,AZ Alkmaar,Eredivisie,8
+196,3377533,2020-11-08,xG_for,1.1,H,8277,Vitesse,Eredivisie,8
+197,3377533,2020-11-08,xG_ag,2.48,H,8277,Vitesse,Eredivisie,8
+198,3377533,2020-11-08,xG_for,2.48,A,6660,FC Emmen,Eredivisie,8
+199,3377533,2020-11-08,xG_ag,1.1,A,6660,FC Emmen,Eredivisie,8
+200,3377534,2020-11-08,xG_for,0.85,H,9908,FC Utrecht,Eredivisie,8
+201,3377534,2020-11-08,xG_ag,2.86,H,9908,FC Utrecht,Eredivisie,8
+202,3377534,2020-11-08,xG_for,2.86,A,8593,Ajax,Eredivisie,8
+203,3377534,2020-11-08,xG_ag,0.85,A,8593,Ajax,Eredivisie,8
+204,3377535,2020-11-09,xG_for,2.19,H,8640,PSV Eindhoven,Eredivisie,8
+205,3377535,2020-11-09,xG_ag,1.01,H,8640,PSV Eindhoven,Eredivisie,8
+206,3377535,2020-11-09,xG_for,1.01,A,8525,Willem II,Eredivisie,8
+207,3377535,2020-11-09,xG_ag,2.19,A,8525,Willem II,Eredivisie,8
+208,3377536,2020-11-08,xG_for,0.75,H,10219,RKC Waalwijk,Eredivisie,8
+209,3377536,2020-11-08,xG_ag,1.73,H,10219,RKC Waalwijk,Eredivisie,8
+210,3377536,2020-11-08,xG_for,1.73,A,8614,Sparta Rotterdam,Eredivisie,8
+211,3377536,2020-11-08,xG_ag,0.75,A,8614,Sparta Rotterdam,Eredivisie,8
+212,3377537,2020-11-08,xG_for,1.9,H,10235,Feyenoord,Eredivisie,8
+213,3377537,2020-11-08,xG_ag,0.66,H,10235,Feyenoord,Eredivisie,8
+214,3377537,2020-11-08,xG_for,0.66,A,8674,FC Groningen,Eredivisie,8
+215,3377537,2020-11-08,xG_ag,1.9,A,8674,FC Groningen,Eredivisie,8
+216,3377538,2020-11-22,xG_for,2.28,H,8593,Ajax,Eredivisie,9
+217,3377538,2020-11-22,xG_ag,0.44,H,8593,Ajax,Eredivisie,9
+218,3377538,2020-11-22,xG_for,0.44,A,9791,Heracles,Eredivisie,9
+219,3377538,2020-11-22,xG_ag,2.28,A,9791,Heracles,Eredivisie,9
+220,3377539,2020-11-22,xG_for,0.72,H,8525,Willem II,Eredivisie,9
+221,3377539,2020-11-22,xG_ag,1.84,H,8525,Willem II,Eredivisie,9
+222,3377539,2020-11-22,xG_for,1.84,A,9839,VVV-Venlo,Eredivisie,9
+223,3377539,2020-11-22,xG_ag,0.72,A,9839,VVV-Venlo,Eredivisie,9
+224,3377540,2020-11-23,xG_for,3.25,H,10229,AZ Alkmaar,Eredivisie,9
+225,3377540,2020-11-23,xG_ag,0.35,H,10229,AZ Alkmaar,Eredivisie,9
+226,3377540,2020-11-23,xG_for,0.35,A,6660,FC Emmen,Eredivisie,9
+227,3377540,2020-11-23,xG_ag,3.25,A,6660,FC Emmen,Eredivisie,9
+228,3377541,2020-11-22,xG_for,0.81,H,6413,PEC Zwolle,Eredivisie,9
+229,3377541,2020-11-22,xG_ag,0.44,H,6413,PEC Zwolle,Eredivisie,9
+230,3377541,2020-11-22,xG_for,0.44,A,9908,FC Utrecht,Eredivisie,9
+231,3377541,2020-11-22,xG_ag,0.81,A,9908,FC Utrecht,Eredivisie,9
+232,3377542,2020-11-22,xG_for,3.04,H,8614,Sparta Rotterdam,Eredivisie,9
+233,3377542,2020-11-22,xG_ag,0.1,H,8614,Sparta Rotterdam,Eredivisie,9
+234,3377542,2020-11-22,xG_for,0.1,A,10217,ADO Den Haag,Eredivisie,9
+235,3377542,2020-11-22,xG_ag,3.04,A,10217,ADO Den Haag,Eredivisie,9
+236,3377543,2020-11-22,xG_for,0.64,H,8674,FC Groningen,Eredivisie,9
+237,3377543,2020-11-22,xG_ag,1.56,H,8674,FC Groningen,Eredivisie,9
+238,3377543,2020-11-22,xG_for,1.56,A,8277,Vitesse,Eredivisie,9
+239,3377543,2020-11-22,xG_ag,0.64,A,8277,Vitesse,Eredivisie,9
+240,3377544,2020-11-22,xG_for,1.06,H,6422,Fortuna Sittard,Eredivisie,9
+241,3377544,2020-11-22,xG_ag,3.21,H,6422,Fortuna Sittard,Eredivisie,9
+242,3377544,2020-11-22,xG_for,3.21,A,10235,Feyenoord,Eredivisie,9
+243,3377544,2020-11-22,xG_ag,1.06,A,10235,Feyenoord,Eredivisie,9
+244,3377545,2020-11-22,xG_for,1.18,H,8611,FC Twente,Eredivisie,9
+245,3377545,2020-11-22,xG_ag,2.9,H,8611,FC Twente,Eredivisie,9
+246,3377545,2020-11-22,xG_for,2.9,A,8640,PSV Eindhoven,Eredivisie,9
+247,3377545,2020-11-22,xG_ag,1.18,A,8640,PSV Eindhoven,Eredivisie,9
+248,3377546,2020-11-22,xG_for,2.45,H,10219,RKC Waalwijk,Eredivisie,9
+249,3377546,2020-11-22,xG_ag,1.86,H,10219,RKC Waalwijk,Eredivisie,9
+250,3377546,2020-11-22,xG_for,1.86,A,10228,SC Heerenveen,Eredivisie,9
+251,3377546,2020-11-22,xG_ag,2.45,A,10228,SC Heerenveen,Eredivisie,9
+252,3377547,2020-11-28,xG_for,1.54,H,8611,FC Twente,Eredivisie,10
+253,3377547,2020-11-28,xG_ag,1.09,H,8611,FC Twente,Eredivisie,10
+254,3377547,2020-11-28,xG_for,1.09,A,10219,RKC Waalwijk,Eredivisie,10
+255,3377547,2020-11-28,xG_ag,1.54,A,10219,RKC Waalwijk,Eredivisie,10
+256,3377548,2020-11-29,xG_for,0.7,H,10217,ADO Den Haag,Eredivisie,10
+257,3377548,2020-11-29,xG_ag,2.58,H,10217,ADO Den Haag,Eredivisie,10
+258,3377548,2020-11-29,xG_for,2.58,A,10228,SC Heerenveen,Eredivisie,10
+259,3377548,2020-11-29,xG_ag,0.7,A,10228,SC Heerenveen,Eredivisie,10
+260,3377549,2020-11-29,xG_for,0.13,H,6660,FC Emmen,Eredivisie,10
+261,3377549,2020-11-29,xG_ag,4.39,H,6660,FC Emmen,Eredivisie,10
+262,3377549,2020-11-29,xG_for,4.39,A,8593,Ajax,Eredivisie,10
+263,3377549,2020-11-29,xG_ag,0.13,A,8593,Ajax,Eredivisie,10
+264,3377550,2020-11-29,xG_for,0.2,H,9791,Heracles,Eredivisie,10
+265,3377550,2020-11-29,xG_ag,2.28,H,9791,Heracles,Eredivisie,10
+266,3377550,2020-11-29,xG_for,2.28,A,10229,AZ Alkmaar,Eredivisie,10
+267,3377550,2020-11-29,xG_ag,0.2,A,10229,AZ Alkmaar,Eredivisie,10
+268,3377551,2020-11-29,xG_for,1.35,H,9839,VVV-Venlo,Eredivisie,10
+269,3377551,2020-11-29,xG_ag,2.11,H,9839,VVV-Venlo,Eredivisie,10
+270,3377551,2020-11-29,xG_for,2.11,A,6413,PEC Zwolle,Eredivisie,10
+271,3377551,2020-11-29,xG_ag,1.35,A,6413,PEC Zwolle,Eredivisie,10
+272,3377552,2020-11-29,xG_for,1.6,H,8277,Vitesse,Eredivisie,10
+273,3377552,2020-11-29,xG_ag,0.54,H,8277,Vitesse,Eredivisie,10
+274,3377552,2020-11-29,xG_for,0.54,A,6422,Fortuna Sittard,Eredivisie,10
+275,3377552,2020-11-29,xG_ag,1.6,A,6422,Fortuna Sittard,Eredivisie,10
+276,3377553,2020-11-29,xG_for,0.77,H,8674,FC Groningen,Eredivisie,10
+277,3377553,2020-11-29,xG_ag,0.17,H,8674,FC Groningen,Eredivisie,10
+278,3377553,2020-11-29,xG_for,0.17,A,8525,Willem II,Eredivisie,10
+279,3377553,2020-11-29,xG_ag,0.77,A,8525,Willem II,Eredivisie,10
+280,3377554,2020-11-29,xG_for,0.87,H,10235,Feyenoord,Eredivisie,10
+281,3377554,2020-11-29,xG_ag,2.0,H,10235,Feyenoord,Eredivisie,10
+282,3377554,2020-11-29,xG_for,2.0,A,9908,FC Utrecht,Eredivisie,10
+283,3377554,2020-11-29,xG_ag,0.87,A,9908,FC Utrecht,Eredivisie,10
+284,3377555,2020-11-30,xG_for,1.24,H,8640,PSV Eindhoven,Eredivisie,10
+285,3377555,2020-11-30,xG_ag,1.08,H,8640,PSV Eindhoven,Eredivisie,10
+286,3377555,2020-11-30,xG_for,1.08,A,8614,Sparta Rotterdam,Eredivisie,10
+287,3377555,2020-11-30,xG_ag,1.24,A,8614,Sparta Rotterdam,Eredivisie,10
+288,3377556,2020-12-06,xG_for,3.33,H,6413,PEC Zwolle,Eredivisie,11
+289,3377556,2020-12-06,xG_ag,1.65,H,6413,PEC Zwolle,Eredivisie,11
+290,3377556,2020-12-06,xG_for,1.65,A,8277,Vitesse,Eredivisie,11
+291,3377556,2020-12-06,xG_ag,3.33,A,8277,Vitesse,Eredivisie,11
+292,3377557,2020-12-05,xG_for,2.7,H,10219,RKC Waalwijk,Eredivisie,11
+293,3377557,2020-12-05,xG_ag,1.33,H,10219,RKC Waalwijk,Eredivisie,11
+294,3377557,2020-12-05,xG_for,1.33,A,9839,VVV-Venlo,Eredivisie,11
+295,3377557,2020-12-05,xG_ag,2.7,A,9839,VVV-Venlo,Eredivisie,11
+296,3377558,2020-12-06,xG_for,0.65,H,10229,AZ Alkmaar,Eredivisie,11
+297,3377558,2020-12-06,xG_ag,1.14,H,10229,AZ Alkmaar,Eredivisie,11
+298,3377558,2020-12-06,xG_for,1.14,A,8674,FC Groningen,Eredivisie,11
+299,3377558,2020-12-06,xG_ag,0.65,A,8674,FC Groningen,Eredivisie,11
+300,3377559,2020-12-05,xG_for,0.7,H,8614,Sparta Rotterdam,Eredivisie,11
+301,3377559,2020-12-05,xG_ag,1.12,H,8614,Sparta Rotterdam,Eredivisie,11
+302,3377559,2020-12-05,xG_for,1.12,A,6660,FC Emmen,Eredivisie,11
+303,3377559,2020-12-05,xG_ag,0.7,A,6660,FC Emmen,Eredivisie,11
+304,3377560,2020-12-06,xG_for,2.21,H,8593,Ajax,Eredivisie,11
+305,3377560,2020-12-06,xG_ag,0.74,H,8593,Ajax,Eredivisie,11
+306,3377560,2020-12-06,xG_for,0.74,A,8611,FC Twente,Eredivisie,11
+307,3377560,2020-12-06,xG_ag,2.21,A,8611,FC Twente,Eredivisie,11
+308,3377561,2020-12-06,xG_for,1.7,H,9908,FC Utrecht,Eredivisie,11
+309,3377561,2020-12-06,xG_ag,1.3,H,9908,FC Utrecht,Eredivisie,11
+310,3377561,2020-12-06,xG_for,1.3,A,10217,ADO Den Haag,Eredivisie,11
+311,3377561,2020-12-06,xG_ag,1.7,A,10217,ADO Den Haag,Eredivisie,11
+312,3377562,2020-12-06,xG_for,2.39,H,10235,Feyenoord,Eredivisie,11
+313,3377562,2020-12-06,xG_ag,0.7,H,10235,Feyenoord,Eredivisie,11
+314,3377562,2020-12-06,xG_for,0.7,A,9791,Heracles,Eredivisie,11
+315,3377562,2020-12-06,xG_ag,2.39,A,9791,Heracles,Eredivisie,11
+316,3377563,2020-12-06,xG_for,1.61,H,6422,Fortuna Sittard,Eredivisie,11
+317,3377563,2020-12-06,xG_ag,0.49,H,6422,Fortuna Sittard,Eredivisie,11
+318,3377563,2020-12-06,xG_for,0.49,A,8525,Willem II,Eredivisie,11
+319,3377563,2020-12-06,xG_ag,1.61,A,8525,Willem II,Eredivisie,11
+320,3377564,2020-12-06,xG_for,1.6,H,10228,SC Heerenveen,Eredivisie,11
+321,3377564,2020-12-06,xG_ag,2.15,H,10228,SC Heerenveen,Eredivisie,11
+322,3377564,2020-12-06,xG_for,2.15,A,8640,PSV Eindhoven,Eredivisie,11
+323,3377564,2020-12-06,xG_ag,1.6,A,8640,PSV Eindhoven,Eredivisie,11
+324,3377565,2020-12-12,xG_for,1.42,H,9791,Heracles,Eredivisie,12
+325,3377565,2020-12-12,xG_ag,0.96,H,9791,Heracles,Eredivisie,12
+326,3377565,2020-12-12,xG_for,0.96,A,6422,Fortuna Sittard,Eredivisie,12
+327,3377565,2020-12-12,xG_ag,1.42,A,6422,Fortuna Sittard,Eredivisie,12
+328,3377566,2020-12-14,xG_for,1.52,H,8611,FC Twente,Eredivisie,12
+329,3377566,2020-12-14,xG_ag,2.08,H,8611,FC Twente,Eredivisie,12
+330,3377566,2020-12-14,xG_for,2.08,A,10229,AZ Alkmaar,Eredivisie,12
+331,3377566,2020-12-14,xG_ag,1.52,A,10229,AZ Alkmaar,Eredivisie,12
+332,3377567,2020-12-13,xG_for,2.06,H,6660,FC Emmen,Eredivisie,12
+333,3377567,2020-12-13,xG_ag,0.51,H,6660,FC Emmen,Eredivisie,12
+334,3377567,2020-12-13,xG_for,0.51,A,10217,ADO Den Haag,Eredivisie,12
+335,3377567,2020-12-13,xG_ag,2.06,A,10217,ADO Den Haag,Eredivisie,12
+336,3377568,2020-12-13,xG_for,3.06,H,8593,Ajax,Eredivisie,12
+337,3377568,2020-12-13,xG_ag,0.53,H,8593,Ajax,Eredivisie,12
+338,3377568,2020-12-13,xG_for,0.53,A,6413,PEC Zwolle,Eredivisie,12
+339,3377568,2020-12-13,xG_ag,3.06,A,6413,PEC Zwolle,Eredivisie,12
+340,3377569,2020-12-12,xG_for,1.63,H,8674,FC Groningen,Eredivisie,12
+341,3377569,2020-12-12,xG_ag,0.54,H,8674,FC Groningen,Eredivisie,12
+342,3377569,2020-12-12,xG_for,0.54,A,10219,RKC Waalwijk,Eredivisie,12
+343,3377569,2020-12-12,xG_ag,1.63,A,10219,RKC Waalwijk,Eredivisie,12
+344,3377570,2020-12-13,xG_for,1.19,H,8640,PSV Eindhoven,Eredivisie,12
+345,3377570,2020-12-13,xG_ag,1.48,H,8640,PSV Eindhoven,Eredivisie,12
+346,3377570,2020-12-13,xG_for,1.48,A,9908,FC Utrecht,Eredivisie,12
+347,3377570,2020-12-13,xG_ag,1.19,A,9908,FC Utrecht,Eredivisie,12
+348,3377571,2020-12-13,xG_for,1.83,H,8277,Vitesse,Eredivisie,12
+349,3377571,2020-12-13,xG_ag,1.27,H,8277,Vitesse,Eredivisie,12
+350,3377571,2020-12-13,xG_for,1.27,A,10228,SC Heerenveen,Eredivisie,12
+351,3377571,2020-12-13,xG_ag,1.83,A,10228,SC Heerenveen,Eredivisie,12
+352,3377572,2020-12-13,xG_for,0.64,H,9839,VVV-Venlo,Eredivisie,12
+353,3377572,2020-12-13,xG_ag,1.54,H,9839,VVV-Venlo,Eredivisie,12
+354,3377572,2020-12-13,xG_for,1.54,A,10235,Feyenoord,Eredivisie,12
+355,3377572,2020-12-13,xG_ag,0.64,A,10235,Feyenoord,Eredivisie,12
+356,3377573,2020-12-13,xG_for,1.77,H,8525,Willem II,Eredivisie,12
+357,3377573,2020-12-13,xG_ag,3.23,H,8525,Willem II,Eredivisie,12
+358,3377573,2020-12-13,xG_for,3.23,A,8614,Sparta Rotterdam,Eredivisie,12
+359,3377573,2020-12-13,xG_ag,1.77,A,8614,Sparta Rotterdam,Eredivisie,12
+360,3377574,2020-12-19,xG_for,1.11,H,6413,PEC Zwolle,Eredivisie,13
+361,3377574,2020-12-19,xG_ag,0.36,H,6413,PEC Zwolle,Eredivisie,13
+362,3377574,2020-12-19,xG_for,0.36,A,6660,FC Emmen,Eredivisie,13
+363,3377574,2020-12-19,xG_ag,1.11,A,6660,FC Emmen,Eredivisie,13
+364,3377575,2020-12-19,xG_for,1.62,H,8614,Sparta Rotterdam,Eredivisie,13
+365,3377575,2020-12-19,xG_ag,1.84,H,8614,Sparta Rotterdam,Eredivisie,13
+366,3377575,2020-12-19,xG_for,1.84,A,8674,FC Groningen,Eredivisie,13
+367,3377575,2020-12-19,xG_ag,1.62,A,8674,FC Groningen,Eredivisie,13
+368,3377576,2020-12-20,xG_for,0.56,H,9839,VVV-Venlo,Eredivisie,13
+369,3377576,2020-12-20,xG_ag,1.46,H,9839,VVV-Venlo,Eredivisie,13
+370,3377576,2020-12-20,xG_for,1.46,A,8611,FC Twente,Eredivisie,13
+371,3377576,2020-12-20,xG_ag,0.56,A,8611,FC Twente,Eredivisie,13
+372,3377577,2020-12-20,xG_for,0.86,H,10219,RKC Waalwijk,Eredivisie,13
+373,3377577,2020-12-20,xG_ag,2.06,H,10219,RKC Waalwijk,Eredivisie,13
+374,3377577,2020-12-20,xG_for,2.06,A,8640,PSV Eindhoven,Eredivisie,13
+375,3377577,2020-12-20,xG_ag,0.86,A,8640,PSV Eindhoven,Eredivisie,13
+376,3377578,2020-12-20,xG_for,2.94,H,9908,FC Utrecht,Eredivisie,13
+377,3377578,2020-12-20,xG_ag,1.13,H,9908,FC Utrecht,Eredivisie,13
+378,3377578,2020-12-20,xG_for,1.13,A,6422,Fortuna Sittard,Eredivisie,13
+379,3377578,2020-12-20,xG_ag,2.94,A,6422,Fortuna Sittard,Eredivisie,13
+380,3377579,2020-12-20,xG_for,1.68,H,8277,Vitesse,Eredivisie,13
+381,3377579,2020-12-20,xG_ag,2.37,H,8277,Vitesse,Eredivisie,13
+382,3377579,2020-12-20,xG_for,2.37,A,10235,Feyenoord,Eredivisie,13
+383,3377579,2020-12-20,xG_ag,1.68,A,10235,Feyenoord,Eredivisie,13
+384,3377580,2020-12-20,xG_for,0.62,H,10217,ADO Den Haag,Eredivisie,13
+385,3377580,2020-12-20,xG_ag,4.11,H,10217,ADO Den Haag,Eredivisie,13
+386,3377580,2020-12-20,xG_for,4.11,A,8593,Ajax,Eredivisie,13
+387,3377580,2020-12-20,xG_ag,0.62,A,8593,Ajax,Eredivisie,13
+388,3377581,2020-12-20,xG_for,1.07,H,10228,SC Heerenveen,Eredivisie,13
+389,3377581,2020-12-20,xG_ag,1.69,H,10228,SC Heerenveen,Eredivisie,13
+390,3377581,2020-12-20,xG_for,1.69,A,9791,Heracles,Eredivisie,13
+391,3377581,2020-12-20,xG_ag,1.07,A,9791,Heracles,Eredivisie,13
+392,3377582,2020-12-20,xG_for,1.78,H,10229,AZ Alkmaar,Eredivisie,13
+393,3377582,2020-12-20,xG_ag,1.55,H,10229,AZ Alkmaar,Eredivisie,13
+394,3377582,2020-12-20,xG_for,1.55,A,8525,Willem II,Eredivisie,13
+395,3377582,2020-12-20,xG_ag,1.78,A,8525,Willem II,Eredivisie,13
+396,3377583,2020-12-22,xG_for,3.42,H,6422,Fortuna Sittard,Eredivisie,14
+397,3377583,2020-12-22,xG_ag,1.02,H,6422,Fortuna Sittard,Eredivisie,14
+398,3377583,2020-12-22,xG_for,1.02,A,10219,RKC Waalwijk,Eredivisie,14
+399,3377583,2020-12-22,xG_ag,3.42,A,10219,RKC Waalwijk,Eredivisie,14
+400,3377584,2020-12-23,xG_for,1.18,H,6660,FC Emmen,Eredivisie,14
+401,3377584,2020-12-23,xG_ag,2.46,H,6660,FC Emmen,Eredivisie,14
+402,3377584,2020-12-23,xG_for,2.46,A,9908,FC Utrecht,Eredivisie,14
+403,3377584,2020-12-23,xG_ag,1.18,A,9908,FC Utrecht,Eredivisie,14
+404,3377585,2020-12-23,xG_for,4.89,H,8640,PSV Eindhoven,Eredivisie,14
+405,3377585,2020-12-23,xG_ag,0.39,H,8640,PSV Eindhoven,Eredivisie,14
+406,3377585,2020-12-23,xG_for,0.39,A,9839,VVV-Venlo,Eredivisie,14
+407,3377585,2020-12-23,xG_ag,4.89,A,9839,VVV-Venlo,Eredivisie,14
+408,3377586,2020-12-23,xG_for,0.75,H,8611,FC Twente,Eredivisie,14
+409,3377586,2020-12-23,xG_ag,1.31,H,8611,FC Twente,Eredivisie,14
+410,3377586,2020-12-23,xG_for,1.31,A,8614,Sparta Rotterdam,Eredivisie,14
+411,3377586,2020-12-23,xG_ag,0.75,A,8614,Sparta Rotterdam,Eredivisie,14
+412,3377587,2020-12-23,xG_for,1.71,H,10229,AZ Alkmaar,Eredivisie,14
+413,3377587,2020-12-23,xG_ag,1.41,H,10229,AZ Alkmaar,Eredivisie,14
+414,3377587,2020-12-23,xG_for,1.41,A,8277,Vitesse,Eredivisie,14
+415,3377587,2020-12-23,xG_ag,1.71,A,8277,Vitesse,Eredivisie,14
+416,3377588,2020-12-24,xG_for,0.46,H,8525,Willem II,Eredivisie,14
+417,3377588,2020-12-24,xG_ag,2.71,H,8525,Willem II,Eredivisie,14
+418,3377588,2020-12-24,xG_for,2.71,A,8593,Ajax,Eredivisie,14
+419,3377588,2020-12-24,xG_ag,0.46,A,8593,Ajax,Eredivisie,14
+420,3377589,2020-12-24,xG_for,1.01,H,8674,FC Groningen,Eredivisie,14
+421,3377589,2020-12-24,xG_ag,1.29,H,8674,FC Groningen,Eredivisie,14
+422,3377589,2020-12-24,xG_for,1.29,A,9791,Heracles,Eredivisie,14
+423,3377589,2020-12-24,xG_ag,1.01,A,9791,Heracles,Eredivisie,14
+424,3377590,2020-12-24,xG_for,0.45,H,10217,ADO Den Haag,Eredivisie,14
+425,3377590,2020-12-24,xG_ag,0.96,H,10217,ADO Den Haag,Eredivisie,14
+426,3377590,2020-12-24,xG_for,0.96,A,6413,PEC Zwolle,Eredivisie,14
+427,3377590,2020-12-24,xG_ag,0.45,A,6413,PEC Zwolle,Eredivisie,14
+428,3377591,2020-12-24,xG_for,3.59,H,10235,Feyenoord,Eredivisie,14
+429,3377591,2020-12-24,xG_ag,0.49,H,10235,Feyenoord,Eredivisie,14
+430,3377591,2020-12-24,xG_for,0.49,A,10228,SC Heerenveen,Eredivisie,14
+431,3377591,2020-12-24,xG_ag,3.59,A,10228,SC Heerenveen,Eredivisie,14
+432,3377592,2021-01-10,xG_for,0.54,H,6660,FC Emmen,Eredivisie,15
+433,3377592,2021-01-10,xG_ag,1.78,H,6660,FC Emmen,Eredivisie,15
+434,3377592,2021-01-10,xG_for,1.78,A,8611,FC Twente,Eredivisie,15
+435,3377592,2021-01-10,xG_ag,0.54,A,8611,FC Twente,Eredivisie,15
+436,3377593,2021-01-10,xG_for,1.29,H,9791,Heracles,Eredivisie,15
+437,3377593,2021-01-10,xG_ag,0.88,H,9791,Heracles,Eredivisie,15
+438,3377593,2021-01-10,xG_for,0.88,A,8277,Vitesse,Eredivisie,15
+439,3377593,2021-01-10,xG_ag,1.29,A,8277,Vitesse,Eredivisie,15
+440,3377594,2021-01-10,xG_for,0.83,H,6413,PEC Zwolle,Eredivisie,15
+441,3377594,2021-01-10,xG_ag,0.96,H,6413,PEC Zwolle,Eredivisie,15
+442,3377594,2021-01-10,xG_for,0.96,A,10229,AZ Alkmaar,Eredivisie,15
+443,3377594,2021-01-10,xG_ag,0.83,A,10229,AZ Alkmaar,Eredivisie,15
+444,3377595,2021-01-10,xG_for,2.83,H,9908,FC Utrecht,Eredivisie,15
+445,3377595,2021-01-10,xG_ag,1.02,H,9908,FC Utrecht,Eredivisie,15
+446,3377595,2021-01-10,xG_for,1.02,A,8674,FC Groningen,Eredivisie,15
+447,3377595,2021-01-10,xG_ag,2.83,A,8674,FC Groningen,Eredivisie,15
+448,3377596,2021-01-09,xG_for,1.54,H,10219,RKC Waalwijk,Eredivisie,15
+449,3377596,2021-01-09,xG_ag,0.54,H,10219,RKC Waalwijk,Eredivisie,15
+450,3377596,2021-01-09,xG_for,0.54,A,10217,ADO Den Haag,Eredivisie,15
+451,3377596,2021-01-09,xG_ag,1.54,A,10217,ADO Den Haag,Eredivisie,15
+452,3377597,2021-01-10,xG_for,0.51,H,8614,Sparta Rotterdam,Eredivisie,15
+453,3377597,2021-01-10,xG_ag,2.3,H,8614,Sparta Rotterdam,Eredivisie,15
+454,3377597,2021-01-10,xG_for,2.3,A,10235,Feyenoord,Eredivisie,15
+455,3377597,2021-01-10,xG_ag,0.51,A,10235,Feyenoord,Eredivisie,15
+456,3377598,2021-01-10,xG_for,1.27,H,10228,SC Heerenveen,Eredivisie,15
+457,3377598,2021-01-10,xG_ag,1.73,H,10228,SC Heerenveen,Eredivisie,15
+458,3377598,2021-01-10,xG_for,1.73,A,6422,Fortuna Sittard,Eredivisie,15
+459,3377598,2021-01-10,xG_ag,1.27,A,6422,Fortuna Sittard,Eredivisie,15
+460,3377599,2021-01-10,xG_for,1.36,H,9839,VVV-Venlo,Eredivisie,15
+461,3377599,2021-01-10,xG_ag,1.72,H,9839,VVV-Venlo,Eredivisie,15
+462,3377599,2021-01-10,xG_for,1.72,A,8525,Willem II,Eredivisie,15
+463,3377599,2021-01-10,xG_ag,1.36,A,8525,Willem II,Eredivisie,15
+464,3377600,2021-01-10,xG_for,1.69,H,8593,Ajax,Eredivisie,15
+465,3377600,2021-01-10,xG_ag,1.16,H,8593,Ajax,Eredivisie,15
+466,3377600,2021-01-10,xG_for,1.16,A,8640,PSV Eindhoven,Eredivisie,15
+467,3377600,2021-01-10,xG_ag,1.69,A,8640,PSV Eindhoven,Eredivisie,15
+468,3377601,2021-01-13,xG_for,1.03,H,8277,Vitesse,Eredivisie,16
+469,3377601,2021-01-13,xG_ag,0.81,H,8277,Vitesse,Eredivisie,16
+470,3377601,2021-01-13,xG_for,0.81,A,9908,FC Utrecht,Eredivisie,16
+471,3377601,2021-01-13,xG_ag,1.03,A,9908,FC Utrecht,Eredivisie,16
+472,3377602,2021-01-13,xG_for,2.48,H,9791,Heracles,Eredivisie,16
+473,3377602,2021-01-13,xG_ag,0.55,H,9791,Heracles,Eredivisie,16
+474,3377602,2021-01-13,xG_for,0.55,A,6660,FC Emmen,Eredivisie,16
+475,3377602,2021-01-13,xG_ag,2.48,A,6660,FC Emmen,Eredivisie,16
+476,3377603,2021-01-14,xG_for,0.67,H,8640,PSV Eindhoven,Eredivisie,16
+477,3377603,2021-01-14,xG_ag,1.14,H,8640,PSV Eindhoven,Eredivisie,16
+478,3377603,2021-01-14,xG_for,1.14,A,10229,AZ Alkmaar,Eredivisie,16
+479,3377603,2021-01-14,xG_ag,0.67,A,10229,AZ Alkmaar,Eredivisie,16
+480,3377604,2021-01-14,xG_for,0.63,H,6422,Fortuna Sittard,Eredivisie,16
+481,3377604,2021-01-14,xG_ag,1.38,H,6422,Fortuna Sittard,Eredivisie,16
+482,3377604,2021-01-14,xG_for,1.38,A,8614,Sparta Rotterdam,Eredivisie,16
+483,3377604,2021-01-14,xG_ag,0.63,A,8614,Sparta Rotterdam,Eredivisie,16
+484,3377605,2021-01-14,xG_for,1.0,H,10217,ADO Den Haag,Eredivisie,16
+485,3377605,2021-01-14,xG_ag,2.8,H,10217,ADO Den Haag,Eredivisie,16
+486,3377605,2021-01-14,xG_for,2.8,A,9839,VVV-Venlo,Eredivisie,16
+487,3377605,2021-01-14,xG_ag,1.0,A,9839,VVV-Venlo,Eredivisie,16
+488,3377606,2021-01-14,xG_for,2.0,H,10235,Feyenoord,Eredivisie,16
+489,3377606,2021-01-14,xG_ag,0.64,H,10235,Feyenoord,Eredivisie,16
+490,3377606,2021-01-14,xG_for,0.64,A,6413,PEC Zwolle,Eredivisie,16
+491,3377606,2021-01-14,xG_ag,2.0,A,6413,PEC Zwolle,Eredivisie,16
+492,3377607,2021-01-15,xG_for,1.62,H,10228,SC Heerenveen,Eredivisie,16
+493,3377607,2021-01-15,xG_ag,1.03,H,10228,SC Heerenveen,Eredivisie,16
+494,3377607,2021-01-15,xG_for,1.03,A,10219,RKC Waalwijk,Eredivisie,16
+495,3377607,2021-01-15,xG_ag,1.62,A,10219,RKC Waalwijk,Eredivisie,16
+496,3377608,2021-01-15,xG_for,1.4,H,8611,FC Twente,Eredivisie,16
+497,3377608,2021-01-15,xG_ag,3.46,H,8611,FC Twente,Eredivisie,16
+498,3377608,2021-01-15,xG_for,3.46,A,8593,Ajax,Eredivisie,16
+499,3377608,2021-01-15,xG_ag,1.4,A,8593,Ajax,Eredivisie,16
+500,3377609,2021-01-15,xG_for,1.23,H,8525,Willem II,Eredivisie,16
+501,3377609,2021-01-15,xG_ag,1.9,H,8525,Willem II,Eredivisie,16
+502,3377609,2021-01-15,xG_for,1.9,A,8674,FC Groningen,Eredivisie,16
+503,3377609,2021-01-15,xG_ag,1.23,A,8674,FC Groningen,Eredivisie,16
+504,3377610,2021-01-16,xG_for,1.48,H,6660,FC Emmen,Eredivisie,17
+505,3377610,2021-01-16,xG_ag,1.88,H,6660,FC Emmen,Eredivisie,17
+506,3377610,2021-01-16,xG_for,1.88,A,8277,Vitesse,Eredivisie,17
+507,3377610,2021-01-16,xG_ag,1.48,A,8277,Vitesse,Eredivisie,17
+508,3377611,2021-01-17,xG_for,2.39,H,9908,FC Utrecht,Eredivisie,17
+509,3377611,2021-01-17,xG_ag,0.08,H,9908,FC Utrecht,Eredivisie,17
+510,3377611,2021-01-17,xG_for,0.08,A,9791,Heracles,Eredivisie,17
+511,3377611,2021-01-17,xG_ag,2.39,A,9791,Heracles,Eredivisie,17
+512,3377612,2021-01-17,xG_for,3.19,H,10229,AZ Alkmaar,Eredivisie,17
+513,3377612,2021-01-17,xG_ag,0.85,H,10229,AZ Alkmaar,Eredivisie,17
+514,3377612,2021-01-17,xG_for,0.85,A,10217,ADO Den Haag,Eredivisie,17
+515,3377612,2021-01-17,xG_ag,3.19,A,10217,ADO Den Haag,Eredivisie,17
+516,3377613,2021-01-17,xG_for,0.67,H,6413,PEC Zwolle,Eredivisie,17
+517,3377613,2021-01-17,xG_ag,1.79,H,6413,PEC Zwolle,Eredivisie,17
+518,3377613,2021-01-17,xG_for,1.79,A,6422,Fortuna Sittard,Eredivisie,17
+519,3377613,2021-01-17,xG_ag,0.67,A,6422,Fortuna Sittard,Eredivisie,17
+520,3377614,2021-01-17,xG_for,1.55,H,10219,RKC Waalwijk,Eredivisie,17
+521,3377614,2021-01-17,xG_ag,1.01,H,10219,RKC Waalwijk,Eredivisie,17
+522,3377614,2021-01-17,xG_for,1.01,A,8525,Willem II,Eredivisie,17
+523,3377614,2021-01-17,xG_ag,1.55,A,8525,Willem II,Eredivisie,17
+524,3377615,2021-01-17,xG_for,1.63,H,8674,FC Groningen,Eredivisie,17
+525,3377615,2021-01-17,xG_ag,0.98,H,8674,FC Groningen,Eredivisie,17
+526,3377615,2021-01-17,xG_for,0.98,A,8611,FC Twente,Eredivisie,17
+527,3377615,2021-01-17,xG_ag,1.63,A,8611,FC Twente,Eredivisie,17
+528,3377616,2021-01-17,xG_for,1.72,H,8614,Sparta Rotterdam,Eredivisie,17
+529,3377616,2021-01-17,xG_ag,2.22,H,8614,Sparta Rotterdam,Eredivisie,17
+530,3377616,2021-01-17,xG_for,2.22,A,8640,PSV Eindhoven,Eredivisie,17
+531,3377616,2021-01-17,xG_ag,1.72,A,8640,PSV Eindhoven,Eredivisie,17
+532,3377617,2021-01-17,xG_for,1.22,H,8593,Ajax,Eredivisie,17
+533,3377617,2021-01-17,xG_ag,0.9,H,8593,Ajax,Eredivisie,17
+534,3377617,2021-01-17,xG_for,0.9,A,10235,Feyenoord,Eredivisie,17
+535,3377617,2021-01-17,xG_ag,1.22,A,10235,Feyenoord,Eredivisie,17
+536,3377618,2021-01-17,xG_for,0.61,H,9839,VVV-Venlo,Eredivisie,17
+537,3377618,2021-01-17,xG_ag,1.86,H,9839,VVV-Venlo,Eredivisie,17
+538,3377618,2021-01-17,xG_for,1.86,A,10228,SC Heerenveen,Eredivisie,17
+539,3377618,2021-01-17,xG_ag,0.61,A,10228,SC Heerenveen,Eredivisie,17
+540,3377619,2021-01-23,xG_for,0.67,H,10217,ADO Den Haag,Eredivisie,18
+541,3377619,2021-01-23,xG_ag,1.11,H,10217,ADO Den Haag,Eredivisie,18
+542,3377619,2021-01-23,xG_for,1.11,A,6660,FC Emmen,Eredivisie,18
+543,3377619,2021-01-23,xG_ag,0.67,A,6660,FC Emmen,Eredivisie,18
+544,3377620,2021-01-23,xG_for,0.61,H,8525,Willem II,Eredivisie,18
+545,3377620,2021-01-23,xG_ag,3.21,H,8525,Willem II,Eredivisie,18
+546,3377620,2021-01-23,xG_for,3.21,A,6413,PEC Zwolle,Eredivisie,18
+547,3377620,2021-01-23,xG_ag,0.61,A,6413,PEC Zwolle,Eredivisie,18
+548,3377621,2021-01-24,xG_for,1.73,H,8277,Vitesse,Eredivisie,18
+549,3377621,2021-01-24,xG_ag,0.37,H,8277,Vitesse,Eredivisie,18
+550,3377621,2021-01-24,xG_for,0.37,A,8674,FC Groningen,Eredivisie,18
+551,3377621,2021-01-24,xG_ag,1.73,A,8674,FC Groningen,Eredivisie,18
+552,3377622,2021-01-24,xG_for,1.1,H,8640,PSV Eindhoven,Eredivisie,18
+553,3377622,2021-01-24,xG_ag,1.07,H,8640,PSV Eindhoven,Eredivisie,18
+554,3377622,2021-01-24,xG_for,1.07,A,10219,RKC Waalwijk,Eredivisie,18
+555,3377622,2021-01-24,xG_ag,1.1,A,10219,RKC Waalwijk,Eredivisie,18
+556,3377623,2021-01-24,xG_for,1.78,H,9791,Heracles,Eredivisie,18
+557,3377623,2021-01-24,xG_ag,0.44,H,9791,Heracles,Eredivisie,18
+558,3377623,2021-01-24,xG_for,0.44,A,10228,SC Heerenveen,Eredivisie,18
+559,3377623,2021-01-24,xG_ag,1.78,A,10228,SC Heerenveen,Eredivisie,18
+560,3377624,2021-01-24,xG_for,1.18,H,6422,Fortuna Sittard,Eredivisie,18
+561,3377624,2021-01-24,xG_ag,3.51,H,6422,Fortuna Sittard,Eredivisie,18
+562,3377624,2021-01-24,xG_for,3.51,A,8593,Ajax,Eredivisie,18
+563,3377624,2021-01-24,xG_ag,1.18,A,8593,Ajax,Eredivisie,18
+564,3377625,2021-01-24,xG_for,1.49,H,8611,FC Twente,Eredivisie,18
+565,3377625,2021-01-24,xG_ag,0.71,H,8611,FC Twente,Eredivisie,18
+566,3377625,2021-01-24,xG_for,0.71,A,9839,VVV-Venlo,Eredivisie,18
+567,3377625,2021-01-24,xG_ag,1.49,A,9839,VVV-Venlo,Eredivisie,18
+568,3377626,2021-01-24,xG_for,1.44,H,9908,FC Utrecht,Eredivisie,18
+569,3377626,2021-01-24,xG_ag,0.54,H,9908,FC Utrecht,Eredivisie,18
+570,3377626,2021-01-24,xG_for,0.54,A,8614,Sparta Rotterdam,Eredivisie,18
+571,3377626,2021-01-24,xG_ag,1.44,A,8614,Sparta Rotterdam,Eredivisie,18
+572,3377627,2021-01-24,xG_for,1.42,H,10235,Feyenoord,Eredivisie,18
+573,3377627,2021-01-24,xG_ag,3.04,H,10235,Feyenoord,Eredivisie,18
+574,3377627,2021-01-24,xG_for,3.04,A,10229,AZ Alkmaar,Eredivisie,18
+575,3377627,2021-01-24,xG_ag,1.42,A,10229,AZ Alkmaar,Eredivisie,18
+576,3377628,2021-01-27,xG_for,0.83,H,6413,PEC Zwolle,Eredivisie,19
+577,3377628,2021-01-27,xG_ag,1.57,H,6413,PEC Zwolle,Eredivisie,19
+578,3377628,2021-01-27,xG_for,1.57,A,9791,Heracles,Eredivisie,19
+579,3377628,2021-01-27,xG_ag,0.83,A,9791,Heracles,Eredivisie,19
+580,3377629,2021-01-27,xG_for,0.26,H,6660,FC Emmen,Eredivisie,19
+581,3377629,2021-01-27,xG_ag,2.2,H,6660,FC Emmen,Eredivisie,19
+582,3377629,2021-01-27,xG_for,2.2,A,8640,PSV Eindhoven,Eredivisie,19
+583,3377629,2021-01-27,xG_ag,0.26,A,8640,PSV Eindhoven,Eredivisie,19
+584,3377630,2021-01-27,xG_for,1.47,H,8674,FC Groningen,Eredivisie,19
+585,3377630,2021-01-27,xG_ag,0.55,H,8674,FC Groningen,Eredivisie,19
+586,3377630,2021-01-27,xG_for,0.55,A,10217,ADO Den Haag,Eredivisie,19
+587,3377630,2021-01-27,xG_ag,1.47,A,10217,ADO Den Haag,Eredivisie,19
+588,3377631,2021-01-28,xG_for,1.29,H,10229,AZ Alkmaar,Eredivisie,19
+589,3377631,2021-01-28,xG_ag,1.2,H,10229,AZ Alkmaar,Eredivisie,19
+590,3377631,2021-01-28,xG_for,1.2,A,9908,FC Utrecht,Eredivisie,19
+591,3377631,2021-01-28,xG_ag,1.29,A,9908,FC Utrecht,Eredivisie,19
+592,3377632,2021-01-28,xG_for,0.85,H,10219,RKC Waalwijk,Eredivisie,19
+593,3377632,2021-01-28,xG_ag,3.15,H,10219,RKC Waalwijk,Eredivisie,19
+594,3377632,2021-01-28,xG_for,3.15,A,6422,Fortuna Sittard,Eredivisie,19
+595,3377632,2021-01-28,xG_ag,0.85,A,6422,Fortuna Sittard,Eredivisie,19
+596,3377633,2021-01-28,xG_for,1.98,H,9839,VVV-Venlo,Eredivisie,19
+597,3377633,2021-01-28,xG_ag,1.93,H,9839,VVV-Venlo,Eredivisie,19
+598,3377633,2021-01-28,xG_for,1.93,A,8277,Vitesse,Eredivisie,19
+599,3377633,2021-01-28,xG_ag,1.98,A,8277,Vitesse,Eredivisie,19
+600,3377634,2021-01-28,xG_for,2.41,H,10228,SC Heerenveen,Eredivisie,19
+601,3377634,2021-01-28,xG_ag,1.17,H,10228,SC Heerenveen,Eredivisie,19
+602,3377634,2021-01-28,xG_for,1.17,A,10235,Feyenoord,Eredivisie,19
+603,3377634,2021-01-28,xG_ag,2.41,A,10235,Feyenoord,Eredivisie,19
+604,3377635,2021-01-29,xG_for,1.08,H,8614,Sparta Rotterdam,Eredivisie,19
+605,3377635,2021-01-29,xG_ag,0.52,H,8614,Sparta Rotterdam,Eredivisie,19
+606,3377635,2021-01-29,xG_for,0.52,A,8611,FC Twente,Eredivisie,19
+607,3377635,2021-01-29,xG_ag,1.08,A,8611,FC Twente,Eredivisie,19
+608,3377636,2021-01-29,xG_for,2.62,H,8593,Ajax,Eredivisie,19
+609,3377636,2021-01-29,xG_ag,0.86,H,8593,Ajax,Eredivisie,19
+610,3377636,2021-01-29,xG_for,0.86,A,8525,Willem II,Eredivisie,19
+611,3377636,2021-01-29,xG_ag,2.62,A,8525,Willem II,Eredivisie,19
+612,3377637,2021-01-30,xG_for,1.07,H,9791,Heracles,Eredivisie,20
+613,3377637,2021-01-30,xG_ag,1.55,H,9791,Heracles,Eredivisie,20
+614,3377637,2021-01-30,xG_for,1.55,A,8674,FC Groningen,Eredivisie,20
+615,3377637,2021-01-30,xG_ag,1.07,A,8674,FC Groningen,Eredivisie,20
+616,3377638,2021-01-31,xG_for,2.79,H,9908,FC Utrecht,Eredivisie,20
+617,3377638,2021-01-31,xG_ag,1.7,H,9908,FC Utrecht,Eredivisie,20
+618,3377638,2021-01-31,xG_for,1.7,A,6413,PEC Zwolle,Eredivisie,20
+619,3377638,2021-01-31,xG_ag,2.79,A,6413,PEC Zwolle,Eredivisie,20
+620,3377639,2021-01-31,xG_for,1.35,H,6422,Fortuna Sittard,Eredivisie,20
+621,3377639,2021-01-31,xG_ag,0.95,H,6422,Fortuna Sittard,Eredivisie,20
+622,3377639,2021-01-31,xG_for,0.95,A,9839,VVV-Venlo,Eredivisie,20
+623,3377639,2021-01-31,xG_ag,1.35,A,9839,VVV-Venlo,Eredivisie,20
+624,3377640,2021-01-31,xG_for,0.51,H,8277,Vitesse,Eredivisie,20
+625,3377640,2021-01-31,xG_ag,0.6,H,8277,Vitesse,Eredivisie,20
+626,3377640,2021-01-31,xG_for,0.6,A,10219,RKC Waalwijk,Eredivisie,20
+627,3377640,2021-01-31,xG_ag,0.51,A,10219,RKC Waalwijk,Eredivisie,20
+628,3377641,2021-01-31,xG_for,1.58,H,8611,FC Twente,Eredivisie,20
+629,3377641,2021-01-31,xG_ag,0.35,H,8611,FC Twente,Eredivisie,20
+630,3377641,2021-01-31,xG_for,0.35,A,10228,SC Heerenveen,Eredivisie,20
+631,3377641,2021-01-31,xG_ag,1.58,A,10228,SC Heerenveen,Eredivisie,20
+632,3377642,2021-01-31,xG_for,1.15,H,10235,Feyenoord,Eredivisie,20
+633,3377642,2021-01-31,xG_ag,1.81,H,10235,Feyenoord,Eredivisie,20
+634,3377642,2021-01-31,xG_for,1.81,A,8640,PSV Eindhoven,Eredivisie,20
+635,3377642,2021-01-31,xG_ag,1.15,A,8640,PSV Eindhoven,Eredivisie,20
+636,3377643,2021-01-31,xG_for,1.82,H,8525,Willem II,Eredivisie,20
+637,3377643,2021-01-31,xG_ag,1.31,H,8525,Willem II,Eredivisie,20
+638,3377643,2021-01-31,xG_for,1.31,A,6660,FC Emmen,Eredivisie,20
+639,3377643,2021-01-31,xG_ag,1.82,A,6660,FC Emmen,Eredivisie,20
+640,3377644,2021-01-31,xG_for,2.15,H,10229,AZ Alkmaar,Eredivisie,20
+641,3377644,2021-01-31,xG_ag,2.07,H,10229,AZ Alkmaar,Eredivisie,20
+642,3377644,2021-01-31,xG_for,2.07,A,8593,Ajax,Eredivisie,20
+643,3377644,2021-01-31,xG_ag,2.15,A,8593,Ajax,Eredivisie,20
+644,3377645,2021-01-31,xG_for,0.78,H,10217,ADO Den Haag,Eredivisie,20
+645,3377645,2021-01-31,xG_ag,1.27,H,10217,ADO Den Haag,Eredivisie,20
+646,3377645,2021-01-31,xG_for,1.27,A,8614,Sparta Rotterdam,Eredivisie,20
+647,3377645,2021-01-31,xG_ag,0.78,A,8614,Sparta Rotterdam,Eredivisie,20
+648,3377646,2021-02-06,xG_for,1.07,H,6422,Fortuna Sittard,Eredivisie,21
+649,3377646,2021-02-06,xG_ag,0.95,H,6422,Fortuna Sittard,Eredivisie,21
+650,3377646,2021-02-06,xG_for,0.95,A,9791,Heracles,Eredivisie,21
+651,3377646,2021-02-06,xG_ag,1.07,A,9791,Heracles,Eredivisie,21
+652,3377647,2021-02-06,xG_for,3.04,H,8640,PSV Eindhoven,Eredivisie,21
+653,3377647,2021-02-06,xG_ag,0.19,H,8640,PSV Eindhoven,Eredivisie,21
+654,3377647,2021-02-06,xG_for,0.19,A,8611,FC Twente,Eredivisie,21
+655,3377647,2021-02-06,xG_ag,3.04,A,8611,FC Twente,Eredivisie,21
+656,3377648,2021-02-06,xG_for,1.64,H,6413,PEC Zwolle,Eredivisie,21
+657,3377648,2021-02-06,xG_ag,0.74,H,6413,PEC Zwolle,Eredivisie,21
+658,3377648,2021-02-06,xG_for,0.74,A,10219,RKC Waalwijk,Eredivisie,21
+659,3377648,2021-02-06,xG_ag,1.64,A,10219,RKC Waalwijk,Eredivisie,21
+660,3377649,2021-02-06,xG_for,0.47,H,6660,FC Emmen,Eredivisie,21
+661,3377649,2021-02-06,xG_ag,1.29,H,6660,FC Emmen,Eredivisie,21
+662,3377649,2021-02-06,xG_for,1.29,A,10229,AZ Alkmaar,Eredivisie,21
+663,3377649,2021-02-06,xG_ag,0.47,A,10229,AZ Alkmaar,Eredivisie,21
+664,3377650,2021-02-06,xG_for,1.67,H,10228,SC Heerenveen,Eredivisie,21
+665,3377650,2021-02-06,xG_ag,0.7,H,10228,SC Heerenveen,Eredivisie,21
+666,3377650,2021-02-06,xG_for,0.7,A,8277,Vitesse,Eredivisie,21
+667,3377650,2021-02-06,xG_ag,1.67,A,8277,Vitesse,Eredivisie,21
+668,3377651,2021-02-25,xG_for,1.11,H,8674,FC Groningen,Eredivisie,21
+669,3377651,2021-02-25,xG_ag,1.69,H,8674,FC Groningen,Eredivisie,21
+670,3377651,2021-02-25,xG_for,1.69,A,10235,Feyenoord,Eredivisie,21
+671,3377651,2021-02-25,xG_ag,1.11,A,10235,Feyenoord,Eredivisie,21
+672,3377652,2021-04-22,xG_for,2.7,H,8593,Ajax,Eredivisie,21
+673,3377652,2021-04-22,xG_ag,0.99,H,8593,Ajax,Eredivisie,21
+674,3377652,2021-04-22,xG_for,0.99,A,9908,FC Utrecht,Eredivisie,21
+675,3377652,2021-04-22,xG_ag,2.7,A,9908,FC Utrecht,Eredivisie,21
+676,3377653,2021-02-24,xG_for,1.65,H,8525,Willem II,Eredivisie,21
+677,3377653,2021-02-24,xG_ag,1.07,H,8525,Willem II,Eredivisie,21
+678,3377653,2021-02-24,xG_for,1.07,A,10217,ADO Den Haag,Eredivisie,21
+679,3377653,2021-02-24,xG_ag,1.65,A,10217,ADO Den Haag,Eredivisie,21
+680,3377654,2021-03-10,xG_for,0.82,H,9839,VVV-Venlo,Eredivisie,21
+681,3377654,2021-03-10,xG_ag,0.61,H,9839,VVV-Venlo,Eredivisie,21
+682,3377654,2021-03-10,xG_for,0.61,A,8614,Sparta Rotterdam,Eredivisie,21
+683,3377654,2021-03-10,xG_ag,0.82,A,8614,Sparta Rotterdam,Eredivisie,21
+684,3377655,2021-02-13,xG_for,0.58,H,10217,ADO Den Haag,Eredivisie,22
+685,3377655,2021-02-13,xG_ag,5.46,H,10217,ADO Den Haag,Eredivisie,22
+686,3377655,2021-02-13,xG_for,5.46,A,8640,PSV Eindhoven,Eredivisie,22
+687,3377655,2021-02-13,xG_ag,0.58,A,8640,PSV Eindhoven,Eredivisie,22
+688,3377656,2021-02-14,xG_for,2.76,H,10229,AZ Alkmaar,Eredivisie,22
+689,3377656,2021-02-14,xG_ag,1.31,H,10229,AZ Alkmaar,Eredivisie,22
+690,3377656,2021-02-14,xG_for,1.31,A,10228,SC Heerenveen,Eredivisie,22
+691,3377656,2021-02-14,xG_ag,2.76,A,10228,SC Heerenveen,Eredivisie,22
+692,3377657,2021-02-13,xG_for,1.58,H,8674,FC Groningen,Eredivisie,22
+693,3377657,2021-02-13,xG_ag,0.61,H,8674,FC Groningen,Eredivisie,22
+694,3377657,2021-02-13,xG_for,0.61,A,6413,PEC Zwolle,Eredivisie,22
+695,3377657,2021-02-13,xG_ag,1.58,A,6413,PEC Zwolle,Eredivisie,22
+696,3377658,2021-02-14,xG_for,3.87,H,9908,FC Utrecht,Eredivisie,22
+697,3377658,2021-02-14,xG_ag,1.58,H,9908,FC Utrecht,Eredivisie,22
+698,3377658,2021-02-14,xG_for,1.58,A,9839,VVV-Venlo,Eredivisie,22
+699,3377658,2021-02-14,xG_ag,3.87,A,9839,VVV-Venlo,Eredivisie,22
+700,3377659,2021-02-14,xG_for,3.56,H,10235,Feyenoord,Eredivisie,22
+701,3377659,2021-02-14,xG_ag,0.64,H,10235,Feyenoord,Eredivisie,22
+702,3377659,2021-02-14,xG_for,0.64,A,8525,Willem II,Eredivisie,22
+703,3377659,2021-02-14,xG_ag,3.56,A,8525,Willem II,Eredivisie,22
+704,3377660,2021-02-14,xG_for,2.61,H,9791,Heracles,Eredivisie,22
+705,3377660,2021-02-14,xG_ag,1.59,H,9791,Heracles,Eredivisie,22
+706,3377660,2021-02-14,xG_for,1.59,A,8593,Ajax,Eredivisie,22
+707,3377660,2021-02-14,xG_ag,2.61,A,8593,Ajax,Eredivisie,22
+708,3377661,2021-02-13,xG_for,1.25,H,10219,RKC Waalwijk,Eredivisie,22
+709,3377661,2021-02-13,xG_ag,0.61,H,10219,RKC Waalwijk,Eredivisie,22
+710,3377661,2021-02-13,xG_for,0.61,A,6660,FC Emmen,Eredivisie,22
+711,3377661,2021-02-13,xG_ag,1.25,A,6660,FC Emmen,Eredivisie,22
+712,3377662,2021-02-13,xG_for,1.76,H,8614,Sparta Rotterdam,Eredivisie,22
+713,3377662,2021-02-13,xG_ag,1.96,H,8614,Sparta Rotterdam,Eredivisie,22
+714,3377662,2021-02-13,xG_for,1.96,A,6422,Fortuna Sittard,Eredivisie,22
+715,3377662,2021-02-13,xG_ag,1.76,A,6422,Fortuna Sittard,Eredivisie,22
+716,3377663,2021-02-14,xG_for,0.58,H,8277,Vitesse,Eredivisie,22
+717,3377663,2021-02-14,xG_ag,1.7,H,8277,Vitesse,Eredivisie,22
+718,3377663,2021-02-14,xG_for,1.7,A,8611,FC Twente,Eredivisie,22
+719,3377663,2021-02-14,xG_ag,0.58,A,8611,FC Twente,Eredivisie,22
+720,3377664,2021-02-22,xG_for,2.22,H,8593,Ajax,Eredivisie,23
+721,3377664,2021-02-22,xG_ag,1.64,H,8593,Ajax,Eredivisie,23
+722,3377664,2021-02-22,xG_for,1.64,A,8614,Sparta Rotterdam,Eredivisie,23
+723,3377664,2021-02-22,xG_ag,2.22,A,8614,Sparta Rotterdam,Eredivisie,23
+724,3377665,2021-02-21,xG_for,1.28,H,6660,FC Emmen,Eredivisie,23
+725,3377665,2021-02-21,xG_ag,1.16,H,6660,FC Emmen,Eredivisie,23
+726,3377665,2021-02-21,xG_for,1.16,A,6413,PEC Zwolle,Eredivisie,23
+727,3377665,2021-02-21,xG_ag,1.28,A,6413,PEC Zwolle,Eredivisie,23
+728,3377666,2021-02-21,xG_for,2.84,H,8611,FC Twente,Eredivisie,23
+729,3377666,2021-02-21,xG_ag,2.52,H,8611,FC Twente,Eredivisie,23
+730,3377666,2021-02-21,xG_for,2.52,A,10235,Feyenoord,Eredivisie,23
+731,3377666,2021-02-21,xG_ag,2.84,A,10235,Feyenoord,Eredivisie,23
+732,3377667,2021-02-21,xG_for,2.13,H,6422,Fortuna Sittard,Eredivisie,23
+733,3377667,2021-02-21,xG_ag,0.27,H,6422,Fortuna Sittard,Eredivisie,23
+734,3377667,2021-02-21,xG_for,0.27,A,10217,ADO Den Haag,Eredivisie,23
+735,3377667,2021-02-21,xG_ag,2.13,A,10217,ADO Den Haag,Eredivisie,23
+736,3377668,2021-02-21,xG_for,3.07,H,8640,PSV Eindhoven,Eredivisie,23
+737,3377668,2021-02-21,xG_ag,1.04,H,8640,PSV Eindhoven,Eredivisie,23
+738,3377668,2021-02-21,xG_for,1.04,A,8277,Vitesse,Eredivisie,23
+739,3377668,2021-02-21,xG_ag,3.07,A,8277,Vitesse,Eredivisie,23
+740,3377669,2021-02-21,xG_for,0.95,H,10219,RKC Waalwijk,Eredivisie,23
+741,3377669,2021-02-21,xG_ag,1.01,H,10219,RKC Waalwijk,Eredivisie,23
+742,3377669,2021-02-21,xG_for,1.01,A,9791,Heracles,Eredivisie,23
+743,3377669,2021-02-21,xG_ag,0.95,A,9791,Heracles,Eredivisie,23
+744,3377670,2021-02-21,xG_for,1.12,H,10228,SC Heerenveen,Eredivisie,23
+745,3377670,2021-02-21,xG_ag,2.55,H,10228,SC Heerenveen,Eredivisie,23
+746,3377670,2021-02-21,xG_for,2.55,A,8674,FC Groningen,Eredivisie,23
+747,3377670,2021-02-21,xG_ag,1.12,A,8674,FC Groningen,Eredivisie,23
+748,3377671,2021-02-21,xG_for,0.38,H,9839,VVV-Venlo,Eredivisie,23
+749,3377671,2021-02-21,xG_ag,3.19,H,9839,VVV-Venlo,Eredivisie,23
+750,3377671,2021-02-21,xG_for,3.19,A,10229,AZ Alkmaar,Eredivisie,23
+751,3377671,2021-02-21,xG_ag,0.38,A,10229,AZ Alkmaar,Eredivisie,23
+752,3377672,2021-02-20,xG_for,0.38,H,8525,Willem II,Eredivisie,23
+753,3377672,2021-02-20,xG_ag,4.71,H,8525,Willem II,Eredivisie,23
+754,3377672,2021-02-20,xG_for,4.71,A,9908,FC Utrecht,Eredivisie,23
+755,3377672,2021-02-20,xG_ag,0.38,A,9908,FC Utrecht,Eredivisie,23
+756,3377673,2021-02-28,xG_for,1.07,H,10217,ADO Den Haag,Eredivisie,24
+757,3377673,2021-02-28,xG_ag,0.15,H,10217,ADO Den Haag,Eredivisie,24
+758,3377673,2021-02-28,xG_for,0.15,A,10219,RKC Waalwijk,Eredivisie,24
+759,3377673,2021-02-28,xG_ag,1.07,A,10219,RKC Waalwijk,Eredivisie,24
+760,3377674,2021-02-28,xG_for,2.2,H,10229,AZ Alkmaar,Eredivisie,24
+761,3377674,2021-02-28,xG_ag,1.18,H,10229,AZ Alkmaar,Eredivisie,24
+762,3377674,2021-02-28,xG_for,1.18,A,10235,Feyenoord,Eredivisie,24
+763,3377674,2021-02-28,xG_ag,2.2,A,10235,Feyenoord,Eredivisie,24
+764,3377675,2021-02-28,xG_for,0.44,H,8674,FC Groningen,Eredivisie,24
+765,3377675,2021-02-28,xG_ag,0.82,H,8674,FC Groningen,Eredivisie,24
+766,3377675,2021-02-28,xG_for,0.82,A,6422,Fortuna Sittard,Eredivisie,24
+767,3377675,2021-02-28,xG_ag,0.44,A,6422,Fortuna Sittard,Eredivisie,24
+768,3377676,2021-02-27,xG_for,1.71,H,9908,FC Utrecht,Eredivisie,24
+769,3377676,2021-02-27,xG_ag,1.81,H,9908,FC Utrecht,Eredivisie,24
+770,3377676,2021-02-27,xG_for,1.81,A,6660,FC Emmen,Eredivisie,24
+771,3377676,2021-02-27,xG_ag,1.71,A,6660,FC Emmen,Eredivisie,24
+772,3377677,2021-02-28,xG_for,0.79,H,9791,Heracles,Eredivisie,24
+773,3377677,2021-02-28,xG_ag,0.34,H,9791,Heracles,Eredivisie,24
+774,3377677,2021-02-28,xG_for,0.34,A,8611,FC Twente,Eredivisie,24
+775,3377677,2021-02-28,xG_ag,0.79,A,8611,FC Twente,Eredivisie,24
+776,3377678,2021-02-27,xG_for,2.12,H,6413,PEC Zwolle,Eredivisie,24
+777,3377678,2021-02-27,xG_ag,1.05,H,6413,PEC Zwolle,Eredivisie,24
+778,3377678,2021-02-27,xG_for,1.05,A,10228,SC Heerenveen,Eredivisie,24
+779,3377678,2021-02-27,xG_ag,2.12,A,10228,SC Heerenveen,Eredivisie,24
+780,3377679,2021-02-28,xG_for,1.64,H,8640,PSV Eindhoven,Eredivisie,24
+781,3377679,2021-02-28,xG_ag,3.37,H,8640,PSV Eindhoven,Eredivisie,24
+782,3377679,2021-02-28,xG_for,3.37,A,8593,Ajax,Eredivisie,24
+783,3377679,2021-02-28,xG_ag,1.64,A,8593,Ajax,Eredivisie,24
+784,3377680,2021-02-28,xG_for,0.84,H,8614,Sparta Rotterdam,Eredivisie,24
+785,3377680,2021-02-28,xG_ag,2.46,H,8614,Sparta Rotterdam,Eredivisie,24
+786,3377680,2021-02-28,xG_for,2.46,A,8525,Willem II,Eredivisie,24
+787,3377680,2021-02-28,xG_ag,0.84,A,8525,Willem II,Eredivisie,24
+788,3377681,2021-02-28,xG_for,2.1,H,8277,Vitesse,Eredivisie,24
+789,3377681,2021-02-28,xG_ag,0.98,H,8277,Vitesse,Eredivisie,24
+790,3377681,2021-02-28,xG_for,0.98,A,9839,VVV-Venlo,Eredivisie,24
+791,3377681,2021-02-28,xG_ag,2.1,A,9839,VVV-Venlo,Eredivisie,24
+792,3377682,2021-03-07,xG_for,3.9,H,8593,Ajax,Eredivisie,25
+793,3377682,2021-03-07,xG_ag,0.91,H,8593,Ajax,Eredivisie,25
+794,3377682,2021-03-07,xG_for,0.91,A,8674,FC Groningen,Eredivisie,25
+795,3377682,2021-03-07,xG_ag,3.9,A,8674,FC Groningen,Eredivisie,25
+796,3377683,2021-03-06,xG_for,1.73,H,6660,FC Emmen,Eredivisie,25
+797,3377683,2021-03-06,xG_ag,1.07,H,6660,FC Emmen,Eredivisie,25
+798,3377683,2021-03-06,xG_for,1.07,A,8614,Sparta Rotterdam,Eredivisie,25
+799,3377683,2021-03-06,xG_ag,1.73,A,8614,Sparta Rotterdam,Eredivisie,25
+800,3377684,2021-03-07,xG_for,1.56,H,8611,FC Twente,Eredivisie,25
+801,3377684,2021-03-07,xG_ag,1.63,H,8611,FC Twente,Eredivisie,25
+802,3377684,2021-03-07,xG_for,1.63,A,8525,Willem II,Eredivisie,25
+803,3377684,2021-03-07,xG_ag,1.56,A,8525,Willem II,Eredivisie,25
+804,3377685,2021-03-06,xG_for,2.1,H,10235,Feyenoord,Eredivisie,25
+805,3377685,2021-03-06,xG_ag,0.25,H,10235,Feyenoord,Eredivisie,25
+806,3377685,2021-03-06,xG_for,0.25,A,9839,VVV-Venlo,Eredivisie,25
+807,3377685,2021-03-06,xG_ag,2.1,A,9839,VVV-Venlo,Eredivisie,25
+808,3377686,2021-03-07,xG_for,1.04,H,6422,Fortuna Sittard,Eredivisie,25
+809,3377686,2021-03-07,xG_ag,2.69,H,6422,Fortuna Sittard,Eredivisie,25
+810,3377686,2021-03-07,xG_for,2.69,A,8640,PSV Eindhoven,Eredivisie,25
+811,3377686,2021-03-07,xG_ag,1.04,A,8640,PSV Eindhoven,Eredivisie,25
+812,3377687,2021-03-07,xG_for,2.8,H,9791,Heracles,Eredivisie,25
+813,3377687,2021-03-07,xG_ag,0.88,H,9791,Heracles,Eredivisie,25
+814,3377687,2021-03-07,xG_for,0.88,A,6413,PEC Zwolle,Eredivisie,25
+815,3377687,2021-03-07,xG_ag,2.8,A,6413,PEC Zwolle,Eredivisie,25
+816,3377688,2021-03-07,xG_for,1.2,H,10219,RKC Waalwijk,Eredivisie,25
+817,3377688,2021-03-07,xG_ag,2.47,H,10219,RKC Waalwijk,Eredivisie,25
+818,3377688,2021-03-07,xG_for,2.47,A,9908,FC Utrecht,Eredivisie,25
+819,3377688,2021-03-07,xG_ag,1.2,A,9908,FC Utrecht,Eredivisie,25
+820,3377689,2021-03-07,xG_for,2.68,H,10228,SC Heerenveen,Eredivisie,25
+821,3377689,2021-03-07,xG_ag,0.96,H,10228,SC Heerenveen,Eredivisie,25
+822,3377689,2021-03-07,xG_for,0.96,A,10217,ADO Den Haag,Eredivisie,25
+823,3377689,2021-03-07,xG_ag,2.68,A,10217,ADO Den Haag,Eredivisie,25
+824,3377690,2021-03-07,xG_for,1.15,H,8277,Vitesse,Eredivisie,25
+825,3377690,2021-03-07,xG_ag,1.62,H,8277,Vitesse,Eredivisie,25
+826,3377690,2021-03-07,xG_for,1.62,A,10229,AZ Alkmaar,Eredivisie,25
+827,3377690,2021-03-07,xG_ag,1.15,A,10229,AZ Alkmaar,Eredivisie,25
+828,3377691,2021-03-14,xG_for,1.05,H,10217,ADO Den Haag,Eredivisie,26
+829,3377691,2021-03-14,xG_ag,1.4,H,10217,ADO Den Haag,Eredivisie,26
+830,3377691,2021-03-14,xG_for,1.4,A,9791,Heracles,Eredivisie,26
+831,3377691,2021-03-14,xG_ag,1.05,A,9791,Heracles,Eredivisie,26
+832,3377692,2021-03-14,xG_for,1.89,H,10229,AZ Alkmaar,Eredivisie,26
+833,3377692,2021-03-14,xG_ag,1.03,H,10229,AZ Alkmaar,Eredivisie,26
+834,3377692,2021-03-14,xG_for,1.03,A,8611,FC Twente,Eredivisie,26
+835,3377692,2021-03-14,xG_ag,1.89,A,8611,FC Twente,Eredivisie,26
+836,3377693,2021-03-14,xG_for,1.13,H,8674,FC Groningen,Eredivisie,26
+837,3377693,2021-03-14,xG_ag,1.57,H,8674,FC Groningen,Eredivisie,26
+838,3377693,2021-03-14,xG_for,1.57,A,6660,FC Emmen,Eredivisie,26
+839,3377693,2021-03-14,xG_ag,1.13,A,6660,FC Emmen,Eredivisie,26
+840,3377694,2021-03-14,xG_for,2.49,H,9908,FC Utrecht,Eredivisie,26
+841,3377694,2021-03-14,xG_ag,1.27,H,9908,FC Utrecht,Eredivisie,26
+842,3377694,2021-03-14,xG_for,1.27,A,8277,Vitesse,Eredivisie,26
+843,3377694,2021-03-14,xG_ag,2.49,A,8277,Vitesse,Eredivisie,26
+844,3377695,2021-03-14,xG_for,0.1,H,6413,PEC Zwolle,Eredivisie,26
+845,3377695,2021-03-14,xG_ag,2.79,H,6413,PEC Zwolle,Eredivisie,26
+846,3377695,2021-03-14,xG_for,2.79,A,8593,Ajax,Eredivisie,26
+847,3377695,2021-03-14,xG_ag,0.1,A,8593,Ajax,Eredivisie,26
+848,3377696,2021-03-14,xG_for,1.85,H,8640,PSV Eindhoven,Eredivisie,26
+849,3377696,2021-03-14,xG_ag,0.96,H,8640,PSV Eindhoven,Eredivisie,26
+850,3377696,2021-03-14,xG_for,0.96,A,10235,Feyenoord,Eredivisie,26
+851,3377696,2021-03-14,xG_ag,1.85,A,10235,Feyenoord,Eredivisie,26
+852,3377697,2021-03-14,xG_for,1.7,H,8614,Sparta Rotterdam,Eredivisie,26
+853,3377697,2021-03-14,xG_ag,0.43,H,8614,Sparta Rotterdam,Eredivisie,26
+854,3377697,2021-03-14,xG_for,0.43,A,10219,RKC Waalwijk,Eredivisie,26
+855,3377697,2021-03-14,xG_ag,1.7,A,10219,RKC Waalwijk,Eredivisie,26
+856,3377698,2021-03-14,xG_for,1.8,H,9839,VVV-Venlo,Eredivisie,26
+857,3377698,2021-03-14,xG_ag,2.34,H,9839,VVV-Venlo,Eredivisie,26
+858,3377698,2021-03-14,xG_for,2.34,A,6422,Fortuna Sittard,Eredivisie,26
+859,3377698,2021-03-14,xG_ag,1.8,A,6422,Fortuna Sittard,Eredivisie,26
+860,3377699,2021-03-13,xG_for,1.97,H,8525,Willem II,Eredivisie,26
+861,3377699,2021-03-13,xG_ag,2.25,H,8525,Willem II,Eredivisie,26
+862,3377699,2021-03-13,xG_for,2.25,A,10228,SC Heerenveen,Eredivisie,26
+863,3377699,2021-03-13,xG_ag,1.97,A,10228,SC Heerenveen,Eredivisie,26
+864,3377700,2021-03-22,xG_for,3.56,H,8593,Ajax,Eredivisie,27
+865,3377700,2021-03-22,xG_ag,0.06,H,8593,Ajax,Eredivisie,27
+866,3377700,2021-03-22,xG_for,0.06,A,10217,ADO Den Haag,Eredivisie,27
+867,3377700,2021-03-22,xG_ag,3.56,A,10217,ADO Den Haag,Eredivisie,27
+868,3377701,2021-03-21,xG_for,0.43,H,10229,AZ Alkmaar,Eredivisie,27
+869,3377701,2021-03-21,xG_ag,1.79,H,10229,AZ Alkmaar,Eredivisie,27
+870,3377701,2021-03-21,xG_for,1.79,A,8640,PSV Eindhoven,Eredivisie,27
+871,3377701,2021-03-21,xG_ag,0.43,A,8640,PSV Eindhoven,Eredivisie,27
+872,3377702,2021-03-21,xG_for,1.12,H,10235,Feyenoord,Eredivisie,27
+873,3377702,2021-03-21,xG_ag,1.33,H,10235,Feyenoord,Eredivisie,27
+874,3377702,2021-03-21,xG_for,1.33,A,6660,FC Emmen,Eredivisie,27
+875,3377702,2021-03-21,xG_ag,1.12,A,6660,FC Emmen,Eredivisie,27
+876,3377703,2021-03-20,xG_for,0.45,H,6422,Fortuna Sittard,Eredivisie,27
+877,3377703,2021-03-20,xG_ag,2.48,H,6422,Fortuna Sittard,Eredivisie,27
+878,3377703,2021-03-20,xG_for,2.48,A,9908,FC Utrecht,Eredivisie,27
+879,3377703,2021-03-20,xG_ag,0.45,A,9908,FC Utrecht,Eredivisie,27
+880,3377704,2021-03-21,xG_for,0.69,H,9791,Heracles,Eredivisie,27
+881,3377704,2021-03-21,xG_ag,1.7,H,9791,Heracles,Eredivisie,27
+882,3377704,2021-03-21,xG_for,1.7,A,8614,Sparta Rotterdam,Eredivisie,27
+883,3377704,2021-03-21,xG_ag,0.69,A,8614,Sparta Rotterdam,Eredivisie,27
+884,3377705,2021-03-21,xG_for,2.05,H,6413,PEC Zwolle,Eredivisie,27
+885,3377705,2021-03-21,xG_ag,1.36,H,6413,PEC Zwolle,Eredivisie,27
+886,3377705,2021-03-21,xG_for,1.36,A,9839,VVV-Venlo,Eredivisie,27
+887,3377705,2021-03-21,xG_ag,2.05,A,9839,VVV-Venlo,Eredivisie,27
+888,3377706,2021-03-21,xG_for,2.24,H,10219,RKC Waalwijk,Eredivisie,27
+889,3377706,2021-03-21,xG_ag,2.15,H,10219,RKC Waalwijk,Eredivisie,27
+890,3377706,2021-03-21,xG_for,2.15,A,8674,FC Groningen,Eredivisie,27
+891,3377706,2021-03-21,xG_ag,2.24,A,8674,FC Groningen,Eredivisie,27
+892,3377707,2021-03-20,xG_for,0.6,H,10228,SC Heerenveen,Eredivisie,27
+893,3377707,2021-03-20,xG_ag,1.55,H,10228,SC Heerenveen,Eredivisie,27
+894,3377707,2021-03-20,xG_for,1.55,A,8611,FC Twente,Eredivisie,27
+895,3377707,2021-03-20,xG_ag,0.6,A,8611,FC Twente,Eredivisie,27
+896,3377708,2021-03-21,xG_for,0.61,H,8277,Vitesse,Eredivisie,27
+897,3377708,2021-03-21,xG_ag,1.48,H,8277,Vitesse,Eredivisie,27
+898,3377708,2021-03-21,xG_for,1.48,A,8525,Willem II,Eredivisie,27
+899,3377708,2021-03-21,xG_ag,0.61,A,8525,Willem II,Eredivisie,27
+900,3377709,2021-04-04,xG_for,0.35,H,10217,ADO Den Haag,Eredivisie,28
+901,3377709,2021-04-04,xG_ag,3.59,H,10217,ADO Den Haag,Eredivisie,28
+902,3377709,2021-04-04,xG_for,3.59,A,9908,FC Utrecht,Eredivisie,28
+903,3377709,2021-04-04,xG_ag,0.35,A,9908,FC Utrecht,Eredivisie,28
+904,3377710,2021-04-04,xG_for,4.0,H,6660,FC Emmen,Eredivisie,28
+905,3377710,2021-04-04,xG_ag,0.27,H,6660,FC Emmen,Eredivisie,28
+906,3377710,2021-04-04,xG_for,0.27,A,10219,RKC Waalwijk,Eredivisie,28
+907,3377710,2021-04-04,xG_ag,4.0,A,10219,RKC Waalwijk,Eredivisie,28
+908,3377711,2021-04-04,xG_for,0.82,H,8611,FC Twente,Eredivisie,28
+909,3377711,2021-04-04,xG_ag,3.49,H,8611,FC Twente,Eredivisie,28
+910,3377711,2021-04-04,xG_for,3.49,A,8277,Vitesse,Eredivisie,28
+911,3377711,2021-04-04,xG_ag,0.82,A,8277,Vitesse,Eredivisie,28
+912,3377712,2021-04-04,xG_for,2.12,H,10235,Feyenoord,Eredivisie,28
+913,3377712,2021-04-04,xG_ag,0.53,H,10235,Feyenoord,Eredivisie,28
+914,3377712,2021-04-04,xG_for,0.53,A,6422,Fortuna Sittard,Eredivisie,28
+915,3377712,2021-04-04,xG_ag,2.12,A,6422,Fortuna Sittard,Eredivisie,28
+916,3377713,2021-04-04,xG_for,1.11,H,8640,PSV Eindhoven,Eredivisie,28
+917,3377713,2021-04-04,xG_ag,0.44,H,8640,PSV Eindhoven,Eredivisie,28
+918,3377713,2021-04-04,xG_for,0.44,A,9791,Heracles,Eredivisie,28
+919,3377713,2021-04-04,xG_ag,1.11,A,9791,Heracles,Eredivisie,28
+920,3377714,2021-04-04,xG_for,0.77,H,10228,SC Heerenveen,Eredivisie,28
+921,3377714,2021-04-04,xG_ag,2.43,H,10228,SC Heerenveen,Eredivisie,28
+922,3377714,2021-04-04,xG_for,2.43,A,8593,Ajax,Eredivisie,28
+923,3377714,2021-04-04,xG_ag,0.77,A,8593,Ajax,Eredivisie,28
+924,3377715,2021-04-04,xG_for,2.95,H,8614,Sparta Rotterdam,Eredivisie,28
+925,3377715,2021-04-04,xG_ag,1.82,H,8614,Sparta Rotterdam,Eredivisie,28
+926,3377715,2021-04-04,xG_for,1.82,A,6413,PEC Zwolle,Eredivisie,28
+927,3377715,2021-04-04,xG_ag,2.95,A,6413,PEC Zwolle,Eredivisie,28
+928,3377716,2021-04-03,xG_for,0.56,H,9839,VVV-Venlo,Eredivisie,28
+929,3377716,2021-04-03,xG_ag,0.61,H,9839,VVV-Venlo,Eredivisie,28
+930,3377716,2021-04-03,xG_for,0.61,A,8674,FC Groningen,Eredivisie,28
+931,3377716,2021-04-03,xG_ag,0.56,A,8674,FC Groningen,Eredivisie,28
+932,3377717,2021-04-04,xG_for,0.54,H,8525,Willem II,Eredivisie,28
+933,3377717,2021-04-04,xG_ag,0.94,H,8525,Willem II,Eredivisie,28
+934,3377717,2021-04-04,xG_for,0.94,A,10229,AZ Alkmaar,Eredivisie,28
+935,3377717,2021-04-04,xG_ag,0.54,A,10229,AZ Alkmaar,Eredivisie,28
+936,3377718,2021-04-11,xG_for,2.18,H,10229,AZ Alkmaar,Eredivisie,29
+937,3377718,2021-04-11,xG_ag,0.34,H,10229,AZ Alkmaar,Eredivisie,29
+938,3377718,2021-04-11,xG_for,0.34,A,8614,Sparta Rotterdam,Eredivisie,29
+939,3377718,2021-04-11,xG_ag,2.18,A,8614,Sparta Rotterdam,Eredivisie,29
+940,3377719,2021-04-11,xG_for,1.44,H,8674,FC Groningen,Eredivisie,29
+941,3377719,2021-04-11,xG_ag,2.44,H,8674,FC Groningen,Eredivisie,29
+942,3377719,2021-04-11,xG_for,2.44,A,10228,SC Heerenveen,Eredivisie,29
+943,3377719,2021-04-11,xG_ag,1.44,A,10228,SC Heerenveen,Eredivisie,29
+944,3377720,2021-04-11,xG_for,0.95,H,9908,FC Utrecht,Eredivisie,29
+945,3377720,2021-04-11,xG_ag,0.39,H,9908,FC Utrecht,Eredivisie,29
+946,3377720,2021-04-11,xG_for,0.39,A,10235,Feyenoord,Eredivisie,29
+947,3377720,2021-04-11,xG_ag,0.95,A,10235,Feyenoord,Eredivisie,29
+948,3377721,2021-04-11,xG_for,0.94,H,6422,Fortuna Sittard,Eredivisie,29
+949,3377721,2021-04-11,xG_ag,3.08,H,6422,Fortuna Sittard,Eredivisie,29
+950,3377721,2021-04-11,xG_for,3.08,A,6660,FC Emmen,Eredivisie,29
+951,3377721,2021-04-11,xG_ag,0.94,A,6660,FC Emmen,Eredivisie,29
+952,3377722,2021-04-10,xG_for,1.6,H,9791,Heracles,Eredivisie,29
+953,3377722,2021-04-10,xG_ag,0.58,H,9791,Heracles,Eredivisie,29
+954,3377722,2021-04-10,xG_for,0.58,A,8525,Willem II,Eredivisie,29
+955,3377722,2021-04-10,xG_ag,1.6,A,8525,Willem II,Eredivisie,29
+956,3377723,2021-04-11,xG_for,0.67,H,6413,PEC Zwolle,Eredivisie,29
+957,3377723,2021-04-11,xG_ag,1.03,H,6413,PEC Zwolle,Eredivisie,29
+958,3377723,2021-04-11,xG_for,1.03,A,8611,FC Twente,Eredivisie,29
+959,3377723,2021-04-11,xG_ag,0.67,A,8611,FC Twente,Eredivisie,29
+960,3377724,2021-04-11,xG_for,0.22,H,10219,RKC Waalwijk,Eredivisie,29
+961,3377724,2021-04-11,xG_ag,1.34,H,10219,RKC Waalwijk,Eredivisie,29
+962,3377724,2021-04-11,xG_for,1.34,A,8593,Ajax,Eredivisie,29
+963,3377724,2021-04-11,xG_ag,0.22,A,8593,Ajax,Eredivisie,29
+964,3377725,2021-04-10,xG_for,1.36,H,8277,Vitesse,Eredivisie,29
+965,3377725,2021-04-10,xG_ag,0.31,H,8277,Vitesse,Eredivisie,29
+966,3377725,2021-04-10,xG_for,0.31,A,10217,ADO Den Haag,Eredivisie,29
+967,3377725,2021-04-10,xG_ag,1.36,A,10217,ADO Den Haag,Eredivisie,29
+968,3377726,2021-04-11,xG_for,0.17,H,9839,VVV-Venlo,Eredivisie,29
+969,3377726,2021-04-11,xG_ag,2.15,H,9839,VVV-Venlo,Eredivisie,29
+970,3377726,2021-04-11,xG_for,2.15,A,8640,PSV Eindhoven,Eredivisie,29
+971,3377726,2021-04-11,xG_ag,0.17,A,8640,PSV Eindhoven,Eredivisie,29
+972,3377727,2021-04-25,xG_for,1.24,H,10217,ADO Den Haag,Eredivisie,30
+973,3377727,2021-04-25,xG_ag,2.32,H,10217,ADO Den Haag,Eredivisie,30
+974,3377727,2021-04-25,xG_for,2.32,A,6422,Fortuna Sittard,Eredivisie,30
+975,3377727,2021-04-25,xG_ag,1.24,A,6422,Fortuna Sittard,Eredivisie,30
+976,3377728,2021-04-25,xG_for,3.39,H,8593,Ajax,Eredivisie,30
+977,3377728,2021-04-25,xG_ag,0.96,H,8593,Ajax,Eredivisie,30
+978,3377728,2021-04-25,xG_for,0.96,A,10229,AZ Alkmaar,Eredivisie,30
+979,3377728,2021-04-25,xG_ag,3.39,A,10229,AZ Alkmaar,Eredivisie,30
+980,3377729,2021-04-25,xG_for,1.67,H,6660,FC Emmen,Eredivisie,30
+981,3377729,2021-04-25,xG_ag,1.12,H,6660,FC Emmen,Eredivisie,30
+982,3377729,2021-04-25,xG_for,1.12,A,9791,Heracles,Eredivisie,30
+983,3377729,2021-04-25,xG_ag,1.67,A,9791,Heracles,Eredivisie,30
+984,3377730,2021-04-25,xG_for,0.82,H,8611,FC Twente,Eredivisie,30
+985,3377730,2021-04-25,xG_ag,1.46,H,8611,FC Twente,Eredivisie,30
+986,3377730,2021-04-25,xG_for,1.46,A,9908,FC Utrecht,Eredivisie,30
+987,3377730,2021-04-25,xG_ag,0.82,A,9908,FC Utrecht,Eredivisie,30
+988,3377731,2021-04-25,xG_for,1.71,H,10235,Feyenoord,Eredivisie,30
+989,3377731,2021-04-25,xG_ag,1.89,H,10235,Feyenoord,Eredivisie,30
+990,3377731,2021-04-25,xG_for,1.89,A,8277,Vitesse,Eredivisie,30
+991,3377731,2021-04-25,xG_ag,1.71,A,8277,Vitesse,Eredivisie,30
+992,3377732,2021-04-24,xG_for,3.02,H,8640,PSV Eindhoven,Eredivisie,30
+993,3377732,2021-04-24,xG_ag,0.72,H,8640,PSV Eindhoven,Eredivisie,30
+994,3377732,2021-04-24,xG_for,0.72,A,8674,FC Groningen,Eredivisie,30
+995,3377732,2021-04-24,xG_ag,3.02,A,8674,FC Groningen,Eredivisie,30
+996,3377733,2021-04-24,xG_for,0.49,H,10228,SC Heerenveen,Eredivisie,30
+997,3377733,2021-04-24,xG_ag,0.38,H,10228,SC Heerenveen,Eredivisie,30
+998,3377733,2021-04-24,xG_for,0.38,A,6413,PEC Zwolle,Eredivisie,30
+999,3377733,2021-04-24,xG_ag,0.49,A,6413,PEC Zwolle,Eredivisie,30
+1000,3377734,2021-04-24,xG_for,2.03,H,8614,Sparta Rotterdam,Eredivisie,30
+1001,3377734,2021-04-24,xG_ag,0.97,H,8614,Sparta Rotterdam,Eredivisie,30
+1002,3377734,2021-04-24,xG_for,0.97,A,9839,VVV-Venlo,Eredivisie,30
+1003,3377734,2021-04-24,xG_ag,2.03,A,9839,VVV-Venlo,Eredivisie,30
+1004,3377735,2021-04-23,xG_for,2.68,H,8525,Willem II,Eredivisie,30
+1005,3377735,2021-04-23,xG_ag,0.5,H,8525,Willem II,Eredivisie,30
+1006,3377735,2021-04-23,xG_for,0.5,A,10219,RKC Waalwijk,Eredivisie,30
+1007,3377735,2021-04-23,xG_ag,2.68,A,10219,RKC Waalwijk,Eredivisie,30
+1008,3377736,2021-05-02,xG_for,1.59,H,10217,ADO Den Haag,Eredivisie,31
+1009,3377736,2021-05-02,xG_ag,1.4,H,10217,ADO Den Haag,Eredivisie,31
+1010,3377736,2021-05-02,xG_for,1.4,A,10235,Feyenoord,Eredivisie,31
+1011,3377736,2021-05-02,xG_ag,1.59,A,10235,Feyenoord,Eredivisie,31
+1012,3377737,2021-05-02,xG_for,2.68,H,8593,Ajax,Eredivisie,31
+1013,3377737,2021-05-02,xG_ag,0.81,H,8593,Ajax,Eredivisie,31
+1014,3377737,2021-05-02,xG_for,0.81,A,6660,FC Emmen,Eredivisie,31
+1015,3377737,2021-05-02,xG_ag,2.68,A,6660,FC Emmen,Eredivisie,31
+1016,3377738,2021-05-02,xG_for,1.07,H,8674,FC Groningen,Eredivisie,31
+1017,3377738,2021-05-02,xG_ag,1.45,H,8674,FC Groningen,Eredivisie,31
+1018,3377738,2021-05-02,xG_for,1.45,A,8614,Sparta Rotterdam,Eredivisie,31
+1019,3377738,2021-05-02,xG_ag,1.07,A,8614,Sparta Rotterdam,Eredivisie,31
+1020,3377739,2021-05-02,xG_for,1.1,H,9908,FC Utrecht,Eredivisie,31
+1021,3377739,2021-05-02,xG_ag,1.62,H,9908,FC Utrecht,Eredivisie,31
+1022,3377739,2021-05-02,xG_for,1.62,A,8525,Willem II,Eredivisie,31
+1023,3377739,2021-05-02,xG_ag,1.1,A,8525,Willem II,Eredivisie,31
+1024,3377740,2021-05-01,xG_for,4.51,H,6422,Fortuna Sittard,Eredivisie,31
+1025,3377740,2021-05-01,xG_ag,0.28,H,6422,Fortuna Sittard,Eredivisie,31
+1026,3377740,2021-05-01,xG_for,0.28,A,8611,FC Twente,Eredivisie,31
+1027,3377740,2021-05-01,xG_ag,4.51,A,8611,FC Twente,Eredivisie,31
+1028,3377741,2021-05-01,xG_for,2.24,H,9791,Heracles,Eredivisie,31
+1029,3377741,2021-05-01,xG_ag,1.41,H,9791,Heracles,Eredivisie,31
+1030,3377741,2021-05-01,xG_for,1.41,A,9839,VVV-Venlo,Eredivisie,31
+1031,3377741,2021-05-01,xG_ag,2.24,A,9839,VVV-Venlo,Eredivisie,31
+1032,3377742,2021-05-02,xG_for,1.43,H,8640,PSV Eindhoven,Eredivisie,31
+1033,3377742,2021-05-02,xG_ag,0.75,H,8640,PSV Eindhoven,Eredivisie,31
+1034,3377742,2021-05-02,xG_for,0.75,A,10228,SC Heerenveen,Eredivisie,31
+1035,3377742,2021-05-02,xG_ag,1.43,A,10228,SC Heerenveen,Eredivisie,31
+1036,3377743,2021-05-02,xG_for,0.92,H,10219,RKC Waalwijk,Eredivisie,31
+1037,3377743,2021-05-02,xG_ag,3.21,H,10219,RKC Waalwijk,Eredivisie,31
+1038,3377743,2021-05-02,xG_for,3.21,A,10229,AZ Alkmaar,Eredivisie,31
+1039,3377743,2021-05-02,xG_ag,0.92,A,10229,AZ Alkmaar,Eredivisie,31
+1040,3377744,2021-05-02,xG_for,1.92,H,8277,Vitesse,Eredivisie,31
+1041,3377744,2021-05-02,xG_ag,1.57,H,8277,Vitesse,Eredivisie,31
+1042,3377744,2021-05-02,xG_for,1.57,A,6413,PEC Zwolle,Eredivisie,31
+1043,3377744,2021-05-02,xG_ag,1.92,A,6413,PEC Zwolle,Eredivisie,31
+1044,3377745,2021-05-09,xG_for,1.88,H,10229,AZ Alkmaar,Eredivisie,32
+1045,3377745,2021-05-09,xG_ag,0.5,H,10229,AZ Alkmaar,Eredivisie,32
+1046,3377745,2021-05-09,xG_for,0.5,A,6422,Fortuna Sittard,Eredivisie,32
+1047,3377745,2021-05-09,xG_ag,1.88,A,6422,Fortuna Sittard,Eredivisie,32
+1048,3377746,2021-05-09,xG_for,0.31,H,6660,FC Emmen,Eredivisie,32
+1049,3377746,2021-05-09,xG_ag,2.03,H,6660,FC Emmen,Eredivisie,32
+1050,3377746,2021-05-09,xG_for,2.03,A,8674,FC Groningen,Eredivisie,32
+1051,3377746,2021-05-09,xG_ag,0.31,A,8674,FC Groningen,Eredivisie,32
+1052,3377747,2021-05-08,xG_for,0.97,H,8611,FC Twente,Eredivisie,32
+1053,3377747,2021-05-08,xG_ag,0.34,H,8611,FC Twente,Eredivisie,32
+1054,3377747,2021-05-08,xG_for,0.34,A,9791,Heracles,Eredivisie,32
+1055,3377747,2021-05-08,xG_ag,0.97,A,9791,Heracles,Eredivisie,32
+1056,3377748,2021-05-09,xG_for,2.92,H,10235,Feyenoord,Eredivisie,32
+1057,3377748,2021-05-09,xG_ag,0.58,H,10235,Feyenoord,Eredivisie,32
+1058,3377748,2021-05-09,xG_for,0.58,A,8593,Ajax,Eredivisie,32
+1059,3377748,2021-05-09,xG_ag,2.92,A,8593,Ajax,Eredivisie,32
+1060,3377749,2021-05-09,xG_for,0.47,H,6413,PEC Zwolle,Eredivisie,32
+1061,3377749,2021-05-09,xG_ag,0.36,H,6413,PEC Zwolle,Eredivisie,32
+1062,3377749,2021-05-09,xG_for,0.36,A,10217,ADO Den Haag,Eredivisie,32
+1063,3377749,2021-05-09,xG_ag,0.47,A,10217,ADO Den Haag,Eredivisie,32
+1064,3377750,2021-05-08,xG_for,0.72,H,10228,SC Heerenveen,Eredivisie,32
+1065,3377750,2021-05-08,xG_ag,0.95,H,10228,SC Heerenveen,Eredivisie,32
+1066,3377750,2021-05-08,xG_for,0.95,A,9908,FC Utrecht,Eredivisie,32
+1067,3377750,2021-05-08,xG_ag,0.72,A,9908,FC Utrecht,Eredivisie,32
+1068,3377751,2021-05-08,xG_for,1.89,H,8614,Sparta Rotterdam,Eredivisie,32
+1069,3377751,2021-05-08,xG_ag,0.94,H,8614,Sparta Rotterdam,Eredivisie,32
+1070,3377751,2021-05-08,xG_for,0.94,A,8277,Vitesse,Eredivisie,32
+1071,3377751,2021-05-08,xG_ag,1.89,A,8277,Vitesse,Eredivisie,32
+1072,3377752,2021-05-09,xG_for,2.43,H,9839,VVV-Venlo,Eredivisie,32
+1073,3377752,2021-05-09,xG_ag,2.01,H,9839,VVV-Venlo,Eredivisie,32
+1074,3377752,2021-05-09,xG_for,2.01,A,10219,RKC Waalwijk,Eredivisie,32
+1075,3377752,2021-05-09,xG_ag,2.43,A,10219,RKC Waalwijk,Eredivisie,32
+1076,3377753,2021-05-09,xG_for,0.0,H,8525,Willem II,Eredivisie,32
+1077,3377753,2021-05-09,xG_ag,1.0,H,8525,Willem II,Eredivisie,32
+1078,3377753,2021-05-09,xG_for,1.0,A,8640,PSV Eindhoven,Eredivisie,32
+1079,3377753,2021-05-09,xG_ag,0.0,A,8640,PSV Eindhoven,Eredivisie,32
+1080,3377754,2021-05-13,xG_for,1.42,H,10217,ADO Den Haag,Eredivisie,33
+1081,3377754,2021-05-13,xG_ag,3.22,H,10217,ADO Den Haag,Eredivisie,33
+1082,3377754,2021-05-13,xG_for,3.22,A,8525,Willem II,Eredivisie,33
+1083,3377754,2021-05-13,xG_ag,1.42,A,8525,Willem II,Eredivisie,33
+1084,3377755,2021-05-13,xG_for,3.73,H,8593,Ajax,Eredivisie,33
+1085,3377755,2021-05-13,xG_ag,0.91,H,8593,Ajax,Eredivisie,33
+1086,3377755,2021-05-13,xG_for,0.91,A,9839,VVV-Venlo,Eredivisie,33
+1087,3377755,2021-05-13,xG_ag,3.73,A,9839,VVV-Venlo,Eredivisie,33
+1088,3377756,2021-05-13,xG_for,3.58,H,6660,FC Emmen,Eredivisie,33
+1089,3377756,2021-05-13,xG_ag,0.21,H,6660,FC Emmen,Eredivisie,33
+1090,3377756,2021-05-13,xG_for,0.21,A,10228,SC Heerenveen,Eredivisie,33
+1091,3377756,2021-05-13,xG_ag,3.58,A,10228,SC Heerenveen,Eredivisie,33
+1092,3377757,2021-05-13,xG_for,0.76,H,8674,FC Groningen,Eredivisie,33
+1093,3377757,2021-05-13,xG_ag,1.62,H,8674,FC Groningen,Eredivisie,33
+1094,3377757,2021-05-13,xG_for,1.62,A,10229,AZ Alkmaar,Eredivisie,33
+1095,3377757,2021-05-13,xG_ag,0.76,A,10229,AZ Alkmaar,Eredivisie,33
+1096,3377758,2021-05-13,xG_for,0.8,H,6422,Fortuna Sittard,Eredivisie,33
+1097,3377758,2021-05-13,xG_ag,1.86,H,6422,Fortuna Sittard,Eredivisie,33
+1098,3377758,2021-05-13,xG_for,1.86,A,8277,Vitesse,Eredivisie,33
+1099,3377758,2021-05-13,xG_ag,0.8,A,8277,Vitesse,Eredivisie,33
+1100,3377759,2021-05-13,xG_for,1.48,H,9791,Heracles,Eredivisie,33
+1101,3377759,2021-05-13,xG_ag,1.21,H,9791,Heracles,Eredivisie,33
+1102,3377759,2021-05-13,xG_for,1.21,A,10235,Feyenoord,Eredivisie,33
+1103,3377759,2021-05-13,xG_ag,1.48,A,10235,Feyenoord,Eredivisie,33
+1104,3377760,2021-05-13,xG_for,2.85,H,8640,PSV Eindhoven,Eredivisie,33
+1105,3377760,2021-05-13,xG_ag,0.75,H,8640,PSV Eindhoven,Eredivisie,33
+1106,3377760,2021-05-13,xG_for,0.75,A,6413,PEC Zwolle,Eredivisie,33
+1107,3377760,2021-05-13,xG_ag,2.85,A,6413,PEC Zwolle,Eredivisie,33
+1108,3377761,2021-05-13,xG_for,1.55,H,10219,RKC Waalwijk,Eredivisie,33
+1109,3377761,2021-05-13,xG_ag,1.07,H,10219,RKC Waalwijk,Eredivisie,33
+1110,3377761,2021-05-13,xG_for,1.07,A,8611,FC Twente,Eredivisie,33
+1111,3377761,2021-05-13,xG_ag,1.55,A,8611,FC Twente,Eredivisie,33
+1112,3377762,2021-05-13,xG_for,0.94,H,8614,Sparta Rotterdam,Eredivisie,33
+1113,3377762,2021-05-13,xG_ag,2.08,H,8614,Sparta Rotterdam,Eredivisie,33
+1114,3377762,2021-05-13,xG_for,2.08,A,9908,FC Utrecht,Eredivisie,33
+1115,3377762,2021-05-13,xG_ag,0.94,A,9908,FC Utrecht,Eredivisie,33
+1116,3377763,2021-05-16,xG_for,5.04,H,10229,AZ Alkmaar,Eredivisie,34
+1117,3377763,2021-05-16,xG_ag,0.49,H,10229,AZ Alkmaar,Eredivisie,34
+1118,3377763,2021-05-16,xG_for,0.49,A,9791,Heracles,Eredivisie,34
+1119,3377763,2021-05-16,xG_ag,5.04,A,9791,Heracles,Eredivisie,34
+1120,3377764,2021-05-16,xG_for,3.14,H,8611,FC Twente,Eredivisie,34
+1121,3377764,2021-05-16,xG_ag,0.63,H,8611,FC Twente,Eredivisie,34
+1122,3377764,2021-05-16,xG_for,0.63,A,10217,ADO Den Haag,Eredivisie,34
+1123,3377764,2021-05-16,xG_ag,3.14,A,10217,ADO Den Haag,Eredivisie,34
+1124,3377765,2021-05-16,xG_for,1.39,H,9908,FC Utrecht,Eredivisie,34
+1125,3377765,2021-05-16,xG_ag,0.8,H,9908,FC Utrecht,Eredivisie,34
+1126,3377765,2021-05-16,xG_for,0.8,A,8640,PSV Eindhoven,Eredivisie,34
+1127,3377765,2021-05-16,xG_ag,1.39,A,8640,PSV Eindhoven,Eredivisie,34
+1128,3377766,2021-05-16,xG_for,1.68,H,10235,Feyenoord,Eredivisie,34
+1129,3377766,2021-05-16,xG_ag,0.17,H,10235,Feyenoord,Eredivisie,34
+1130,3377766,2021-05-16,xG_for,0.17,A,10219,RKC Waalwijk,Eredivisie,34
+1131,3377766,2021-05-16,xG_ag,1.68,A,10219,RKC Waalwijk,Eredivisie,34
+1132,3377767,2021-05-16,xG_for,0.61,H,6413,PEC Zwolle,Eredivisie,34
+1133,3377767,2021-05-16,xG_ag,1.44,H,6413,PEC Zwolle,Eredivisie,34
+1134,3377767,2021-05-16,xG_for,1.44,A,8674,FC Groningen,Eredivisie,34
+1135,3377767,2021-05-16,xG_ag,0.61,A,8674,FC Groningen,Eredivisie,34
+1136,3377768,2021-05-16,xG_for,0.75,H,10228,SC Heerenveen,Eredivisie,34
+1137,3377768,2021-05-16,xG_ag,0.61,H,10228,SC Heerenveen,Eredivisie,34
+1138,3377768,2021-05-16,xG_for,0.61,A,8614,Sparta Rotterdam,Eredivisie,34
+1139,3377768,2021-05-16,xG_ag,0.75,A,8614,Sparta Rotterdam,Eredivisie,34
+1140,3377769,2021-05-16,xG_for,0.77,H,8277,Vitesse,Eredivisie,34
+1141,3377769,2021-05-16,xG_ag,3.44,H,8277,Vitesse,Eredivisie,34
+1142,3377769,2021-05-16,xG_for,3.44,A,8593,Ajax,Eredivisie,34
+1143,3377769,2021-05-16,xG_ag,0.77,A,8593,Ajax,Eredivisie,34
+1144,3377770,2021-05-16,xG_for,1.04,H,9839,VVV-Venlo,Eredivisie,34
+1145,3377770,2021-05-16,xG_ag,3.42,H,9839,VVV-Venlo,Eredivisie,34
+1146,3377770,2021-05-16,xG_for,3.42,A,6660,FC Emmen,Eredivisie,34
+1147,3377770,2021-05-16,xG_ag,1.04,A,6660,FC Emmen,Eredivisie,34
+1148,3377771,2021-05-16,xG_for,2.13,H,8525,Willem II,Eredivisie,34
+1149,3377771,2021-05-16,xG_ag,0.46,H,8525,Willem II,Eredivisie,34
+1150,3377771,2021-05-16,xG_for,0.46,A,6422,Fortuna Sittard,Eredivisie,34
+1151,3377771,2021-05-16,xG_ag,2.13,A,6422,Fortuna Sittard,Eredivisie,34
+1152,3377772,,xG_for,,H,,,,0
+1153,3377772,,xG_ag,,H,,,,0
+1154,3377772,,xG_for,,A,,,,0
+1155,3377772,,xG_ag,,A,,,,0
+1156,3377773,,xG_for,,H,,,,0
+1157,3377773,,xG_ag,,H,,,,0
+1158,3377773,,xG_for,,A,,,,0
+1159,3377773,,xG_ag,,A,,,,0
+1160,3377774,,xG_for,,H,,,,0
+1161,3377774,,xG_ag,,H,,,,0
+1162,3377774,,xG_for,,A,,,,0
+1163,3377774,,xG_ag,,A,,,,0
+1164,3377775,,xG_for,,H,,,,0
+1165,3377775,,xG_ag,,H,,,,0
+1166,3377775,,xG_for,,A,,,,0
+1167,3377775,,xG_ag,,A,,,,0
+1168,3377776,,xG_for,,H,,,,0
+1169,3377776,,xG_ag,,H,,,,0
+1170,3377776,,xG_for,,A,,,,0
+1171,3377776,,xG_ag,,A,,,,0
+1172,3377777,,xG_for,,H,,,,0
+1173,3377777,,xG_ag,,H,,,,0
+1174,3377777,,xG_for,,A,,,,0
+1175,3377777,,xG_ag,,A,,,,0
+1176,3377778,,xG_for,,H,,,,0
+1177,3377778,,xG_ag,,H,,,,0
+1178,3377778,,xG_for,,A,,,,0
+1179,3377778,,xG_ag,,A,,,,0
+1180,3377779,,xG_for,,H,,,,0
+1181,3377779,,xG_ag,,H,,,,0
+1182,3377779,,xG_for,,A,,,,0
+1183,3377779,,xG_ag,,A,,,,0
+1184,3377780,,xG_for,,H,,,,0
+1185,3377780,,xG_ag,,H,,,,0
+1186,3377780,,xG_for,,A,,,,0
+1187,3377780,,xG_ag,,A,,,,0
+1188,3377781,,xG_for,,H,,,,0
+1189,3377781,,xG_ag,,H,,,,0
+1190,3377781,,xG_for,,A,,,,0
+1191,3377781,,xG_ag,,A,,,,0
+1192,3377782,,xG_for,,H,,,,0
+1193,3377782,,xG_ag,,H,,,,0
+1194,3377782,,xG_for,,A,,,,0
+1195,3377782,,xG_ag,,A,,,,0
+1196,3377783,,xG_for,,H,,,,0
+1197,3377783,,xG_ag,,H,,,,0
+1198,3377783,,xG_for,,A,,,,0
+1199,3377783,,xG_ag,,A,,,,0
+1200,3377784,,xG_for,,H,,,,0
+1201,3377784,,xG_ag,,H,,,,0
+1202,3377784,,xG_for,,A,,,,0
+1203,3377784,,xG_ag,,A,,,,0
+1204,3377785,,xG_for,,H,,,,0
+1205,3377785,,xG_ag,,H,,,,0
+1206,3377785,,xG_for,,A,,,,0
+1207,3377785,,xG_ag,,A,,,,0
+1208,3377786,,xG_for,,H,,,,0
+1209,3377786,,xG_ag,,H,,,,0
+1210,3377786,,xG_for,,A,,,,0
+1211,3377786,,xG_ag,,A,,,,0
+1212,3377787,,xG_for,,H,,,,0
+1213,3377787,,xG_ag,,H,,,,0
+1214,3377787,,xG_for,,A,,,,0
+1215,3377787,,xG_ag,,A,,,,0
+1216,3377788,,xG_for,,H,,,,0
+1217,3377788,,xG_ag,,H,,,,0
+1218,3377788,,xG_for,,A,,,,0
+1219,3377788,,xG_ag,,A,,,,0
+1220,3377789,,xG_for,,H,,,,0
+1221,3377789,,xG_ag,,H,,,,0
+1222,3377789,,xG_for,,A,,,,0
+1223,3377789,,xG_ag,,A,,,,0
+1224,3377790,,xG_for,,H,,,,0
+1225,3377790,,xG_ag,,H,,,,0
+1226,3377790,,xG_for,,A,,,,0
+1227,3377790,,xG_ag,,A,,,,0
+1228,3377791,,xG_for,,H,,,,0
+1229,3377791,,xG_ag,,H,,,,0
+1230,3377791,,xG_for,,A,,,,0
+1231,3377791,,xG_ag,,A,,,,0
+1232,3377792,,xG_for,,H,,,,0
+1233,3377792,,xG_ag,,H,,,,0
+1234,3377792,,xG_for,,A,,,,0
+1235,3377792,,xG_ag,,A,,,,0
+1236,3377793,,xG_for,,H,,,,0
+1237,3377793,,xG_ag,,H,,,,0
+1238,3377793,,xG_for,,A,,,,0
+1239,3377793,,xG_ag,,A,,,,0
+1240,3377794,,xG_for,,H,,,,0
+1241,3377794,,xG_ag,,H,,,,0
+1242,3377794,,xG_for,,A,,,,0
+1243,3377794,,xG_ag,,A,,,,0
+1244,3377795,,xG_for,,H,,,,0
+1245,3377795,,xG_ag,,H,,,,0
+1246,3377795,,xG_for,,A,,,,0
+1247,3377795,,xG_ag,,A,,,,0
+1248,3377796,,xG_for,,H,,,,0
+1249,3377796,,xG_ag,,H,,,,0
+1250,3377796,,xG_for,,A,,,,0
+1251,3377796,,xG_ag,,A,,,,0
+1252,3377797,,xG_for,,H,,,,0
+1253,3377797,,xG_ag,,H,,,,0
+1254,3377797,,xG_for,,A,,,,0
+1255,3377797,,xG_ag,,A,,,,0
+1256,3377798,,xG_for,,H,,,,0
+1257,3377798,,xG_ag,,H,,,,0
+1258,3377798,,xG_for,,A,,,,0
+1259,3377798,,xG_ag,,A,,,,0
+1260,3377799,,xG_for,,H,,,,0
+1261,3377799,,xG_ag,,H,,,,0
+1262,3377799,,xG_for,,A,,,,0
+1263,3377799,,xG_ag,,A,,,,0
+1264,3377800,,xG_for,,H,,,,0
+1265,3377800,,xG_ag,,H,,,,0
+1266,3377800,,xG_for,,A,,,,0
+1267,3377800,,xG_ag,,A,,,,0
+1268,3377801,,xG_for,,H,,,,0
+1269,3377801,,xG_ag,,H,,,,0
+1270,3377801,,xG_for,,A,,,,0
+1271,3377801,,xG_ag,,A,,,,0
+1272,3377802,,xG_for,,H,,,,0
+1273,3377802,,xG_ag,,H,,,,0
+1274,3377802,,xG_for,,A,,,,0
+1275,3377802,,xG_ag,,A,,,,0
+1276,3377803,,xG_for,,H,,,,0
+1277,3377803,,xG_ag,,H,,,,0
+1278,3377803,,xG_for,,A,,,,0
+1279,3377803,,xG_ag,,A,,,,0
+1280,3377804,,xG_for,,H,,,,0
+1281,3377804,,xG_ag,,H,,,,0
+1282,3377804,,xG_for,,A,,,,0
+1283,3377804,,xG_ag,,A,,,,0
+1284,3377805,,xG_for,,H,,,,0
+1285,3377805,,xG_ag,,H,,,,0
+1286,3377805,,xG_for,,A,,,,0
+1287,3377805,,xG_ag,,A,,,,0
+1288,3377806,,xG_for,,H,,,,0
+1289,3377806,,xG_ag,,H,,,,0
+1290,3377806,,xG_for,,A,,,,0
+1291,3377806,,xG_ag,,A,,,,0
+1292,3377807,,xG_for,,H,,,,0
+1293,3377807,,xG_ag,,H,,,,0
+1294,3377807,,xG_for,,A,,,,0
+1295,3377807,,xG_ag,,A,,,,0
+1296,3377808,,xG_for,,H,,,,0
+1297,3377808,,xG_ag,,H,,,,0
+1298,3377808,,xG_for,,A,,,,0
+1299,3377808,,xG_ag,,A,,,,0
+1300,3377809,,xG_for,,H,,,,0
+1301,3377809,,xG_ag,,H,,,,0
+1302,3377809,,xG_for,,A,,,,0
+1303,3377809,,xG_ag,,A,,,,0
+1304,3377810,,xG_for,,H,,,,0
+1305,3377810,,xG_ag,,H,,,,0
+1306,3377810,,xG_for,,A,,,,0
+1307,3377810,,xG_ag,,A,,,,0
+1308,3377811,,xG_for,,H,,,,0
+1309,3377811,,xG_ag,,H,,,,0
+1310,3377811,,xG_for,,A,,,,0
+1311,3377811,,xG_ag,,A,,,,0
+1312,3377812,,xG_for,,H,,,,0
+1313,3377812,,xG_ag,,H,,,,0
+1314,3377812,,xG_for,,A,,,,0
+1315,3377812,,xG_ag,,A,,,,0
+1316,3377813,,xG_for,,H,,,,0
+1317,3377813,,xG_ag,,H,,,,0
+1318,3377813,,xG_for,,A,,,,0
+1319,3377813,,xG_ag,,A,,,,0
+1320,3377814,,xG_for,,H,,,,0
+1321,3377814,,xG_ag,,H,,,,0
+1322,3377814,,xG_for,,A,,,,0
+1323,3377814,,xG_ag,,A,,,,0
+1324,3377815,,xG_for,,H,,,,0
+1325,3377815,,xG_ag,,H,,,,0
+1326,3377815,,xG_for,,A,,,,0
+1327,3377815,,xG_ag,,A,,,,0
+1328,3377816,,xG_for,,H,,,,0
+1329,3377816,,xG_ag,,H,,,,0
+1330,3377816,,xG_for,,A,,,,0
+1331,3377816,,xG_ag,,A,,,,0
+1332,3377817,,xG_for,,H,,,,0
+1333,3377817,,xG_ag,,H,,,,0
+1334,3377817,,xG_for,,A,,,,0
+1335,3377817,,xG_ag,,A,,,,0
+1336,3377818,,xG_for,,H,,,,0
+1337,3377818,,xG_ag,,H,,,,0
+1338,3377818,,xG_for,,A,,,,0
+1339,3377818,,xG_ag,,A,,,,0
+1340,3377819,,xG_for,,H,,,,0
+1341,3377819,,xG_ag,,H,,,,0
+1342,3377819,,xG_for,,A,,,,0
+1343,3377819,,xG_ag,,A,,,,0
+1344,3377820,,xG_for,,H,,,,0
+1345,3377820,,xG_ag,,H,,,,0
+1346,3377820,,xG_for,,A,,,,0
+1347,3377820,,xG_ag,,A,,,,0
+1348,3377821,,xG_for,,H,,,,0
+1349,3377821,,xG_ag,,H,,,,0
+1350,3377821,,xG_for,,A,,,,0
+1351,3377821,,xG_ag,,A,,,,0
+1352,3377822,,xG_for,,H,,,,0
+1353,3377822,,xG_ag,,H,,,,0
+1354,3377822,,xG_for,,A,,,,0
+1355,3377822,,xG_ag,,A,,,,0
+1356,3377823,,xG_for,,H,,,,0
+1357,3377823,,xG_ag,,H,,,,0
+1358,3377823,,xG_for,,A,,,,0
+1359,3377823,,xG_ag,,A,,,,0
+1360,3377824,,xG_for,,H,,,,0
+1361,3377824,,xG_ag,,H,,,,0
+1362,3377824,,xG_for,,A,,,,0
+1363,3377824,,xG_ag,,A,,,,0
+1364,3377825,,xG_for,,H,,,,0
+1365,3377825,,xG_ag,,H,,,,0
+1366,3377825,,xG_for,,A,,,,0
+1367,3377825,,xG_ag,,A,,,,0
+1368,3377826,,xG_for,,H,,,,0
+1369,3377826,,xG_ag,,H,,,,0
+1370,3377826,,xG_for,,A,,,,0
+1371,3377826,,xG_ag,,A,,,,0
+1372,3377827,,xG_for,,H,,,,0
+1373,3377827,,xG_ag,,H,,,,0
+1374,3377827,,xG_for,,A,,,,0
+1375,3377827,,xG_ag,,A,,,,0
+1376,3377828,,xG_for,,H,,,,0
+1377,3377828,,xG_ag,,H,,,,0
+1378,3377828,,xG_for,,A,,,,0
+1379,3377828,,xG_ag,,A,,,,0
+1380,3377829,,xG_for,,H,,,,0
+1381,3377829,,xG_ag,,H,,,,0
+1382,3377829,,xG_for,,A,,,,0
+1383,3377829,,xG_ag,,A,,,,0
+1384,3377830,,xG_for,,H,,,,0
+1385,3377830,,xG_ag,,H,,,,0
+1386,3377830,,xG_for,,A,,,,0
+1387,3377830,,xG_ag,,A,,,,0
+1388,3377831,,xG_for,,H,,,,0
+1389,3377831,,xG_ag,,H,,,,0
+1390,3377831,,xG_for,,A,,,,0
+1391,3377831,,xG_ag,,A,,,,0
+1392,3377832,,xG_for,,H,,,,0
+1393,3377832,,xG_ag,,H,,,,0
+1394,3377832,,xG_for,,A,,,,0
+1395,3377832,,xG_ag,,A,,,,0
+1396,3377833,2020-09-05,xG_for,,H,862902,Fleury Merogis U.S (W),Division 1,1
+1397,3377833,2020-09-05,xG_ag,,H,862902,Fleury Merogis U.S (W),Division 1,1
+1398,3377833,2020-09-05,xG_for,,A,606039,Montpellier (W),Division 1,1
+1399,3377833,2020-09-05,xG_ag,,A,606039,Montpellier (W),Division 1,1
+1400,3377834,2020-09-26,xG_for,,H,597900,Guingamp (W),Division 1,3
+1401,3377834,2020-09-26,xG_ag,,H,597900,Guingamp (W),Division 1,3
+1402,3377834,2020-09-26,xG_for,,A,593381,Dijon Foot (W),Division 1,3
+1403,3377834,2020-09-26,xG_ag,,A,593381,Dijon Foot (W),Division 1,3
+1404,3377835,2020-09-28,xG_for,,H,394119,Lyon,Division 1 Feminine,3
+1405,3377835,2020-09-28,xG_ag,,H,394119,Lyon,Division 1 Feminine,3
+1406,3377835,2020-09-28,xG_for,,A,862896,Bordeaux,Division 1 Feminine,3
+1407,3377835,2020-09-28,xG_ag,,A,862896,Bordeaux,Division 1 Feminine,3
+1408,3377836,2020-09-26,xG_for,,H,862893,Paris FC (W),Division 1,3
+1409,3377836,2020-09-26,xG_ag,,H,862893,Paris FC (W),Division 1,3
+1410,3377836,2020-09-26,xG_for,,A,1169987,Le Havre (W),Division 1,3
+1411,3377836,2020-09-26,xG_ag,,A,1169987,Le Havre (W),Division 1,3
+1412,3377837,2020-09-26,xG_for,,H,628136,ASJ Soyaux (W),Division 1,3
+1413,3377837,2020-09-26,xG_ag,,H,628136,ASJ Soyaux (W),Division 1,3
+1414,3377837,2020-09-26,xG_for,,A,606039,Montpellier (W),Division 1,3
+1415,3377837,2020-09-26,xG_ag,,A,606039,Montpellier (W),Division 1,3
+1416,3377838,2020-09-12,xG_for,,H,862893,Paris FC (W),Division 1,2
+1417,3377838,2020-09-12,xG_ag,,H,862893,Paris FC (W),Division 1,2
+1418,3377838,2020-09-12,xG_for,,A,628136,ASJ Soyaux (W),Division 1,2
+1419,3377838,2020-09-12,xG_ag,,A,628136,ASJ Soyaux (W),Division 1,2
+1420,3377839,2020-09-13,xG_for,,H,862896,Bordeaux (W),Division 1,2
+1421,3377839,2020-09-13,xG_ag,,H,862896,Bordeaux (W),Division 1,2
+1422,3377839,2020-09-13,xG_for,,A,294858,Paris Saint Germain (W),Division 1,2
+1423,3377839,2020-09-13,xG_ag,,A,294858,Paris Saint Germain (W),Division 1,2
+1424,3377840,2020-09-12,xG_for,,H,593381,Dijon Foot (W),Division 1,2
+1425,3377840,2020-09-12,xG_ag,,H,593381,Dijon Foot (W),Division 1,2
+1426,3377840,2020-09-12,xG_for,,A,608066,GPSO 92 Issy (W),Division 1,2
+1427,3377840,2020-09-12,xG_ag,,A,608066,GPSO 92 Issy (W),Division 1,2
+1428,3377841,2020-09-11,xG_for,,H,1070036,Reims,Division 1 Feminine,2
+1429,3377841,2020-09-11,xG_ag,,H,1070036,Reims,Division 1 Feminine,2
+1430,3377841,2020-09-11,xG_for,,A,394119,Lyon,Division 1 Feminine,2
+1431,3377841,2020-09-11,xG_ag,,A,394119,Lyon,Division 1 Feminine,2
+1432,3377842,2020-09-12,xG_for,,H,1169987,Le Havre (W),Division 1,2
+1433,3377842,2020-09-12,xG_ag,,H,1169987,Le Havre (W),Division 1,2
+1434,3377842,2020-09-12,xG_for,,A,862902,Fleury Merogis U.S (W),Division 1,2
+1435,3377842,2020-09-12,xG_ag,,A,862902,Fleury Merogis U.S (W),Division 1,2
+1436,3377843,2020-09-11,xG_for,,H,606039,Montpellier (W),Division 1,2
+1437,3377843,2020-09-11,xG_ag,,H,606039,Montpellier (W),Division 1,2
+1438,3377843,2020-09-11,xG_for,,A,597900,Guingamp (W),Division 1,2
+1439,3377843,2020-09-11,xG_ag,,A,597900,Guingamp (W),Division 1,2
+1440,3377844,2020-09-05,xG_for,,H,1070036,Reims (W),Division 1,1
+1441,3377844,2020-09-05,xG_ag,,H,1070036,Reims (W),Division 1,1
+1442,3377844,2020-09-05,xG_for,,A,862896,Bordeaux (W),Division 1,1
+1443,3377844,2020-09-05,xG_ag,,A,862896,Bordeaux (W),Division 1,1
+1444,3377845,2020-09-05,xG_for,,H,628136,ASJ Soyaux (W),Division 1,1
+1445,3377845,2020-09-05,xG_ag,,H,628136,ASJ Soyaux (W),Division 1,1
+1446,3377845,2020-09-05,xG_for,,A,593381,Dijon Foot (W),Division 1,1
+1447,3377845,2020-09-05,xG_ag,,A,593381,Dijon Foot (W),Division 1,1
+1448,3377846,2020-09-05,xG_for,,H,294858,Paris Saint Germain (W),Division 1,1
+1449,3377846,2020-09-05,xG_ag,,H,294858,Paris Saint Germain (W),Division 1,1
+1450,3377846,2020-09-05,xG_for,,A,597900,Guingamp (W),Division 1,1
+1451,3377846,2020-09-05,xG_ag,,A,597900,Guingamp (W),Division 1,1
+1452,3377847,2020-09-06,xG_for,,H,394119,Lyon,Division 1 Feminine,1
+1453,3377847,2020-09-06,xG_ag,,H,394119,Lyon,Division 1 Feminine,1
+1454,3377847,2020-09-06,xG_for,,A,862893,Paris FC,Division 1 Feminine,1
+1455,3377847,2020-09-06,xG_ag,,A,862893,Paris FC,Division 1 Feminine,1
+1456,3377848,2020-09-05,xG_for,,H,608066,GPSO 92 Issy (W),Division 1,1
+1457,3377848,2020-09-05,xG_ag,,H,608066,GPSO 92 Issy (W),Division 1,1
+1458,3377848,2020-09-05,xG_for,,A,1169987,Le Havre (W),Division 1,1
+1459,3377848,2020-09-05,xG_ag,,A,1169987,Le Havre (W),Division 1,1
+1460,3377849,2020-09-26,xG_for,,H,608066,GPSO 92 Issy (W),Division 1,3
+1461,3377849,2020-09-26,xG_ag,,H,608066,GPSO 92 Issy (W),Division 1,3
+1462,3377849,2020-09-26,xG_for,,A,862902,Fleury Merogis U.S (W),Division 1,3
+1463,3377849,2020-09-26,xG_ag,,A,862902,Fleury Merogis U.S (W),Division 1,3
+1464,3377850,2020-09-25,xG_for,,H,294858,Paris Saint Germain (W),Division 1,3
+1465,3377850,2020-09-25,xG_ag,,H,294858,Paris Saint Germain (W),Division 1,3
+1466,3377850,2020-09-25,xG_for,,A,1070036,Reims (W),Division 1,3
+1467,3377850,2020-09-25,xG_ag,,A,1070036,Reims (W),Division 1,3
+1468,3377851,2020-10-17,xG_for,,H,394119,Lyon,Division 1 Feminine,6
+1469,3377851,2020-10-17,xG_ag,,H,394119,Lyon,Division 1 Feminine,6
+1470,3377851,2020-10-17,xG_for,,A,597900,Guingamp,Division 1 Feminine,6
+1471,3377851,2020-10-17,xG_ag,,A,597900,Guingamp,Division 1 Feminine,6
+1472,3377852,2020-10-17,xG_for,,H,593381,Dijon Foot (W),Division 1,6
+1473,3377852,2020-10-17,xG_ag,,H,593381,Dijon Foot (W),Division 1,6
+1474,3377852,2020-10-17,xG_for,,A,1169987,Le Havre (W),Division 1,6
+1475,3377852,2020-10-17,xG_ag,,A,1169987,Le Havre (W),Division 1,6
+1476,3377853,2020-10-17,xG_for,,H,1070036,Reims (W),Division 1,6
+1477,3377853,2020-10-17,xG_ag,,H,1070036,Reims (W),Division 1,6
+1478,3377853,2020-10-17,xG_for,,A,606039,Montpellier (W),Division 1,6
+1479,3377853,2020-10-17,xG_ag,,A,606039,Montpellier (W),Division 1,6
+1480,3377854,2020-10-10,xG_for,,H,862893,Paris FC (W),Division 1,5
+1481,3377854,2020-10-10,xG_ag,,H,862893,Paris FC (W),Division 1,5
+1482,3377854,2020-10-10,xG_for,,A,608066,GPSO 92 Issy (W),Division 1,5
+1483,3377854,2020-10-10,xG_ag,,A,608066,GPSO 92 Issy (W),Division 1,5
+1484,3377855,2020-10-10,xG_for,,H,862896,Bordeaux (W),Division 1,5
+1485,3377855,2020-10-10,xG_ag,,H,862896,Bordeaux (W),Division 1,5
+1486,3377855,2020-10-10,xG_for,,A,862902,Fleury Merogis U.S (W),Division 1,5
+1487,3377855,2020-10-10,xG_ag,,A,862902,Fleury Merogis U.S (W),Division 1,5
+1488,3377856,2020-10-10,xG_for,,H,597900,Guingamp (W),Division 1,5
+1489,3377856,2020-10-10,xG_ag,,H,597900,Guingamp (W),Division 1,5
+1490,3377856,2020-10-10,xG_for,,A,628136,ASJ Soyaux (W),Division 1,5
+1491,3377856,2020-10-10,xG_ag,,A,628136,ASJ Soyaux (W),Division 1,5
+1492,3377857,2020-10-11,xG_for,,H,394119,Lyon,Division 1 Feminine,5
+1493,3377857,2020-10-11,xG_ag,,H,394119,Lyon,Division 1 Feminine,5
+1494,3377857,2020-10-11,xG_for,,A,593381,Dijon Foot,Division 1 Feminine,5
+1495,3377857,2020-10-11,xG_ag,,A,593381,Dijon Foot,Division 1 Feminine,5
+1496,3377858,2020-10-10,xG_for,,H,1169987,Le Havre (W),Division 1,5
+1497,3377858,2020-10-10,xG_ag,,H,1169987,Le Havre (W),Division 1,5
+1498,3377858,2020-10-10,xG_for,,A,1070036,Reims (W),Division 1,5
+1499,3377858,2020-10-10,xG_ag,,A,1070036,Reims (W),Division 1,5
+1500,3377859,2020-10-11,xG_for,,H,294858,Paris Saint Germain (W),Division 1,5
+1501,3377859,2020-10-11,xG_ag,,H,294858,Paris Saint Germain (W),Division 1,5
+1502,3377859,2020-10-11,xG_for,,A,606039,Montpellier (W),Division 1,5
+1503,3377859,2020-10-11,xG_ag,,A,606039,Montpellier (W),Division 1,5
+1504,3377860,2020-10-03,xG_for,,H,1070036,Reims (W),Division 1,4
+1505,3377860,2020-10-03,xG_ag,,H,1070036,Reims (W),Division 1,4
+1506,3377860,2020-10-03,xG_for,,A,608066,GPSO 92 Issy (W),Division 1,4
+1507,3377860,2020-10-03,xG_ag,,A,608066,GPSO 92 Issy (W),Division 1,4
+1508,3377861,2020-10-04,xG_for,,H,593381,Dijon Foot (W),Division 1,4
+1509,3377861,2020-10-04,xG_ag,,H,593381,Dijon Foot (W),Division 1,4
+1510,3377861,2020-10-04,xG_for,,A,294858,Paris Saint Germain (W),Division 1,4
+1511,3377861,2020-10-04,xG_ag,,A,294858,Paris Saint Germain (W),Division 1,4
+1512,3377862,2020-10-03,xG_for,,H,862896,Bordeaux (W),Division 1,4
+1513,3377862,2020-10-03,xG_ag,,H,862896,Bordeaux (W),Division 1,4
+1514,3377862,2020-10-03,xG_for,,A,597900,Guingamp (W),Division 1,4
+1515,3377862,2020-10-03,xG_ag,,A,597900,Guingamp (W),Division 1,4
+1516,3377863,2020-10-02,xG_for,,H,862902,Fleury Merogis U.S,Division 1 Feminine,4
+1517,3377863,2020-10-02,xG_ag,,H,862902,Fleury Merogis U.S,Division 1 Feminine,4
+1518,3377863,2020-10-02,xG_for,,A,394119,Lyon,Division 1 Feminine,4
+1519,3377863,2020-10-02,xG_ag,,A,394119,Lyon,Division 1 Feminine,4
+1520,3377864,2020-10-02,xG_for,,H,1169987,Le Havre (W),Division 1,4
+1521,3377864,2020-10-02,xG_ag,,H,1169987,Le Havre (W),Division 1,4
+1522,3377864,2020-10-02,xG_for,,A,628136,ASJ Soyaux (W),Division 1,4
+1523,3377864,2020-10-02,xG_ag,,A,628136,ASJ Soyaux (W),Division 1,4
+1524,3377865,2020-10-03,xG_for,,H,606039,Montpellier (W),Division 1,4
+1525,3377865,2020-10-03,xG_ag,,H,606039,Montpellier (W),Division 1,4
+1526,3377865,2020-10-03,xG_for,,A,862893,Paris FC (W),Division 1,4
+1527,3377865,2020-10-03,xG_ag,,A,862893,Paris FC (W),Division 1,4
+1528,3377866,2020-10-17,xG_for,,H,608066,GPSO 92 Issy (W),Division 1,6
+1529,3377866,2020-10-17,xG_ag,,H,608066,GPSO 92 Issy (W),Division 1,6
+1530,3377866,2020-10-17,xG_for,,A,862896,Bordeaux (W),Division 1,6
+1531,3377866,2020-10-17,xG_ag,,A,862896,Bordeaux (W),Division 1,6
+1532,3377867,2020-11-21,xG_for,,H,294858,Paris Saint Germain,Division 1 Feminine,9
+1533,3377867,2020-11-21,xG_ag,,H,294858,Paris Saint Germain,Division 1 Feminine,9
+1534,3377867,2020-11-21,xG_for,,A,394119,Lyon,Division 1 Feminine,9
+1535,3377867,2020-11-21,xG_ag,,A,394119,Lyon,Division 1 Feminine,9
+1536,3377868,2020-11-21,xG_for,,H,606039,Montpellier (W),Division 1,9
+1537,3377868,2020-11-21,xG_ag,,H,606039,Montpellier (W),Division 1,9
+1538,3377868,2020-11-21,xG_for,,A,1169987,Le Havre (W),Division 1,9
+1539,3377868,2020-11-21,xG_ag,,A,1169987,Le Havre (W),Division 1,9
+1540,3377869,2020-11-14,xG_for,,H,608066,GPSO 92 Issy (W),Division 1,8
+1541,3377869,2020-11-14,xG_ag,,H,608066,GPSO 92 Issy (W),Division 1,8
+1542,3377869,2020-11-14,xG_for,,A,294858,Paris Saint Germain (W),Division 1,8
+1543,3377869,2020-11-14,xG_ag,,A,294858,Paris Saint Germain (W),Division 1,8
+1544,3377870,2020-11-14,xG_for,,H,1070036,Reims (W),Division 1,8
+1545,3377870,2020-11-14,xG_ag,,H,1070036,Reims (W),Division 1,8
+1546,3377870,2020-11-14,xG_for,,A,862902,Fleury Merogis U.S (W),Division 1,8
+1547,3377870,2020-11-14,xG_ag,,A,862902,Fleury Merogis U.S (W),Division 1,8
+1548,3377871,2020-11-14,xG_for,,H,597900,Guingamp (W),Division 1,8
+1549,3377871,2020-11-14,xG_ag,,H,597900,Guingamp (W),Division 1,8
+1550,3377871,2020-11-14,xG_for,,A,862893,Paris FC (W),Division 1,8
+1551,3377871,2020-11-14,xG_ag,,A,862893,Paris FC (W),Division 1,8
+1552,3377872,2020-11-14,xG_for,,H,394119,Lyon,Division 1 Feminine,8
+1553,3377872,2020-11-14,xG_ag,,H,394119,Lyon,Division 1 Feminine,8
+1554,3377872,2020-11-14,xG_for,,A,628136,ASJ Soyaux,Division 1 Feminine,8
+1555,3377872,2020-11-14,xG_ag,,A,628136,ASJ Soyaux,Division 1 Feminine,8
+1556,3377873,2020-11-14,xG_for,,H,1169987,Le Havre (W),Division 1,8
+1557,3377873,2020-11-14,xG_ag,,H,1169987,Le Havre (W),Division 1,8
+1558,3377873,2020-11-14,xG_for,,A,862896,Bordeaux (W),Division 1,8
+1559,3377873,2020-11-14,xG_ag,,A,862896,Bordeaux (W),Division 1,8
+1560,3377874,2020-11-14,xG_for,,H,593381,Dijon Foot (W),Division 1,8
+1561,3377874,2020-11-14,xG_ag,,H,593381,Dijon Foot (W),Division 1,8
+1562,3377874,2020-11-14,xG_for,,A,606039,Montpellier (W),Division 1,8
+1563,3377874,2020-11-14,xG_ag,,A,606039,Montpellier (W),Division 1,8
+1564,3377875,2020-10-31,xG_for,,H,862896,Bordeaux (W),Division 1,7
+1565,3377875,2020-10-31,xG_ag,,H,862896,Bordeaux (W),Division 1,7
+1566,3377875,2020-10-31,xG_for,,A,593381,Dijon Foot (W),Division 1,7
+1567,3377875,2020-10-31,xG_ag,,A,593381,Dijon Foot (W),Division 1,7
+1568,3377876,2020-10-31,xG_for,,H,628136,ASJ Soyaux (W),Division 1,7
+1569,3377876,2020-10-31,xG_ag,,H,628136,ASJ Soyaux (W),Division 1,7
+1570,3377876,2020-10-31,xG_for,,A,608066,GPSO 92 Issy (W),Division 1,7
+1571,3377876,2020-10-31,xG_ag,,A,608066,GPSO 92 Issy (W),Division 1,7
+1572,3377877,2020-10-31,xG_for,,H,862893,Paris FC (W),Division 1,7
+1573,3377877,2020-10-31,xG_ag,,H,862893,Paris FC (W),Division 1,7
+1574,3377877,2020-10-31,xG_for,,A,1070036,Reims (W),Division 1,7
+1575,3377877,2020-10-31,xG_ag,,A,1070036,Reims (W),Division 1,7
+1576,3377878,2020-11-01,xG_for,,H,294858,Paris Saint Germain (W),Division 1,7
+1577,3377878,2020-11-01,xG_ag,,H,294858,Paris Saint Germain (W),Division 1,7
+1578,3377878,2020-11-01,xG_for,,A,862902,Fleury Merogis U.S (W),Division 1,7
+1579,3377878,2020-11-01,xG_ag,,A,862902,Fleury Merogis U.S (W),Division 1,7
+1580,3377879,2020-10-31,xG_for,,H,597900,Guingamp (W),Division 1,7
+1581,3377879,2020-10-31,xG_ag,,H,597900,Guingamp (W),Division 1,7
+1582,3377879,2020-10-31,xG_for,,A,1169987,Le Havre (W),Division 1,7
+1583,3377879,2020-10-31,xG_ag,,A,1169987,Le Havre (W),Division 1,7
+1584,3377880,2020-11-01,xG_for,,H,606039,Montpellier,Division 1 Feminine,7
+1585,3377880,2020-11-01,xG_ag,,H,606039,Montpellier,Division 1 Feminine,7
+1586,3377880,2020-11-01,xG_for,,A,394119,Lyon,Division 1 Feminine,7
+1587,3377880,2020-11-01,xG_ag,,A,394119,Lyon,Division 1 Feminine,7
+1588,3377881,2020-10-18,xG_for,,H,628136,ASJ Soyaux (W),Division 1,6
+1589,3377881,2020-10-18,xG_ag,,H,628136,ASJ Soyaux (W),Division 1,6
+1590,3377881,2020-10-18,xG_for,,A,294858,Paris Saint Germain (W),Division 1,6
+1591,3377881,2020-10-18,xG_ag,,A,294858,Paris Saint Germain (W),Division 1,6
+1592,3377882,2020-10-17,xG_for,,H,862902,Fleury Merogis U.S (W),Division 1,6
+1593,3377882,2020-10-17,xG_ag,,H,862902,Fleury Merogis U.S (W),Division 1,6
+1594,3377882,2020-10-17,xG_for,,A,862893,Paris FC (W),Division 1,6
+1595,3377882,2020-10-17,xG_ag,,A,862893,Paris FC (W),Division 1,6
+1596,3377883,2020-11-21,xG_for,,H,862902,Fleury Merogis U.S (W),Division 1,9
+1597,3377883,2020-11-21,xG_ag,,H,862902,Fleury Merogis U.S (W),Division 1,9
+1598,3377883,2020-11-21,xG_for,,A,593381,Dijon Foot (W),Division 1,9
+1599,3377883,2020-11-21,xG_ag,,A,593381,Dijon Foot (W),Division 1,9
