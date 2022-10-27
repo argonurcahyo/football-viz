@@ -1,0 +1,1201 @@
+,match_id,date,variable,value,venue,team_id,team_name,league_name,round
+0,3900932,2022-08-06,xG_for,1.21,H,9826,Crystal Palace,Premier League,1
+1,3900932,2022-08-06,xG_ag,1.0,H,9826,Crystal Palace,Premier League,1
+2,3900932,2022-08-06,xG_for,1.0,A,9825,Arsenal,Premier League,1
+3,3900932,2022-08-06,xG_ag,1.21,A,9825,Arsenal,Premier League,1
+4,3900933,2022-08-06,xG_for,1.25,H,9879,Fulham,Premier League,1
+5,3900933,2022-08-06,xG_ag,1.23,H,9879,Fulham,Premier League,1
+6,3900933,2022-08-06,xG_for,1.23,A,8650,Liverpool,Premier League,1
+7,3900933,2022-08-06,xG_ag,1.25,A,8650,Liverpool,Premier League,1
+8,3900934,2022-08-06,xG_for,0.59,H,8678,AFC Bournemouth,Premier League,1
+9,3900934,2022-08-06,xG_ag,0.66,H,8678,AFC Bournemouth,Premier League,1
+10,3900934,2022-08-06,xG_for,0.66,A,10252,Aston Villa,Premier League,1
+11,3900934,2022-08-06,xG_ag,0.59,A,10252,Aston Villa,Premier League,1
+12,3900935,2022-08-06,xG_for,0.8,H,8463,Leeds United,Premier League,1
+13,3900935,2022-08-06,xG_ag,1.84,H,8463,Leeds United,Premier League,1
+14,3900935,2022-08-06,xG_for,1.84,A,8602,Wolverhampton Wanderers,Premier League,1
+15,3900935,2022-08-06,xG_ag,0.8,A,8602,Wolverhampton Wanderers,Premier League,1
+16,3900936,2022-08-07,xG_for,0.62,H,8197,Leicester City,Premier League,1
+17,3900936,2022-08-07,xG_ag,0.76,H,8197,Leicester City,Premier League,1
+18,3900936,2022-08-07,xG_for,0.76,A,9937,Brentford,Premier League,1
+19,3900936,2022-08-07,xG_ag,0.62,A,9937,Brentford,Premier League,1
+20,3900937,2022-08-06,xG_for,1.74,H,10261,Newcastle United,Premier League,1
+21,3900937,2022-08-06,xG_ag,0.28,H,10261,Newcastle United,Premier League,1
+22,3900937,2022-08-06,xG_for,0.28,A,10203,Nottingham Forest,Premier League,1
+23,3900937,2022-08-06,xG_ag,1.74,A,10203,Nottingham Forest,Premier League,1
+24,3900938,2022-08-06,xG_for,1.57,H,8586,Tottenham Hotspur,Premier League,1
+25,3900938,2022-08-06,xG_ag,0.48,H,8586,Tottenham Hotspur,Premier League,1
+26,3900938,2022-08-06,xG_for,0.48,A,8466,Southampton,Premier League,1
+27,3900938,2022-08-06,xG_ag,1.57,A,8466,Southampton,Premier League,1
+28,3900939,2022-08-06,xG_for,0.67,H,8668,Everton,Premier League,1
+29,3900939,2022-08-06,xG_ag,1.64,H,8668,Everton,Premier League,1
+30,3900939,2022-08-06,xG_for,1.64,A,8455,Chelsea,Premier League,1
+31,3900939,2022-08-06,xG_ag,0.67,A,8455,Chelsea,Premier League,1
+32,3900940,2022-08-07,xG_for,1.38,H,10260,Manchester United,Premier League,1
+33,3900940,2022-08-07,xG_ag,1.5,H,10260,Manchester United,Premier League,1
+34,3900940,2022-08-07,xG_for,1.5,A,10204,Brighton & Hove Albion,Premier League,1
+35,3900940,2022-08-07,xG_ag,1.38,A,10204,Brighton & Hove Albion,Premier League,1
+36,3900941,2022-08-07,xG_for,0.49,H,8654,West Ham United,Premier League,1
+37,3900941,2022-08-07,xG_ag,2.23,H,8654,West Ham United,Premier League,1
+38,3900941,2022-08-07,xG_for,2.23,A,8456,Manchester City,Premier League,1
+39,3900941,2022-08-07,xG_ag,0.49,A,8456,Manchester City,Premier League,1
+40,3900942,2022-08-13,xG_for,2.96,H,9825,Arsenal,Premier League,2
+41,3900942,2022-08-13,xG_ag,0.46,H,9825,Arsenal,Premier League,2
+42,3900942,2022-08-13,xG_for,0.46,A,8197,Leicester City,Premier League,2
+43,3900942,2022-08-13,xG_ag,2.96,A,8197,Leicester City,Premier League,2
+44,3900943,2022-08-13,xG_for,2.31,H,10252,Aston Villa,Premier League,2
+45,3900943,2022-08-13,xG_ag,1.58,H,10252,Aston Villa,Premier League,2
+46,3900943,2022-08-13,xG_for,1.58,A,8668,Everton,Premier League,2
+47,3900943,2022-08-13,xG_ag,2.31,A,8668,Everton,Premier League,2
+48,3900944,2022-08-13,xG_for,1.61,H,9937,Brentford,Premier League,2
+49,3900944,2022-08-13,xG_ag,0.92,H,9937,Brentford,Premier League,2
+50,3900944,2022-08-13,xG_for,0.92,A,10260,Manchester United,Premier League,2
+51,3900944,2022-08-13,xG_ag,1.61,A,10260,Manchester United,Premier League,2
+52,3900945,2022-08-13,xG_for,1.5,H,10204,Brighton & Hove Albion,Premier League,2
+53,3900945,2022-08-13,xG_ag,0.22,H,10204,Brighton & Hove Albion,Premier League,2
+54,3900945,2022-08-13,xG_for,0.22,A,10261,Newcastle United,Premier League,2
+55,3900945,2022-08-13,xG_ag,1.5,A,10261,Newcastle United,Premier League,2
+56,3900946,2022-08-14,xG_for,1.58,H,8455,Chelsea,Premier League,2
+57,3900946,2022-08-14,xG_ag,1.01,H,8455,Chelsea,Premier League,2
+58,3900946,2022-08-14,xG_for,1.01,A,8586,Tottenham Hotspur,Premier League,2
+59,3900946,2022-08-14,xG_ag,1.58,A,8586,Tottenham Hotspur,Premier League,2
+60,3900947,2022-08-16,xG_for,2.07,H,8650,Liverpool,Premier League,2
+61,3900947,2022-08-16,xG_ag,1.04,H,8650,Liverpool,Premier League,2
+62,3900947,2022-08-16,xG_for,1.04,A,9826,Crystal Palace,Premier League,2
+63,3900947,2022-08-16,xG_ag,2.07,A,9826,Crystal Palace,Premier League,2
+64,3900948,2022-08-13,xG_for,1.75,H,8456,Manchester City,Premier League,2
+65,3900948,2022-08-13,xG_ag,0.13,H,8456,Manchester City,Premier League,2
+66,3900948,2022-08-13,xG_for,0.13,A,8678,AFC Bournemouth,Premier League,2
+67,3900948,2022-08-13,xG_ag,1.75,A,8678,AFC Bournemouth,Premier League,2
+68,3900949,2022-08-14,xG_for,1.36,H,10203,Nottingham Forest,Premier League,2
+69,3900949,2022-08-14,xG_ag,2.26,H,10203,Nottingham Forest,Premier League,2
+70,3900949,2022-08-14,xG_for,2.26,A,8654,West Ham United,Premier League,2
+71,3900949,2022-08-14,xG_ag,1.36,A,8654,West Ham United,Premier League,2
+72,3900950,2022-08-13,xG_for,1.22,H,8466,Southampton,Premier League,2
+73,3900950,2022-08-13,xG_ag,1.93,H,8466,Southampton,Premier League,2
+74,3900950,2022-08-13,xG_for,1.93,A,8463,Leeds United,Premier League,2
+75,3900950,2022-08-13,xG_ag,1.22,A,8463,Leeds United,Premier League,2
+76,3900951,2022-08-13,xG_for,0.89,H,8602,Wolverhampton Wanderers,Premier League,2
+77,3900951,2022-08-13,xG_ag,1.49,H,8602,Wolverhampton Wanderers,Premier League,2
+78,3900951,2022-08-13,xG_for,1.49,A,9879,Fulham,Premier League,2
+79,3900951,2022-08-13,xG_ag,0.89,A,9879,Fulham,Premier League,2
+80,3900952,2022-08-20,xG_for,0.28,H,8678,AFC Bournemouth,Premier League,3
+81,3900952,2022-08-20,xG_ag,1.32,H,8678,AFC Bournemouth,Premier League,3
+82,3900952,2022-08-20,xG_for,1.32,A,9825,Arsenal,Premier League,3
+83,3900952,2022-08-20,xG_ag,0.28,A,9825,Arsenal,Premier League,3
+84,3900953,2022-08-20,xG_for,2.69,H,9826,Crystal Palace,Premier League,3
+85,3900953,2022-08-20,xG_ag,0.9,H,9826,Crystal Palace,Premier League,3
+86,3900953,2022-08-20,xG_for,0.9,A,10252,Aston Villa,Premier League,3
+87,3900953,2022-08-20,xG_ag,2.69,A,10252,Aston Villa,Premier League,3
+88,3900954,2022-08-20,xG_for,1.51,H,8668,Everton,Premier League,3
+89,3900954,2022-08-20,xG_ag,0.99,H,8668,Everton,Premier League,3
+90,3900954,2022-08-20,xG_for,0.99,A,10203,Nottingham Forest,Premier League,3
+91,3900954,2022-08-20,xG_ag,1.51,A,10203,Nottingham Forest,Premier League,3
+92,3900955,2022-08-20,xG_for,2.54,H,9879,Fulham,Premier League,3
+93,3900955,2022-08-20,xG_ag,1.8,H,9879,Fulham,Premier League,3
+94,3900955,2022-08-20,xG_for,1.8,A,9937,Brentford,Premier League,3
+95,3900955,2022-08-20,xG_ag,2.54,A,9937,Brentford,Premier League,3
+96,3900956,2022-08-21,xG_for,2.22,H,8463,Leeds United,Premier League,3
+97,3900956,2022-08-21,xG_ag,0.88,H,8463,Leeds United,Premier League,3
+98,3900956,2022-08-21,xG_for,0.88,A,8455,Chelsea,Premier League,3
+99,3900956,2022-08-21,xG_ag,2.22,A,8455,Chelsea,Premier League,3
+100,3900957,2022-08-20,xG_for,0.29,H,8197,Leicester City,Premier League,3
+101,3900957,2022-08-20,xG_ag,0.92,H,8197,Leicester City,Premier League,3
+102,3900957,2022-08-20,xG_for,0.92,A,8466,Southampton,Premier League,3
+103,3900957,2022-08-20,xG_ag,0.29,A,8466,Southampton,Premier League,3
+104,3900958,2022-08-23,xG_for,1.79,H,10260,Manchester United,Premier League,3
+105,3900958,2022-08-23,xG_ag,1.35,H,10260,Manchester United,Premier League,3
+106,3900958,2022-08-23,xG_for,1.35,A,8650,Liverpool,Premier League,3
+107,3900958,2022-08-23,xG_ag,1.79,A,8650,Liverpool,Premier League,3
+108,3900959,2022-08-21,xG_for,1.81,H,10261,Newcastle United,Premier League,3
+109,3900959,2022-08-21,xG_ag,2.11,H,10261,Newcastle United,Premier League,3
+110,3900959,2022-08-21,xG_for,2.11,A,8456,Manchester City,Premier League,3
+111,3900959,2022-08-21,xG_ag,1.81,A,8456,Manchester City,Premier League,3
+112,3900960,2022-08-20,xG_for,1.67,H,8586,Tottenham Hotspur,Premier League,3
+113,3900960,2022-08-20,xG_ag,0.71,H,8586,Tottenham Hotspur,Premier League,3
+114,3900960,2022-08-20,xG_for,0.71,A,8602,Wolverhampton Wanderers,Premier League,3
+115,3900960,2022-08-20,xG_ag,1.67,A,8602,Wolverhampton Wanderers,Premier League,3
+116,3900961,2022-08-21,xG_for,0.89,H,8654,West Ham United,Premier League,3
+117,3900961,2022-08-21,xG_ag,1.71,H,8654,West Ham United,Premier League,3
+118,3900961,2022-08-21,xG_for,1.71,A,10204,Brighton & Hove Albion,Premier League,3
+119,3900961,2022-08-21,xG_ag,0.89,A,10204,Brighton & Hove Albion,Premier League,3
+120,3900962,2022-08-27,xG_for,2.73,H,9825,Arsenal,Premier League,4
+121,3900962,2022-08-27,xG_ag,0.83,H,9825,Arsenal,Premier League,4
+122,3900962,2022-08-27,xG_for,0.83,A,9879,Fulham,Premier League,4
+123,3900962,2022-08-27,xG_ag,2.73,A,9879,Fulham,Premier League,4
+124,3900963,2022-08-28,xG_for,0.49,H,10252,Aston Villa,Premier League,4
+125,3900963,2022-08-28,xG_ag,0.56,H,10252,Aston Villa,Premier League,4
+126,3900963,2022-08-28,xG_for,0.56,A,8654,West Ham United,Premier League,4
+127,3900963,2022-08-28,xG_ag,0.49,A,8654,West Ham United,Premier League,4
+128,3900964,2022-08-27,xG_for,2.14,H,9937,Brentford,Premier League,4
+129,3900964,2022-08-27,xG_ag,1.07,H,9937,Brentford,Premier League,4
+130,3900964,2022-08-27,xG_for,1.07,A,8668,Everton,Premier League,4
+131,3900964,2022-08-27,xG_ag,2.14,A,8668,Everton,Premier League,4
+132,3900965,2022-08-27,xG_for,2.02,H,10204,Brighton & Hove Albion,Premier League,4
+133,3900965,2022-08-27,xG_ag,1.84,H,10204,Brighton & Hove Albion,Premier League,4
+134,3900965,2022-08-27,xG_for,1.84,A,8463,Leeds United,Premier League,4
+135,3900965,2022-08-27,xG_ag,2.02,A,8463,Leeds United,Premier League,4
+136,3900966,2022-08-27,xG_for,1.75,H,8455,Chelsea,Premier League,4
+137,3900966,2022-08-27,xG_ag,2.52,H,8455,Chelsea,Premier League,4
+138,3900966,2022-08-27,xG_for,2.52,A,8197,Leicester City,Premier League,4
+139,3900966,2022-08-27,xG_ag,1.75,A,8197,Leicester City,Premier League,4
+140,3900967,2022-08-27,xG_for,3.32,H,8650,Liverpool,Premier League,4
+141,3900967,2022-08-27,xG_ag,0.33,H,8650,Liverpool,Premier League,4
+142,3900967,2022-08-27,xG_for,0.33,A,8678,AFC Bournemouth,Premier League,4
+143,3900967,2022-08-27,xG_ag,3.32,A,8678,AFC Bournemouth,Premier League,4
+144,3900968,2022-08-27,xG_for,2.42,H,8456,Manchester City,Premier League,4
+145,3900968,2022-08-27,xG_ag,0.12,H,8456,Manchester City,Premier League,4
+146,3900968,2022-08-27,xG_for,0.12,A,9826,Crystal Palace,Premier League,4
+147,3900968,2022-08-27,xG_ag,2.42,A,9826,Crystal Palace,Premier League,4
+148,3900969,2022-08-28,xG_for,0.95,H,10203,Nottingham Forest,Premier League,4
+149,3900969,2022-08-28,xG_ag,2.4,H,10203,Nottingham Forest,Premier League,4
+150,3900969,2022-08-28,xG_for,2.4,A,8586,Tottenham Hotspur,Premier League,4
+151,3900969,2022-08-28,xG_ag,0.95,A,8586,Tottenham Hotspur,Premier League,4
+152,3900970,2022-08-27,xG_for,1.45,H,8466,Southampton,Premier League,4
+153,3900970,2022-08-27,xG_ag,1.4,H,8466,Southampton,Premier League,4
+154,3900970,2022-08-27,xG_for,1.4,A,10260,Manchester United,Premier League,4
+155,3900970,2022-08-27,xG_ag,1.45,A,10260,Manchester United,Premier League,4
+156,3900971,2022-08-28,xG_for,0.71,H,8602,Wolverhampton Wanderers,Premier League,4
+157,3900971,2022-08-28,xG_ag,1.77,H,8602,Wolverhampton Wanderers,Premier League,4
+158,3900971,2022-08-28,xG_for,1.77,A,10261,Newcastle United,Premier League,4
+159,3900971,2022-08-28,xG_ag,0.71,A,10261,Newcastle United,Premier League,4
+160,3900972,2022-09-01,xG_for,2.56,H,9825,Arsenal,Premier League,5
+161,3900972,2022-09-01,xG_ag,0.45,H,9825,Arsenal,Premier League,5
+162,3900972,2022-09-01,xG_for,0.45,A,10252,Aston Villa,Premier League,5
+163,3900972,2022-09-01,xG_ag,2.56,A,10252,Aston Villa,Premier League,5
+164,3900973,2022-09-01,xG_for,0.42,H,8678,AFC Bournemouth,Premier League,5
+165,3900973,2022-09-01,xG_ag,1.51,H,8678,AFC Bournemouth,Premier League,5
+166,3900973,2022-09-01,xG_for,1.51,A,8602,Wolverhampton Wanderers,Premier League,5
+167,3900973,2022-09-01,xG_ag,0.42,A,8602,Wolverhampton Wanderers,Premier League,5
+168,3900974,2022-08-31,xG_for,0.68,H,9879,Fulham,Premier League,5
+169,3900974,2022-08-31,xG_ag,1.42,H,9879,Fulham,Premier League,5
+170,3900974,2022-08-31,xG_for,1.42,A,10204,Brighton & Hove Albion,Premier League,5
+171,3900974,2022-08-31,xG_ag,0.68,A,10204,Brighton & Hove Albion,Premier League,5
+172,3900975,2022-08-31,xG_for,1.01,H,8463,Leeds United,Premier League,5
+173,3900975,2022-08-31,xG_ag,1.0,H,8463,Leeds United,Premier League,5
+174,3900975,2022-08-31,xG_for,1.0,A,8668,Everton,Premier League,5
+175,3900975,2022-08-31,xG_ag,1.01,A,8668,Everton,Premier League,5
+176,3900976,2022-09-02,xG_for,0.73,H,8197,Leicester City,Premier League,5
+177,3900976,2022-09-02,xG_ag,1.55,H,8197,Leicester City,Premier League,5
+178,3900976,2022-09-02,xG_for,1.55,A,10260,Manchester United,Premier League,5
+179,3900976,2022-09-02,xG_ag,0.73,A,10260,Manchester United,Premier League,5
+180,3900977,2022-09-01,xG_for,1.24,H,8654,West Ham United,Premier League,5
+181,3900977,2022-09-01,xG_ag,0.63,H,8654,West Ham United,Premier League,5
+182,3900977,2022-09-01,xG_for,0.63,A,8586,Tottenham Hotspur,Premier League,5
+183,3900977,2022-09-01,xG_ag,1.24,A,8586,Tottenham Hotspur,Premier League,5
+184,3900978,2022-08-31,xG_for,0.98,H,9826,Crystal Palace,Premier League,5
+185,3900978,2022-08-31,xG_ag,1.43,H,9826,Crystal Palace,Premier League,5
+186,3900978,2022-08-31,xG_for,1.43,A,9937,Brentford,Premier League,5
+187,3900978,2022-08-31,xG_ag,0.98,A,9937,Brentford,Premier League,5
+188,3900979,2022-08-31,xG_for,1.1,H,8466,Southampton,Premier League,5
+189,3900979,2022-08-31,xG_ag,1.1,H,8466,Southampton,Premier League,5
+190,3900979,2022-08-31,xG_for,1.1,A,8455,Chelsea,Premier League,5
+191,3900979,2022-08-31,xG_ag,1.1,A,8455,Chelsea,Premier League,5
+192,3900980,2022-09-01,xG_for,1.5,H,8650,Liverpool,Premier League,5
+193,3900980,2022-09-01,xG_ag,0.72,H,8650,Liverpool,Premier League,5
+194,3900980,2022-09-01,xG_for,0.72,A,10261,Newcastle United,Premier League,5
+195,3900980,2022-09-01,xG_ag,1.5,A,10261,Newcastle United,Premier League,5
+196,3900981,2022-09-01,xG_for,3.32,H,8456,Manchester City,Premier League,5
+197,3900981,2022-09-01,xG_ag,0.66,H,8456,Manchester City,Premier League,5
+198,3900981,2022-09-01,xG_for,0.66,A,10203,Nottingham Forest,Premier League,5
+199,3900981,2022-09-01,xG_ag,3.32,A,10203,Nottingham Forest,Premier League,5
+200,3900982,2022-09-03,xG_for,0.34,H,10252,Aston Villa,Premier League,6
+201,3900982,2022-09-03,xG_ag,2.1,H,10252,Aston Villa,Premier League,6
+202,3900982,2022-09-03,xG_for,2.1,A,8456,Manchester City,Premier League,6
+203,3900982,2022-09-03,xG_ag,0.34,A,8456,Manchester City,Premier League,6
+204,3900983,2022-09-03,xG_for,2.43,H,9937,Brentford,Premier League,6
+205,3900983,2022-09-03,xG_ag,1.92,H,9937,Brentford,Premier League,6
+206,3900983,2022-09-03,xG_for,1.92,A,8463,Leeds United,Premier League,6
+207,3900983,2022-09-03,xG_ag,2.43,A,8463,Leeds United,Premier League,6
+208,3900984,2022-09-04,xG_for,2.76,H,10204,Brighton & Hove Albion,Premier League,6
+209,3900984,2022-09-04,xG_ag,1.45,H,10204,Brighton & Hove Albion,Premier League,6
+210,3900984,2022-09-04,xG_for,1.45,A,8197,Leicester City,Premier League,6
+211,3900984,2022-09-04,xG_ag,2.76,A,8197,Leicester City,Premier League,6
+212,3900985,2022-09-03,xG_for,0.87,H,8455,Chelsea,Premier League,6
+213,3900985,2022-09-03,xG_ag,1.1,H,8455,Chelsea,Premier League,6
+214,3900985,2022-09-03,xG_for,1.1,A,8654,West Ham United,Premier League,6
+215,3900985,2022-09-03,xG_ag,0.87,A,8654,West Ham United,Premier League,6
+216,3900986,2022-09-03,xG_for,1.72,H,8668,Everton,Premier League,6
+217,3900986,2022-09-03,xG_ag,2.19,H,8668,Everton,Premier League,6
+218,3900986,2022-09-03,xG_for,2.19,A,8650,Liverpool,Premier League,6
+219,3900986,2022-09-03,xG_ag,1.72,A,8650,Liverpool,Premier League,6
+220,3900987,2022-09-04,xG_for,1.55,H,10260,Manchester United,Premier League,6
+221,3900987,2022-09-04,xG_ag,1.32,H,10260,Manchester United,Premier League,6
+222,3900987,2022-09-04,xG_for,1.32,A,9825,Arsenal,Premier League,6
+223,3900987,2022-09-04,xG_ag,1.55,A,9825,Arsenal,Premier League,6
+224,3900988,2022-09-03,xG_for,2.83,H,10261,Newcastle United,Premier League,6
+225,3900988,2022-09-03,xG_ag,1.01,H,10261,Newcastle United,Premier League,6
+226,3900988,2022-09-03,xG_for,1.01,A,9826,Crystal Palace,Premier League,6
+227,3900988,2022-09-03,xG_ag,2.83,A,9826,Crystal Palace,Premier League,6
+228,3900989,2022-09-03,xG_for,1.9,H,10203,Nottingham Forest,Premier League,6
+229,3900989,2022-09-03,xG_ag,0.78,H,10203,Nottingham Forest,Premier League,6
+230,3900989,2022-09-03,xG_for,0.78,A,8678,AFC Bournemouth,Premier League,6
+231,3900989,2022-09-03,xG_ag,1.9,A,8678,AFC Bournemouth,Premier League,6
+232,3900990,2022-09-03,xG_for,2.98,H,8586,Tottenham Hotspur,Premier League,6
+233,3900990,2022-09-03,xG_ag,0.73,H,8586,Tottenham Hotspur,Premier League,6
+234,3900990,2022-09-03,xG_for,0.73,A,9879,Fulham,Premier League,6
+235,3900990,2022-09-03,xG_ag,2.98,A,9879,Fulham,Premier League,6
+236,3900991,2022-09-03,xG_for,0.8,H,8602,Wolverhampton Wanderers,Premier League,6
+237,3900991,2022-09-03,xG_ag,1.2,H,8602,Wolverhampton Wanderers,Premier League,6
+238,3900991,2022-09-03,xG_for,1.2,A,8466,Southampton,Premier League,6
+239,3900991,2022-09-03,xG_ag,0.8,A,8466,Southampton,Premier League,6
+240,3900992,2022-09-11,xG_for,,H,9825,Arsenal,Premier League,7
+241,3900992,2022-09-11,xG_ag,,H,9825,Arsenal,Premier League,7
+242,3900992,2022-09-11,xG_for,,A,8668,Everton,Premier League,7
+243,3900992,2022-09-11,xG_ag,,A,8668,Everton,Premier League,7
+244,3900993,2022-09-10,xG_for,,H,8678,AFC Bournemouth,Premier League,7
+245,3900993,2022-09-10,xG_ag,,H,8678,AFC Bournemouth,Premier League,7
+246,3900993,2022-09-10,xG_for,,A,10204,Brighton & Hove Albion,Premier League,7
+247,3900993,2022-09-10,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,7
+248,3900994,2022-09-11,xG_for,,H,9826,Crystal Palace,Premier League,7
+249,3900994,2022-09-11,xG_ag,,H,9826,Crystal Palace,Premier League,7
+250,3900994,2022-09-11,xG_for,,A,10260,Manchester United,Premier League,7
+251,3900994,2022-09-11,xG_ag,,A,10260,Manchester United,Premier League,7
+252,3900995,2022-09-10,xG_for,,H,9879,Fulham,Premier League,7
+253,3900995,2022-09-10,xG_ag,,H,9879,Fulham,Premier League,7
+254,3900995,2022-09-10,xG_for,,A,8455,Chelsea,Premier League,7
+255,3900995,2022-09-10,xG_ag,,A,8455,Chelsea,Premier League,7
+256,3900996,2022-09-13,xG_for,,H,8463,Leeds United,Premier League,7
+257,3900996,2022-09-13,xG_ag,,H,8463,Leeds United,Premier League,7
+258,3900996,2022-09-13,xG_for,,A,10203,Nottingham Forest,Premier League,7
+259,3900996,2022-09-13,xG_ag,,A,10203,Nottingham Forest,Premier League,7
+260,3900997,2022-09-10,xG_for,,H,8197,Leicester City,Premier League,7
+261,3900997,2022-09-10,xG_ag,,H,8197,Leicester City,Premier League,7
+262,3900997,2022-09-10,xG_for,,A,10252,Aston Villa,Premier League,7
+263,3900997,2022-09-10,xG_ag,,A,10252,Aston Villa,Premier League,7
+264,3900998,2022-09-10,xG_for,,H,8650,Liverpool,Premier League,7
+265,3900998,2022-09-10,xG_ag,,H,8650,Liverpool,Premier League,7
+266,3900998,2022-09-10,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,7
+267,3900998,2022-09-10,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,7
+268,3900999,2022-09-10,xG_for,,H,8456,Manchester City,Premier League,7
+269,3900999,2022-09-10,xG_ag,,H,8456,Manchester City,Premier League,7
+270,3900999,2022-09-10,xG_for,,A,8586,Tottenham Hotspur,Premier League,7
+271,3900999,2022-09-10,xG_ag,,A,8586,Tottenham Hotspur,Premier League,7
+272,3901000,2022-09-10,xG_for,,H,8466,Southampton,Premier League,7
+273,3901000,2022-09-10,xG_ag,,H,8466,Southampton,Premier League,7
+274,3901000,2022-09-10,xG_for,,A,9937,Brentford,Premier League,7
+275,3901000,2022-09-10,xG_ag,,A,9937,Brentford,Premier League,7
+276,3901001,2022-09-11,xG_for,,H,8654,West Ham United,Premier League,7
+277,3901001,2022-09-11,xG_ag,,H,8654,West Ham United,Premier League,7
+278,3901001,2022-09-11,xG_for,,A,10261,Newcastle United,Premier League,7
+279,3901001,2022-09-11,xG_ag,,A,10261,Newcastle United,Premier League,7
+280,3901002,2022-09-17,xG_for,0.92,H,10252,Aston Villa,Premier League,8
+281,3901002,2022-09-17,xG_ag,0.34,H,10252,Aston Villa,Premier League,8
+282,3901002,2022-09-17,xG_for,0.34,A,8466,Southampton,Premier League,8
+283,3901002,2022-09-17,xG_ag,0.92,A,8466,Southampton,Premier League,8
+284,3901003,2022-09-18,xG_for,0.53,H,9937,Brentford,Premier League,8
+285,3901003,2022-09-18,xG_ag,1.52,H,9937,Brentford,Premier League,8
+286,3901003,2022-09-18,xG_for,1.52,A,9825,Arsenal,Premier League,8
+287,3901003,2022-09-18,xG_ag,0.53,A,9825,Arsenal,Premier League,8
+288,3901004,2022-09-17,xG_for,,H,10204,Brighton & Hove Albion,Premier League,8
+289,3901004,2022-09-17,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,8
+290,3901004,2022-09-17,xG_for,,A,9826,Crystal Palace,Premier League,8
+291,3901004,2022-09-17,xG_ag,,A,9826,Crystal Palace,Premier League,8
+292,3901005,2022-09-18,xG_for,,H,8455,Chelsea,Premier League,8
+293,3901005,2022-09-18,xG_ag,,H,8455,Chelsea,Premier League,8
+294,3901005,2022-09-18,xG_for,,A,8650,Liverpool,Premier League,8
+295,3901005,2022-09-18,xG_ag,,A,8650,Liverpool,Premier League,8
+296,3901006,2022-09-18,xG_for,0.36,H,8668,Everton,Premier League,8
+297,3901006,2022-09-18,xG_ag,1.04,H,8668,Everton,Premier League,8
+298,3901006,2022-09-18,xG_for,1.04,A,8654,West Ham United,Premier League,8
+299,3901006,2022-09-18,xG_ag,0.36,A,8654,West Ham United,Premier League,8
+300,3901007,2022-09-18,xG_for,,H,10260,Manchester United,Premier League,8
+301,3901007,2022-09-18,xG_ag,,H,10260,Manchester United,Premier League,8
+302,3901007,2022-09-18,xG_for,,A,8463,Leeds United,Premier League,8
+303,3901007,2022-09-18,xG_ag,,A,8463,Leeds United,Premier League,8
+304,3901008,2022-09-17,xG_for,1.92,H,10261,Newcastle United,Premier League,8
+305,3901008,2022-09-17,xG_ag,0.75,H,10261,Newcastle United,Premier League,8
+306,3901008,2022-09-17,xG_for,0.75,A,8678,AFC Bournemouth,Premier League,8
+307,3901008,2022-09-17,xG_ag,1.92,A,8678,AFC Bournemouth,Premier League,8
+308,3901009,2022-09-17,xG_for,1.41,H,10203,Nottingham Forest,Premier League,8
+309,3901009,2022-09-17,xG_ag,0.94,H,10203,Nottingham Forest,Premier League,8
+310,3901009,2022-09-17,xG_for,0.94,A,9879,Fulham,Premier League,8
+311,3901009,2022-09-17,xG_ag,1.41,A,9879,Fulham,Premier League,8
+312,3901010,2022-09-17,xG_for,2.19,H,8586,Tottenham Hotspur,Premier League,8
+313,3901010,2022-09-17,xG_ag,1.77,H,8586,Tottenham Hotspur,Premier League,8
+314,3901010,2022-09-17,xG_for,1.77,A,8197,Leicester City,Premier League,8
+315,3901010,2022-09-17,xG_ag,2.19,A,8197,Leicester City,Premier League,8
+316,3901011,2022-09-17,xG_for,0.41,H,8602,Wolverhampton Wanderers,Premier League,8
+317,3901011,2022-09-17,xG_ag,1.06,H,8602,Wolverhampton Wanderers,Premier League,8
+318,3901011,2022-09-17,xG_for,1.06,A,8456,Manchester City,Premier League,8
+319,3901011,2022-09-17,xG_ag,0.41,A,8456,Manchester City,Premier League,8
+320,3901012,2022-10-01,xG_for,2.38,H,9825,Arsenal,Premier League,9
+321,3901012,2022-10-01,xG_ag,1.57,H,9825,Arsenal,Premier League,9
+322,3901012,2022-10-01,xG_for,1.57,A,8586,Tottenham Hotspur,Premier League,9
+323,3901012,2022-10-01,xG_ag,2.38,A,8586,Tottenham Hotspur,Premier League,9
+324,3901013,2022-10-01,xG_for,0.38,H,8678,AFC Bournemouth,Premier League,9
+325,3901013,2022-10-01,xG_ag,0.87,H,8678,AFC Bournemouth,Premier League,9
+326,3901013,2022-10-01,xG_for,0.87,A,9937,Brentford,Premier League,9
+327,3901013,2022-10-01,xG_ag,0.38,A,9937,Brentford,Premier League,9
+328,3901014,2022-10-01,xG_for,0.44,H,9826,Crystal Palace,Premier League,9
+329,3901014,2022-10-01,xG_ag,1.14,H,9826,Crystal Palace,Premier League,9
+330,3901014,2022-10-01,xG_for,1.14,A,8455,Chelsea,Premier League,9
+331,3901014,2022-10-01,xG_ag,0.44,A,8455,Chelsea,Premier League,9
+332,3901015,2022-10-01,xG_for,0.47,H,9879,Fulham,Premier League,9
+333,3901015,2022-10-01,xG_ag,3.55,H,9879,Fulham,Premier League,9
+334,3901015,2022-10-01,xG_for,3.55,A,10261,Newcastle United,Premier League,9
+335,3901015,2022-10-01,xG_ag,0.47,A,10261,Newcastle United,Premier League,9
+336,3901016,2022-10-02,xG_for,0.37,H,8463,Leeds United,Premier League,9
+337,3901016,2022-10-02,xG_ag,2.23,H,8463,Leeds United,Premier League,9
+338,3901016,2022-10-02,xG_for,2.23,A,10252,Aston Villa,Premier League,9
+339,3901016,2022-10-02,xG_ag,0.37,A,10252,Aston Villa,Premier League,9
+340,3901017,2022-10-04,xG_for,1.32,H,8197,Leicester City,Premier League,9
+341,3901017,2022-10-04,xG_ag,1.16,H,8197,Leicester City,Premier League,9
+342,3901017,2022-10-04,xG_for,1.16,A,10203,Nottingham Forest,Premier League,9
+343,3901017,2022-10-04,xG_ag,1.32,A,10203,Nottingham Forest,Premier League,9
+344,3901018,2022-10-01,xG_for,1.47,H,8650,Liverpool,Premier League,9
+345,3901018,2022-10-01,xG_ag,1.37,H,8650,Liverpool,Premier League,9
+346,3901018,2022-10-01,xG_for,1.37,A,10204,Brighton & Hove Albion,Premier League,9
+347,3901018,2022-10-01,xG_ag,1.47,A,10204,Brighton & Hove Albion,Premier League,9
+348,3901019,2022-10-02,xG_for,3.3,H,8456,Manchester City,Premier League,9
+349,3901019,2022-10-02,xG_ag,1.67,H,8456,Manchester City,Premier League,9
+350,3901019,2022-10-02,xG_for,1.67,A,10260,Manchester United,Premier League,9
+351,3901019,2022-10-02,xG_ag,3.3,A,10260,Manchester United,Premier League,9
+352,3901020,2022-10-01,xG_for,1.75,H,8466,Southampton,Premier League,9
+353,3901020,2022-10-01,xG_ag,1.96,H,8466,Southampton,Premier League,9
+354,3901020,2022-10-01,xG_for,1.96,A,8668,Everton,Premier League,9
+355,3901020,2022-10-01,xG_ag,1.75,A,8668,Everton,Premier League,9
+356,3901021,2022-10-01,xG_for,0.92,H,8654,West Ham United,Premier League,9
+357,3901021,2022-10-01,xG_ag,0.74,H,8654,West Ham United,Premier League,9
+358,3901021,2022-10-01,xG_for,0.74,A,8602,Wolverhampton Wanderers,Premier League,9
+359,3901021,2022-10-01,xG_ag,0.92,A,8602,Wolverhampton Wanderers,Premier League,9
+360,3901022,2022-10-09,xG_for,3.09,H,9825,Arsenal,Premier League,10
+361,3901022,2022-10-09,xG_ag,1.13,H,9825,Arsenal,Premier League,10
+362,3901022,2022-10-09,xG_for,1.13,A,8650,Liverpool,Premier League,10
+363,3901022,2022-10-09,xG_ag,3.09,A,8650,Liverpool,Premier League,10
+364,3901023,2022-10-08,xG_for,1.14,H,8678,AFC Bournemouth,Premier League,10
+365,3901023,2022-10-08,xG_ag,1.08,H,8678,AFC Bournemouth,Premier League,10
+366,3901023,2022-10-08,xG_for,1.08,A,8197,Leicester City,Premier League,10
+367,3901023,2022-10-08,xG_ag,1.14,A,8197,Leicester City,Premier League,10
+368,3901024,2022-10-08,xG_for,0.72,H,10204,Brighton & Hove Albion,Premier League,10
+369,3901024,2022-10-08,xG_ag,0.79,H,10204,Brighton & Hove Albion,Premier League,10
+370,3901024,2022-10-08,xG_for,0.79,A,8586,Tottenham Hotspur,Premier League,10
+371,3901024,2022-10-08,xG_ag,0.72,A,8586,Tottenham Hotspur,Premier League,10
+372,3901025,2022-10-08,xG_for,1.9,H,8455,Chelsea,Premier League,10
+373,3901025,2022-10-08,xG_ag,1.11,H,8455,Chelsea,Premier League,10
+374,3901025,2022-10-08,xG_for,1.11,A,8602,Wolverhampton Wanderers,Premier League,10
+375,3901025,2022-10-08,xG_ag,1.9,A,8602,Wolverhampton Wanderers,Premier League,10
+376,3901026,2022-10-09,xG_for,1.08,H,9826,Crystal Palace,Premier League,10
+377,3901026,2022-10-09,xG_ag,0.96,H,9826,Crystal Palace,Premier League,10
+378,3901026,2022-10-09,xG_for,0.96,A,8463,Leeds United,Premier League,10
+379,3901026,2022-10-09,xG_ag,1.08,A,8463,Leeds United,Premier League,10
+380,3901027,2022-10-10,xG_for,0.65,H,8668,Everton,Premier League,10
+381,3901027,2022-10-10,xG_ag,1.45,H,8668,Everton,Premier League,10
+382,3901027,2022-10-10,xG_for,1.45,A,10260,Manchester United,Premier League,10
+383,3901027,2022-10-10,xG_ag,0.65,A,10260,Manchester United,Premier League,10
+384,3901028,2022-10-08,xG_for,2.47,H,8456,Manchester City,Premier League,10
+385,3901028,2022-10-08,xG_ag,0.16,H,8456,Manchester City,Premier League,10
+386,3901028,2022-10-08,xG_for,0.16,A,8466,Southampton,Premier League,10
+387,3901028,2022-10-08,xG_ag,2.47,A,8466,Southampton,Premier League,10
+388,3901029,2022-10-08,xG_for,1.53,H,10261,Newcastle United,Premier League,10
+389,3901029,2022-10-08,xG_ag,1.19,H,10261,Newcastle United,Premier League,10
+390,3901029,2022-10-08,xG_for,1.19,A,9937,Brentford,Premier League,10
+391,3901029,2022-10-08,xG_ag,1.53,A,9937,Brentford,Premier League,10
+392,3901030,2022-10-11,xG_for,0.31,H,10203,Nottingham Forest,Premier League,10
+393,3901030,2022-10-11,xG_ag,0.69,H,10203,Nottingham Forest,Premier League,10
+394,3901030,2022-10-11,xG_for,0.69,A,10252,Aston Villa,Premier League,10
+395,3901030,2022-10-11,xG_ag,0.31,A,10252,Aston Villa,Premier League,10
+396,3901031,2022-10-09,xG_for,3.04,H,8654,West Ham United,Premier League,10
+397,3901031,2022-10-09,xG_ag,0.7,H,8654,West Ham United,Premier League,10
+398,3901031,2022-10-09,xG_for,0.7,A,9879,Fulham,Premier League,10
+399,3901031,2022-10-09,xG_ag,3.04,A,9879,Fulham,Premier League,10
+400,3901032,2022-10-16,xG_for,1.79,H,10252,Aston Villa,Premier League,11
+401,3901032,2022-10-16,xG_ag,0.87,H,10252,Aston Villa,Premier League,11
+402,3901032,2022-10-16,xG_for,0.87,A,8455,Chelsea,Premier League,11
+403,3901032,2022-10-16,xG_ag,1.79,A,8455,Chelsea,Premier League,11
+404,3901033,2022-10-15,xG_for,1.47,H,9937,Brentford,Premier League,11
+405,3901033,2022-10-15,xG_ag,1.95,H,9937,Brentford,Premier League,11
+406,3901033,2022-10-15,xG_for,1.95,A,10204,Brighton & Hove Albion,Premier League,11
+407,3901033,2022-10-15,xG_ag,1.47,A,10204,Brighton & Hove Albion,Premier League,11
+408,3901034,2022-10-15,xG_for,2.13,H,9879,Fulham,Premier League,11
+409,3901034,2022-10-15,xG_ag,1.05,H,9879,Fulham,Premier League,11
+410,3901034,2022-10-15,xG_for,1.05,A,8678,AFC Bournemouth,Premier League,11
+411,3901034,2022-10-15,xG_ag,2.13,A,8678,AFC Bournemouth,Premier League,11
+412,3901035,2022-10-16,xG_for,1.86,H,8463,Leeds United,Premier League,11
+413,3901035,2022-10-16,xG_ag,0.55,H,8463,Leeds United,Premier League,11
+414,3901035,2022-10-16,xG_for,0.55,A,9825,Arsenal,Premier League,11
+415,3901035,2022-10-16,xG_ag,1.86,A,9825,Arsenal,Premier League,11
+416,3901036,2022-10-15,xG_for,1.03,H,8197,Leicester City,Premier League,11
+417,3901036,2022-10-15,xG_ag,0.39,H,8197,Leicester City,Premier League,11
+418,3901036,2022-10-15,xG_for,0.39,A,9826,Crystal Palace,Premier League,11
+419,3901036,2022-10-15,xG_ag,1.03,A,9826,Crystal Palace,Premier League,11
+420,3901037,2022-10-16,xG_for,2.07,H,8650,Liverpool,Premier League,11
+421,3901037,2022-10-16,xG_ag,0.98,H,8650,Liverpool,Premier League,11
+422,3901037,2022-10-16,xG_for,0.98,A,8456,Manchester City,Premier League,11
+423,3901037,2022-10-16,xG_ag,2.07,A,8456,Manchester City,Premier League,11
+424,3901038,2022-10-16,xG_for,0.82,H,10260,Manchester United,Premier League,11
+425,3901038,2022-10-16,xG_ag,0.91,H,10260,Manchester United,Premier League,11
+426,3901038,2022-10-16,xG_for,0.91,A,10261,Newcastle United,Premier League,11
+427,3901038,2022-10-16,xG_ag,0.82,A,10261,Newcastle United,Premier League,11
+428,3901039,2022-10-16,xG_for,0.45,H,8466,Southampton,Premier League,11
+429,3901039,2022-10-16,xG_ag,1.68,H,8466,Southampton,Premier League,11
+430,3901039,2022-10-16,xG_for,1.68,A,8654,West Ham United,Premier League,11
+431,3901039,2022-10-16,xG_ag,0.45,A,8654,West Ham United,Premier League,11
+432,3901040,2022-10-15,xG_for,2.27,H,8586,Tottenham Hotspur,Premier League,11
+433,3901040,2022-10-15,xG_ag,0.43,H,8586,Tottenham Hotspur,Premier League,11
+434,3901040,2022-10-15,xG_for,0.43,A,8668,Everton,Premier League,11
+435,3901040,2022-10-15,xG_ag,2.27,A,8668,Everton,Premier League,11
+436,3901041,2022-10-15,xG_for,1.32,H,8602,Wolverhampton Wanderers,Premier League,11
+437,3901041,2022-10-15,xG_ag,1.49,H,8602,Wolverhampton Wanderers,Premier League,11
+438,3901041,2022-10-15,xG_for,1.49,A,10203,Nottingham Forest,Premier League,11
+439,3901041,2022-10-15,xG_ag,1.32,A,10203,Nottingham Forest,Premier League,11
+440,3901042,2022-10-20,xG_for,,H,9825,Arsenal,Premier League,12
+441,3901042,2022-10-20,xG_ag,,H,9825,Arsenal,Premier League,12
+442,3901042,2022-10-20,xG_for,,A,8456,Manchester City,Premier League,12
+443,3901042,2022-10-20,xG_ag,,A,8456,Manchester City,Premier League,12
+444,3901043,2022-10-20,xG_for,1.04,H,8678,AFC Bournemouth,Premier League,12
+445,3901043,2022-10-20,xG_ag,1.03,H,8678,AFC Bournemouth,Premier League,12
+446,3901043,2022-10-20,xG_for,1.03,A,8466,Southampton,Premier League,12
+447,3901043,2022-10-20,xG_ag,1.04,A,8466,Southampton,Premier League,12
+448,3901044,2022-10-20,xG_for,1.25,H,9937,Brentford,Premier League,12
+449,3901044,2022-10-20,xG_ag,0.86,H,9937,Brentford,Premier League,12
+450,3901044,2022-10-20,xG_for,0.86,A,8455,Chelsea,Premier League,12
+451,3901044,2022-10-20,xG_ag,1.25,A,8455,Chelsea,Premier League,12
+452,3901045,2022-10-19,xG_for,1.66,H,10204,Brighton & Hove Albion,Premier League,12
+453,3901045,2022-10-19,xG_ag,0.13,H,10204,Brighton & Hove Albion,Premier League,12
+454,3901045,2022-10-19,xG_for,0.13,A,10203,Nottingham Forest,Premier League,12
+455,3901045,2022-10-19,xG_ag,1.66,A,10203,Nottingham Forest,Premier League,12
+456,3901046,2022-10-21,xG_for,2.17,H,9879,Fulham,Premier League,12
+457,3901046,2022-10-21,xG_ag,1.16,H,9879,Fulham,Premier League,12
+458,3901046,2022-10-21,xG_for,1.16,A,10252,Aston Villa,Premier League,12
+459,3901046,2022-10-21,xG_ag,2.17,A,10252,Aston Villa,Premier League,12
+460,3901047,2022-10-21,xG_for,0.79,H,8197,Leicester City,Premier League,12
+461,3901047,2022-10-21,xG_ag,1.33,H,8197,Leicester City,Premier League,12
+462,3901047,2022-10-21,xG_for,1.33,A,8463,Leeds United,Premier League,12
+463,3901047,2022-10-21,xG_ag,0.79,A,8463,Leeds United,Premier League,12
+464,3901048,2022-10-19,xG_for,1.2,H,9826,Crystal Palace,Premier League,12
+465,3901048,2022-10-19,xG_ag,0.84,H,9826,Crystal Palace,Premier League,12
+466,3901048,2022-10-19,xG_for,0.84,A,8602,Wolverhampton Wanderers,Premier League,12
+467,3901048,2022-10-19,xG_ag,1.2,A,8602,Wolverhampton Wanderers,Premier League,12
+468,3901049,2022-10-20,xG_for,1.46,H,10261,Newcastle United,Premier League,12
+469,3901049,2022-10-20,xG_ag,0.17,H,10261,Newcastle United,Premier League,12
+470,3901049,2022-10-20,xG_for,0.17,A,8668,Everton,Premier League,12
+471,3901049,2022-10-20,xG_ag,1.46,A,8668,Everton,Premier League,12
+472,3901050,2022-10-20,xG_for,1.73,H,8650,Liverpool,Premier League,12
+473,3901050,2022-10-20,xG_ag,1.84,H,8650,Liverpool,Premier League,12
+474,3901050,2022-10-20,xG_for,1.84,A,8654,West Ham United,Premier League,12
+475,3901050,2022-10-20,xG_ag,1.73,A,8654,West Ham United,Premier League,12
+476,3901051,2022-10-20,xG_for,1.61,H,10260,Manchester United,Premier League,12
+477,3901051,2022-10-20,xG_ag,0.61,H,10260,Manchester United,Premier League,12
+478,3901051,2022-10-20,xG_for,0.61,A,8586,Tottenham Hotspur,Premier League,12
+479,3901051,2022-10-20,xG_ag,1.61,A,8586,Tottenham Hotspur,Premier League,12
+480,3901052,2022-10-23,xG_for,2.9,H,10252,Aston Villa,Premier League,13
+481,3901052,2022-10-23,xG_ag,0.95,H,10252,Aston Villa,Premier League,13
+482,3901052,2022-10-23,xG_for,0.95,A,9937,Brentford,Premier League,13
+483,3901052,2022-10-23,xG_ag,2.9,A,9937,Brentford,Premier League,13
+484,3901053,2022-10-22,xG_for,1.06,H,8455,Chelsea,Premier League,13
+485,3901053,2022-10-22,xG_ag,0.84,H,8455,Chelsea,Premier League,13
+486,3901053,2022-10-22,xG_for,0.84,A,10260,Manchester United,Premier League,13
+487,3901053,2022-10-22,xG_ag,1.06,A,10260,Manchester United,Premier League,13
+488,3901054,2022-10-22,xG_for,1.45,H,8668,Everton,Premier League,13
+489,3901054,2022-10-22,xG_ag,0.95,H,8668,Everton,Premier League,13
+490,3901054,2022-10-22,xG_for,0.95,A,9826,Crystal Palace,Premier League,13
+491,3901054,2022-10-22,xG_ag,1.45,A,9826,Crystal Palace,Premier League,13
+492,3901055,2022-10-23,xG_for,1.71,H,8463,Leeds United,Premier League,13
+493,3901055,2022-10-23,xG_ag,1.85,H,8463,Leeds United,Premier League,13
+494,3901055,2022-10-23,xG_for,1.85,A,9879,Fulham,Premier League,13
+495,3901055,2022-10-23,xG_ag,1.71,A,9879,Fulham,Premier League,13
+496,3901056,2022-10-22,xG_for,1.63,H,8456,Manchester City,Premier League,13
+497,3901056,2022-10-22,xG_ag,0.48,H,8456,Manchester City,Premier League,13
+498,3901056,2022-10-22,xG_for,0.48,A,10204,Brighton & Hove Albion,Premier League,13
+499,3901056,2022-10-22,xG_ag,1.63,A,10204,Brighton & Hove Albion,Premier League,13
+500,3901057,2022-10-22,xG_for,1.85,H,10203,Nottingham Forest,Premier League,13
+501,3901057,2022-10-22,xG_ag,1.66,H,10203,Nottingham Forest,Premier League,13
+502,3901057,2022-10-22,xG_for,1.66,A,8650,Liverpool,Premier League,13
+503,3901057,2022-10-22,xG_ag,1.85,A,8650,Liverpool,Premier League,13
+504,3901058,2022-10-23,xG_for,0.67,H,8466,Southampton,Premier League,13
+505,3901058,2022-10-23,xG_ag,0.99,H,8466,Southampton,Premier League,13
+506,3901058,2022-10-23,xG_for,0.99,A,9825,Arsenal,Premier League,13
+507,3901058,2022-10-23,xG_ag,0.67,A,9825,Arsenal,Premier League,13
+508,3901059,2022-10-23,xG_for,1.65,H,8586,Tottenham Hotspur,Premier League,13
+509,3901059,2022-10-23,xG_ag,1.21,H,8586,Tottenham Hotspur,Premier League,13
+510,3901059,2022-10-23,xG_for,1.21,A,10261,Newcastle United,Premier League,13
+511,3901059,2022-10-23,xG_ag,1.65,A,10261,Newcastle United,Premier League,13
+512,3901060,2022-10-25,xG_for,1.9,H,8654,West Ham United,Premier League,13
+513,3901060,2022-10-25,xG_ag,0.39,H,8654,West Ham United,Premier League,13
+514,3901060,2022-10-25,xG_for,0.39,A,8678,AFC Bournemouth,Premier League,13
+515,3901060,2022-10-25,xG_ag,1.9,A,8678,AFC Bournemouth,Premier League,13
+516,3901061,2022-10-23,xG_for,2.12,H,8602,Wolverhampton Wanderers,Premier League,13
+517,3901061,2022-10-23,xG_ag,0.89,H,8602,Wolverhampton Wanderers,Premier League,13
+518,3901061,2022-10-23,xG_for,0.89,A,8197,Leicester City,Premier League,13
+519,3901061,2022-10-23,xG_ag,2.12,A,8197,Leicester City,Premier League,13
+520,3901062,2022-10-30,xG_for,,H,9825,Arsenal,Premier League,14
+521,3901062,2022-10-30,xG_ag,,H,9825,Arsenal,Premier League,14
+522,3901062,2022-10-30,xG_for,,A,10203,Nottingham Forest,Premier League,14
+523,3901062,2022-10-30,xG_ag,,A,10203,Nottingham Forest,Premier League,14
+524,3901063,2022-10-29,xG_for,,H,8678,AFC Bournemouth,Premier League,14
+525,3901063,2022-10-29,xG_ag,,H,8678,AFC Bournemouth,Premier League,14
+526,3901063,2022-10-29,xG_for,,A,8586,Tottenham Hotspur,Premier League,14
+527,3901063,2022-10-29,xG_ag,,A,8586,Tottenham Hotspur,Premier League,14
+528,3901064,2022-10-29,xG_for,,H,9937,Brentford,Premier League,14
+529,3901064,2022-10-29,xG_ag,,H,9937,Brentford,Premier League,14
+530,3901064,2022-10-29,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,14
+531,3901064,2022-10-29,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,14
+532,3901065,2022-10-29,xG_for,,H,10204,Brighton & Hove Albion,Premier League,14
+533,3901065,2022-10-29,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,14
+534,3901065,2022-10-29,xG_for,,A,8455,Chelsea,Premier League,14
+535,3901065,2022-10-29,xG_ag,,A,8455,Chelsea,Premier League,14
+536,3901066,2022-10-29,xG_for,,H,9826,Crystal Palace,Premier League,14
+537,3901066,2022-10-29,xG_ag,,H,9826,Crystal Palace,Premier League,14
+538,3901066,2022-10-29,xG_for,,A,8466,Southampton,Premier League,14
+539,3901066,2022-10-29,xG_ag,,A,8466,Southampton,Premier League,14
+540,3901067,2022-10-29,xG_for,,H,9879,Fulham,Premier League,14
+541,3901067,2022-10-29,xG_ag,,H,9879,Fulham,Premier League,14
+542,3901067,2022-10-29,xG_for,,A,8668,Everton,Premier League,14
+543,3901067,2022-10-29,xG_ag,,A,8668,Everton,Premier League,14
+544,3901068,2022-10-29,xG_for,,H,8197,Leicester City,Premier League,14
+545,3901068,2022-10-29,xG_ag,,H,8197,Leicester City,Premier League,14
+546,3901068,2022-10-29,xG_for,,A,8456,Manchester City,Premier League,14
+547,3901068,2022-10-29,xG_ag,,A,8456,Manchester City,Premier League,14
+548,3901069,2022-10-30,xG_for,,H,8650,Liverpool,Premier League,14
+549,3901069,2022-10-30,xG_ag,,H,8650,Liverpool,Premier League,14
+550,3901069,2022-10-30,xG_for,,A,8463,Leeds United,Premier League,14
+551,3901069,2022-10-30,xG_ag,,A,8463,Leeds United,Premier League,14
+552,3901070,2022-10-30,xG_for,,H,10260,Manchester United,Premier League,14
+553,3901070,2022-10-30,xG_ag,,H,10260,Manchester United,Premier League,14
+554,3901070,2022-10-30,xG_for,,A,8654,West Ham United,Premier League,14
+555,3901070,2022-10-30,xG_ag,,A,8654,West Ham United,Premier League,14
+556,3901071,2022-10-29,xG_for,,H,10261,Newcastle United,Premier League,14
+557,3901071,2022-10-29,xG_ag,,H,10261,Newcastle United,Premier League,14
+558,3901071,2022-10-29,xG_for,,A,10252,Aston Villa,Premier League,14
+559,3901071,2022-10-29,xG_ag,,A,10252,Aston Villa,Premier League,14
+560,3901072,2022-11-06,xG_for,,H,10252,Aston Villa,Premier League,15
+561,3901072,2022-11-06,xG_ag,,H,10252,Aston Villa,Premier League,15
+562,3901072,2022-11-06,xG_for,,A,10260,Manchester United,Premier League,15
+563,3901072,2022-11-06,xG_ag,,A,10260,Manchester United,Premier League,15
+564,3901073,2022-11-06,xG_for,,H,8455,Chelsea,Premier League,15
+565,3901073,2022-11-06,xG_ag,,H,8455,Chelsea,Premier League,15
+566,3901073,2022-11-06,xG_for,,A,9825,Arsenal,Premier League,15
+567,3901073,2022-11-06,xG_ag,,A,9825,Arsenal,Premier League,15
+568,3901074,2022-11-06,xG_for,,H,8668,Everton,Premier League,15
+569,3901074,2022-11-06,xG_ag,,H,8668,Everton,Premier League,15
+570,3901074,2022-11-06,xG_for,,A,8197,Leicester City,Premier League,15
+571,3901074,2022-11-06,xG_ag,,A,8197,Leicester City,Premier League,15
+572,3901075,2022-11-05,xG_for,,H,8463,Leeds United,Premier League,15
+573,3901075,2022-11-05,xG_ag,,H,8463,Leeds United,Premier League,15
+574,3901075,2022-11-05,xG_for,,A,8678,AFC Bournemouth,Premier League,15
+575,3901075,2022-11-05,xG_ag,,A,8678,AFC Bournemouth,Premier League,15
+576,3901076,2022-11-05,xG_for,,H,8456,Manchester City,Premier League,15
+577,3901076,2022-11-05,xG_ag,,H,8456,Manchester City,Premier League,15
+578,3901076,2022-11-05,xG_for,,A,9879,Fulham,Premier League,15
+579,3901076,2022-11-05,xG_ag,,A,9879,Fulham,Premier League,15
+580,3901077,2022-11-05,xG_for,,H,10203,Nottingham Forest,Premier League,15
+581,3901077,2022-11-05,xG_ag,,H,10203,Nottingham Forest,Premier League,15
+582,3901077,2022-11-05,xG_for,,A,9937,Brentford,Premier League,15
+583,3901077,2022-11-05,xG_ag,,A,9937,Brentford,Premier League,15
+584,3901078,2022-11-06,xG_for,,H,8466,Southampton,Premier League,15
+585,3901078,2022-11-06,xG_ag,,H,8466,Southampton,Premier League,15
+586,3901078,2022-11-06,xG_for,,A,10261,Newcastle United,Premier League,15
+587,3901078,2022-11-06,xG_ag,,A,10261,Newcastle United,Premier League,15
+588,3901079,2022-11-06,xG_for,,H,8586,Tottenham Hotspur,Premier League,15
+589,3901079,2022-11-06,xG_ag,,H,8586,Tottenham Hotspur,Premier League,15
+590,3901079,2022-11-06,xG_for,,A,8650,Liverpool,Premier League,15
+591,3901079,2022-11-06,xG_ag,,A,8650,Liverpool,Premier League,15
+592,3901080,2022-11-06,xG_for,,H,8654,West Ham United,Premier League,15
+593,3901080,2022-11-06,xG_ag,,H,8654,West Ham United,Premier League,15
+594,3901080,2022-11-06,xG_for,,A,9826,Crystal Palace,Premier League,15
+595,3901080,2022-11-06,xG_ag,,A,9826,Crystal Palace,Premier League,15
+596,3901081,2022-11-05,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,15
+597,3901081,2022-11-05,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,15
+598,3901081,2022-11-05,xG_for,,A,10204,Brighton & Hove Albion,Premier League,15
+599,3901081,2022-11-05,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,15
+600,3901082,2022-11-12,xG_for,,H,8678,AFC Bournemouth,Premier League,16
+601,3901082,2022-11-12,xG_ag,,H,8678,AFC Bournemouth,Premier League,16
+602,3901082,2022-11-12,xG_for,,A,8668,Everton,Premier League,16
+603,3901082,2022-11-12,xG_ag,,A,8668,Everton,Premier League,16
+604,3901083,2022-11-13,xG_for,,H,10204,Brighton & Hove Albion,Premier League,16
+605,3901083,2022-11-13,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,16
+606,3901083,2022-11-13,xG_for,,A,10252,Aston Villa,Premier League,16
+607,3901083,2022-11-13,xG_ag,,A,10252,Aston Villa,Premier League,16
+608,3901084,2022-11-13,xG_for,,H,9879,Fulham,Premier League,16
+609,3901084,2022-11-13,xG_ag,,H,9879,Fulham,Premier League,16
+610,3901084,2022-11-13,xG_for,,A,10260,Manchester United,Premier League,16
+611,3901084,2022-11-13,xG_ag,,A,10260,Manchester United,Premier League,16
+612,3901085,2022-11-12,xG_for,,H,8650,Liverpool,Premier League,16
+613,3901085,2022-11-12,xG_ag,,H,8650,Liverpool,Premier League,16
+614,3901085,2022-11-12,xG_for,,A,8466,Southampton,Premier League,16
+615,3901085,2022-11-12,xG_ag,,A,8466,Southampton,Premier League,16
+616,3901086,2022-11-12,xG_for,,H,8456,Manchester City,Premier League,16
+617,3901086,2022-11-12,xG_ag,,H,8456,Manchester City,Premier League,16
+618,3901086,2022-11-12,xG_for,,A,9937,Brentford,Premier League,16
+619,3901086,2022-11-12,xG_ag,,A,9937,Brentford,Premier League,16
+620,3901087,2022-11-13,xG_for,,H,10261,Newcastle United,Premier League,16
+621,3901087,2022-11-13,xG_ag,,H,10261,Newcastle United,Premier League,16
+622,3901087,2022-11-13,xG_for,,A,8455,Chelsea,Premier League,16
+623,3901087,2022-11-13,xG_ag,,A,8455,Chelsea,Premier League,16
+624,3901088,2022-11-12,xG_for,,H,10203,Nottingham Forest,Premier League,16
+625,3901088,2022-11-12,xG_ag,,H,10203,Nottingham Forest,Premier League,16
+626,3901088,2022-11-12,xG_for,,A,9826,Crystal Palace,Premier League,16
+627,3901088,2022-11-12,xG_ag,,A,9826,Crystal Palace,Premier League,16
+628,3901089,2022-11-12,xG_for,,H,8586,Tottenham Hotspur,Premier League,16
+629,3901089,2022-11-12,xG_ag,,H,8586,Tottenham Hotspur,Premier League,16
+630,3901089,2022-11-12,xG_for,,A,8463,Leeds United,Premier League,16
+631,3901089,2022-11-12,xG_ag,,A,8463,Leeds United,Premier League,16
+632,3901090,2022-11-12,xG_for,,H,8654,West Ham United,Premier League,16
+633,3901090,2022-11-12,xG_ag,,H,8654,West Ham United,Premier League,16
+634,3901090,2022-11-12,xG_for,,A,8197,Leicester City,Premier League,16
+635,3901090,2022-11-12,xG_ag,,A,8197,Leicester City,Premier League,16
+636,3901091,2022-11-13,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,16
+637,3901091,2022-11-13,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,16
+638,3901091,2022-11-13,xG_for,,A,9825,Arsenal,Premier League,16
+639,3901091,2022-11-13,xG_ag,,A,9825,Arsenal,Premier League,16
+640,3901092,2022-12-27,xG_for,,H,9825,Arsenal,Premier League,17
+641,3901092,2022-12-27,xG_ag,,H,9825,Arsenal,Premier League,17
+642,3901092,2022-12-27,xG_for,,A,8654,West Ham United,Premier League,17
+643,3901092,2022-12-27,xG_ag,,A,8654,West Ham United,Premier League,17
+644,3901093,2022-12-27,xG_for,,H,10252,Aston Villa,Premier League,17
+645,3901093,2022-12-27,xG_ag,,H,10252,Aston Villa,Premier League,17
+646,3901093,2022-12-27,xG_for,,A,8650,Liverpool,Premier League,17
+647,3901093,2022-12-27,xG_ag,,A,8650,Liverpool,Premier League,17
+648,3901094,2022-12-26,xG_for,,H,9937,Brentford,Premier League,17
+649,3901094,2022-12-26,xG_ag,,H,9937,Brentford,Premier League,17
+650,3901094,2022-12-26,xG_for,,A,8586,Tottenham Hotspur,Premier League,17
+651,3901094,2022-12-26,xG_ag,,A,8586,Tottenham Hotspur,Premier League,17
+652,3901095,2022-12-28,xG_for,,H,8455,Chelsea,Premier League,17
+653,3901095,2022-12-28,xG_ag,,H,8455,Chelsea,Premier League,17
+654,3901095,2022-12-28,xG_for,,A,8678,AFC Bournemouth,Premier League,17
+655,3901095,2022-12-28,xG_ag,,A,8678,AFC Bournemouth,Premier League,17
+656,3901096,2022-12-26,xG_for,,H,9826,Crystal Palace,Premier League,17
+657,3901096,2022-12-26,xG_ag,,H,9826,Crystal Palace,Premier League,17
+658,3901096,2022-12-26,xG_for,,A,9879,Fulham,Premier League,17
+659,3901096,2022-12-26,xG_ag,,A,9879,Fulham,Premier League,17
+660,3901097,2022-12-26,xG_for,,H,8668,Everton,Premier League,17
+661,3901097,2022-12-26,xG_ag,,H,8668,Everton,Premier League,17
+662,3901097,2022-12-26,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,17
+663,3901097,2022-12-26,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,17
+664,3901098,2022-12-29,xG_for,,H,8463,Leeds United,Premier League,17
+665,3901098,2022-12-29,xG_ag,,H,8463,Leeds United,Premier League,17
+666,3901098,2022-12-29,xG_for,,A,8456,Manchester City,Premier League,17
+667,3901098,2022-12-29,xG_ag,,A,8456,Manchester City,Premier League,17
+668,3901099,2022-12-26,xG_for,,H,8197,Leicester City,Premier League,17
+669,3901099,2022-12-26,xG_ag,,H,8197,Leicester City,Premier League,17
+670,3901099,2022-12-26,xG_for,,A,10261,Newcastle United,Premier League,17
+671,3901099,2022-12-26,xG_ag,,A,10261,Newcastle United,Premier League,17
+672,3901100,2022-12-28,xG_for,,H,10260,Manchester United,Premier League,17
+673,3901100,2022-12-28,xG_ag,,H,10260,Manchester United,Premier League,17
+674,3901100,2022-12-28,xG_for,,A,10203,Nottingham Forest,Premier League,17
+675,3901100,2022-12-28,xG_ag,,A,10203,Nottingham Forest,Premier League,17
+676,3901101,2022-12-26,xG_for,,H,8466,Southampton,Premier League,17
+677,3901101,2022-12-26,xG_ag,,H,8466,Southampton,Premier League,17
+678,3901101,2022-12-26,xG_for,,A,10204,Brighton & Hove Albion,Premier League,17
+679,3901101,2022-12-26,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,17
+680,3901102,2022-12-31,xG_for,,H,8678,AFC Bournemouth,Premier League,18
+681,3901102,2022-12-31,xG_ag,,H,8678,AFC Bournemouth,Premier League,18
+682,3901102,2022-12-31,xG_for,,A,9826,Crystal Palace,Premier League,18
+683,3901102,2022-12-31,xG_ag,,A,9826,Crystal Palace,Premier League,18
+684,3901103,2023-01-01,xG_for,,H,10204,Brighton & Hove Albion,Premier League,18
+685,3901103,2023-01-01,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,18
+686,3901103,2023-01-01,xG_for,,A,9825,Arsenal,Premier League,18
+687,3901103,2023-01-01,xG_ag,,A,9825,Arsenal,Premier League,18
+688,3901104,2022-12-31,xG_for,,H,9879,Fulham,Premier League,18
+689,3901104,2022-12-31,xG_ag,,H,9879,Fulham,Premier League,18
+690,3901104,2022-12-31,xG_for,,A,8466,Southampton,Premier League,18
+691,3901104,2022-12-31,xG_ag,,A,8466,Southampton,Premier League,18
+692,3901105,2022-12-31,xG_for,,H,8650,Liverpool,Premier League,18
+693,3901105,2022-12-31,xG_ag,,H,8650,Liverpool,Premier League,18
+694,3901105,2022-12-31,xG_for,,A,8197,Leicester City,Premier League,18
+695,3901105,2022-12-31,xG_ag,,A,8197,Leicester City,Premier League,18
+696,3901106,2022-12-31,xG_for,,H,8456,Manchester City,Premier League,18
+697,3901106,2022-12-31,xG_ag,,H,8456,Manchester City,Premier League,18
+698,3901106,2022-12-31,xG_for,,A,8668,Everton,Premier League,18
+699,3901106,2022-12-31,xG_ag,,A,8668,Everton,Premier League,18
+700,3901107,2022-12-31,xG_for,,H,10261,Newcastle United,Premier League,18
+701,3901107,2022-12-31,xG_ag,,H,10261,Newcastle United,Premier League,18
+702,3901107,2022-12-31,xG_for,,A,8463,Leeds United,Premier League,18
+703,3901107,2022-12-31,xG_ag,,A,8463,Leeds United,Premier League,18
+704,3901108,2023-01-01,xG_for,,H,10203,Nottingham Forest,Premier League,18
+705,3901108,2023-01-01,xG_ag,,H,10203,Nottingham Forest,Premier League,18
+706,3901108,2023-01-01,xG_for,,A,8455,Chelsea,Premier League,18
+707,3901108,2023-01-01,xG_ag,,A,8455,Chelsea,Premier League,18
+708,3901109,2023-01-01,xG_for,,H,8586,Tottenham Hotspur,Premier League,18
+709,3901109,2023-01-01,xG_ag,,H,8586,Tottenham Hotspur,Premier League,18
+710,3901109,2023-01-01,xG_for,,A,10252,Aston Villa,Premier League,18
+711,3901109,2023-01-01,xG_ag,,A,10252,Aston Villa,Premier League,18
+712,3901110,2022-12-31,xG_for,,H,8654,West Ham United,Premier League,18
+713,3901110,2022-12-31,xG_ag,,H,8654,West Ham United,Premier League,18
+714,3901110,2022-12-31,xG_for,,A,9937,Brentford,Premier League,18
+715,3901110,2022-12-31,xG_ag,,A,9937,Brentford,Premier League,18
+716,3901111,2022-12-31,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,18
+717,3901111,2022-12-31,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,18
+718,3901111,2022-12-31,xG_for,,A,10260,Manchester United,Premier League,18
+719,3901111,2022-12-31,xG_ag,,A,10260,Manchester United,Premier League,18
+720,3901112,2023-01-04,xG_for,,H,9825,Arsenal,Premier League,19
+721,3901112,2023-01-04,xG_ag,,H,9825,Arsenal,Premier League,19
+722,3901112,2023-01-04,xG_for,,A,10261,Newcastle United,Premier League,19
+723,3901112,2023-01-04,xG_ag,,A,10261,Newcastle United,Premier League,19
+724,3901113,2023-01-05,xG_for,,H,10252,Aston Villa,Premier League,19
+725,3901113,2023-01-05,xG_ag,,H,10252,Aston Villa,Premier League,19
+726,3901113,2023-01-05,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,19
+727,3901113,2023-01-05,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,19
+728,3901114,2023-01-03,xG_for,,H,9937,Brentford,Premier League,19
+729,3901114,2023-01-03,xG_ag,,H,9937,Brentford,Premier League,19
+730,3901114,2023-01-03,xG_for,,A,8650,Liverpool,Premier League,19
+731,3901114,2023-01-03,xG_ag,,A,8650,Liverpool,Premier League,19
+732,3901115,2023-01-06,xG_for,,H,8455,Chelsea,Premier League,19
+733,3901115,2023-01-06,xG_ag,,H,8455,Chelsea,Premier League,19
+734,3901115,2023-01-06,xG_for,,A,8456,Manchester City,Premier League,19
+735,3901115,2023-01-06,xG_ag,,A,8456,Manchester City,Premier League,19
+736,3901116,2023-01-05,xG_for,,H,9826,Crystal Palace,Premier League,19
+737,3901116,2023-01-05,xG_ag,,H,9826,Crystal Palace,Premier League,19
+738,3901116,2023-01-05,xG_for,,A,8586,Tottenham Hotspur,Premier League,19
+739,3901116,2023-01-05,xG_ag,,A,8586,Tottenham Hotspur,Premier League,19
+740,3901117,2023-01-04,xG_for,,H,8668,Everton,Premier League,19
+741,3901117,2023-01-04,xG_ag,,H,8668,Everton,Premier League,19
+742,3901117,2023-01-04,xG_for,,A,10204,Brighton & Hove Albion,Premier League,19
+743,3901117,2023-01-04,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,19
+744,3901118,2023-01-05,xG_for,,H,8463,Leeds United,Premier League,19
+745,3901118,2023-01-05,xG_ag,,H,8463,Leeds United,Premier League,19
+746,3901118,2023-01-05,xG_for,,A,8654,West Ham United,Premier League,19
+747,3901118,2023-01-05,xG_ag,,A,8654,West Ham United,Premier League,19
+748,3901119,2023-01-04,xG_for,,H,8197,Leicester City,Premier League,19
+749,3901119,2023-01-04,xG_ag,,H,8197,Leicester City,Premier League,19
+750,3901119,2023-01-04,xG_for,,A,9879,Fulham,Premier League,19
+751,3901119,2023-01-04,xG_ag,,A,9879,Fulham,Premier League,19
+752,3901120,2023-01-04,xG_for,,H,10260,Manchester United,Premier League,19
+753,3901120,2023-01-04,xG_ag,,H,10260,Manchester United,Premier League,19
+754,3901120,2023-01-04,xG_for,,A,8678,AFC Bournemouth,Premier League,19
+755,3901120,2023-01-04,xG_ag,,A,8678,AFC Bournemouth,Premier League,19
+756,3901121,2023-01-05,xG_for,,H,8466,Southampton,Premier League,19
+757,3901121,2023-01-05,xG_ag,,H,8466,Southampton,Premier League,19
+758,3901121,2023-01-05,xG_for,,A,10203,Nottingham Forest,Premier League,19
+759,3901121,2023-01-05,xG_ag,,A,10203,Nottingham Forest,Premier League,19
+760,3901122,2023-01-14,xG_for,,H,10252,Aston Villa,Premier League,20
+761,3901122,2023-01-14,xG_ag,,H,10252,Aston Villa,Premier League,20
+762,3901122,2023-01-14,xG_for,,A,8463,Leeds United,Premier League,20
+763,3901122,2023-01-14,xG_ag,,A,8463,Leeds United,Premier League,20
+764,3901123,2023-01-14,xG_for,,H,9937,Brentford,Premier League,20
+765,3901123,2023-01-14,xG_ag,,H,9937,Brentford,Premier League,20
+766,3901123,2023-01-14,xG_for,,A,8678,AFC Bournemouth,Premier League,20
+767,3901123,2023-01-14,xG_ag,,A,8678,AFC Bournemouth,Premier League,20
+768,3901124,2023-01-14,xG_for,,H,10204,Brighton & Hove Albion,Premier League,20
+769,3901124,2023-01-14,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,20
+770,3901124,2023-01-14,xG_for,,A,8650,Liverpool,Premier League,20
+771,3901124,2023-01-14,xG_ag,,A,8650,Liverpool,Premier League,20
+772,3901125,2023-01-14,xG_for,,H,8455,Chelsea,Premier League,20
+773,3901125,2023-01-14,xG_ag,,H,8455,Chelsea,Premier League,20
+774,3901125,2023-01-14,xG_for,,A,9826,Crystal Palace,Premier League,20
+775,3901125,2023-01-14,xG_ag,,A,9826,Crystal Palace,Premier League,20
+776,3901126,2023-01-14,xG_for,,H,8668,Everton,Premier League,20
+777,3901126,2023-01-14,xG_ag,,H,8668,Everton,Premier League,20
+778,3901126,2023-01-14,xG_for,,A,8466,Southampton,Premier League,20
+779,3901126,2023-01-14,xG_ag,,A,8466,Southampton,Premier League,20
+780,3901127,2023-01-14,xG_for,,H,10260,Manchester United,Premier League,20
+781,3901127,2023-01-14,xG_ag,,H,10260,Manchester United,Premier League,20
+782,3901127,2023-01-14,xG_for,,A,8456,Manchester City,Premier League,20
+783,3901127,2023-01-14,xG_ag,,A,8456,Manchester City,Premier League,20
+784,3901128,2023-01-14,xG_for,,H,10261,Newcastle United,Premier League,20
+785,3901128,2023-01-14,xG_ag,,H,10261,Newcastle United,Premier League,20
+786,3901128,2023-01-14,xG_for,,A,9879,Fulham,Premier League,20
+787,3901128,2023-01-14,xG_ag,,A,9879,Fulham,Premier League,20
+788,3901129,2023-01-14,xG_for,,H,10203,Nottingham Forest,Premier League,20
+789,3901129,2023-01-14,xG_ag,,H,10203,Nottingham Forest,Premier League,20
+790,3901129,2023-01-14,xG_for,,A,8197,Leicester City,Premier League,20
+791,3901129,2023-01-14,xG_ag,,A,8197,Leicester City,Premier League,20
+792,3901130,2023-01-14,xG_for,,H,8586,Tottenham Hotspur,Premier League,20
+793,3901130,2023-01-14,xG_ag,,H,8586,Tottenham Hotspur,Premier League,20
+794,3901130,2023-01-14,xG_for,,A,9825,Arsenal,Premier League,20
+795,3901130,2023-01-14,xG_ag,,A,9825,Arsenal,Premier League,20
+796,3901131,2023-01-14,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,20
+797,3901131,2023-01-14,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,20
+798,3901131,2023-01-14,xG_for,,A,8654,West Ham United,Premier League,20
+799,3901131,2023-01-14,xG_ag,,A,8654,West Ham United,Premier League,20
+800,3901132,2023-01-21,xG_for,,H,9825,Arsenal,Premier League,21
+801,3901132,2023-01-21,xG_ag,,H,9825,Arsenal,Premier League,21
+802,3901132,2023-01-21,xG_for,,A,10260,Manchester United,Premier League,21
+803,3901132,2023-01-21,xG_ag,,A,10260,Manchester United,Premier League,21
+804,3901133,2023-01-21,xG_for,,H,8678,AFC Bournemouth,Premier League,21
+805,3901133,2023-01-21,xG_ag,,H,8678,AFC Bournemouth,Premier League,21
+806,3901133,2023-01-21,xG_for,,A,10203,Nottingham Forest,Premier League,21
+807,3901133,2023-01-21,xG_ag,,A,10203,Nottingham Forest,Premier League,21
+808,3901134,2023-01-21,xG_for,,H,9826,Crystal Palace,Premier League,21
+809,3901134,2023-01-21,xG_ag,,H,9826,Crystal Palace,Premier League,21
+810,3901134,2023-01-21,xG_for,,A,10261,Newcastle United,Premier League,21
+811,3901134,2023-01-21,xG_ag,,A,10261,Newcastle United,Premier League,21
+812,3901135,2023-01-21,xG_for,,H,9879,Fulham,Premier League,21
+813,3901135,2023-01-21,xG_ag,,H,9879,Fulham,Premier League,21
+814,3901135,2023-01-21,xG_for,,A,8586,Tottenham Hotspur,Premier League,21
+815,3901135,2023-01-21,xG_ag,,A,8586,Tottenham Hotspur,Premier League,21
+816,3901136,2023-01-21,xG_for,,H,8463,Leeds United,Premier League,21
+817,3901136,2023-01-21,xG_ag,,H,8463,Leeds United,Premier League,21
+818,3901136,2023-01-21,xG_for,,A,9937,Brentford,Premier League,21
+819,3901136,2023-01-21,xG_ag,,A,9937,Brentford,Premier League,21
+820,3901137,2023-01-21,xG_for,,H,8197,Leicester City,Premier League,21
+821,3901137,2023-01-21,xG_ag,,H,8197,Leicester City,Premier League,21
+822,3901137,2023-01-21,xG_for,,A,10204,Brighton & Hove Albion,Premier League,21
+823,3901137,2023-01-21,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,21
+824,3901138,2023-01-21,xG_for,,H,8650,Liverpool,Premier League,21
+825,3901138,2023-01-21,xG_ag,,H,8650,Liverpool,Premier League,21
+826,3901138,2023-01-21,xG_for,,A,8455,Chelsea,Premier League,21
+827,3901138,2023-01-21,xG_ag,,A,8455,Chelsea,Premier League,21
+828,3901139,2023-01-21,xG_for,,H,8456,Manchester City,Premier League,21
+829,3901139,2023-01-21,xG_ag,,H,8456,Manchester City,Premier League,21
+830,3901139,2023-01-21,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,21
+831,3901139,2023-01-21,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,21
+832,3901140,2023-01-21,xG_for,,H,8466,Southampton,Premier League,21
+833,3901140,2023-01-21,xG_ag,,H,8466,Southampton,Premier League,21
+834,3901140,2023-01-21,xG_for,,A,10252,Aston Villa,Premier League,21
+835,3901140,2023-01-21,xG_ag,,A,10252,Aston Villa,Premier League,21
+836,3901141,2023-01-21,xG_for,,H,8654,West Ham United,Premier League,21
+837,3901141,2023-01-21,xG_ag,,H,8654,West Ham United,Premier League,21
+838,3901141,2023-01-21,xG_for,,A,8668,Everton,Premier League,21
+839,3901141,2023-01-21,xG_ag,,A,8668,Everton,Premier League,21
+840,3901142,2023-02-04,xG_for,,H,10252,Aston Villa,Premier League,22
+841,3901142,2023-02-04,xG_ag,,H,10252,Aston Villa,Premier League,22
+842,3901142,2023-02-04,xG_for,,A,8197,Leicester City,Premier League,22
+843,3901142,2023-02-04,xG_ag,,A,8197,Leicester City,Premier League,22
+844,3901143,2023-02-04,xG_for,,H,9937,Brentford,Premier League,22
+845,3901143,2023-02-04,xG_ag,,H,9937,Brentford,Premier League,22
+846,3901143,2023-02-04,xG_for,,A,8466,Southampton,Premier League,22
+847,3901143,2023-02-04,xG_ag,,A,8466,Southampton,Premier League,22
+848,3901144,2023-02-04,xG_for,,H,10204,Brighton & Hove Albion,Premier League,22
+849,3901144,2023-02-04,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,22
+850,3901144,2023-02-04,xG_for,,A,8678,AFC Bournemouth,Premier League,22
+851,3901144,2023-02-04,xG_ag,,A,8678,AFC Bournemouth,Premier League,22
+852,3901145,2023-02-04,xG_for,,H,8455,Chelsea,Premier League,22
+853,3901145,2023-02-04,xG_ag,,H,8455,Chelsea,Premier League,22
+854,3901145,2023-02-04,xG_for,,A,9879,Fulham,Premier League,22
+855,3901145,2023-02-04,xG_ag,,A,9879,Fulham,Premier League,22
+856,3901146,2023-02-04,xG_for,,H,8668,Everton,Premier League,22
+857,3901146,2023-02-04,xG_ag,,H,8668,Everton,Premier League,22
+858,3901146,2023-02-04,xG_for,,A,9825,Arsenal,Premier League,22
+859,3901146,2023-02-04,xG_ag,,A,9825,Arsenal,Premier League,22
+860,3901147,2023-02-04,xG_for,,H,10260,Manchester United,Premier League,22
+861,3901147,2023-02-04,xG_ag,,H,10260,Manchester United,Premier League,22
+862,3901147,2023-02-04,xG_for,,A,9826,Crystal Palace,Premier League,22
+863,3901147,2023-02-04,xG_ag,,A,9826,Crystal Palace,Premier League,22
+864,3901148,2023-02-04,xG_for,,H,10261,Newcastle United,Premier League,22
+865,3901148,2023-02-04,xG_ag,,H,10261,Newcastle United,Premier League,22
+866,3901148,2023-02-04,xG_for,,A,8654,West Ham United,Premier League,22
+867,3901148,2023-02-04,xG_ag,,A,8654,West Ham United,Premier League,22
+868,3901149,2023-02-04,xG_for,,H,10203,Nottingham Forest,Premier League,22
+869,3901149,2023-02-04,xG_ag,,H,10203,Nottingham Forest,Premier League,22
+870,3901149,2023-02-04,xG_for,,A,8463,Leeds United,Premier League,22
+871,3901149,2023-02-04,xG_ag,,A,8463,Leeds United,Premier League,22
+872,3901150,2023-02-04,xG_for,,H,8586,Tottenham Hotspur,Premier League,22
+873,3901150,2023-02-04,xG_ag,,H,8586,Tottenham Hotspur,Premier League,22
+874,3901150,2023-02-04,xG_for,,A,8456,Manchester City,Premier League,22
+875,3901150,2023-02-04,xG_ag,,A,8456,Manchester City,Premier League,22
+876,3901151,2023-02-04,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,22
+877,3901151,2023-02-04,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,22
+878,3901151,2023-02-04,xG_for,,A,8650,Liverpool,Premier League,22
+879,3901151,2023-02-04,xG_ag,,A,8650,Liverpool,Premier League,22
+880,3901152,2023-02-11,xG_for,,H,9825,Arsenal,Premier League,23
+881,3901152,2023-02-11,xG_ag,,H,9825,Arsenal,Premier League,23
+882,3901152,2023-02-11,xG_for,,A,9937,Brentford,Premier League,23
+883,3901152,2023-02-11,xG_ag,,A,9937,Brentford,Premier League,23
+884,3901153,2023-02-11,xG_for,,H,8678,AFC Bournemouth,Premier League,23
+885,3901153,2023-02-11,xG_ag,,H,8678,AFC Bournemouth,Premier League,23
+886,3901153,2023-02-11,xG_for,,A,10261,Newcastle United,Premier League,23
+887,3901153,2023-02-11,xG_ag,,A,10261,Newcastle United,Premier League,23
+888,3901154,2023-02-11,xG_for,,H,9826,Crystal Palace,Premier League,23
+889,3901154,2023-02-11,xG_ag,,H,9826,Crystal Palace,Premier League,23
+890,3901154,2023-02-11,xG_for,,A,10204,Brighton & Hove Albion,Premier League,23
+891,3901154,2023-02-11,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,23
+892,3901155,2023-02-11,xG_for,,H,9879,Fulham,Premier League,23
+893,3901155,2023-02-11,xG_ag,,H,9879,Fulham,Premier League,23
+894,3901155,2023-02-11,xG_for,,A,10203,Nottingham Forest,Premier League,23
+895,3901155,2023-02-11,xG_ag,,A,10203,Nottingham Forest,Premier League,23
+896,3901156,2023-02-11,xG_for,,H,8463,Leeds United,Premier League,23
+897,3901156,2023-02-11,xG_ag,,H,8463,Leeds United,Premier League,23
+898,3901156,2023-02-11,xG_for,,A,10260,Manchester United,Premier League,23
+899,3901156,2023-02-11,xG_ag,,A,10260,Manchester United,Premier League,23
+900,3901157,2023-02-11,xG_for,,H,8197,Leicester City,Premier League,23
+901,3901157,2023-02-11,xG_ag,,H,8197,Leicester City,Premier League,23
+902,3901157,2023-02-11,xG_for,,A,8586,Tottenham Hotspur,Premier League,23
+903,3901157,2023-02-11,xG_ag,,A,8586,Tottenham Hotspur,Premier League,23
+904,3901158,2023-02-11,xG_for,,H,8650,Liverpool,Premier League,23
+905,3901158,2023-02-11,xG_ag,,H,8650,Liverpool,Premier League,23
+906,3901158,2023-02-11,xG_for,,A,8668,Everton,Premier League,23
+907,3901158,2023-02-11,xG_ag,,A,8668,Everton,Premier League,23
+908,3901159,2023-02-11,xG_for,,H,8456,Manchester City,Premier League,23
+909,3901159,2023-02-11,xG_ag,,H,8456,Manchester City,Premier League,23
+910,3901159,2023-02-11,xG_for,,A,10252,Aston Villa,Premier League,23
+911,3901159,2023-02-11,xG_ag,,A,10252,Aston Villa,Premier League,23
+912,3901160,2023-02-11,xG_for,,H,8466,Southampton,Premier League,23
+913,3901160,2023-02-11,xG_ag,,H,8466,Southampton,Premier League,23
+914,3901160,2023-02-11,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,23
+915,3901160,2023-02-11,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,23
+916,3901161,2023-02-11,xG_for,,H,8654,West Ham United,Premier League,23
+917,3901161,2023-02-11,xG_ag,,H,8654,West Ham United,Premier League,23
+918,3901161,2023-02-11,xG_for,,A,8455,Chelsea,Premier League,23
+919,3901161,2023-02-11,xG_ag,,A,8455,Chelsea,Premier League,23
+920,3901162,2023-02-18,xG_for,,H,10252,Aston Villa,Premier League,24
+921,3901162,2023-02-18,xG_ag,,H,10252,Aston Villa,Premier League,24
+922,3901162,2023-02-18,xG_for,,A,9825,Arsenal,Premier League,24
+923,3901162,2023-02-18,xG_ag,,A,9825,Arsenal,Premier League,24
+924,3901163,2023-02-18,xG_for,,H,9937,Brentford,Premier League,24
+925,3901163,2023-02-18,xG_ag,,H,9937,Brentford,Premier League,24
+926,3901163,2023-02-18,xG_for,,A,9826,Crystal Palace,Premier League,24
+927,3901163,2023-02-18,xG_ag,,A,9826,Crystal Palace,Premier League,24
+928,3901164,2023-02-18,xG_for,,H,10204,Brighton & Hove Albion,Premier League,24
+929,3901164,2023-02-18,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,24
+930,3901164,2023-02-18,xG_for,,A,9879,Fulham,Premier League,24
+931,3901164,2023-02-18,xG_ag,,A,9879,Fulham,Premier League,24
+932,3901165,2023-02-18,xG_for,,H,8455,Chelsea,Premier League,24
+933,3901165,2023-02-18,xG_ag,,H,8455,Chelsea,Premier League,24
+934,3901165,2023-02-18,xG_for,,A,8466,Southampton,Premier League,24
+935,3901165,2023-02-18,xG_ag,,A,8466,Southampton,Premier League,24
+936,3901166,2023-02-18,xG_for,,H,8668,Everton,Premier League,24
+937,3901166,2023-02-18,xG_ag,,H,8668,Everton,Premier League,24
+938,3901166,2023-02-18,xG_for,,A,8463,Leeds United,Premier League,24
+939,3901166,2023-02-18,xG_ag,,A,8463,Leeds United,Premier League,24
+940,3901167,2023-02-18,xG_for,,H,10260,Manchester United,Premier League,24
+941,3901167,2023-02-18,xG_ag,,H,10260,Manchester United,Premier League,24
+942,3901167,2023-02-18,xG_for,,A,8197,Leicester City,Premier League,24
+943,3901167,2023-02-18,xG_ag,,A,8197,Leicester City,Premier League,24
+944,3901168,2023-02-18,xG_for,,H,10261,Newcastle United,Premier League,24
+945,3901168,2023-02-18,xG_ag,,H,10261,Newcastle United,Premier League,24
+946,3901168,2023-02-18,xG_for,,A,8650,Liverpool,Premier League,24
+947,3901168,2023-02-18,xG_ag,,A,8650,Liverpool,Premier League,24
+948,3901169,2023-02-18,xG_for,,H,10203,Nottingham Forest,Premier League,24
+949,3901169,2023-02-18,xG_ag,,H,10203,Nottingham Forest,Premier League,24
+950,3901169,2023-02-18,xG_for,,A,8456,Manchester City,Premier League,24
+951,3901169,2023-02-18,xG_ag,,A,8456,Manchester City,Premier League,24
+952,3901170,2023-02-18,xG_for,,H,8586,Tottenham Hotspur,Premier League,24
+953,3901170,2023-02-18,xG_ag,,H,8586,Tottenham Hotspur,Premier League,24
+954,3901170,2023-02-18,xG_for,,A,8654,West Ham United,Premier League,24
+955,3901170,2023-02-18,xG_ag,,A,8654,West Ham United,Premier League,24
+956,3901171,2023-02-18,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,24
+957,3901171,2023-02-18,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,24
+958,3901171,2023-02-18,xG_for,,A,8678,AFC Bournemouth,Premier League,24
+959,3901171,2023-02-18,xG_ag,,A,8678,AFC Bournemouth,Premier League,24
+960,3901172,2023-02-25,xG_for,,H,8678,AFC Bournemouth,Premier League,25
+961,3901172,2023-02-25,xG_ag,,H,8678,AFC Bournemouth,Premier League,25
+962,3901172,2023-02-25,xG_for,,A,8456,Manchester City,Premier League,25
+963,3901172,2023-02-25,xG_ag,,A,8456,Manchester City,Premier League,25
+964,3901173,2023-02-25,xG_for,,H,9826,Crystal Palace,Premier League,25
+965,3901173,2023-02-25,xG_ag,,H,9826,Crystal Palace,Premier League,25
+966,3901173,2023-02-25,xG_for,,A,8650,Liverpool,Premier League,25
+967,3901173,2023-02-25,xG_ag,,A,8650,Liverpool,Premier League,25
+968,3901174,2023-02-25,xG_for,,H,8668,Everton,Premier League,25
+969,3901174,2023-02-25,xG_ag,,H,8668,Everton,Premier League,25
+970,3901174,2023-02-25,xG_for,,A,10252,Aston Villa,Premier League,25
+971,3901174,2023-02-25,xG_ag,,A,10252,Aston Villa,Premier League,25
+972,3901175,2023-02-25,xG_for,,H,9879,Fulham,Premier League,25
+973,3901175,2023-02-25,xG_ag,,H,9879,Fulham,Premier League,25
+974,3901175,2023-02-25,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,25
+975,3901175,2023-02-25,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,25
+976,3901176,2023-02-25,xG_for,,H,8463,Leeds United,Premier League,25
+977,3901176,2023-02-25,xG_ag,,H,8463,Leeds United,Premier League,25
+978,3901176,2023-02-25,xG_for,,A,8466,Southampton,Premier League,25
+979,3901176,2023-02-25,xG_ag,,A,8466,Southampton,Premier League,25
+980,3901177,2023-02-25,xG_for,,H,8197,Leicester City,Premier League,25
+981,3901177,2023-02-25,xG_ag,,H,8197,Leicester City,Premier League,25
+982,3901177,2023-02-25,xG_for,,A,9825,Arsenal,Premier League,25
+983,3901177,2023-02-25,xG_ag,,A,9825,Arsenal,Premier League,25
+984,3901178,2023-02-25,xG_for,,H,10260,Manchester United,Premier League,25
+985,3901178,2023-02-25,xG_ag,,H,10260,Manchester United,Premier League,25
+986,3901178,2023-02-25,xG_for,,A,9937,Brentford,Premier League,25
+987,3901178,2023-02-25,xG_ag,,A,9937,Brentford,Premier League,25
+988,3901179,2023-02-25,xG_for,,H,10261,Newcastle United,Premier League,25
+989,3901179,2023-02-25,xG_ag,,H,10261,Newcastle United,Premier League,25
+990,3901179,2023-02-25,xG_for,,A,10204,Brighton & Hove Albion,Premier League,25
+991,3901179,2023-02-25,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,25
+992,3901180,2023-02-25,xG_for,,H,8586,Tottenham Hotspur,Premier League,25
+993,3901180,2023-02-25,xG_ag,,H,8586,Tottenham Hotspur,Premier League,25
+994,3901180,2023-02-25,xG_for,,A,8455,Chelsea,Premier League,25
+995,3901180,2023-02-25,xG_ag,,A,8455,Chelsea,Premier League,25
+996,3901181,2023-02-25,xG_for,,H,8654,West Ham United,Premier League,25
+997,3901181,2023-02-25,xG_ag,,H,8654,West Ham United,Premier League,25
+998,3901181,2023-02-25,xG_for,,A,10203,Nottingham Forest,Premier League,25
+999,3901181,2023-02-25,xG_ag,,A,10203,Nottingham Forest,Premier League,25
+1000,3901182,2023-03-04,xG_for,,H,9825,Arsenal,Premier League,26
+1001,3901182,2023-03-04,xG_ag,,H,9825,Arsenal,Premier League,26
+1002,3901182,2023-03-04,xG_for,,A,8678,AFC Bournemouth,Premier League,26
+1003,3901182,2023-03-04,xG_ag,,A,8678,AFC Bournemouth,Premier League,26
+1004,3901183,2023-03-04,xG_for,,H,10252,Aston Villa,Premier League,26
+1005,3901183,2023-03-04,xG_ag,,H,10252,Aston Villa,Premier League,26
+1006,3901183,2023-03-04,xG_for,,A,9826,Crystal Palace,Premier League,26
+1007,3901183,2023-03-04,xG_ag,,A,9826,Crystal Palace,Premier League,26
+1008,3901184,2023-03-04,xG_for,,H,9937,Brentford,Premier League,26
+1009,3901184,2023-03-04,xG_ag,,H,9937,Brentford,Premier League,26
+1010,3901184,2023-03-04,xG_for,,A,9879,Fulham,Premier League,26
+1011,3901184,2023-03-04,xG_ag,,A,9879,Fulham,Premier League,26
+1012,3901185,2023-03-04,xG_for,,H,10204,Brighton & Hove Albion,Premier League,26
+1013,3901185,2023-03-04,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,26
+1014,3901185,2023-03-04,xG_for,,A,8654,West Ham United,Premier League,26
+1015,3901185,2023-03-04,xG_ag,,A,8654,West Ham United,Premier League,26
+1016,3901186,2023-03-04,xG_for,,H,8455,Chelsea,Premier League,26
+1017,3901186,2023-03-04,xG_ag,,H,8455,Chelsea,Premier League,26
+1018,3901186,2023-03-04,xG_for,,A,8463,Leeds United,Premier League,26
+1019,3901186,2023-03-04,xG_ag,,A,8463,Leeds United,Premier League,26
+1020,3901187,2023-03-04,xG_for,,H,8650,Liverpool,Premier League,26
+1021,3901187,2023-03-04,xG_ag,,H,8650,Liverpool,Premier League,26
+1022,3901187,2023-03-04,xG_for,,A,10260,Manchester United,Premier League,26
+1023,3901187,2023-03-04,xG_ag,,A,10260,Manchester United,Premier League,26
+1024,3901188,2023-03-04,xG_for,,H,8456,Manchester City,Premier League,26
+1025,3901188,2023-03-04,xG_ag,,H,8456,Manchester City,Premier League,26
+1026,3901188,2023-03-04,xG_for,,A,10261,Newcastle United,Premier League,26
+1027,3901188,2023-03-04,xG_ag,,A,10261,Newcastle United,Premier League,26
+1028,3901189,2023-03-04,xG_for,,H,10203,Nottingham Forest,Premier League,26
+1029,3901189,2023-03-04,xG_ag,,H,10203,Nottingham Forest,Premier League,26
+1030,3901189,2023-03-04,xG_for,,A,8668,Everton,Premier League,26
+1031,3901189,2023-03-04,xG_ag,,A,8668,Everton,Premier League,26
+1032,3901190,2023-03-04,xG_for,,H,8466,Southampton,Premier League,26
+1033,3901190,2023-03-04,xG_ag,,H,8466,Southampton,Premier League,26
+1034,3901190,2023-03-04,xG_for,,A,8197,Leicester City,Premier League,26
+1035,3901190,2023-03-04,xG_ag,,A,8197,Leicester City,Premier League,26
+1036,3901191,2023-03-04,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,26
+1037,3901191,2023-03-04,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,26
+1038,3901191,2023-03-04,xG_for,,A,8586,Tottenham Hotspur,Premier League,26
+1039,3901191,2023-03-04,xG_ag,,A,8586,Tottenham Hotspur,Premier League,26
+1040,3901192,2023-03-11,xG_for,,H,8678,AFC Bournemouth,Premier League,27
+1041,3901192,2023-03-11,xG_ag,,H,8678,AFC Bournemouth,Premier League,27
+1042,3901192,2023-03-11,xG_for,,A,8650,Liverpool,Premier League,27
+1043,3901192,2023-03-11,xG_ag,,A,8650,Liverpool,Premier League,27
+1044,3901193,2023-03-11,xG_for,,H,9826,Crystal Palace,Premier League,27
+1045,3901193,2023-03-11,xG_ag,,H,9826,Crystal Palace,Premier League,27
+1046,3901193,2023-03-11,xG_for,,A,8456,Manchester City,Premier League,27
+1047,3901193,2023-03-11,xG_ag,,A,8456,Manchester City,Premier League,27
+1048,3901194,2023-03-11,xG_for,,H,8668,Everton,Premier League,27
+1049,3901194,2023-03-11,xG_ag,,H,8668,Everton,Premier League,27
+1050,3901194,2023-03-11,xG_for,,A,9937,Brentford,Premier League,27
+1051,3901194,2023-03-11,xG_ag,,A,9937,Brentford,Premier League,27
+1052,3901195,2023-03-11,xG_for,,H,9879,Fulham,Premier League,27
+1053,3901195,2023-03-11,xG_ag,,H,9879,Fulham,Premier League,27
+1054,3901195,2023-03-11,xG_for,,A,9825,Arsenal,Premier League,27
+1055,3901195,2023-03-11,xG_ag,,A,9825,Arsenal,Premier League,27
+1056,3901196,2023-03-11,xG_for,,H,8463,Leeds United,Premier League,27
+1057,3901196,2023-03-11,xG_ag,,H,8463,Leeds United,Premier League,27
+1058,3901196,2023-03-11,xG_for,,A,10204,Brighton & Hove Albion,Premier League,27
+1059,3901196,2023-03-11,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,27
+1060,3901197,2023-03-11,xG_for,,H,8197,Leicester City,Premier League,27
+1061,3901197,2023-03-11,xG_ag,,H,8197,Leicester City,Premier League,27
+1062,3901197,2023-03-11,xG_for,,A,8455,Chelsea,Premier League,27
+1063,3901197,2023-03-11,xG_ag,,A,8455,Chelsea,Premier League,27
+1064,3901198,2023-03-11,xG_for,,H,10260,Manchester United,Premier League,27
+1065,3901198,2023-03-11,xG_ag,,H,10260,Manchester United,Premier League,27
+1066,3901198,2023-03-11,xG_for,,A,8466,Southampton,Premier League,27
+1067,3901198,2023-03-11,xG_ag,,A,8466,Southampton,Premier League,27
+1068,3901199,2023-03-11,xG_for,,H,10261,Newcastle United,Premier League,27
+1069,3901199,2023-03-11,xG_ag,,H,10261,Newcastle United,Premier League,27
+1070,3901199,2023-03-11,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,27
+1071,3901199,2023-03-11,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,27
+1072,3901200,2023-03-11,xG_for,,H,8586,Tottenham Hotspur,Premier League,27
+1073,3901200,2023-03-11,xG_ag,,H,8586,Tottenham Hotspur,Premier League,27
+1074,3901200,2023-03-11,xG_for,,A,10203,Nottingham Forest,Premier League,27
+1075,3901200,2023-03-11,xG_ag,,A,10203,Nottingham Forest,Premier League,27
+1076,3901201,2023-03-11,xG_for,,H,8654,West Ham United,Premier League,27
+1077,3901201,2023-03-11,xG_ag,,H,8654,West Ham United,Premier League,27
+1078,3901201,2023-03-11,xG_for,,A,10252,Aston Villa,Premier League,27
+1079,3901201,2023-03-11,xG_ag,,A,10252,Aston Villa,Premier League,27
+1080,3901202,2023-03-18,xG_for,,H,9825,Arsenal,Premier League,28
+1081,3901202,2023-03-18,xG_ag,,H,9825,Arsenal,Premier League,28
+1082,3901202,2023-03-18,xG_for,,A,9826,Crystal Palace,Premier League,28
+1083,3901202,2023-03-18,xG_ag,,A,9826,Crystal Palace,Premier League,28
+1084,3901203,2023-03-18,xG_for,,H,10252,Aston Villa,Premier League,28
+1085,3901203,2023-03-18,xG_ag,,H,10252,Aston Villa,Premier League,28
+1086,3901203,2023-03-18,xG_for,,A,8678,AFC Bournemouth,Premier League,28
+1087,3901203,2023-03-18,xG_ag,,A,8678,AFC Bournemouth,Premier League,28
+1088,3901204,2023-03-18,xG_for,,H,9937,Brentford,Premier League,28
+1089,3901204,2023-03-18,xG_ag,,H,9937,Brentford,Premier League,28
+1090,3901204,2023-03-18,xG_for,,A,8197,Leicester City,Premier League,28
+1091,3901204,2023-03-18,xG_ag,,A,8197,Leicester City,Premier League,28
+1092,3901205,2023-03-18,xG_for,,H,10204,Brighton & Hove Albion,Premier League,28
+1093,3901205,2023-03-18,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,28
+1094,3901205,2023-03-18,xG_for,,A,10260,Manchester United,Premier League,28
+1095,3901205,2023-03-18,xG_ag,,A,10260,Manchester United,Premier League,28
+1096,3901206,2023-03-18,xG_for,,H,8455,Chelsea,Premier League,28
+1097,3901206,2023-03-18,xG_ag,,H,8455,Chelsea,Premier League,28
+1098,3901206,2023-03-18,xG_for,,A,8668,Everton,Premier League,28
+1099,3901206,2023-03-18,xG_ag,,A,8668,Everton,Premier League,28
+1100,3901207,2023-03-18,xG_for,,H,8650,Liverpool,Premier League,28
+1101,3901207,2023-03-18,xG_ag,,H,8650,Liverpool,Premier League,28
+1102,3901207,2023-03-18,xG_for,,A,9879,Fulham,Premier League,28
+1103,3901207,2023-03-18,xG_ag,,A,9879,Fulham,Premier League,28
+1104,3901208,2023-03-18,xG_for,,H,8456,Manchester City,Premier League,28
+1105,3901208,2023-03-18,xG_ag,,H,8456,Manchester City,Premier League,28
+1106,3901208,2023-03-18,xG_for,,A,8654,West Ham United,Premier League,28
+1107,3901208,2023-03-18,xG_ag,,A,8654,West Ham United,Premier League,28
+1108,3901209,2023-03-18,xG_for,,H,10203,Nottingham Forest,Premier League,28
+1109,3901209,2023-03-18,xG_ag,,H,10203,Nottingham Forest,Premier League,28
+1110,3901209,2023-03-18,xG_for,,A,10261,Newcastle United,Premier League,28
+1111,3901209,2023-03-18,xG_ag,,A,10261,Newcastle United,Premier League,28
+1112,3901210,2023-03-18,xG_for,,H,8466,Southampton,Premier League,28
+1113,3901210,2023-03-18,xG_ag,,H,8466,Southampton,Premier League,28
+1114,3901210,2023-03-18,xG_for,,A,8586,Tottenham Hotspur,Premier League,28
+1115,3901210,2023-03-18,xG_ag,,A,8586,Tottenham Hotspur,Premier League,28
+1116,3901211,2023-03-18,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,28
+1117,3901211,2023-03-18,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,28
+1118,3901211,2023-03-18,xG_for,,A,8463,Leeds United,Premier League,28
+1119,3901211,2023-03-18,xG_ag,,A,8463,Leeds United,Premier League,28
+1120,3901212,2023-04-01,xG_for,,H,9825,Arsenal,Premier League,29
+1121,3901212,2023-04-01,xG_ag,,H,9825,Arsenal,Premier League,29
+1122,3901212,2023-04-01,xG_for,,A,8463,Leeds United,Premier League,29
+1123,3901212,2023-04-01,xG_ag,,A,8463,Leeds United,Premier League,29
+1124,3901213,2023-04-01,xG_for,,H,8678,AFC Bournemouth,Premier League,29
+1125,3901213,2023-04-01,xG_ag,,H,8678,AFC Bournemouth,Premier League,29
+1126,3901213,2023-04-01,xG_for,,A,9879,Fulham,Premier League,29
+1127,3901213,2023-04-01,xG_ag,,A,9879,Fulham,Premier League,29
+1128,3901214,2023-04-01,xG_for,,H,10204,Brighton & Hove Albion,Premier League,29
+1129,3901214,2023-04-01,xG_ag,,H,10204,Brighton & Hove Albion,Premier League,29
+1130,3901214,2023-04-01,xG_for,,A,9937,Brentford,Premier League,29
+1131,3901214,2023-04-01,xG_ag,,A,9937,Brentford,Premier League,29
+1132,3901215,2023-04-01,xG_for,,H,8455,Chelsea,Premier League,29
+1133,3901215,2023-04-01,xG_ag,,H,8455,Chelsea,Premier League,29
+1134,3901215,2023-04-01,xG_for,,A,10252,Aston Villa,Premier League,29
+1135,3901215,2023-04-01,xG_ag,,A,10252,Aston Villa,Premier League,29
+1136,3901216,2023-04-01,xG_for,,H,9826,Crystal Palace,Premier League,29
+1137,3901216,2023-04-01,xG_ag,,H,9826,Crystal Palace,Premier League,29
+1138,3901216,2023-04-01,xG_for,,A,8197,Leicester City,Premier League,29
+1139,3901216,2023-04-01,xG_ag,,A,8197,Leicester City,Premier League,29
+1140,3901217,2023-04-01,xG_for,,H,8668,Everton,Premier League,29
+1141,3901217,2023-04-01,xG_ag,,H,8668,Everton,Premier League,29
+1142,3901217,2023-04-01,xG_for,,A,8586,Tottenham Hotspur,Premier League,29
+1143,3901217,2023-04-01,xG_ag,,A,8586,Tottenham Hotspur,Premier League,29
+1144,3901218,2023-04-01,xG_for,,H,8456,Manchester City,Premier League,29
+1145,3901218,2023-04-01,xG_ag,,H,8456,Manchester City,Premier League,29
+1146,3901218,2023-04-01,xG_for,,A,8650,Liverpool,Premier League,29
+1147,3901218,2023-04-01,xG_ag,,A,8650,Liverpool,Premier League,29
+1148,3901219,2023-04-01,xG_for,,H,10261,Newcastle United,Premier League,29
+1149,3901219,2023-04-01,xG_ag,,H,10261,Newcastle United,Premier League,29
+1150,3901219,2023-04-01,xG_for,,A,10260,Manchester United,Premier League,29
+1151,3901219,2023-04-01,xG_ag,,A,10260,Manchester United,Premier League,29
+1152,3901220,2023-04-01,xG_for,,H,10203,Nottingham Forest,Premier League,29
+1153,3901220,2023-04-01,xG_ag,,H,10203,Nottingham Forest,Premier League,29
+1154,3901220,2023-04-01,xG_for,,A,8602,Wolverhampton Wanderers,Premier League,29
+1155,3901220,2023-04-01,xG_ag,,A,8602,Wolverhampton Wanderers,Premier League,29
+1156,3901221,2023-04-01,xG_for,,H,8654,West Ham United,Premier League,29
+1157,3901221,2023-04-01,xG_ag,,H,8654,West Ham United,Premier League,29
+1158,3901221,2023-04-01,xG_for,,A,8466,Southampton,Premier League,29
+1159,3901221,2023-04-01,xG_ag,,A,8466,Southampton,Premier League,29
+1160,3901222,2023-04-08,xG_for,,H,10252,Aston Villa,Premier League,30
+1161,3901222,2023-04-08,xG_ag,,H,10252,Aston Villa,Premier League,30
+1162,3901222,2023-04-08,xG_for,,A,10203,Nottingham Forest,Premier League,30
+1163,3901222,2023-04-08,xG_ag,,A,10203,Nottingham Forest,Premier League,30
+1164,3901223,2023-04-08,xG_for,,H,9937,Brentford,Premier League,30
+1165,3901223,2023-04-08,xG_ag,,H,9937,Brentford,Premier League,30
+1166,3901223,2023-04-08,xG_for,,A,10261,Newcastle United,Premier League,30
+1167,3901223,2023-04-08,xG_ag,,A,10261,Newcastle United,Premier League,30
+1168,3901224,2023-04-08,xG_for,,H,9879,Fulham,Premier League,30
+1169,3901224,2023-04-08,xG_ag,,H,9879,Fulham,Premier League,30
+1170,3901224,2023-04-08,xG_for,,A,8654,West Ham United,Premier League,30
+1171,3901224,2023-04-08,xG_ag,,A,8654,West Ham United,Premier League,30
+1172,3901225,2023-04-08,xG_for,,H,8463,Leeds United,Premier League,30
+1173,3901225,2023-04-08,xG_ag,,H,8463,Leeds United,Premier League,30
+1174,3901225,2023-04-08,xG_for,,A,9826,Crystal Palace,Premier League,30
+1175,3901225,2023-04-08,xG_ag,,A,9826,Crystal Palace,Premier League,30
+1176,3901226,2023-04-08,xG_for,,H,8197,Leicester City,Premier League,30
+1177,3901226,2023-04-08,xG_ag,,H,8197,Leicester City,Premier League,30
+1178,3901226,2023-04-08,xG_for,,A,8678,AFC Bournemouth,Premier League,30
+1179,3901226,2023-04-08,xG_ag,,A,8678,AFC Bournemouth,Premier League,30
+1180,3901227,2023-04-08,xG_for,,H,8650,Liverpool,Premier League,30
+1181,3901227,2023-04-08,xG_ag,,H,8650,Liverpool,Premier League,30
+1182,3901227,2023-04-08,xG_for,,A,9825,Arsenal,Premier League,30
+1183,3901227,2023-04-08,xG_ag,,A,9825,Arsenal,Premier League,30
+1184,3901228,2023-04-08,xG_for,,H,10260,Manchester United,Premier League,30
+1185,3901228,2023-04-08,xG_ag,,H,10260,Manchester United,Premier League,30
+1186,3901228,2023-04-08,xG_for,,A,8668,Everton,Premier League,30
+1187,3901228,2023-04-08,xG_ag,,A,8668,Everton,Premier League,30
+1188,3901229,2023-04-08,xG_for,,H,8466,Southampton,Premier League,30
+1189,3901229,2023-04-08,xG_ag,,H,8466,Southampton,Premier League,30
+1190,3901229,2023-04-08,xG_for,,A,8456,Manchester City,Premier League,30
+1191,3901229,2023-04-08,xG_ag,,A,8456,Manchester City,Premier League,30
+1192,3901230,2023-04-08,xG_for,,H,8586,Tottenham Hotspur,Premier League,30
+1193,3901230,2023-04-08,xG_ag,,H,8586,Tottenham Hotspur,Premier League,30
+1194,3901230,2023-04-08,xG_for,,A,10204,Brighton & Hove Albion,Premier League,30
+1195,3901230,2023-04-08,xG_ag,,A,10204,Brighton & Hove Albion,Premier League,30
+1196,3901231,2023-04-08,xG_for,,H,8602,Wolverhampton Wanderers,Premier League,30
+1197,3901231,2023-04-08,xG_ag,,H,8602,Wolverhampton Wanderers,Premier League,30
+1198,3901231,2023-04-08,xG_for,,A,8455,Chelsea,Premier League,30
+1199,3901231,2023-04-08,xG_ag,,A,8455,Chelsea,Premier League,30
