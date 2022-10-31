@@ -1,0 +1,1522 @@
+,id,eventId,minute,teamId,playerId,playerName,matchId,x,y,endX,endY,expandedMinute,period,type,outcomeType,isTouch
+0,2466436577.0,2,0,167,,,1640761,0.0,0.0,,,0,FirstHalf,Start,Successful,False
+1,2466436569.0,2,0,32,,,1640761,0.0,0.0,,,0,FirstHalf,Start,Successful,False
+2,2466436637.0,3,0,32,123761.0,Bruno Fernandes,1640761,49.9,50.0,32.6,52.8,0,FirstHalf,Pass,Successful,True
+3,2466436649.0,4,0,32,340105.0,Lisandro Martínez,1640761,32.9,54.0,34.0,69.6,0,FirstHalf,Pass,Successful,True
+4,2466436679.0,5,0,32,345303.0,Tyrell Malacia,1640761,34.3,69.3,30.4,56.6,0,FirstHalf,Pass,Successful,True
+5,2466436747.0,6,0,32,340105.0,Lisandro Martínez,1640761,32.1,49.6,31.9,26.7,0,FirstHalf,Pass,Successful,True
+6,2466436813.0,7,0,32,93206.0,Raphaël Varane,1640761,35.1,27.0,29.3,51.8,0,FirstHalf,Pass,Successful,True
+7,2466436869.0,8,0,32,340105.0,Lisandro Martínez,1640761,29.1,57.2,79.5,100.0,0,FirstHalf,Pass,Unsuccessful,True
+8,2466437339.0,4,0,167,69778.0,Kyle Walker,1640761,29.1,0.0,5.4,28.9,0,FirstHalf,Pass,Successful,True
+9,2466437423.0,5,0,167,121774.0,Ederson,1640761,12.9,49.7,18.6,71.3,0,FirstHalf,Pass,Successful,True
+10,2466437469.0,6,0,167,122945.0,Nathan Aké,1640761,28.6,71.7,30.7,96.6,0,FirstHalf,Pass,Successful,True
+11,2466437557.0,7,0,167,128967.0,João Cancelo,1640761,28.3,95.1,6.9,58.2,0,FirstHalf,Pass,Successful,True
+12,2466437649.0,8,0,167,121774.0,Ederson,1640761,7.6,57.8,18.4,28.1,0,FirstHalf,Pass,Successful,True
+13,2466437723.0,9,0,167,297390.0,Manuel Akanji,1640761,22.9,24.4,44.7,42.8,0,FirstHalf,Pass,Successful,True
+14,2466437729.0,10,1,167,315227.0,Erling Haaland,1640761,39.4,35.4,,,1,FirstHalf,Foul,Successful,True
+15,2466437741.0,10,1,32,93206.0,Raphaël Varane,1640761,60.6,64.6,,,1,FirstHalf,Foul,Unsuccessful,False
+16,2466437923.0,11,1,167,73084.0,Kevin De Bruyne,1640761,46.4,33.7,36.9,29.5,1,FirstHalf,Pass,Successful,True
+17,2466438047.0,12,1,167,297390.0,Manuel Akanji,1640761,37.1,30.2,34.5,69.6,1,FirstHalf,Pass,Successful,True
+18,2466438067.0,13,1,167,122945.0,Nathan Aké,1640761,34.3,67.1,18.6,46.6,1,FirstHalf,Pass,Successful,True
+19,2466438159.0,14,1,167,121774.0,Ederson,1640761,18.6,51.6,24.2,76.2,1,FirstHalf,Pass,Successful,True
+20,2466438219.0,15,1,167,122945.0,Nathan Aké,1640761,32.5,78.0,36.4,98.0,1,FirstHalf,Pass,Successful,True
+21,2466438321.0,16,1,167,128967.0,João Cancelo,1640761,35.9,98.0,65.7,98.1,1,FirstHalf,Pass,Successful,True
+22,2466574279.0,862,1,167,113069.0,Jack Grealish,1640761,67.1,95.7,,,1,FirstHalf,TakeOn,Unsuccessful,True
+23,2466438329.0,17,1,167,113069.0,Jack Grealish,1640761,64.4,96.9,,,1,FirstHalf,Foul,Successful,True
+24,2466438355.0,11,1,32,353418.0,Diogo Dalot,1640761,35.6,3.1,,,1,FirstHalf,Foul,Unsuccessful,False
+25,2466438555.0,12,1,32,353418.0,Diogo Dalot,1640761,0.0,0.0,,,1,FirstHalf,Card,Successful,False
+26,2466438933.0,18,2,167,73084.0,Kevin De Bruyne,1640761,70.5,97.5,87.1,32.8,2,FirstHalf,Pass,Successful,True
+27,2466438965.0,19,2,167,122945.0,Nathan Aké,1640761,87.1,32.8,94.8,46.7,2,FirstHalf,Pass,Unsuccessful,True
+28,2466438969.0,13,2,32,79554.0,David de Gea,1640761,9.1,53.7,,,2,FirstHalf,KeeperPickup,Successful,False
+29,2466439059.0,14,2,32,79554.0,David de Gea,1640761,12.9,55.8,27.1,88.6,2,FirstHalf,Pass,Successful,True
+30,2466439211.0,15,2,32,345303.0,Tyrell Malacia,1640761,29.4,89.3,46.6,87.4,2,FirstHalf,Pass,Successful,True
+31,2466439311.0,16,2,32,300299.0,Marcus Rashford,1640761,45.7,62.9,63.0,14.3,2,FirstHalf,Pass,Successful,True
+32,2466439349.0,17,2,32,364315.0,Antony,1640761,63.3,9.2,48.0,12.9,2,FirstHalf,Pass,Successful,True
+33,2466439385.0,18,2,32,353418.0,Diogo Dalot,1640761,48.8,11.3,68.6,24.1,2,FirstHalf,Pass,Unsuccessful,True
+34,2466439399.0,20,2,167,122945.0,Nathan Aké,1640761,36.6,70.1,,,2,FirstHalf,BallRecovery,Successful,False
+35,2466439417.0,21,2,167,122945.0,Nathan Aké,1640761,36.5,70.1,39.2,65.4,2,FirstHalf,Pass,Successful,True
+36,2466439449.0,22,2,167,77464.0,Ilkay Gündogan,1640761,39.2,65.4,38.3,73.4,2,FirstHalf,Pass,Successful,True
+37,2466439475.0,23,2,167,122945.0,Nathan Aké,1640761,38.3,73.4,53.1,70.5,2,FirstHalf,Pass,Successful,True
+38,2466439539.0,24,2,167,315227.0,Erling Haaland,1640761,53.6,73.5,67.6,96.3,2,FirstHalf,Pass,Successful,True
+39,2466439575.0,25,2,167,113069.0,Jack Grealish,1640761,75.9,86.3,94.8,76.8,2,FirstHalf,Pass,Successful,True
+40,2466439627.0,26,2,167,136741.0,Bernardo Silva,1640761,94.8,76.8,96.0,40.0,2,FirstHalf,Pass,Successful,True
+41,2466439637.0,27,2,167,315227.0,Erling Haaland,1640761,95.9,40.0,,,2,FirstHalf,MissedShots,Successful,True
+42,2466439713.0,19,2,32,336915.0,Scott McTominay,1640761,3.5,47.9,9.4,56.6,2,FirstHalf,Clearance,Successful,True
+43,2466439673.0,28,2,167,73084.0,Kevin De Bruyne,1640761,90.6,44.7,,,2,FirstHalf,SavedShot,Successful,True
+44,2466439717.0,20,2,32,79554.0,David de Gea,1640761,1.4,52.2,,,2,FirstHalf,Save,Successful,True
+45,2466439703.0,29,2,167,136741.0,Bernardo Silva,1640761,92.8,52.7,,,2,FirstHalf,SavedShot,Successful,True
+46,2466439769.0,21,2,32,336915.0,Scott McTominay,1640761,7.9,46.6,,,2,FirstHalf,Save,Successful,True
+47,2466439905.0,30,3,167,113069.0,Jack Grealish,1640761,78.1,89.7,73.0,74.1,3,FirstHalf,Pass,Successful,True
+48,2466439937.0,31,3,167,77464.0,Ilkay Gündogan,1640761,72.8,79.2,73.2,93.3,3,FirstHalf,Pass,Successful,True
+49,2466440003.0,22,3,32,364315.0,Antony,1640761,23.1,6.2,,,3,FirstHalf,Challenge,Unsuccessful,False
+50,2466439989.0,32,3,167,113069.0,Jack Grealish,1640761,76.9,93.8,,,3,FirstHalf,TakeOn,Successful,True
+51,2466440031.0,33,3,167,113069.0,Jack Grealish,1640761,87.6,90.9,90.6,59.6,3,FirstHalf,Pass,Unsuccessful,True
+52,2466440055.0,23,3,32,93206.0,Raphaël Varane,1640761,11.5,36.3,13.4,27.7,3,FirstHalf,Pass,Successful,True
+53,2466440059.0,24,3,32,336915.0,Scott McTominay,1640761,13.6,28.8,,,3,FirstHalf,BallRecovery,Successful,False
+54,2466440167.0,25,3,32,336915.0,Scott McTominay,1640761,13.6,28.8,46.9,57.6,3,FirstHalf,Pass,Unsuccessful,True
+55,2466440219.0,34,3,167,297390.0,Manuel Akanji,1640761,53.6,42.2,52.8,21.2,3,FirstHalf,Pass,Successful,True
+56,2466440227.0,35,3,167,69778.0,Kyle Walker,1640761,41.2,23.8,,,3,FirstHalf,BallRecovery,Successful,False
+57,2466440311.0,36,3,167,69778.0,Kyle Walker,1640761,40.1,24.4,18.0,49.4,3,FirstHalf,Pass,Successful,True
+58,2466440359.0,37,3,167,121774.0,Ederson,1640761,19.1,51.2,30.2,74.1,3,FirstHalf,Pass,Successful,True
+59,2466440577.0,38,3,167,122945.0,Nathan Aké,1640761,47.6,72.5,76.3,8.3,3,FirstHalf,Pass,Successful,True
+60,2466440595.0,39,3,167,331254.0,Phil Foden,1640761,85.2,24.1,98.6,28.0,3,FirstHalf,Pass,Successful,True
+61,2466440615.0,40,3,167,73084.0,Kevin De Bruyne,1640761,98.6,28.1,97.6,31.3,3,FirstHalf,Pass,Unsuccessful,True
+62,2466440611.0,26,3,32,345303.0,Tyrell Malacia,1640761,9.4,75.9,,,3,FirstHalf,BallTouch,Successful,True
+63,2466440687.0,27,3,32,336915.0,Scott McTominay,1640761,12.6,49.3,22.9,83.0,3,FirstHalf,Clearance,Successful,True
+64,2466440759.0,41,3,167,69778.0,Kyle Walker,1640761,71.7,17.8,83.9,11.3,3,FirstHalf,Pass,Successful,True
+65,2466440841.0,42,3,167,331254.0,Phil Foden,1640761,79.7,8.2,68.8,11.2,3,FirstHalf,Pass,Successful,True
+66,2466440917.0,43,3,167,69778.0,Kyle Walker,1640761,64.3,22.6,51.6,57.0,3,FirstHalf,Pass,Successful,True
+67,2466441031.0,44,3,167,122945.0,Nathan Aké,1640761,51.8,56.4,47.3,32.8,3,FirstHalf,Pass,Successful,True
+68,2466441065.0,45,3,167,297390.0,Manuel Akanji,1640761,54.1,31.7,60.9,32.0,3,FirstHalf,Pass,Successful,True
+69,2466441133.0,46,3,167,73084.0,Kevin De Bruyne,1640761,60.9,32.0,47.1,59.6,3,FirstHalf,Pass,Successful,True
+70,2466441197.0,47,4,167,122945.0,Nathan Aké,1640761,55.8,70.1,66.8,95.7,4,FirstHalf,Pass,Successful,True
+71,2466441239.0,48,4,167,128967.0,João Cancelo,1640761,67.9,94.2,46.9,72.5,4,FirstHalf,Pass,Successful,True
+72,2466441325.0,49,4,167,122945.0,Nathan Aké,1640761,46.9,71.9,44.7,36.1,4,FirstHalf,Pass,Successful,True
+73,2466441385.0,50,4,167,297390.0,Manuel Akanji,1640761,52.6,31.9,68.3,4.4,4,FirstHalf,Pass,Successful,True
+74,2466441431.0,51,4,167,331254.0,Phil Foden,1640761,71.2,7.3,61.2,10.1,4,FirstHalf,Pass,Successful,True
+75,2466441471.0,52,4,167,69778.0,Kyle Walker,1640761,59.3,10.7,43.5,27.1,4,FirstHalf,Pass,Successful,True
+76,2466441551.0,53,4,167,297390.0,Manuel Akanji,1640761,43.9,27.2,46.1,59.1,4,FirstHalf,Pass,Successful,True
+77,2466441615.0,54,4,167,122945.0,Nathan Aké,1640761,56.4,64.1,57.1,86.3,4,FirstHalf,Pass,Successful,True
+78,2466441657.0,55,4,167,128967.0,João Cancelo,1640761,57.1,86.3,66.9,97.1,4,FirstHalf,Pass,Successful,True
+79,2466441733.0,56,4,167,113069.0,Jack Grealish,1640761,65.4,95.4,46.2,92.4,4,FirstHalf,Pass,Successful,True
+80,2466441837.0,57,4,167,128967.0,João Cancelo,1640761,43.5,92.0,21.0,45.7,4,FirstHalf,Pass,Successful,True
+81,2466441891.0,58,4,167,121774.0,Ederson,1640761,24.8,47.2,26.4,32.5,4,FirstHalf,Pass,Successful,True
+82,2466441977.0,59,4,167,297390.0,Manuel Akanji,1640761,27.7,32.3,28.7,76.5,4,FirstHalf,Pass,Successful,True
+83,2466442021.0,60,4,167,122945.0,Nathan Aké,1640761,30.1,78.2,43.7,97.1,4,FirstHalf,Pass,Successful,True
+84,2466442053.0,61,4,167,128967.0,João Cancelo,1640761,42.9,94.5,40.9,83.0,4,FirstHalf,Pass,Successful,True
+85,2466442103.0,62,4,167,136741.0,Bernardo Silva,1640761,39.6,84.5,29.9,87.3,4,FirstHalf,Pass,Successful,True
+86,2466442177.0,63,4,167,122945.0,Nathan Aké,1640761,28.0,91.5,8.6,57.9,4,FirstHalf,Pass,Successful,True
+87,2466442241.0,64,4,167,121774.0,Ederson,1640761,8.0,57.5,25.6,77.3,4,FirstHalf,Pass,Successful,True
+88,2466442261.0,65,4,167,77464.0,Ilkay Gündogan,1640761,25.6,78.2,34.9,93.5,4,FirstHalf,Pass,Successful,True
+89,2466442305.0,66,4,167,128967.0,João Cancelo,1640761,35.8,93.2,35.5,81.6,4,FirstHalf,Pass,Successful,True
+90,2466442385.0,67,4,167,77464.0,Ilkay Gündogan,1640761,40.4,83.0,54.3,97.5,4,FirstHalf,Pass,Successful,True
+91,2466442379.0,28,5,32,364315.0,Antony,1640761,45.0,5.5,,,5,FirstHalf,Challenge,Unsuccessful,False
+92,2466442425.0,68,5,167,128967.0,João Cancelo,1640761,55.0,94.5,,,5,FirstHalf,TakeOn,Successful,True
+93,2466442481.0,69,5,167,128967.0,João Cancelo,1640761,53.8,89.0,81.6,75.6,5,FirstHalf,Pass,Unsuccessful,True
+94,2466442507.0,29,5,32,93206.0,Raphaël Varane,1640761,22.5,25.6,28.9,16.5,5,FirstHalf,Pass,Successful,True
+95,2466442525.0,30,5,32,353418.0,Diogo Dalot,1640761,28.9,16.5,,,5,FirstHalf,BallRecovery,Successful,False
+96,2466442591.0,31,5,32,353418.0,Diogo Dalot,1640761,28.9,16.5,42.3,24.0,5,FirstHalf,Pass,Successful,True
+97,2466442631.0,32,5,32,123761.0,Bruno Fernandes,1640761,45.0,10.1,70.9,10.6,5,FirstHalf,Pass,Unsuccessful,True
+98,2466442655.0,70,5,167,122945.0,Nathan Aké,1640761,28.9,84.0,,,5,FirstHalf,BallRecovery,Successful,False
+99,2466442747.0,71,5,167,122945.0,Nathan Aké,1640761,29.5,84.2,44.6,98.4,5,FirstHalf,Pass,Successful,True
+100,2466442815.0,72,5,167,128967.0,João Cancelo,1640761,43.4,96.9,31.9,80.6,5,FirstHalf,Pass,Successful,True
+101,2466442875.0,73,5,167,122945.0,Nathan Aké,1640761,35.2,79.4,46.5,75.9,5,FirstHalf,Pass,Successful,True
+102,2466443013.0,74,5,167,73084.0,Kevin De Bruyne,1640761,57.5,85.5,83.9,91.4,5,FirstHalf,Pass,Successful,True
+103,2466443041.0,75,5,167,136741.0,Bernardo Silva,1640761,94.3,78.0,81.6,76.1,5,FirstHalf,Pass,Successful,True
+104,2466443055.0,76,5,167,113069.0,Jack Grealish,1640761,87.5,74.9,86.6,62.1,5,FirstHalf,Pass,Successful,True
+105,2466443105.0,77,5,167,315227.0,Erling Haaland,1640761,86.6,62.1,100.0,68.6,5,FirstHalf,Pass,Unsuccessful,True
+106,2466778517.0,763,6,32,340105.0,Lisandro Martínez,1640761,4.8,61.7,2.8,51.6,6,FirstHalf,Pass,Successful,True
+107,2466443669.0,34,6,32,79554.0,David de Gea,1640761,7.0,47.2,68.2,29.1,6,FirstHalf,Pass,Unsuccessful,True
+108,2466443717.0,79,6,167,122945.0,Nathan Aké,1640761,36.3,71.3,52.0,57.6,6,FirstHalf,Pass,Unsuccessful,True
+109,2466443773.0,35,6,32,69344.0,Christian Eriksen,1640761,49.9,43.9,45.9,33.9,6,FirstHalf,Pass,Successful,True
+110,2466443811.0,36,6,32,336915.0,Scott McTominay,1640761,44.1,30.7,32.2,39.2,6,FirstHalf,Pass,Successful,True
+111,2466443857.0,37,6,32,93206.0,Raphaël Varane,1640761,31.9,40.1,30.2,53.3,6,FirstHalf,Pass,Successful,True
+112,2466443917.0,38,6,32,340105.0,Lisandro Martínez,1640761,30.8,58.2,33.4,86.9,6,FirstHalf,Pass,Successful,True
+113,2466443951.0,39,6,32,345303.0,Tyrell Malacia,1640761,33.7,85.4,29.7,67.8,6,FirstHalf,Pass,Successful,True
+114,2466443985.0,40,6,32,340105.0,Lisandro Martínez,1640761,30.1,69.7,41.4,91.5,6,FirstHalf,Pass,Successful,True
+115,2466444015.0,41,6,32,345303.0,Tyrell Malacia,1640761,41.4,91.5,43.9,82.9,6,FirstHalf,Pass,Successful,True
+116,2466444111.0,42,6,32,69344.0,Christian Eriksen,1640761,43.2,83.9,80.4,69.9,6,FirstHalf,Pass,Unsuccessful,True
+117,2466444127.0,80,6,167,121774.0,Ederson,1640761,18.6,28.0,,,6,FirstHalf,BallRecovery,Successful,False
+118,2466444231.0,81,6,167,121774.0,Ederson,1640761,19.3,27.8,31.7,64.8,6,FirstHalf,Pass,Successful,True
+119,2466444383.0,82,6,167,122945.0,Nathan Aké,1640761,47.3,65.3,44.2,97.5,6,FirstHalf,Pass,Successful,True
+120,2466444473.0,83,6,167,128967.0,João Cancelo,1640761,44.2,97.5,60.5,97.4,6,FirstHalf,Pass,Successful,True
+121,2466444521.0,84,6,167,113069.0,Jack Grealish,1640761,48.5,77.7,47.1,41.0,6,FirstHalf,Pass,Unsuccessful,True
+122,2466444493.0,43,6,32,346300.0,Jadon Sancho,1640761,53.6,52.4,,,6,FirstHalf,BallRecovery,Successful,False
+123,2466444543.0,44,6,32,346300.0,Jadon Sancho,1640761,53.8,55.8,,,6,FirstHalf,TakeOn,Unsuccessful,True
+124,2466444557.0,85,6,167,297390.0,Manuel Akanji,1640761,46.2,44.2,,,6,FirstHalf,Tackle,Successful,True
+125,2466444567.0,86,6,167,297390.0,Manuel Akanji,1640761,48.6,40.9,,,6,FirstHalf,BallRecovery,Successful,False
+126,2466444609.0,87,6,167,297390.0,Manuel Akanji,1640761,55.0,42.2,61.2,16.7,6,FirstHalf,Pass,Successful,True
+127,2466444697.0,88,6,167,73084.0,Kevin De Bruyne,1640761,63.1,18.8,72.1,36.1,6,FirstHalf,Pass,Successful,True
+128,2466584203.0,753,7,32,69344.0,Christian Eriksen,1640761,28.9,71.2,,,7,FirstHalf,Challenge,Unsuccessful,False
+129,2466584369.0,863,7,167,297390.0,Manuel Akanji,1640761,71.1,28.8,,,7,FirstHalf,TakeOn,Successful,True
+130,2466444821.0,89,7,167,297390.0,Manuel Akanji,1640761,71.9,31.3,76.7,11.9,7,FirstHalf,Pass,Successful,True
+131,2466444841.0,90,7,167,331254.0,Phil Foden,1640761,76.5,33.2,74.1,52.7,7,FirstHalf,Pass,Successful,True
+132,2466444863.0,91,7,167,113069.0,Jack Grealish,1640761,74.1,52.7,69.1,51.0,7,FirstHalf,Pass,Successful,True
+133,2466444941.0,92,7,167,77464.0,Ilkay Gündogan,1640761,69.1,51.0,72.1,78.0,7,FirstHalf,Pass,Successful,True
+134,2466444965.0,93,7,167,128967.0,João Cancelo,1640761,79.2,73.5,92.2,82.5,7,FirstHalf,Pass,Successful,True
+135,2466445007.0,94,7,167,136741.0,Bernardo Silva,1640761,92.2,82.5,91.2,57.5,7,FirstHalf,Pass,Successful,True
+136,2466445047.0,95,7,167,331254.0,Phil Foden,1640761,91.2,57.5,,,7,FirstHalf,Goal,Successful,True
+137,2466446369.0,45,8,32,123761.0,Bruno Fernandes,1640761,50.4,50.6,37.8,59.4,8,FirstHalf,Pass,Successful,True
+138,2466446437.0,46,8,32,340105.0,Lisandro Martínez,1640761,36.7,56.3,34.2,38.2,8,FirstHalf,Pass,Successful,True
+139,2466446481.0,47,8,32,93206.0,Raphaël Varane,1640761,37.6,30.9,28.3,10.7,8,FirstHalf,Pass,Successful,True
+140,2466446563.0,48,8,32,353418.0,Diogo Dalot,1640761,28.9,12.8,26.2,50.4,8,FirstHalf,Pass,Successful,True
+141,2466446629.0,49,8,32,340105.0,Lisandro Martínez,1640761,25.0,49.0,8.8,40.0,8,FirstHalf,Pass,Successful,True
+142,2466446681.0,50,8,32,79554.0,David de Gea,1640761,11.0,38.0,52.5,86.8,8,FirstHalf,Pass,Unsuccessful,True
+143,2466446709.0,96,8,167,69778.0,Kyle Walker,1640761,48.0,17.9,51.6,29.6,8,FirstHalf,Pass,Successful,True
+144,2466446719.0,97,8,167,77464.0,Ilkay Gündogan,1640761,51.6,29.6,,,8,FirstHalf,BallRecovery,Successful,False
+145,2466446787.0,98,8,167,77464.0,Ilkay Gündogan,1640761,45.5,35.3,37.3,60.8,8,FirstHalf,Pass,Successful,True
+146,2466446861.0,99,8,167,122945.0,Nathan Aké,1640761,37.3,60.8,35.9,32.9,8,FirstHalf,Pass,Successful,True
+147,2466446925.0,100,8,167,297390.0,Manuel Akanji,1640761,35.9,30.2,39.1,10.6,8,FirstHalf,Pass,Successful,True
+148,2466446971.0,101,8,167,69778.0,Kyle Walker,1640761,39.1,9.2,54.5,4.3,8,FirstHalf,Pass,Successful,True
+149,2466447003.0,102,8,167,331254.0,Phil Foden,1640761,47.2,5.3,33.5,4.1,8,FirstHalf,Pass,Successful,True
+150,2466447043.0,103,8,167,69778.0,Kyle Walker,1640761,31.4,5.9,22.0,17.6,8,FirstHalf,Pass,Successful,True
+151,2466447105.0,104,8,167,297390.0,Manuel Akanji,1640761,21.8,18.2,10.1,50.3,8,FirstHalf,Pass,Successful,True
+152,2466447225.0,105,9,167,121774.0,Ederson,1640761,12.1,55.4,33.1,97.5,9,FirstHalf,Pass,Successful,True
+153,2466447339.0,106,9,167,128967.0,João Cancelo,1640761,34.1,97.4,33.0,77.6,9,FirstHalf,Pass,Successful,True
+154,2466447397.0,107,9,167,122945.0,Nathan Aké,1640761,34.0,70.1,35.5,27.8,9,FirstHalf,Pass,Successful,True
+155,2466447425.0,108,9,167,297390.0,Manuel Akanji,1640761,40.0,27.8,54.3,41.6,9,FirstHalf,Pass,Successful,True
+156,2466447465.0,109,9,167,315227.0,Erling Haaland,1640761,54.3,41.6,43.7,31.9,9,FirstHalf,Pass,Unsuccessful,True
+157,2466447477.0,51,9,32,123761.0,Bruno Fernandes,1640761,61.5,65.4,,,9,FirstHalf,BallRecovery,Successful,False
+158,2466447553.0,52,9,32,123761.0,Bruno Fernandes,1640761,63.2,66.1,87.6,66.3,9,FirstHalf,Pass,Unsuccessful,True
+159,2466447587.0,110,9,167,297390.0,Manuel Akanji,1640761,14.1,28.1,1.7,39.7,9,FirstHalf,Pass,Successful,True
+160,2466447593.0,111,9,167,121774.0,Ederson,1640761,1.7,39.7,,,9,FirstHalf,BallRecovery,Successful,False
+161,2466447787.0,112,9,167,121774.0,Ederson,1640761,3.6,50.3,43.4,99.3,9,FirstHalf,Pass,Successful,True
+162,2466447803.0,113,9,167,113069.0,Jack Grealish,1640761,43.4,99.3,54.2,97.1,9,FirstHalf,Pass,Unsuccessful,True
+163,2466447811.0,53,9,32,353418.0,Diogo Dalot,1640761,44.2,7.0,,,9,FirstHalf,BallRecovery,Successful,False
+164,2466447885.0,54,9,32,353418.0,Diogo Dalot,1640761,44.2,7.0,62.6,17.1,9,FirstHalf,Pass,Successful,True
+165,2466447893.0,55,9,32,364315.0,Antony,1640761,66.8,6.3,,,9,FirstHalf,TakeOn,Unsuccessful,True
+166,2466447909.0,114,9,167,128967.0,João Cancelo,1640761,33.2,93.7,,,9,FirstHalf,Tackle,Unsuccessful,True
+167,2466447917.0,56,9,32,364315.0,Antony,1640761,68.9,5.5,,,9,FirstHalf,BallTouch,Successful,True
+168,2466448341.0,116,10,167,128967.0,João Cancelo,1640761,31.8,100.0,42.8,86.0,10,FirstHalf,Pass,Successful,True
+169,2466448369.0,117,10,167,315227.0,Erling Haaland,1640761,42.8,86.0,34.1,66.2,10,FirstHalf,Pass,Unsuccessful,True
+170,2466448371.0,58,10,32,346300.0,Jadon Sancho,1640761,73.5,34.8,,,10,FirstHalf,BallRecovery,Successful,False
+171,2466448417.0,59,10,32,346300.0,Jadon Sancho,1640761,73.5,34.8,75.2,33.6,10,FirstHalf,Pass,Unsuccessful,True
+172,2466448423.0,118,10,167,297390.0,Manuel Akanji,1640761,29.6,68.7,,,10,FirstHalf,BlockedPass,Successful,True
+173,2466448463.0,119,10,167,315227.0,Erling Haaland,1640761,30.8,75.3,,,10,FirstHalf,Aerial,Successful,False
+174,2466448453.0,60,10,32,364315.0,Antony,1640761,69.2,24.7,,,10,FirstHalf,Aerial,Unsuccessful,False
+175,2466448495.0,120,10,167,315227.0,Erling Haaland,1640761,34.1,77.7,35.8,88.4,10,FirstHalf,Pass,Successful,True
+176,2466448501.0,121,10,167,136741.0,Bernardo Silva,1640761,35.8,88.4,,,10,FirstHalf,BallRecovery,Successful,False
+177,2466448555.0,122,10,167,136741.0,Bernardo Silva,1640761,33.0,92.3,25.3,94.1,10,FirstHalf,Pass,Successful,True
+178,2466448565.0,123,10,167,128967.0,João Cancelo,1640761,25.3,94.1,28.3,94.1,10,FirstHalf,Pass,Unsuccessful,True
+179,2466448573.0,61,10,32,364315.0,Antony,1640761,78.6,7.9,,,10,FirstHalf,BallTouch,Successful,True
+180,2466448593.0,62,10,32,123761.0,Bruno Fernandes,1640761,76.3,18.8,,,10,FirstHalf,BallRecovery,Successful,False
+181,2466448655.0,63,10,32,123761.0,Bruno Fernandes,1640761,86.8,31.8,82.3,44.9,10,FirstHalf,Pass,Successful,True
+182,2466448661.0,64,10,32,300299.0,Marcus Rashford,1640761,84.1,44.5,,,10,FirstHalf,BallTouch,Unsuccessful,True
+183,2466448715.0,124,10,167,77464.0,Ilkay Gündogan,1640761,13.9,57.2,18.1,23.0,10,FirstHalf,Clearance,Successful,True
+184,2466448721.0,125,10,167,331254.0,Phil Foden,1640761,15.6,22.7,,,10,FirstHalf,BallRecovery,Successful,False
+185,2466448789.0,126,10,167,331254.0,Phil Foden,1640761,21.7,35.6,23.5,47.8,10,FirstHalf,Pass,Successful,True
+186,2466448881.0,127,10,167,136741.0,Bernardo Silva,1640761,23.5,47.8,19.2,18.8,10,FirstHalf,Pass,Successful,True
+187,2466448907.0,128,10,167,69778.0,Kyle Walker,1640761,30.6,2.9,30.9,19.3,10,FirstHalf,Pass,Successful,True
+188,2466448953.0,129,10,167,331254.0,Phil Foden,1640761,29.0,19.3,17.7,20.0,10,FirstHalf,Pass,Successful,True
+189,2466449075.0,130,10,167,297390.0,Manuel Akanji,1640761,17.7,20.0,19.3,36.4,10,FirstHalf,Pass,Successful,True
+190,2466449153.0,131,10,167,136741.0,Bernardo Silva,1640761,35.6,71.7,45.0,98.1,10,FirstHalf,Pass,Successful,True
+191,2466449193.0,132,10,167,113069.0,Jack Grealish,1640761,57.5,90.0,56.8,74.4,10,FirstHalf,Pass,Successful,True
+192,2466449239.0,133,10,167,136741.0,Bernardo Silva,1640761,56.8,74.4,73.9,78.6,10,FirstHalf,Pass,Unsuccessful,True
+193,2466449271.0,65,10,32,93206.0,Raphaël Varane,1640761,25.5,14.3,25.3,0.0,10,FirstHalf,Clearance,Successful,True
+194,2466449545.0,135,11,167,128967.0,João Cancelo,1640761,78.0,100.0,89.4,93.9,11,FirstHalf,Pass,Successful,True
+195,2466449557.0,136,11,167,113069.0,Jack Grealish,1640761,85.2,91.3,,,11,FirstHalf,Foul,Successful,True
+196,2466449597.0,67,11,32,353418.0,Diogo Dalot,1640761,14.8,8.7,,,11,FirstHalf,Foul,Unsuccessful,False
+197,2466450307.0,137,11,167,331254.0,Phil Foden,1640761,84.8,92.9,95.4,46.1,11,FirstHalf,Pass,Unsuccessful,True
+198,2466450341.0,68,11,32,353418.0,Diogo Dalot,1640761,7.9,55.2,,,11,FirstHalf,Aerial,Successful,False
+199,2466450319.0,138,11,167,122945.0,Nathan Aké,1640761,92.1,44.8,,,11,FirstHalf,Aerial,Unsuccessful,False
+200,2466450355.0,69,11,32,353418.0,Diogo Dalot,1640761,11.0,56.4,,,11,FirstHalf,BallTouch,Successful,True
+201,2466450391.0,70,11,32,69344.0,Christian Eriksen,1640761,11.1,53.4,14.5,100.0,11,FirstHalf,Clearance,Successful,True
+202,2466450907.0,140,12,167,69778.0,Kyle Walker,1640761,75.9,0.0,77.8,18.7,12,FirstHalf,Pass,Successful,True
+203,2466450913.0,141,12,167,331254.0,Phil Foden,1640761,77.8,18.7,,,12,FirstHalf,BallTouch,Unsuccessful,True
+204,2466450935.0,72,12,32,123761.0,Bruno Fernandes,1640761,32.3,73.8,,,12,FirstHalf,BallRecovery,Successful,False
+205,2466451065.0,73,12,32,123761.0,Bruno Fernandes,1640761,36.9,76.7,76.2,89.6,12,FirstHalf,Pass,Unsuccessful,True
+206,2466451083.0,142,12,167,121774.0,Ederson,1640761,0.0,0.0,,,12,FirstHalf,KeeperSweeper,Successful,False
+207,2466451093.0,143,12,167,121774.0,Ederson,1640761,20.5,9.1,33.6,0.0,12,FirstHalf,Clearance,Successful,True
+208,2466451227.0,75,12,32,123761.0,Bruno Fernandes,1640761,68.8,100.0,68.1,90.0,12,FirstHalf,Pass,Successful,True
+209,2466451281.0,76,12,32,69344.0,Christian Eriksen,1640761,62.8,89.6,40.0,79.9,12,FirstHalf,Pass,Successful,True
+210,2466451379.0,77,12,32,340105.0,Lisandro Martínez,1640761,39.4,72.1,34.9,40.0,12,FirstHalf,Pass,Successful,True
+211,2466451489.0,78,12,32,93206.0,Raphaël Varane,1640761,41.8,25.0,59.6,6.7,12,FirstHalf,Pass,Successful,True
+212,2466451541.0,79,12,32,353418.0,Diogo Dalot,1640761,62.8,30.0,45.5,34.3,12,FirstHalf,Pass,Successful,True
+213,2466451615.0,80,12,32,336915.0,Scott McTominay,1640761,46.5,35.8,47.7,71.2,12,FirstHalf,Pass,Successful,True
+214,2466451659.0,81,12,32,69344.0,Christian Eriksen,1640761,52.7,73.9,73.9,94.7,12,FirstHalf,Pass,Successful,True
+215,2466451725.0,82,12,32,345303.0,Tyrell Malacia,1640761,73.9,94.7,69.7,88.6,12,FirstHalf,Pass,Successful,True
+216,2466451739.0,83,12,32,346300.0,Jadon Sancho,1640761,69.7,88.6,67.6,90.5,12,FirstHalf,Pass,Unsuccessful,True
+217,2466451703.0,145,12,167,136741.0,Bernardo Silva,1640761,35.8,8.5,,,12,FirstHalf,BlockedPass,Successful,True
+218,2466451955.0,85,13,32,69344.0,Christian Eriksen,1640761,65.7,100.0,36.9,80.2,13,FirstHalf,Pass,Successful,True
+219,2466452025.0,86,13,32,340105.0,Lisandro Martínez,1640761,37.8,74.1,34.8,31.5,13,FirstHalf,Pass,Successful,True
+220,2466452061.0,87,13,32,93206.0,Raphaël Varane,1640761,33.0,31.5,29.4,58.8,13,FirstHalf,Pass,Successful,True
+221,2466452125.0,88,13,32,340105.0,Lisandro Martínez,1640761,29.9,63.0,33.5,87.5,13,FirstHalf,Pass,Successful,True
+222,2466452171.0,89,13,32,69344.0,Christian Eriksen,1640761,35.9,86.0,28.0,71.2,13,FirstHalf,Pass,Successful,True
+223,2466452281.0,90,13,32,340105.0,Lisandro Martínez,1640761,29.7,67.5,30.4,25.6,13,FirstHalf,Pass,Successful,True
+224,2466452347.0,91,13,32,93206.0,Raphaël Varane,1640761,38.3,20.9,31.3,51.3,13,FirstHalf,Pass,Successful,True
+225,2466452393.0,92,13,32,340105.0,Lisandro Martínez,1640761,33.4,56.3,34.5,85.9,13,FirstHalf,Pass,Successful,True
+226,2466452399.0,93,13,32,345303.0,Tyrell Malacia,1640761,34.7,87.7,,,13,FirstHalf,BallTouch,Unsuccessful,True
+227,2466452887.0,148,13,167,69778.0,Kyle Walker,1640761,67.1,0.0,36.2,4.0,13,FirstHalf,Pass,Successful,True
+228,2466452977.0,149,13,167,297390.0,Manuel Akanji,1640761,35.6,4.4,22.4,42.5,13,FirstHalf,Pass,Successful,True
+229,2466453039.0,150,13,167,121774.0,Ederson,1640761,25.0,50.9,42.1,95.3,13,FirstHalf,Pass,Successful,True
+230,2466453163.0,151,14,167,128967.0,João Cancelo,1640761,63.2,90.8,53.9,86.0,14,FirstHalf,Pass,Successful,True
+231,2466453231.0,152,14,167,136741.0,Bernardo Silva,1640761,56.3,87.2,71.3,98.3,14,FirstHalf,Pass,Successful,True
+232,2466453283.0,153,14,167,113069.0,Jack Grealish,1640761,73.2,95.0,73.4,85.2,14,FirstHalf,Pass,Successful,True
+233,2466453287.0,154,14,167,128967.0,João Cancelo,1640761,72.8,84.6,,,14,FirstHalf,BallTouch,Unsuccessful,True
+234,2466453305.0,95,14,32,336915.0,Scott McTominay,1640761,30.0,11.3,,,14,FirstHalf,BallRecovery,Successful,False
+235,2466453325.0,96,14,32,336915.0,Scott McTominay,1640761,30.6,10.1,28.6,5.5,14,FirstHalf,Pass,Successful,True
+236,2466453405.0,97,14,32,364315.0,Antony,1640761,28.6,5.5,25.2,11.9,14,FirstHalf,Pass,Successful,True
+237,2466453465.0,98,14,32,353418.0,Diogo Dalot,1640761,39.3,25.3,47.7,20.4,14,FirstHalf,Pass,Successful,True
+238,2466453475.0,99,14,32,123761.0,Bruno Fernandes,1640761,47.7,20.4,45.6,14.4,14,FirstHalf,Pass,Unsuccessful,True
+239,2466453461.0,155,14,167,128967.0,João Cancelo,1640761,58.8,83.9,,,14,FirstHalf,BallRecovery,Successful,False
+240,2466453509.0,156,14,167,128967.0,João Cancelo,1640761,60.7,80.7,70.1,88.4,14,FirstHalf,Pass,Unsuccessful,True
+241,2466453543.0,100,14,32,336915.0,Scott McTominay,1640761,38.9,7.7,,,14,FirstHalf,BallTouch,Successful,True
+242,2466453565.0,101,14,32,353418.0,Diogo Dalot,1640761,37.7,7.9,,,14,FirstHalf,BallRecovery,Successful,False
+243,2466453663.0,102,14,32,353418.0,Diogo Dalot,1640761,37.7,7.9,53.9,8.3,14,FirstHalf,Pass,Successful,True
+244,2466453719.0,103,14,32,123761.0,Bruno Fernandes,1640761,54.3,11.0,84.8,72.3,14,FirstHalf,Pass,Successful,True
+245,2466453827.0,104,14,32,346300.0,Jadon Sancho,1640761,94.5,73.2,87.5,65.2,14,FirstHalf,Pass,Successful,True
+246,2466453833.0,105,14,32,69344.0,Christian Eriksen,1640761,85.9,61.8,,,14,FirstHalf,SavedShot,Successful,True
+247,2466453851.0,159,14,167,121774.0,Ederson,1640761,1.3,46.7,,,14,FirstHalf,Save,Successful,True
+248,2466453843.0,158,14,167,121774.0,Ederson,1640761,1.3,46.7,,,14,FirstHalf,KeeperPickup,Successful,False
+249,2466454239.0,160,14,167,121774.0,Ederson,1640761,9.8,47.8,12.1,28.7,14,FirstHalf,Pass,Successful,True
+250,2466779259.0,874,14,167,297390.0,Manuel Akanji,1640761,11.9,28.0,24.5,46.7,14,FirstHalf,Pass,Successful,True
+251,2466454275.0,161,14,167,77464.0,Ilkay Gündogan,1640761,25.6,52.2,9.6,74.1,14,FirstHalf,Pass,Successful,True
+252,2466454381.0,162,14,167,122945.0,Nathan Aké,1640761,9.6,74.1,7.3,46.9,14,FirstHalf,Pass,Successful,True
+253,2466454527.0,163,15,167,121774.0,Ederson,1640761,11.5,55.5,12.7,77.3,15,FirstHalf,Pass,Successful,True
+254,2466454597.0,164,15,167,122945.0,Nathan Aké,1640761,22.4,76.7,9.2,55.4,15,FirstHalf,Pass,Successful,True
+255,2466454701.0,165,15,167,121774.0,Ederson,1640761,12.3,50.6,14.9,25.7,15,FirstHalf,Pass,Successful,True
+256,2466454801.0,166,15,167,297390.0,Manuel Akanji,1640761,21.3,29.2,12.1,54.8,15,FirstHalf,Pass,Successful,True
+257,2466454905.0,167,15,167,121774.0,Ederson,1640761,14.8,54.6,46.5,9.7,15,FirstHalf,Pass,Successful,True
+258,2466454931.0,168,15,167,69778.0,Kyle Walker,1640761,42.4,11.5,37.0,24.5,15,FirstHalf,Pass,Successful,True
+259,2466454965.0,169,15,167,73084.0,Kevin De Bruyne,1640761,37.0,24.5,31.4,16.9,15,FirstHalf,Pass,Successful,True
+260,2466455047.0,170,15,167,297390.0,Manuel Akanji,1640761,31.1,17.0,18.9,51.0,15,FirstHalf,Pass,Successful,True
+261,2466455129.0,171,15,167,121774.0,Ederson,1640761,25.6,56.6,79.4,33.2,15,FirstHalf,Pass,Successful,True
+262,2466455133.0,172,15,167,331254.0,Phil Foden,1640761,78.6,34.4,,,15,FirstHalf,Dispossessed,Successful,True
+263,2466455153.0,106,15,32,345303.0,Tyrell Malacia,1640761,21.4,65.6,,,15,FirstHalf,Tackle,Successful,True
+264,2466455155.0,107,15,32,340105.0,Lisandro Martínez,1640761,18.0,83.9,,,15,FirstHalf,BallRecovery,Successful,False
+265,2466455183.0,108,15,32,340105.0,Lisandro Martínez,1640761,17.9,85.3,43.9,87.7,15,FirstHalf,Pass,Successful,True
+266,2466455185.0,109,15,32,346300.0,Jadon Sancho,1640761,43.9,87.7,41.7,81.2,15,FirstHalf,Pass,Unsuccessful,True
+267,2466455207.0,173,15,167,73084.0,Kevin De Bruyne,1640761,63.2,14.6,,,15,FirstHalf,BallRecovery,Successful,False
+268,2466455247.0,174,15,167,73084.0,Kevin De Bruyne,1640761,62.6,14.9,46.1,14.0,15,FirstHalf,Pass,Successful,True
+269,2466455263.0,175,15,167,69778.0,Kyle Walker,1640761,46.1,14.0,42.7,15.1,15,FirstHalf,Pass,Unsuccessful,True
+270,2466455299.0,110,15,32,300299.0,Marcus Rashford,1640761,61.9,81.5,,,15,FirstHalf,BallTouch,Successful,True
+271,2466455353.0,176,15,167,297390.0,Manuel Akanji,1640761,33.2,7.9,3.4,31.1,15,FirstHalf,Pass,Successful,True
+272,2466455373.0,177,15,167,121774.0,Ederson,1640761,3.3,31.1,7.0,15.7,15,FirstHalf,Clearance,Successful,True
+273,2466455389.0,111,15,32,300299.0,Marcus Rashford,1640761,93.1,83.8,,,15,FirstHalf,BallRecovery,Successful,False
+274,2466455413.0,112,15,32,300299.0,Marcus Rashford,1640761,93.1,83.5,,,15,FirstHalf,BallTouch,Unsuccessful,True
+275,2466455431.0,178,15,167,297390.0,Manuel Akanji,1640761,9.6,14.8,,,15,FirstHalf,BallRecovery,Successful,False
+276,2466455535.0,179,16,167,297390.0,Manuel Akanji,1640761,19.2,10.7,32.0,29.9,16,FirstHalf,Pass,Successful,True
+277,2466455621.0,180,16,167,77464.0,Ilkay Gündogan,1640761,37.9,33.4,55.1,94.7,16,FirstHalf,Pass,Successful,True
+278,2466455675.0,181,16,167,128967.0,João Cancelo,1640761,60.6,93.5,71.0,98.4,16,FirstHalf,Pass,Successful,True
+279,2466455785.0,182,16,167,113069.0,Jack Grealish,1640761,67.3,96.9,38.7,70.5,16,FirstHalf,Pass,Successful,True
+280,2466455937.0,183,16,167,122945.0,Nathan Aké,1640761,45.9,64.8,53.5,48.4,16,FirstHalf,Pass,Successful,True
+281,2466456069.0,184,16,167,69778.0,Kyle Walker,1640761,71.1,71.1,78.4,96.3,16,FirstHalf,Pass,Successful,True
+282,2466456087.0,185,16,167,113069.0,Jack Grealish,1640761,75.7,67.8,81.2,60.2,16,FirstHalf,Pass,Successful,True
+283,2466456101.0,186,16,167,315227.0,Erling Haaland,1640761,81.2,60.2,78.3,51.9,16,FirstHalf,Pass,Successful,True
+284,2466456113.0,187,16,167,113069.0,Jack Grealish,1640761,77.7,51.6,,,16,FirstHalf,Foul,Successful,True
+285,2466456161.0,113,16,32,340105.0,Lisandro Martínez,1640761,22.3,48.4,,,16,FirstHalf,Foul,Unsuccessful,False
+286,2466457689.0,188,17,167,77464.0,Ilkay Gündogan,1640761,78.5,49.1,,,17,FirstHalf,ShotOnPost,Successful,True
+287,2466469217.0,11190,18,167,73084.0,Kevin De Bruyne,1640761,74.2,50.9,,,18,FirstHalf,OffsideGiven,Unsuccessful,False
+288,2466779921.0,764,18,32,340105.0,Lisandro Martínez,1640761,4.4,62.2,1.6,51.9,18,FirstHalf,Pass,Successful,True
+289,2466458127.0,115,18,32,79554.0,David de Gea,1640761,3.6,51.8,43.6,29.3,18,FirstHalf,Pass,Unsuccessful,True
+290,2466780333.0,875,18,167,122945.0,Nathan Aké,1640761,57.6,69.4,,,18,FirstHalf,Aerial,Successful,False
+291,2466780549.0,765,18,32,123761.0,Bruno Fernandes,1640761,42.4,30.6,,,18,FirstHalf,Aerial,Unsuccessful,False
+292,2466458217.0,190,18,167,122945.0,Nathan Aké,1640761,51.7,68.4,74.2,50.9,18,FirstHalf,OffsidePass,Successful,True
+293,2466458203.0,116,18,32,93206.0,Raphaël Varane,1640761,24.8,45.7,,,18,FirstHalf,OffsideProvoked,Successful,False
+294,2466458331.0,117,18,32,93206.0,Raphaël Varane,1640761,24.6,50.1,40.6,71.5,18,FirstHalf,Pass,Successful,True
+295,2466458343.0,118,18,32,346300.0,Jadon Sancho,1640761,44.5,67.6,44.9,64.8,18,FirstHalf,Pass,Unsuccessful,True
+296,2466458337.0,191,18,167,136741.0,Bernardo Silva,1640761,54.0,31.3,,,18,FirstHalf,BlockedPass,Successful,True
+297,2466458377.0,192,18,167,331254.0,Phil Foden,1640761,55.9,15.2,,,18,FirstHalf,BallRecovery,Successful,False
+298,2466458421.0,193,18,167,331254.0,Phil Foden,1640761,55.9,14.8,62.4,20.6,18,FirstHalf,Pass,Successful,True
+299,2466458491.0,194,18,167,136741.0,Bernardo Silva,1640761,60.1,24.1,53.6,29.2,18,FirstHalf,Pass,Successful,True
+300,2466458577.0,195,18,167,77464.0,Ilkay Gündogan,1640761,57.9,35.6,67.6,22.1,18,FirstHalf,Pass,Successful,True
+301,2466458679.0,196,18,167,73084.0,Kevin De Bruyne,1640761,70.9,19.6,88.9,5.2,18,FirstHalf,Pass,Successful,True
+302,2466458729.0,197,18,167,331254.0,Phil Foden,1640761,78.7,6.5,70.3,8.2,18,FirstHalf,Pass,Successful,True
+303,2466458751.0,198,18,167,136741.0,Bernardo Silva,1640761,68.9,11.0,46.4,26.3,18,FirstHalf,Pass,Successful,True
+304,2466458795.0,199,18,167,297390.0,Manuel Akanji,1640761,46.7,29.9,47.4,59.0,18,FirstHalf,Pass,Successful,True
+305,2466458817.0,200,18,167,122945.0,Nathan Aké,1640761,50.9,63.5,63.6,90.6,18,FirstHalf,Pass,Successful,True
+306,2466458961.0,201,18,167,128967.0,João Cancelo,1640761,61.9,89.6,44.5,71.3,18,FirstHalf,Pass,Successful,True
+307,2466459071.0,202,19,167,122945.0,Nathan Aké,1640761,53.7,66.2,77.8,1.9,19,FirstHalf,Pass,Successful,True
+308,2466459103.0,203,19,167,331254.0,Phil Foden,1640761,79.0,2.5,96.4,28.0,19,FirstHalf,Pass,Successful,True
+309,2466459117.0,204,19,167,73084.0,Kevin De Bruyne,1640761,96.4,27.8,95.6,43.0,19,FirstHalf,Pass,Unsuccessful,True
+310,2466459155.0,119,19,32,340105.0,Lisandro Martínez,1640761,5.6,55.1,11.8,72.0,19,FirstHalf,Clearance,Successful,True
+311,2466459161.0,120,19,32,345303.0,Tyrell Malacia,1640761,11.9,71.7,,,19,FirstHalf,BallRecovery,Successful,False
+312,2466459191.0,121,19,32,345303.0,Tyrell Malacia,1640761,11.9,71.7,29.1,41.5,19,FirstHalf,Pass,Unsuccessful,True
+313,2466459197.0,205,19,167,128967.0,João Cancelo,1640761,74.1,57.2,,,19,FirstHalf,Interception,Successful,True
+314,2466459211.0,206,19,167,136741.0,Bernardo Silva,1640761,77.3,44.6,,,19,FirstHalf,BallRecovery,Successful,False
+315,2466459229.0,207,19,167,136741.0,Bernardo Silva,1640761,77.2,44.8,81.1,52.4,19,FirstHalf,Pass,Unsuccessful,True
+316,2466459241.0,122,19,32,336915.0,Scott McTominay,1640761,21.2,48.7,,,19,FirstHalf,Interception,Successful,True
+317,2466459253.0,123,19,32,364315.0,Antony,1640761,34.3,34.2,,,19,FirstHalf,BallRecovery,Successful,False
+318,2466459319.0,124,19,32,364315.0,Antony,1640761,34.3,34.2,46.9,13.1,19,FirstHalf,Pass,Successful,True
+319,2466459347.0,125,19,32,123761.0,Bruno Fernandes,1640761,59.0,13.1,76.0,58.1,19,FirstHalf,Pass,Unsuccessful,True
+320,2466459373.0,208,19,167,297390.0,Manuel Akanji,1640761,28.8,45.5,37.7,28.3,19,FirstHalf,Clearance,Successful,True
+321,2466459405.0,126,19,32,346300.0,Jadon Sancho,1640761,70.3,73.6,76.2,77.5,19,FirstHalf,Pass,Successful,True
+322,2466459409.0,127,19,32,300299.0,Marcus Rashford,1640761,76.2,77.5,74.4,67.2,19,FirstHalf,Pass,Unsuccessful,True
+323,2466459453.0,209,19,167,136741.0,Bernardo Silva,1640761,23.4,41.2,30.0,60.6,19,FirstHalf,Pass,Successful,True
+324,2466459459.0,210,19,167,113069.0,Jack Grealish,1640761,30.0,60.6,,,19,FirstHalf,BallRecovery,Successful,False
+325,2466459571.0,211,19,167,113069.0,Jack Grealish,1640761,28.0,60.8,4.0,49.6,19,FirstHalf,Pass,Successful,True
+326,2466459679.0,212,19,167,121774.0,Ederson,1640761,9.7,47.9,13.7,72.8,19,FirstHalf,Pass,Successful,True
+327,2466459709.0,213,19,167,122945.0,Nathan Aké,1640761,17.1,74.1,8.3,47.3,19,FirstHalf,Pass,Successful,True
+328,2466459855.0,214,19,167,121774.0,Ederson,1640761,8.9,46.1,17.9,28.1,19,FirstHalf,Pass,Successful,True
+329,2466459903.0,215,19,167,297390.0,Manuel Akanji,1640761,32.2,19.7,44.2,31.4,19,FirstHalf,Pass,Successful,True
+330,2466460029.0,216,20,167,315227.0,Erling Haaland,1640761,37.4,36.2,23.8,66.6,20,FirstHalf,Pass,Successful,True
+331,2466460101.0,217,20,167,122945.0,Nathan Aké,1640761,42.2,66.5,56.3,70.8,20,FirstHalf,Pass,Successful,True
+332,2466460161.0,218,20,167,77464.0,Ilkay Gündogan,1640761,64.5,68.0,74.2,95.4,20,FirstHalf,Pass,Successful,True
+333,2466460211.0,219,20,167,113069.0,Jack Grealish,1640761,78.9,81.8,97.6,74.0,20,FirstHalf,Pass,Successful,True
+334,2466460251.0,220,20,167,136741.0,Bernardo Silva,1640761,97.6,74.0,91.3,49.6,20,FirstHalf,Pass,Successful,True
+335,2466460255.0,221,20,167,315227.0,Erling Haaland,1640761,91.3,49.6,,,20,FirstHalf,BallTouch,Successful,True
+336,2466460305.0,222,20,167,331254.0,Phil Foden,1640761,86.0,49.8,,,20,FirstHalf,MissedShots,Successful,True
+337,2466460955.0,129,20,32,79554.0,David de Gea,1640761,4.3,49.4,62.3,25.5,20,FirstHalf,Pass,Unsuccessful,True
+338,2466460937.0,224,21,167,122945.0,Nathan Aké,1640761,35.7,74.3,,,21,FirstHalf,Aerial,Successful,False
+339,2466460967.0,130,21,32,300299.0,Marcus Rashford,1640761,64.3,25.7,,,21,FirstHalf,Aerial,Unsuccessful,False
+340,2466460951.0,225,21,167,122945.0,Nathan Aké,1640761,33.6,74.1,48.7,71.6,21,FirstHalf,Pass,Unsuccessful,True
+341,2466460987.0,131,21,32,336915.0,Scott McTominay,1640761,51.0,26.8,62.1,21.1,21,FirstHalf,Pass,Unsuccessful,True
+342,2466460993.0,226,21,167,122945.0,Nathan Aké,1640761,37.4,74.0,42.3,74.1,21,FirstHalf,Pass,Successful,True
+343,2466460999.0,227,21,167,136741.0,Bernardo Silva,1640761,42.3,74.1,,,21,FirstHalf,BallRecovery,Successful,False
+344,2466461033.0,228,21,167,136741.0,Bernardo Silva,1640761,39.1,75.9,35.5,93.8,21,FirstHalf,Pass,Successful,True
+345,2466461065.0,229,21,167,128967.0,João Cancelo,1640761,35.5,93.8,54.3,70.5,21,FirstHalf,Pass,Successful,True
+346,2466461097.0,230,21,167,315227.0,Erling Haaland,1640761,54.3,70.5,45.9,74.1,21,FirstHalf,Pass,Successful,True
+347,2466461133.0,231,21,167,136741.0,Bernardo Silva,1640761,46.8,71.6,67.3,0.0,21,FirstHalf,Pass,Unsuccessful,True
+348,2466461283.0,133,21,32,345303.0,Tyrell Malacia,1640761,44.2,100.0,15.8,79.7,21,FirstHalf,Pass,Successful,True
+349,2466461329.0,134,21,32,340105.0,Lisandro Martínez,1640761,15.2,78.4,4.9,48.2,21,FirstHalf,Pass,Successful,True
+350,2466461397.0,135,21,32,79554.0,David de Gea,1640761,5.0,45.7,17.0,15.3,21,FirstHalf,Pass,Successful,True
+351,2466461425.0,136,21,32,93206.0,Raphaël Varane,1640761,25.1,10.1,47.5,20.6,21,FirstHalf,Pass,Successful,True
+352,2466461457.0,137,21,32,364315.0,Antony,1640761,47.5,20.6,57.7,45.1,21,FirstHalf,Pass,Unsuccessful,True
+353,2466461477.0,233,21,167,297390.0,Manuel Akanji,1640761,43.8,51.8,,,21,FirstHalf,BallRecovery,Successful,False
+354,2466461509.0,234,21,167,297390.0,Manuel Akanji,1640761,43.8,51.8,36.9,36.2,21,FirstHalf,Pass,Successful,True
+355,2466461623.0,235,21,167,69778.0,Kyle Walker,1640761,36.8,36.2,14.3,45.5,21,FirstHalf,Pass,Successful,True
+356,2466461719.0,236,21,167,121774.0,Ederson,1640761,15.5,46.0,21.3,24.4,21,FirstHalf,Pass,Successful,True
+357,2466461761.0,237,21,167,297390.0,Manuel Akanji,1640761,30.3,18.7,28.5,4.6,21,FirstHalf,Pass,Successful,True
+358,2466461845.0,238,21,167,69778.0,Kyle Walker,1640761,27.2,6.1,11.7,40.7,21,FirstHalf,Pass,Successful,True
+359,2466461951.0,239,21,167,121774.0,Ederson,1640761,14.2,44.3,19.7,70.5,21,FirstHalf,Pass,Successful,True
+360,2466462007.0,240,21,167,122945.0,Nathan Aké,1640761,32.4,72.2,47.0,70.2,21,FirstHalf,Pass,Successful,True
+361,2466462073.0,241,22,167,77464.0,Ilkay Gündogan,1640761,58.2,79.2,54.7,82.2,22,FirstHalf,Pass,Successful,True
+362,2466462087.0,138,22,32,364315.0,Antony,1640761,41.4,13.2,,,22,FirstHalf,Challenge,Unsuccessful,False
+363,2466462099.0,242,22,167,136741.0,Bernardo Silva,1640761,58.6,86.8,,,22,FirstHalf,TakeOn,Successful,True
+364,2466462105.0,243,22,167,136741.0,Bernardo Silva,1640761,59.0,88.6,,,22,FirstHalf,Dispossessed,Successful,True
+365,2466462155.0,139,22,32,336915.0,Scott McTominay,1640761,41.0,11.4,,,22,FirstHalf,Tackle,Unsuccessful,True
+366,2466462123.0,244,22,167,136741.0,Bernardo Silva,1640761,57.1,91.5,54.9,91.7,22,FirstHalf,Pass,Unsuccessful,True
+367,2466462165.0,140,22,32,364315.0,Antony,1640761,47.5,6.5,,,22,FirstHalf,BlockedPass,Successful,True
+368,2466462145.0,246,22,167,136741.0,Bernardo Silva,1640761,56.4,93.0,,,22,FirstHalf,BallTouch,Successful,True
+369,2466462135.0,245,22,167,136741.0,Bernardo Silva,1640761,55.9,91.4,,,22,FirstHalf,Dispossessed,Successful,True
+370,2466463823.0,165,22,32,364315.0,Antony,1640761,44.1,8.6,,,22,FirstHalf,Tackle,Unsuccessful,True
+371,2466462309.0,142,22,32,353418.0,Diogo Dalot,1640761,42.0,0.0,29.4,31.8,22,FirstHalf,Pass,Successful,True
+372,2466462347.0,143,22,32,340105.0,Lisandro Martínez,1640761,29.6,30.6,29.5,14.4,22,FirstHalf,Pass,Successful,True
+373,2466462417.0,144,22,32,93206.0,Raphaël Varane,1640761,18.5,13.8,8.0,50.9,22,FirstHalf,Pass,Successful,True
+374,2466462509.0,145,22,32,79554.0,David de Gea,1640761,8.6,51.9,15.3,65.5,22,FirstHalf,Pass,Successful,True
+375,2466462571.0,146,22,32,345303.0,Tyrell Malacia,1640761,20.7,67.3,29.4,56.3,22,FirstHalf,Pass,Successful,True
+376,2466462589.0,147,22,32,336915.0,Scott McTominay,1640761,29.3,53.3,33.3,26.5,22,FirstHalf,Pass,Unsuccessful,True
+377,2466462619.0,248,22,167,113069.0,Jack Grealish,1640761,71.3,71.6,,,22,FirstHalf,BallRecovery,Successful,False
+378,2466462655.0,249,22,167,113069.0,Jack Grealish,1640761,86.8,64.1,,,22,FirstHalf,Dispossessed,Successful,True
+379,2466462665.0,148,22,32,336915.0,Scott McTominay,1640761,13.2,35.9,,,22,FirstHalf,Tackle,Unsuccessful,True
+380,2466462671.0,250,22,167,113069.0,Jack Grealish,1640761,87.8,64.7,90.3,57.5,22,FirstHalf,Pass,Unsuccessful,True
+381,2466462691.0,149,22,32,340105.0,Lisandro Martínez,1640761,15.0,41.6,,,22,FirstHalf,BallTouch,Successful,True
+382,2466462697.0,150,22,32,336915.0,Scott McTominay,1640761,17.9,37.4,,,22,FirstHalf,BallRecovery,Successful,False
+383,2466462783.0,151,22,32,336915.0,Scott McTominay,1640761,17.9,37.4,31.2,16.8,22,FirstHalf,Pass,Successful,True
+384,2466462803.0,152,22,32,123761.0,Bruno Fernandes,1640761,40.8,10.4,39.9,24.9,22,FirstHalf,Pass,Successful,True
+385,2466462839.0,153,22,32,336915.0,Scott McTominay,1640761,39.9,24.9,40.9,17.9,22,FirstHalf,Pass,Successful,True
+386,2466462857.0,154,22,32,123761.0,Bruno Fernandes,1640761,43.1,23.9,49.3,42.8,22,FirstHalf,Pass,Successful,True
+387,2466462897.0,155,22,32,300299.0,Marcus Rashford,1640761,49.3,42.8,44.5,63.4,22,FirstHalf,Pass,Unsuccessful,True
+388,2466462903.0,251,22,167,331254.0,Phil Foden,1640761,57.1,30.4,,,22,FirstHalf,BallRecovery,Successful,False
+389,2466462951.0,252,22,167,331254.0,Phil Foden,1640761,62.2,33.1,,,22,FirstHalf,Foul,Successful,True
+390,2466462959.0,156,22,32,345303.0,Tyrell Malacia,1640761,37.8,66.9,,,22,FirstHalf,Foul,Unsuccessful,False
+391,2466463075.0,157,22,32,345303.0,Tyrell Malacia,1640761,0.0,0.0,,,22,FirstHalf,Card,Successful,False
+392,2466463489.0,253,23,167,73084.0,Kevin De Bruyne,1640761,65.2,29.3,87.5,47.2,23,FirstHalf,Pass,Unsuccessful,True
+393,2466463505.0,158,23,32,340105.0,Lisandro Martínez,1640761,14.3,46.7,25.9,54.9,23,FirstHalf,Clearance,Successful,True
+394,2466463523.0,159,23,32,346300.0,Jadon Sancho,1640761,26.4,54.9,25.2,47.9,23,FirstHalf,Pass,Successful,True
+395,2466463527.0,160,23,32,69344.0,Christian Eriksen,1640761,25.2,47.9,,,23,FirstHalf,BallRecovery,Successful,False
+396,2466463641.0,161,23,32,69344.0,Christian Eriksen,1640761,25.2,47.9,41.3,40.7,23,FirstHalf,Pass,Successful,True
+397,2466463665.0,162,23,32,346300.0,Jadon Sancho,1640761,60.4,7.3,45.3,8.6,23,FirstHalf,Pass,Successful,True
+398,2466463703.0,163,23,32,353418.0,Diogo Dalot,1640761,45.3,8.6,45.7,19.2,23,FirstHalf,Pass,Successful,True
+399,2466463741.0,164,23,32,336915.0,Scott McTominay,1640761,46.2,19.8,73.3,67.2,23,FirstHalf,Pass,Unsuccessful,True
+400,2466463763.0,255,23,167,297390.0,Manuel Akanji,1640761,25.4,31.9,35.1,33.4,23,FirstHalf,Pass,Successful,True
+401,2466463769.0,256,23,167,331254.0,Phil Foden,1640761,35.1,33.4,,,23,FirstHalf,BallRecovery,Successful,False
+402,2466463801.0,257,23,167,331254.0,Phil Foden,1640761,35.1,33.4,23.7,43.1,23,FirstHalf,Pass,Successful,True
+403,2466463869.0,258,23,167,69778.0,Kyle Walker,1640761,23.7,43.1,7.0,51.2,23,FirstHalf,Pass,Successful,True
+404,2466463925.0,259,23,167,121774.0,Ederson,1640761,7.0,51.2,10.0,26.2,23,FirstHalf,Pass,Successful,True
+405,2466463991.0,260,24,167,297390.0,Manuel Akanji,1640761,11.3,24.7,9.1,56.0,24,FirstHalf,Pass,Successful,True
+406,2466464067.0,261,24,167,121774.0,Ederson,1640761,9.1,56.0,16.4,74.4,24,FirstHalf,Pass,Successful,True
+407,2466464093.0,262,24,167,122945.0,Nathan Aké,1640761,23.5,76.1,29.9,95.7,24,FirstHalf,Pass,Successful,True
+408,2466464157.0,263,24,167,128967.0,João Cancelo,1640761,27.5,95.6,6.8,58.2,24,FirstHalf,Pass,Successful,True
+409,2466464295.0,264,24,167,121774.0,Ederson,1640761,9.1,55.1,19.2,29.6,24,FirstHalf,Pass,Successful,True
+410,2466464363.0,265,24,167,297390.0,Manuel Akanji,1640761,42.4,14.6,79.4,9.5,24,FirstHalf,Pass,Successful,True
+411,2466464409.0,266,24,167,69778.0,Kyle Walker,1640761,85.4,16.4,79.6,35.5,24,FirstHalf,Pass,Successful,True
+412,2466464423.0,267,24,167,315227.0,Erling Haaland,1640761,85.3,36.8,90.2,37.7,24,FirstHalf,Pass,Unsuccessful,True
+413,2466464483.0,166,24,32,340105.0,Lisandro Martínez,1640761,10.9,61.4,40.2,29.7,24,FirstHalf,Clearance,Successful,True
+414,2466464487.0,167,24,32,346300.0,Jadon Sancho,1640761,36.6,28.5,,,24,FirstHalf,BallRecovery,Successful,False
+415,2466464537.0,168,24,32,346300.0,Jadon Sancho,1640761,32.5,29.4,21.6,29.7,24,FirstHalf,Pass,Successful,True
+416,2466464559.0,169,24,32,353418.0,Diogo Dalot,1640761,21.6,29.7,30.2,48.2,24,FirstHalf,Pass,Successful,True
+417,2466464569.0,170,24,32,123761.0,Bruno Fernandes,1640761,30.2,48.2,26.9,46.1,24,FirstHalf,Pass,Successful,True
+418,2466464625.0,171,24,32,69344.0,Christian Eriksen,1640761,29.8,55.5,35.2,87.5,24,FirstHalf,Pass,Successful,True
+419,2466464653.0,172,24,32,364315.0,Antony,1640761,35.3,87.5,27.9,86.5,24,FirstHalf,Pass,Successful,True
+420,2466464677.0,173,24,32,345303.0,Tyrell Malacia,1640761,27.9,86.5,32.8,72.4,24,FirstHalf,Pass,Successful,True
+421,2466464729.0,174,24,32,69344.0,Christian Eriksen,1640761,32.7,71.1,24.4,66.3,24,FirstHalf,Pass,Successful,True
+422,2466464773.0,175,24,32,340105.0,Lisandro Martínez,1640761,26.6,61.1,23.6,36.3,24,FirstHalf,Pass,Successful,True
+423,2466464841.0,176,24,32,93206.0,Raphaël Varane,1640761,25.1,33.1,35.0,6.1,24,FirstHalf,Pass,Successful,True
+424,2466464869.0,177,24,32,353418.0,Diogo Dalot,1640761,37.5,22.1,34.1,28.6,24,FirstHalf,Pass,Successful,True
+425,2466464891.0,178,24,32,336915.0,Scott McTominay,1640761,34.1,28.8,29.7,23.4,24,FirstHalf,Pass,Successful,True
+426,2466464949.0,179,24,32,93206.0,Raphaël Varane,1640761,29.7,23.4,11.5,51.8,24,FirstHalf,Pass,Successful,True
+427,2466465033.0,180,25,32,79554.0,David de Gea,1640761,12.3,52.2,13.6,63.1,25,FirstHalf,Pass,Successful,True
+428,2466465069.0,181,25,32,340105.0,Lisandro Martínez,1640761,16.9,67.8,10.2,52.7,25,FirstHalf,Pass,Successful,True
+429,2466465125.0,182,25,32,79554.0,David de Gea,1640761,11.8,54.2,39.1,90.6,25,FirstHalf,Pass,Successful,True
+430,2466465205.0,183,25,32,345303.0,Tyrell Malacia,1640761,37.6,91.8,,,25,FirstHalf,TakeOn,Successful,True
+431,2466465121.0,268,25,167,69778.0,Kyle Walker,1640761,62.4,8.2,,,25,FirstHalf,Challenge,Unsuccessful,False
+432,2466465211.0,184,25,32,345303.0,Tyrell Malacia,1640761,50.9,96.9,,,25,FirstHalf,Foul,Successful,True
+433,2466465215.0,269,25,167,69778.0,Kyle Walker,1640761,49.1,3.1,,,25,FirstHalf,Foul,Unsuccessful,False
+434,2466465403.0,185,25,32,345303.0,Tyrell Malacia,1640761,56.5,93.5,52.5,79.6,25,FirstHalf,Pass,Successful,True
+435,2466465417.0,186,25,32,69344.0,Christian Eriksen,1640761,55.0,67.0,69.5,22.8,25,FirstHalf,Pass,Unsuccessful,True
+436,2466465477.0,270,25,167,128967.0,João Cancelo,1640761,30.9,81.3,38.1,74.1,25,FirstHalf,Pass,Successful,True
+437,2466465485.0,271,25,167,113069.0,Jack Grealish,1640761,38.1,74.1,,,25,FirstHalf,BallRecovery,Successful,False
+438,2466465619.0,272,25,167,113069.0,Jack Grealish,1640761,58.7,83.4,65.0,96.3,25,FirstHalf,Pass,Successful,True
+439,2466465627.0,273,25,167,128967.0,João Cancelo,1640761,73.8,93.4,,,25,FirstHalf,Dispossessed,Successful,True
+440,2466465643.0,187,25,32,336915.0,Scott McTominay,1640761,26.2,6.6,,,25,FirstHalf,Tackle,Successful,True
+441,2466465649.0,188,25,32,336915.0,Scott McTominay,1640761,26.2,6.6,,,25,FirstHalf,CornerAwarded,Unsuccessful,False
+442,2466465657.0,274,25,167,128967.0,João Cancelo,1640761,73.8,93.4,,,25,FirstHalf,CornerAwarded,Successful,False
+443,2466466249.0,275,26,167,73084.0,Kevin De Bruyne,1640761,99.5,99.5,97.1,92.1,26,FirstHalf,Pass,Successful,True
+444,2466466269.0,276,26,167,331254.0,Phil Foden,1640761,97.9,92.7,86.3,87.8,26,FirstHalf,Pass,Successful,True
+445,2466466285.0,277,26,167,73084.0,Kevin De Bruyne,1640761,92.0,84.3,92.5,74.9,26,FirstHalf,Pass,Successful,True
+446,2466466293.0,278,26,167,331254.0,Phil Foden,1640761,92.5,73.8,92.5,70.8,26,FirstHalf,Pass,Unsuccessful,True
+447,2466466303.0,189,26,32,123761.0,Bruno Fernandes,1640761,11.5,26.8,,,26,FirstHalf,BlockedPass,Successful,True
+448,2466466709.0,280,26,167,128967.0,João Cancelo,1640761,76.6,100.0,82.2,93.2,26,FirstHalf,Pass,Successful,True
+449,2466466741.0,281,26,167,113069.0,Jack Grealish,1640761,82.2,93.2,75.1,91.2,26,FirstHalf,Pass,Successful,True
+450,2466466805.0,282,26,167,73084.0,Kevin De Bruyne,1640761,74.5,91.2,46.6,45.2,26,FirstHalf,Pass,Successful,True
+451,2466466865.0,283,26,167,69778.0,Kyle Walker,1640761,47.2,41.3,66.8,9.7,26,FirstHalf,Pass,Successful,True
+452,2466466899.0,284,26,167,136741.0,Bernardo Silva,1640761,65.8,3.5,53.2,11.8,26,FirstHalf,Pass,Successful,True
+453,2466466931.0,285,27,167,69778.0,Kyle Walker,1640761,53.4,16.0,44.1,68.3,27,FirstHalf,Pass,Successful,True
+454,2466466969.0,286,27,167,122945.0,Nathan Aké,1640761,46.2,70.8,61.7,96.2,27,FirstHalf,Pass,Successful,True
+455,2466467021.0,287,27,167,128967.0,João Cancelo,1640761,61.8,94.4,53.6,76.2,27,FirstHalf,Pass,Successful,True
+456,2466467075.0,288,27,167,122945.0,Nathan Aké,1640761,52.7,70.8,48.3,39.1,27,FirstHalf,Pass,Successful,True
+457,2466467101.0,289,27,167,297390.0,Manuel Akanji,1640761,55.8,32.3,53.4,15.5,27,FirstHalf,Pass,Successful,True
+458,2466467123.0,290,27,167,69778.0,Kyle Walker,1640761,53.4,15.5,47.2,55.5,27,FirstHalf,Pass,Successful,True
+459,2466467215.0,291,27,167,122945.0,Nathan Aké,1640761,47.2,55.5,19.2,49.7,27,FirstHalf,Pass,Successful,True
+460,2466467245.0,292,27,167,121774.0,Ederson,1640761,22.1,53.3,26.6,25.7,27,FirstHalf,Pass,Successful,True
+461,2466467329.0,293,27,167,297390.0,Manuel Akanji,1640761,26.7,25.1,24.0,60.5,27,FirstHalf,Pass,Successful,True
+462,2466467365.0,294,27,167,121774.0,Ederson,1640761,24.1,71.7,42.4,97.7,27,FirstHalf,Pass,Successful,True
+463,2466467489.0,295,27,167,128967.0,João Cancelo,1640761,41.6,93.2,35.9,7.1,27,FirstHalf,Pass,Successful,True
+464,2466467575.0,296,27,167,69778.0,Kyle Walker,1640761,35.9,7.1,30.2,15.5,27,FirstHalf,Pass,Successful,True
+465,2466467609.0,297,27,167,297390.0,Manuel Akanji,1640761,42.6,23.5,46.0,4.0,27,FirstHalf,Pass,Successful,True
+466,2466467681.0,298,27,167,69778.0,Kyle Walker,1640761,45.9,4.6,59.1,2.6,27,FirstHalf,Pass,Successful,True
+467,2466467783.0,299,27,167,136741.0,Bernardo Silva,1640761,58.2,8.2,35.3,56.4,27,FirstHalf,Pass,Successful,True
+468,2466467809.0,300,27,167,122945.0,Nathan Aké,1640761,45.0,57.6,45.2,95.9,27,FirstHalf,Pass,Successful,True
+469,2466467871.0,301,28,167,128967.0,João Cancelo,1640761,45.2,95.7,61.2,96.6,28,FirstHalf,Pass,Successful,True
+470,2466467893.0,302,28,167,113069.0,Jack Grealish,1640761,48.2,92.6,39.1,91.2,28,FirstHalf,Pass,Successful,True
+471,2466467923.0,303,28,167,128967.0,João Cancelo,1640761,39.2,89.3,46.9,73.4,28,FirstHalf,Pass,Successful,True
+472,2466467947.0,304,28,167,77464.0,Ilkay Gündogan,1640761,46.9,73.4,46.4,90.9,28,FirstHalf,Pass,Successful,True
+473,2466467997.0,305,28,167,113069.0,Jack Grealish,1640761,46.3,90.5,34.7,95.9,28,FirstHalf,Pass,Successful,True
+474,2466468121.0,306,28,167,128967.0,João Cancelo,1640761,32.8,97.1,12.0,48.8,28,FirstHalf,Pass,Successful,True
+475,2466468295.0,307,28,167,121774.0,Ederson,1640761,12.7,48.2,14.4,72.5,28,FirstHalf,Pass,Successful,True
+476,2466468323.0,308,28,167,122945.0,Nathan Aké,1640761,48.2,66.2,59.4,82.5,28,FirstHalf,Pass,Successful,True
+477,2466468427.0,309,28,167,73084.0,Kevin De Bruyne,1640761,62.3,82.7,74.5,94.4,28,FirstHalf,Pass,Successful,True
+478,2466468459.0,310,28,167,113069.0,Jack Grealish,1640761,89.6,77.3,79.6,64.7,28,FirstHalf,Pass,Successful,True
+479,2466468465.0,311,28,167,73084.0,Kevin De Bruyne,1640761,79.3,64.4,,,28,FirstHalf,MissedShots,Successful,True
+480,2466468931.0,192,29,32,79554.0,David de Gea,1640761,3.8,47.8,73.5,44.9,29,FirstHalf,Pass,Unsuccessful,True
+481,2466468951.0,313,29,167,122945.0,Nathan Aké,1640761,27.8,45.7,38.5,40.0,29,FirstHalf,Pass,Unsuccessful,True
+482,2466469033.0,193,29,32,69344.0,Christian Eriksen,1640761,57.6,49.0,62.0,11.9,29,FirstHalf,Pass,Successful,True
+483,2466469073.0,194,29,32,353418.0,Diogo Dalot,1640761,66.3,11.1,61.6,16.5,29,FirstHalf,Pass,Successful,True
+484,2466469137.0,195,29,32,336915.0,Scott McTominay,1640761,61.0,24.6,53.9,54.0,29,FirstHalf,Pass,Successful,True
+485,2466469209.0,196,29,32,340105.0,Lisandro Martínez,1640761,55.8,49.9,78.3,4.7,29,FirstHalf,Pass,Successful,True
+486,2466469227.0,197,29,32,364315.0,Antony,1640761,82.0,8.0,73.1,10.7,29,FirstHalf,Pass,Successful,True
+487,2466469253.0,198,29,32,353418.0,Diogo Dalot,1640761,73.7,12.0,71.1,23.4,29,FirstHalf,Pass,Successful,True
+488,2466469325.0,199,29,32,336915.0,Scott McTominay,1640761,71.9,19.5,82.3,6.2,29,FirstHalf,Pass,Successful,True
+489,2466469369.0,200,29,32,364315.0,Antony,1640761,82.1,17.1,100.0,70.3,29,FirstHalf,Pass,Unsuccessful,True
+490,2466469709.0,315,30,167,121774.0,Ederson,1640761,4.3,44.5,9.0,17.6,30,FirstHalf,Pass,Successful,True
+491,2466469739.0,316,30,167,297390.0,Manuel Akanji,1640761,9.1,17.6,2.8,51.5,30,FirstHalf,Pass,Successful,True
+492,2466469843.0,317,30,167,121774.0,Ederson,1640761,2.8,51.5,31.7,97.7,30,FirstHalf,Pass,Successful,True
+493,2466469899.0,318,30,167,128967.0,João Cancelo,1640761,40.6,90.8,25.2,82.5,30,FirstHalf,Pass,Successful,True
+494,2466469951.0,319,30,167,122945.0,Nathan Aké,1640761,25.7,77.4,33.7,74.3,30,FirstHalf,Pass,Successful,True
+495,2466469991.0,320,30,167,77464.0,Ilkay Gündogan,1640761,31.7,75.3,14.3,75.5,30,FirstHalf,Pass,Successful,True
+496,2466470053.0,321,30,167,122945.0,Nathan Aké,1640761,14.1,73.8,8.5,45.8,30,FirstHalf,Pass,Successful,True
+497,2466470119.0,322,30,167,121774.0,Ederson,1640761,8.9,45.1,20.2,22.0,30,FirstHalf,Pass,Successful,True
+498,2466470175.0,323,30,167,297390.0,Manuel Akanji,1640761,25.5,19.6,29.9,2.5,30,FirstHalf,Pass,Successful,True
+499,2466470205.0,324,30,167,69778.0,Kyle Walker,1640761,41.3,6.4,57.8,25.9,30,FirstHalf,Pass,Successful,True
+500,2466470271.0,325,30,167,315227.0,Erling Haaland,1640761,57.8,25.9,57.5,21.5,30,FirstHalf,Pass,Successful,True
+501,2466470275.0,326,30,167,331254.0,Phil Foden,1640761,75.2,54.4,,,30,FirstHalf,SavedShot,Successful,True
+502,2466470287.0,202,30,32,93206.0,Raphaël Varane,1640761,25.6,41.5,,,30,FirstHalf,Save,Successful,True
+503,2466470305.0,203,30,32,353418.0,Diogo Dalot,1640761,12.7,32.8,,,30,FirstHalf,Challenge,Unsuccessful,False
+504,2466470325.0,327,30,167,113069.0,Jack Grealish,1640761,87.3,67.2,,,30,FirstHalf,TakeOn,Successful,True
+505,2466470335.0,328,30,167,113069.0,Jack Grealish,1640761,89.1,60.6,,,30,FirstHalf,SavedShot,Successful,True
+506,2466470363.0,204,30,32,340105.0,Lisandro Martínez,1640761,4.3,47.2,,,30,FirstHalf,Save,Successful,True
+507,2466470357.0,329,30,167,77464.0,Ilkay Gündogan,1640761,81.8,44.0,,,30,FirstHalf,SavedShot,Successful,True
+508,2466470389.0,205,30,32,69344.0,Christian Eriksen,1640761,12.0,50.4,,,30,FirstHalf,Save,Successful,True
+509,2466471765.0,338,30,167,331254.0,Phil Foden,1640761,89.5,47.6,,,30,FirstHalf,BallTouch,Successful,True
+510,2466471735.0,212,30,32,336915.0,Scott McTominay,1640761,10.4,47.4,,,30,FirstHalf,BallTouch,Successful,True
+511,2466470419.0,330,30,167,69778.0,Kyle Walker,1640761,80.8,49.0,86.9,62.4,30,FirstHalf,Pass,Unsuccessful,True
+512,2466470453.0,206,30,32,364315.0,Antony,1640761,8.4,25.0,,,30,FirstHalf,BallTouch,Successful,True
+513,2466470501.0,332,30,167,113069.0,Jack Grealish,1640761,85.2,74.3,74.7,68.1,30,FirstHalf,Pass,Successful,True
+514,2466470509.0,333,30,167,136741.0,Bernardo Silva,1640761,86.2,67.4,,,30,FirstHalf,SavedShot,Successful,True
+515,2466470545.0,207,30,32,353418.0,Diogo Dalot,1640761,11.9,34.3,,,30,FirstHalf,Save,Successful,True
+516,2466471417.0,211,30,32,123761.0,Bruno Fernandes,1640761,12.4,34.2,,,30,FirstHalf,BallTouch,Successful,True
+517,2466470557.0,334,30,167,113069.0,Jack Grealish,1640761,85.1,75.0,74.2,57.9,30,FirstHalf,Pass,Successful,True
+518,2466470563.0,335,31,167,73084.0,Kevin De Bruyne,1640761,72.2,60.8,,,31,FirstHalf,SavedShot,Successful,True
+519,2466470609.0,208,31,32,79554.0,David de Gea,1640761,1.7,49.6,,,31,FirstHalf,Save,Successful,True
+520,2466470625.0,209,31,32,79554.0,David de Gea,1640761,13.8,46.2,,,31,FirstHalf,CornerAwarded,Unsuccessful,False
+521,2466470663.0,336,31,167,73084.0,Kevin De Bruyne,1640761,86.2,53.8,,,31,FirstHalf,CornerAwarded,Successful,False
+522,2466472181.0,340,33,167,73084.0,Kevin De Bruyne,1640761,99.5,99.5,94.4,44.9,33,FirstHalf,Pass,Successful,True
+523,2466472195.0,341,33,167,315227.0,Erling Haaland,1640761,93.0,46.8,,,33,FirstHalf,Aerial,Successful,False
+524,2466472463.0,214,33,32,336915.0,Scott McTominay,1640761,7.0,53.2,,,33,FirstHalf,Aerial,Unsuccessful,False
+525,2466472207.0,342,33,167,315227.0,Erling Haaland,1640761,94.9,48.6,,,33,FirstHalf,Goal,Successful,True
+526,2466473363.0,215,34,32,123761.0,Bruno Fernandes,1640761,50.3,50.1,32.4,55.1,34,FirstHalf,Pass,Successful,True
+527,2466473457.0,216,34,32,340105.0,Lisandro Martínez,1640761,33.5,59.0,40.0,64.9,34,FirstHalf,Pass,Successful,True
+528,2466473485.0,217,34,32,69344.0,Christian Eriksen,1640761,37.6,42.7,24.7,28.3,34,FirstHalf,Pass,Successful,True
+529,2466473511.0,218,34,32,93206.0,Raphaël Varane,1640761,24.7,28.3,11.4,42.4,34,FirstHalf,Pass,Successful,True
+530,2466473547.0,219,34,32,79554.0,David de Gea,1640761,10.6,42.8,45.8,21.9,34,FirstHalf,Pass,Successful,True
+531,2466473605.0,220,34,32,123761.0,Bruno Fernandes,1640761,45.8,21.9,42.0,6.4,34,FirstHalf,Pass,Successful,True
+532,2466473667.0,221,34,32,353418.0,Diogo Dalot,1640761,44.2,14.7,46.1,85.3,34,FirstHalf,Pass,Successful,True
+533,2466473767.0,222,34,32,345303.0,Tyrell Malacia,1640761,67.0,87.4,88.3,86.3,34,FirstHalf,Pass,Successful,True
+534,2466473817.0,223,34,32,346300.0,Jadon Sancho,1640761,77.2,84.2,68.8,70.3,34,FirstHalf,Pass,Successful,True
+535,2466473909.0,224,34,32,336915.0,Scott McTominay,1640761,68.7,70.0,45.4,46.9,34,FirstHalf,Pass,Successful,True
+536,2466473963.0,225,34,32,93206.0,Raphaël Varane,1640761,32.9,28.9,21.9,43.7,34,FirstHalf,Pass,Successful,True
+537,2466473971.0,226,35,32,79554.0,David de Gea,1640761,21.9,43.7,74.1,98.7,35,FirstHalf,Pass,Unsuccessful,True
+538,2466474053.0,343,35,167,69778.0,Kyle Walker,1640761,31.6,2.0,,,35,FirstHalf,BallTouch,Successful,True
+539,2466474327.0,228,35,32,345303.0,Tyrell Malacia,1640761,74.3,100.0,67.0,83.6,35,FirstHalf,Pass,Successful,True
+540,2466474337.0,229,35,32,340105.0,Lisandro Martínez,1640761,67.0,83.6,88.0,52.5,35,FirstHalf,Pass,Unsuccessful,True
+541,2466474351.0,345,35,167,122945.0,Nathan Aké,1640761,14.8,54.2,35.3,42.8,35,FirstHalf,Clearance,Successful,True
+542,2466474375.0,346,35,167,315227.0,Erling Haaland,1640761,35.2,43.0,,,35,FirstHalf,BallRecovery,Successful,False
+543,2466474397.0,347,35,167,315227.0,Erling Haaland,1640761,34.4,45.0,,,35,FirstHalf,Dispossessed,Successful,True
+544,2466474425.0,230,35,32,336915.0,Scott McTominay,1640761,65.6,55.0,,,35,FirstHalf,Tackle,Successful,True
+545,2466474433.0,231,35,32,340105.0,Lisandro Martínez,1640761,55.1,70.0,,,35,FirstHalf,BallRecovery,Successful,False
+546,2466474507.0,232,35,32,340105.0,Lisandro Martínez,1640761,55.1,70.0,74.3,91.7,35,FirstHalf,Pass,Successful,True
+547,2466474567.0,233,35,32,346300.0,Jadon Sancho,1640761,73.6,91.7,64.2,84.4,35,FirstHalf,Pass,Successful,True
+548,2466474625.0,234,35,32,69344.0,Christian Eriksen,1640761,64.8,77.2,48.9,41.6,35,FirstHalf,Pass,Successful,True
+549,2466474761.0,235,35,32,93206.0,Raphaël Varane,1640761,59.8,25.2,75.8,5.3,35,FirstHalf,Pass,Successful,True
+550,2466474797.0,236,35,32,364315.0,Antony,1640761,77.6,5.9,75.9,12.3,35,FirstHalf,Pass,Successful,True
+551,2466474865.0,237,35,32,123761.0,Bruno Fernandes,1640761,74.7,11.6,61.1,6.8,35,FirstHalf,Pass,Successful,True
+552,2466475021.0,238,35,32,353418.0,Diogo Dalot,1640761,62.6,11.3,72.4,5.8,35,FirstHalf,Pass,Successful,True
+553,2466475043.0,239,36,32,364315.0,Antony,1640761,81.2,7.7,73.8,5.0,36,FirstHalf,Pass,Successful,True
+554,2466475075.0,240,36,32,123761.0,Bruno Fernandes,1640761,73.6,4.7,71.4,13.1,36,FirstHalf,Pass,Successful,True
+555,2466475105.0,241,36,32,353418.0,Diogo Dalot,1640761,71.4,15.2,63.0,42.4,36,FirstHalf,Pass,Successful,True
+556,2466475189.0,242,36,32,340105.0,Lisandro Martínez,1640761,63.0,42.4,66.2,57.0,36,FirstHalf,Pass,Successful,True
+557,2466475283.0,243,36,32,69344.0,Christian Eriksen,1640761,69.8,69.6,59.3,41.2,36,FirstHalf,Pass,Successful,True
+558,2466475303.0,244,36,32,93206.0,Raphaël Varane,1640761,66.1,24.7,62.5,15.2,36,FirstHalf,Pass,Successful,True
+559,2466475357.0,245,36,32,353418.0,Diogo Dalot,1640761,62.5,15.2,54.7,45.8,36,FirstHalf,Pass,Successful,True
+560,2466475399.0,246,36,32,340105.0,Lisandro Martínez,1640761,60.4,52.4,59.1,66.4,36,FirstHalf,Pass,Successful,True
+561,2466475437.0,247,36,32,69344.0,Christian Eriksen,1640761,60.9,58.7,89.4,43.9,36,FirstHalf,Pass,Unsuccessful,True
+562,2466475453.0,348,36,167,121774.0,Ederson,1640761,11.2,59.3,,,36,FirstHalf,KeeperPickup,Successful,False
+563,2466475479.0,349,36,167,121774.0,Ederson,1640761,12.2,64.8,30.5,74.7,36,FirstHalf,Pass,Successful,True
+564,2466475571.0,350,36,167,113069.0,Jack Grealish,1640761,30.4,74.9,15.0,72.5,36,FirstHalf,Pass,Successful,True
+565,2466475605.0,351,36,167,122945.0,Nathan Aké,1640761,14.9,72.5,22.6,87.6,36,FirstHalf,Pass,Successful,True
+566,2466475659.0,352,36,167,128967.0,João Cancelo,1640761,22.6,87.6,34.8,98.4,36,FirstHalf,Pass,Successful,True
+567,2466475685.0,353,36,167,136741.0,Bernardo Silva,1640761,33.7,93.6,30.5,80.6,36,FirstHalf,Pass,Successful,True
+568,2466475779.0,354,36,167,77464.0,Ilkay Gündogan,1640761,30.5,80.4,38.8,78.9,36,FirstHalf,Pass,Successful,True
+569,2466475857.0,355,36,167,113069.0,Jack Grealish,1640761,63.6,56.4,68.7,32.3,36,FirstHalf,Pass,Successful,True
+570,2466475903.0,356,36,167,73084.0,Kevin De Bruyne,1640761,78.5,31.6,97.6,56.6,36,FirstHalf,Pass,Successful,True
+571,2466475907.0,357,36,167,315227.0,Erling Haaland,1640761,96.4,55.9,,,36,FirstHalf,Goal,Successful,True
+572,2466477583.0,248,37,32,123761.0,Bruno Fernandes,1640761,50.0,50.3,42.0,45.4,37,FirstHalf,Pass,Successful,True
+573,2466782277.0,766,38,32,336915.0,Scott McTominay,1640761,42.8,47.8,53.0,95.1,38,FirstHalf,Pass,Successful,True
+574,2466782365.0,767,38,32,346300.0,Jadon Sancho,1640761,53.0,95.1,36.9,96.0,38,FirstHalf,Pass,Successful,True
+575,2466782499.0,768,38,32,345303.0,Tyrell Malacia,1640761,36.9,96.0,22.5,73.8,38,FirstHalf,Pass,Successful,True
+576,2466782645.0,769,38,32,340105.0,Lisandro Martínez,1640761,22.5,73.8,10.2,55.3,38,FirstHalf,Pass,Successful,True
+577,2466477645.0,249,38,32,79554.0,David de Gea,1640761,8.8,50.9,38.6,18.8,38,FirstHalf,Pass,Successful,True
+578,2466782877.0,770,38,32,123761.0,Bruno Fernandes,1640761,39.8,22.6,,,38,FirstHalf,Aerial,Successful,False
+579,2466783385.0,877,38,167,136741.0,Bernardo Silva,1640761,60.2,77.4,,,38,FirstHalf,Aerial,Unsuccessful,False
+580,2466782913.0,771,38,32,123761.0,Bruno Fernandes,1640761,39.6,25.9,45.8,9.2,38,FirstHalf,Pass,Unsuccessful,True
+581,2466783071.0,876,38,167,128967.0,João Cancelo,1640761,54.2,90.8,60.8,91.6,38,FirstHalf,Pass,Unsuccessful,True
+582,2466783183.0,772,38,32,353418.0,Diogo Dalot,1640761,39.2,8.4,,,38,FirstHalf,BallTouch,Successful,True
+583,2466477679.0,359,38,167,128967.0,João Cancelo,1640761,45.0,100.0,33.0,84.0,38,FirstHalf,Pass,Successful,True
+584,2466477719.0,360,38,167,122945.0,Nathan Aké,1640761,32.0,83.6,37.9,80.6,38,FirstHalf,Pass,Successful,True
+585,2466477813.0,361,38,167,77464.0,Ilkay Gündogan,1640761,34.6,69.9,32.2,32.2,38,FirstHalf,Pass,Successful,True
+586,2466477835.0,362,38,167,297390.0,Manuel Akanji,1640761,39.1,27.4,42.6,2.9,38,FirstHalf,Pass,Successful,True
+587,2466477875.0,363,38,167,69778.0,Kyle Walker,1640761,42.5,2.2,54.1,2.2,38,FirstHalf,Pass,Successful,True
+588,2466477887.0,364,38,167,331254.0,Phil Foden,1640761,51.8,2.5,45.5,7.3,38,FirstHalf,Pass,Successful,True
+589,2466477893.0,365,38,167,73084.0,Kevin De Bruyne,1640761,45.5,7.3,41.1,5.3,38,FirstHalf,Pass,Unsuccessful,True
+590,2466477899.0,251,38,32,346300.0,Jadon Sancho,1640761,63.2,85.7,,,38,FirstHalf,BallRecovery,Successful,False
+591,2466477965.0,252,38,32,346300.0,Jadon Sancho,1640761,67.8,69.7,66.4,57.2,38,FirstHalf,Pass,Successful,True
+592,2466478021.0,253,38,32,123761.0,Bruno Fernandes,1640761,63.7,56.8,,,38,FirstHalf,TakeOn,Successful,True
+593,2466477969.0,366,38,167,136741.0,Bernardo Silva,1640761,36.3,43.2,,,38,FirstHalf,Challenge,Unsuccessful,False
+594,2466478029.0,254,38,32,123761.0,Bruno Fernandes,1640761,72.8,37.7,,,38,FirstHalf,SavedShot,Successful,True
+595,2466478067.0,368,38,167,121774.0,Ederson,1640761,1.1,51.2,,,38,FirstHalf,Save,Successful,True
+596,2466478057.0,367,38,167,121774.0,Ederson,1640761,1.1,51.2,,,38,FirstHalf,KeeperPickup,Successful,False
+597,2466478417.0,370,39,167,121774.0,Ederson,1640761,8.0,49.9,18.0,25.0,39,FirstHalf,Pass,Successful,True
+598,2466478513.0,371,39,167,297390.0,Manuel Akanji,1640761,24.8,22.6,24.5,7.0,39,FirstHalf,Pass,Successful,True
+599,2466478529.0,372,39,167,69778.0,Kyle Walker,1640761,24.2,6.7,,,39,FirstHalf,BallTouch,Successful,True
+600,2466479311.0,257,39,32,93206.0,Raphaël Varane,1640761,0.0,0.0,,,39,FirstHalf,SubstitutionOff,Successful,False
+601,2466479321.0,258,39,32,100008.0,Victor Lindelöf,1640761,0.0,0.0,,,39,FirstHalf,SubstitutionOn,Successful,False
+602,2466480231.0,376,40,167,69778.0,Kyle Walker,1640761,0.0,0.0,,,40,FirstHalf,SubstitutionOff,Successful,False
+603,2466480235.0,377,40,167,355110.0,Sergio Gómez,1640761,0.0,0.0,,,40,FirstHalf,SubstitutionOn,Successful,False
+604,2466480403.0,378,40,167,,,1640761,0.0,0.0,,,40,FirstHalf,FormationChange,Successful,False
+605,2466480503.0,260,40,32,346300.0,Jadon Sancho,1640761,68.5,100.0,90.9,57.9,40,FirstHalf,Pass,Unsuccessful,True
+606,2466480509.0,379,40,167,121774.0,Ederson,1640761,8.4,28.3,,,40,FirstHalf,KeeperPickup,Successful,False
+607,2466480553.0,380,40,167,121774.0,Ederson,1640761,12.1,46.0,15.4,75.6,40,FirstHalf,Pass,Successful,True
+608,2466480665.0,381,41,167,122945.0,Nathan Aké,1640761,18.8,74.6,8.2,46.4,41,FirstHalf,Pass,Successful,True
+609,2466480815.0,382,41,167,121774.0,Ederson,1640761,10.9,49.0,17.3,75.9,41,FirstHalf,Pass,Successful,True
+610,2466480879.0,383,41,167,122945.0,Nathan Aké,1640761,33.6,92.4,33.5,98.6,41,FirstHalf,Pass,Successful,True
+611,2466480941.0,384,41,167,355110.0,Sergio Gómez,1640761,31.3,95.7,25.1,69.8,41,FirstHalf,Pass,Successful,True
+612,2466480995.0,385,41,167,136741.0,Bernardo Silva,1640761,26.2,52.4,26.0,27.5,41,FirstHalf,Pass,Successful,True
+613,2466481033.0,386,41,167,297390.0,Manuel Akanji,1640761,26.2,27.4,58.4,11.6,41,FirstHalf,Pass,Unsuccessful,True
+614,2466481057.0,261,41,32,340105.0,Lisandro Martínez,1640761,44.3,85.1,,,41,FirstHalf,Interception,Successful,True
+615,2466481285.0,388,41,167,128967.0,João Cancelo,1640761,15.1,0.0,14.8,12.8,41,FirstHalf,Pass,Successful,True
+616,2466481299.0,389,41,167,297390.0,Manuel Akanji,1640761,14.8,12.8,12.7,3.5,41,FirstHalf,Pass,Successful,True
+617,2466481329.0,390,41,167,128967.0,João Cancelo,1640761,12.6,3.5,12.3,13.1,41,FirstHalf,Pass,Successful,True
+618,2466481337.0,391,41,167,297390.0,Manuel Akanji,1640761,12.3,13.3,,,41,FirstHalf,BallTouch,Successful,True
+619,2466481365.0,392,41,167,128967.0,João Cancelo,1640761,7.0,15.7,30.0,36.4,41,FirstHalf,Pass,Unsuccessful,True
+620,2466481443.0,263,41,32,336915.0,Scott McTominay,1640761,69.4,62.1,76.9,56.1,41,FirstHalf,Pass,Successful,True
+621,2466481453.0,264,41,32,123761.0,Bruno Fernandes,1640761,74.8,61.3,,,41,FirstHalf,Aerial,Successful,False
+622,2466481431.0,393,41,167,77464.0,Ilkay Gündogan,1640761,25.2,38.7,,,41,FirstHalf,Aerial,Unsuccessful,False
+623,2466481513.0,265,41,32,123761.0,Bruno Fernandes,1640761,76.9,56.1,71.4,68.5,41,FirstHalf,Pass,Successful,True
+624,2466481519.0,266,41,32,69344.0,Christian Eriksen,1640761,71.4,68.5,,,41,FirstHalf,BallRecovery,Successful,False
+625,2466481527.0,267,41,32,69344.0,Christian Eriksen,1640761,71.4,68.5,,,41,FirstHalf,BallTouch,Unsuccessful,True
+626,2466718845.0,754,41,32,69344.0,Christian Eriksen,1640761,71.9,79.0,,,41,FirstHalf,Challenge,Unsuccessful,False
+627,2466718975.0,864,41,167,73084.0,Kevin De Bruyne,1640761,28.1,21.0,,,41,FirstHalf,TakeOn,Successful,True
+628,2466481537.0,394,41,167,73084.0,Kevin De Bruyne,1640761,30.5,11.2,,,41,FirstHalf,BallRecovery,Successful,False
+629,2466481619.0,268,41,32,69344.0,Christian Eriksen,1640761,37.6,96.2,,,41,FirstHalf,Challenge,Unsuccessful,False
+630,2466481647.0,395,41,167,73084.0,Kevin De Bruyne,1640761,62.4,3.8,,,41,FirstHalf,TakeOn,Successful,True
+631,2466481699.0,396,41,167,73084.0,Kevin De Bruyne,1640761,72.2,1.1,72.8,28.4,41,FirstHalf,Pass,Successful,True
+632,2466481727.0,397,42,167,315227.0,Erling Haaland,1640761,79.4,41.8,88.5,67.8,42,FirstHalf,Pass,Successful,True
+633,2466481745.0,398,42,167,113069.0,Jack Grealish,1640761,90.4,66.9,91.3,63.8,42,FirstHalf,Pass,Unsuccessful,True
+634,2466481775.0,269,42,32,353418.0,Diogo Dalot,1640761,13.1,42.4,,,42,FirstHalf,BallTouch,Successful,True
+635,2466481769.0,399,42,167,315227.0,Erling Haaland,1640761,92.1,49.1,,,42,FirstHalf,BallTouch,Unsuccessful,True
+636,2466482557.0,272,42,32,79554.0,David de Gea,1640761,4.3,46.6,67.7,77.9,42,FirstHalf,Pass,Unsuccessful,True
+637,2466482571.0,401,42,167,128967.0,João Cancelo,1640761,37.2,23.0,,,42,FirstHalf,Interception,Successful,True
+638,2466482675.0,273,42,32,300299.0,Marcus Rashford,1640761,67.3,81.6,,,42,FirstHalf,TakeOn,Successful,True
+639,2466484275.0,407,42,167,128967.0,João Cancelo,1640761,32.7,18.4,,,42,FirstHalf,Challenge,Unsuccessful,False
+640,2466482703.0,274,42,32,300299.0,Marcus Rashford,1640761,88.6,84.7,77.2,73.2,42,FirstHalf,Pass,Successful,True
+641,2466482761.0,275,42,32,69344.0,Christian Eriksen,1640761,77.4,69.1,80.7,36.0,42,FirstHalf,Pass,Successful,True
+642,2466482763.0,276,42,32,364315.0,Antony,1640761,80.7,36.0,,,42,FirstHalf,SavedShot,Successful,True
+643,2466482775.0,402,42,167,355110.0,Sergio Gómez,1640761,15.0,60.3,,,42,FirstHalf,Save,Successful,True
+644,2466482813.0,403,42,167,73084.0,Kevin De Bruyne,1640761,39.1,43.3,,,42,FirstHalf,BallRecovery,Successful,False
+645,2466482915.0,404,43,167,73084.0,Kevin De Bruyne,1640761,61.5,51.3,73.2,75.9,43,FirstHalf,Pass,Successful,True
+646,2466482971.0,405,43,167,315227.0,Erling Haaland,1640761,84.0,75.8,95.0,45.4,43,FirstHalf,Pass,Successful,True
+647,2466482973.0,406,43,167,331254.0,Phil Foden,1640761,93.8,45.8,,,43,FirstHalf,Goal,Successful,True
+648,2466484355.0,277,44,32,123761.0,Bruno Fernandes,1640761,50.3,49.9,35.2,71.2,44,FirstHalf,Pass,Successful,True
+649,2466721565.0,755,44,32,340105.0,Lisandro Martínez,1640761,33.1,69.7,34.9,85.3,44,FirstHalf,Pass,Successful,True
+650,2466484387.0,278,44,32,345303.0,Tyrell Malacia,1640761,35.2,70.2,28.4,39.7,44,FirstHalf,Pass,Successful,True
+651,2466484437.0,279,44,32,100008.0,Victor Lindelöf,1640761,28.4,39.7,25.6,60.6,44,FirstHalf,Pass,Successful,True
+652,2466484613.0,280,44,32,340105.0,Lisandro Martínez,1640761,26.8,60.8,29.3,88.3,44,FirstHalf,Pass,Successful,True
+653,2466484721.0,281,44,32,345303.0,Tyrell Malacia,1640761,28.3,62.4,17.2,80.2,44,FirstHalf,Pass,Successful,True
+654,2466484837.0,282,44,32,340105.0,Lisandro Martínez,1640761,16.8,80.0,15.1,66.4,44,FirstHalf,Pass,Successful,True
+655,2466484883.0,283,44,32,345303.0,Tyrell Malacia,1640761,8.3,72.7,4.8,50.7,44,FirstHalf,Pass,Successful,True
+656,2466484933.0,284,44,32,79554.0,David de Gea,1640761,5.0,48.7,16.8,19.1,44,FirstHalf,Pass,Successful,True
+657,2466485027.0,285,45,32,100008.0,Victor Lindelöf,1640761,17.0,15.6,57.7,12.0,45,FirstHalf,Pass,Successful,True
+658,2466485087.0,286,45,32,364315.0,Antony,1640761,67.2,14.9,80.3,19.1,45,FirstHalf,Pass,Unsuccessful,True
+659,2466485115.0,409,45,167,297390.0,Manuel Akanji,1640761,13.5,93.8,,,45,FirstHalf,BallRecovery,Successful,False
+660,2466721567.0,756,45,32,346300.0,Jadon Sancho,1640761,84.7,5.2,,,45,FirstHalf,Challenge,Unsuccessful,False
+661,2466721749.0,865,45,167,297390.0,Manuel Akanji,1640761,15.3,94.8,,,45,FirstHalf,TakeOn,Successful,True
+662,2466485197.0,410,45,167,297390.0,Manuel Akanji,1640761,15.8,96.0,16.1,88.2,45,FirstHalf,Pass,Successful,True
+663,2466485237.0,411,45,167,355110.0,Sergio Gómez,1640761,16.0,88.2,30.7,100.0,45,FirstHalf,Pass,Unsuccessful,True
+664,2466485517.0,288,45,32,353418.0,Diogo Dalot,1640761,69.2,0.0,45.2,14.9,45,FirstHalf,Pass,Successful,True
+665,2466487345.0,304,45,32,100008.0,Victor Lindelöf,1640761,53.7,12.6,45.7,44.3,45,FirstHalf,Pass,Successful,True
+666,2466485559.0,289,45,32,340105.0,Lisandro Martínez,1640761,47.4,50.1,86.8,32.4,45,FirstHalf,Pass,Successful,True
+667,2466485601.0,290,45,32,123761.0,Bruno Fernandes,1640761,87.8,27.3,83.1,17.3,45,FirstHalf,Pass,Successful,True
+668,2466485635.0,291,45,32,364315.0,Antony,1640761,86.4,27.7,82.5,45.5,45,FirstHalf,Pass,Successful,True
+669,2466485671.0,292,45,32,69344.0,Christian Eriksen,1640761,80.6,36.6,82.6,13.8,45,FirstHalf,Pass,Successful,True
+670,2466485683.0,293,45,32,123761.0,Bruno Fernandes,1640761,88.4,13.4,95.5,47.5,45,FirstHalf,Pass,Unsuccessful,True
+671,2466485761.0,413,45,167,121774.0,Ederson,1640761,2.5,51.3,19.8,31.0,45,FirstHalf,Punch,Successful,True
+672,2466485795.0,295,45,32,345303.0,Tyrell Malacia,1640761,77.7,67.8,76.8,62.4,45,FirstHalf,Pass,Successful,True
+673,2466485837.0,296,45,32,69344.0,Christian Eriksen,1640761,76.8,62.4,100.0,38.8,45,FirstHalf,Pass,Unsuccessful,True
+674,2466486387.0,416,46,167,121774.0,Ederson,1640761,5.3,46.0,76.5,39.5,46,FirstHalf,Pass,Unsuccessful,True
+675,2466486407.0,298,46,32,100008.0,Victor Lindelöf,1640761,26.8,60.2,,,46,FirstHalf,Aerial,Successful,False
+676,2466486393.0,417,46,167,315227.0,Erling Haaland,1640761,73.2,39.8,,,46,FirstHalf,Aerial,Unsuccessful,False
+677,2466486429.0,299,46,32,100008.0,Victor Lindelöf,1640761,26.1,58.5,17.9,52.0,46,FirstHalf,Pass,Successful,True
+678,2466486459.0,300,46,32,353418.0,Diogo Dalot,1640761,18.2,47.8,,,46,FirstHalf,BallRecovery,Successful,False
+679,2466486465.0,301,46,32,353418.0,Diogo Dalot,1640761,18.2,47.8,39.6,63.9,46,FirstHalf,Pass,Unsuccessful,True
+680,2466486489.0,419,46,167,77464.0,Ilkay Gündogan,1640761,61.8,30.4,68.4,23.0,46,FirstHalf,Pass,Successful,True
+681,2466486507.0,420,46,167,73084.0,Kevin De Bruyne,1640761,68.4,21.7,,,46,FirstHalf,BallRecovery,Successful,False
+682,2466486579.0,421,46,167,73084.0,Kevin De Bruyne,1640761,68.8,18.2,72.9,8.3,46,FirstHalf,Pass,Successful,True
+683,2466486599.0,422,46,167,331254.0,Phil Foden,1640761,73.7,3.5,61.1,3.8,46,FirstHalf,Pass,Successful,True
+684,2466486623.0,423,46,167,128967.0,João Cancelo,1640761,60.2,5.0,40.4,16.1,46,FirstHalf,Pass,Successful,True
+685,2466486649.0,424,46,167,297390.0,Manuel Akanji,1640761,40.9,18.7,43.6,34.3,46,FirstHalf,Pass,Successful,True
+686,2466486699.0,425,46,167,136741.0,Bernardo Silva,1640761,43.6,34.3,22.5,63.5,46,FirstHalf,Pass,Successful,True
+687,2466486739.0,426,46,167,121774.0,Ederson,1640761,22.0,62.4,23.8,23.3,46,FirstHalf,Pass,Successful,True
+688,2466486805.0,427,46,167,297390.0,Manuel Akanji,1640761,20.8,25.3,8.6,54.9,46,FirstHalf,Pass,Successful,True
+689,2466486909.0,428,46,167,121774.0,Ederson,1640761,8.6,60.0,44.5,94.4,46,FirstHalf,Pass,Successful,True
+690,2466486903.0,303,47,32,,,1640761,0.0,0.0,,,47,FirstHalf,End,Successful,False
+691,2466486913.0,429,47,167,,,1640761,0.0,0.0,,,47,FirstHalf,End,Successful,False
+692,2466495523.0,305,45,32,345303.0,Tyrell Malacia,1640761,0.0,0.0,,,48,SecondHalf,SubstitutionOff,Successful,False
+693,2466495531.0,306,45,32,118244.0,Luke Shaw,1640761,0.0,0.0,,,48,SecondHalf,SubstitutionOn,Successful,False
+694,2466496245.0,307,45,32,,,1640761,0.0,0.0,,,48,SecondHalf,Start,Successful,False
+695,2466495837.0,430,45,167,,,1640761,0.0,0.0,,,48,SecondHalf,Start,Successful,False
+696,2466495879.0,431,45,167,315227.0,Erling Haaland,1640761,49.9,50.0,39.0,49.9,48,SecondHalf,Pass,Successful,True
+697,2466495899.0,432,45,167,77464.0,Ilkay Gündogan,1640761,36.5,44.5,35.0,7.6,48,SecondHalf,Pass,Successful,True
+698,2466495947.0,433,45,167,128967.0,João Cancelo,1640761,35.0,7.6,27.7,21.7,48,SecondHalf,Pass,Successful,True
+699,2466496059.0,434,45,167,297390.0,Manuel Akanji,1640761,27.8,22.4,12.6,48.4,48,SecondHalf,Pass,Successful,True
+700,2466496129.0,435,45,167,121774.0,Ederson,1640761,13.8,53.8,28.8,100.0,48,SecondHalf,Pass,Unsuccessful,True
+701,2466496471.0,309,45,32,353418.0,Diogo Dalot,1640761,56.1,0.0,24.8,22.2,48,SecondHalf,Pass,Successful,True
+702,2466496537.0,310,45,32,100008.0,Victor Lindelöf,1640761,24.8,22.2,8.7,45.1,48,SecondHalf,Pass,Successful,True
+703,2466496593.0,311,45,32,79554.0,David de Gea,1640761,8.8,52.2,19.8,95.6,48,SecondHalf,Pass,Successful,True
+704,2466496635.0,312,45,32,118244.0,Luke Shaw,1640761,20.8,96.0,32.0,92.0,48,SecondHalf,Pass,Successful,True
+705,2466496659.0,313,45,32,346300.0,Jadon Sancho,1640761,32.0,92.0,19.7,87.1,48,SecondHalf,Pass,Successful,True
+706,2466496685.0,314,45,32,340105.0,Lisandro Martínez,1640761,19.7,87.1,21.4,86.8,48,SecondHalf,Pass,Unsuccessful,True
+707,2466496689.0,437,45,167,331254.0,Phil Foden,1640761,76.4,19.4,,,48,SecondHalf,BlockedPass,Successful,True
+708,2466496701.0,438,45,167,331254.0,Phil Foden,1640761,87.9,23.5,,,48,SecondHalf,BallRecovery,Successful,False
+709,2466496757.0,439,45,167,331254.0,Phil Foden,1640761,93.3,31.5,,,48,SecondHalf,SavedShot,Successful,True
+710,2466496765.0,315,45,32,79554.0,David de Gea,1640761,1.6,54.7,,,48,SecondHalf,Save,Successful,True
+711,2466496863.0,316,45,32,118244.0,Luke Shaw,1640761,7.1,61.1,18.9,81.5,48,SecondHalf,Clearance,Successful,True
+712,2466496879.0,318,45,32,346300.0,Jadon Sancho,1640761,23.7,84.4,,,48,SecondHalf,BallRecovery,Successful,False
+713,2466500847.0,376,45,32,346300.0,Jadon Sancho,1640761,24.5,80.0,30.5,78.5,48,SecondHalf,Pass,Unsuccessful,True
+714,2466496821.0,440,45,167,77464.0,Ilkay Gündogan,1640761,72.0,23.2,,,48,SecondHalf,Interception,Successful,True
+715,2466502117.0,479,45,167,77464.0,Ilkay Gündogan,1640761,67.0,20.2,,,48,SecondHalf,BallTouch,Unsuccessful,True
+716,2466496889.0,319,45,32,346300.0,Jadon Sancho,1640761,28.4,83.0,,,48,SecondHalf,TakeOn,Unsuccessful,True
+717,2466496867.0,441,45,167,128967.0,João Cancelo,1640761,71.6,17.0,,,48,SecondHalf,Tackle,Successful,True
+718,2466496919.0,442,45,167,128967.0,João Cancelo,1640761,68.0,5.6,,,48,SecondHalf,BallRecovery,Successful,False
+719,2466496949.0,443,45,167,128967.0,João Cancelo,1640761,67.8,6.4,68.8,26.0,48,SecondHalf,Pass,Successful,True
+720,2466496993.0,444,46,167,77464.0,Ilkay Gündogan,1640761,68.9,26.9,77.8,66.5,49,SecondHalf,Pass,Unsuccessful,True
+721,2466497011.0,320,46,32,353418.0,Diogo Dalot,1640761,22.7,32.1,,,49,SecondHalf,Interception,Successful,True
+722,2466497025.0,321,46,32,353418.0,Diogo Dalot,1640761,23.1,37.0,,,49,SecondHalf,BallRecovery,Successful,False
+723,2466497201.0,322,46,32,353418.0,Diogo Dalot,1640761,20.9,35.1,23.5,13.1,49,SecondHalf,Pass,Successful,True
+724,2466724689.0,757,46,32,364315.0,Antony,1640761,32.5,3.5,,,49,SecondHalf,TakeOn,Unsuccessful,True
+725,2466497213.0,323,46,32,364315.0,Antony,1640761,24.9,11.3,26.3,19.1,49,SecondHalf,Pass,Successful,True
+726,2466497231.0,324,46,32,336915.0,Scott McTominay,1640761,25.6,19.7,22.3,16.1,49,SecondHalf,Pass,Successful,True
+727,2466497259.0,325,46,32,364315.0,Antony,1640761,22.1,16.1,28.0,31.5,49,SecondHalf,Pass,Successful,True
+728,2466497269.0,326,46,32,69344.0,Christian Eriksen,1640761,28.0,31.5,25.9,27.7,49,SecondHalf,Pass,Successful,True
+729,2466497317.0,327,46,32,336915.0,Scott McTominay,1640761,25.4,30.3,18.5,48.4,49,SecondHalf,Pass,Successful,True
+730,2466497363.0,328,46,32,340105.0,Lisandro Martínez,1640761,22.3,55.5,40.8,72.0,49,SecondHalf,Pass,Successful,True
+731,2466497417.0,329,46,32,123761.0,Bruno Fernandes,1640761,51.3,78.1,54.7,95.3,49,SecondHalf,Pass,Successful,True
+732,2466497447.0,330,46,32,118244.0,Luke Shaw,1640761,58.2,94.4,67.5,80.0,49,SecondHalf,Pass,Successful,True
+733,2466497471.0,331,46,32,123761.0,Bruno Fernandes,1640761,67.7,85.6,67.9,93.0,49,SecondHalf,Pass,Successful,True
+734,2466497487.0,332,46,32,346300.0,Jadon Sancho,1640761,67.9,93.0,64.1,83.5,49,SecondHalf,Pass,Successful,True
+735,2466497503.0,333,46,32,118244.0,Luke Shaw,1640761,64.1,83.5,63.5,94.7,49,SecondHalf,Pass,Successful,True
+736,2466497587.0,334,46,32,123761.0,Bruno Fernandes,1640761,63.5,94.7,57.8,88.9,49,SecondHalf,Pass,Successful,True
+737,2466497619.0,335,46,32,69344.0,Christian Eriksen,1640761,56.8,89.1,47.5,74.1,49,SecondHalf,Pass,Successful,True
+738,2466497643.0,336,46,32,340105.0,Lisandro Martínez,1640761,47.2,73.2,58.9,70.0,49,SecondHalf,Pass,Successful,True
+739,2466497715.0,337,46,32,336915.0,Scott McTominay,1640761,57.2,72.3,46.8,74.1,49,SecondHalf,Pass,Successful,True
+740,2466497781.0,338,46,32,340105.0,Lisandro Martínez,1640761,47.0,71.1,45.4,54.2,49,SecondHalf,Pass,Successful,True
+741,2466497817.0,339,46,32,100008.0,Victor Lindelöf,1640761,49.1,61.7,51.9,95.6,49,SecondHalf,Pass,Successful,True
+742,2466497913.0,340,46,32,69344.0,Christian Eriksen,1640761,51.4,90.2,62.0,67.9,49,SecondHalf,Pass,Successful,True
+743,2466497945.0,341,46,32,123761.0,Bruno Fernandes,1640761,62.7,59.0,60.8,20.0,49,SecondHalf,Pass,Successful,True
+744,2466498057.0,342,46,32,353418.0,Diogo Dalot,1640761,60.7,19.4,73.7,6.7,49,SecondHalf,Pass,Successful,True
+745,2466498105.0,343,47,32,364315.0,Antony,1640761,83.8,12.5,72.9,19.5,50,SecondHalf,Pass,Successful,True
+746,2466498127.0,344,47,32,336915.0,Scott McTominay,1640761,70.7,26.7,63.2,48.1,50,SecondHalf,Pass,Successful,True
+747,2466498177.0,345,47,32,100008.0,Victor Lindelöf,1640761,63.0,49.1,59.1,65.7,50,SecondHalf,Pass,Successful,True
+748,2466498219.0,346,47,32,340105.0,Lisandro Martínez,1640761,65.8,54.9,,,50,SecondHalf,TakeOn,Successful,True
+749,2466498187.0,445,47,167,73084.0,Kevin De Bruyne,1640761,34.2,45.1,,,50,SecondHalf,Challenge,Unsuccessful,False
+750,2466498255.0,347,47,32,340105.0,Lisandro Martínez,1640761,66.7,60.5,77.6,85.4,50,SecondHalf,Pass,Successful,True
+751,2466498261.0,348,47,32,346300.0,Jadon Sancho,1640761,78.9,83.2,,,50,SecondHalf,Dispossessed,Successful,True
+752,2466498285.0,446,47,167,331254.0,Phil Foden,1640761,21.1,16.8,,,50,SecondHalf,Tackle,Successful,True
+753,2466498297.0,447,47,167,128967.0,João Cancelo,1640761,9.6,22.6,,,50,SecondHalf,BallRecovery,Successful,False
+754,2466498339.0,448,47,167,128967.0,João Cancelo,1640761,7.0,15.7,8.7,12.5,50,SecondHalf,Pass,Unsuccessful,True
+755,2466498345.0,349,47,32,346300.0,Jadon Sancho,1640761,87.7,88.3,,,50,SecondHalf,Interception,Successful,True
+756,2466498363.0,350,47,32,346300.0,Jadon Sancho,1640761,89.8,89.7,,,50,SecondHalf,BallRecovery,Successful,False
+757,2466498397.0,351,47,32,346300.0,Jadon Sancho,1640761,94.7,89.1,,,50,SecondHalf,TakeOn,Unsuccessful,True
+758,2466498407.0,449,47,167,128967.0,João Cancelo,1640761,5.3,10.9,,,50,SecondHalf,Tackle,Unsuccessful,True
+759,2466498431.0,352,47,32,118244.0,Luke Shaw,1640761,88.6,93.5,89.4,69.6,50,SecondHalf,Pass,Unsuccessful,True
+760,2466498457.0,450,47,167,297390.0,Manuel Akanji,1640761,7.8,26.0,25.5,27.2,50,SecondHalf,Clearance,Successful,True
+761,2466498589.0,353,47,32,336915.0,Scott McTominay,1640761,68.0,74.5,59.9,79.1,50,SecondHalf,Pass,Successful,True
+762,2466498625.0,354,47,32,340105.0,Lisandro Martínez,1640761,56.4,76.6,61.5,70.2,50,SecondHalf,Pass,Successful,True
+763,2466498691.0,355,47,32,336915.0,Scott McTominay,1640761,57.9,70.6,45.5,49.4,50,SecondHalf,Pass,Successful,True
+764,2466498743.0,356,47,32,100008.0,Victor Lindelöf,1640761,53.6,36.6,68.6,5.6,50,SecondHalf,Pass,Successful,True
+765,2466498799.0,357,47,32,353418.0,Diogo Dalot,1640761,72.1,6.4,69.2,17.7,50,SecondHalf,Pass,Successful,True
+766,2466498817.0,358,47,32,364315.0,Antony,1640761,68.7,19.5,67.5,37.3,50,SecondHalf,Pass,Successful,True
+767,2466498853.0,359,47,32,336915.0,Scott McTominay,1640761,67.5,37.3,72.4,32.4,50,SecondHalf,Pass,Successful,True
+768,2466498871.0,360,47,32,300299.0,Marcus Rashford,1640761,72.4,32.4,59.1,27.3,50,SecondHalf,Pass,Successful,True
+769,2466499021.0,361,47,32,100008.0,Victor Lindelöf,1640761,59.1,27.3,64.3,16.5,50,SecondHalf,Pass,Successful,True
+770,2466499071.0,362,47,32,364315.0,Antony,1640761,67.7,9.4,53.7,25.9,50,SecondHalf,Pass,Successful,True
+771,2466499109.0,363,47,32,100008.0,Victor Lindelöf,1640761,53.7,25.9,50.8,41.3,50,SecondHalf,Pass,Successful,True
+772,2466499147.0,364,48,32,340105.0,Lisandro Martínez,1640761,51.1,41.0,53.9,16.5,51,SecondHalf,Pass,Successful,True
+773,2466499193.0,365,48,32,100008.0,Victor Lindelöf,1640761,53.7,15.3,60.7,19.1,51,SecondHalf,Pass,Unsuccessful,True
+774,2466502951.0,484,48,167,113069.0,Jack Grealish,1640761,40.9,88.2,,,51,SecondHalf,Interception,Successful,True
+775,2466499335.0,367,48,32,69344.0,Christian Eriksen,1640761,64.9,66.4,67.6,82.4,51,SecondHalf,Pass,Unsuccessful,True
+776,2466499363.0,368,48,32,118244.0,Luke Shaw,1640761,69.8,81.0,,,51,SecondHalf,Challenge,Unsuccessful,False
+777,2466499371.0,451,48,167,128967.0,João Cancelo,1640761,30.2,19.0,,,51,SecondHalf,TakeOn,Successful,True
+778,2466499375.0,452,48,167,128967.0,João Cancelo,1640761,34.6,23.0,,,51,SecondHalf,BallRecovery,Successful,False
+779,2466499493.0,453,48,167,128967.0,João Cancelo,1640761,40.8,25.8,,,51,SecondHalf,Foul,Successful,True
+780,2466499487.0,369,48,32,123761.0,Bruno Fernandes,1640761,59.2,74.2,,,51,SecondHalf,Foul,Unsuccessful,False
+781,2466499655.0,454,48,167,128967.0,João Cancelo,1640761,42.8,23.6,42.4,30.7,51,SecondHalf,Pass,Successful,True
+782,2466499687.0,455,48,167,77464.0,Ilkay Gündogan,1640761,42.4,30.7,32.0,27.7,51,SecondHalf,Pass,Successful,True
+783,2466499779.0,456,48,167,297390.0,Manuel Akanji,1640761,32.1,28.9,30.7,62.7,51,SecondHalf,Pass,Successful,True
+784,2466499861.0,457,48,167,122945.0,Nathan Aké,1640761,52.5,71.7,94.7,100.0,51,SecondHalf,Pass,Unsuccessful,True
+785,2466500203.0,371,48,32,353418.0,Diogo Dalot,1640761,10.8,0.0,27.9,4.7,51,SecondHalf,Pass,Successful,True
+786,2466500215.0,372,48,32,364315.0,Antony,1640761,27.0,4.0,,,51,SecondHalf,Dispossessed,Successful,True
+787,2466500223.0,459,48,167,355110.0,Sergio Gómez,1640761,73.0,96.0,,,51,SecondHalf,Tackle,Unsuccessful,True
+788,2466500289.0,373,48,32,353418.0,Diogo Dalot,1640761,19.4,8.0,8.4,16.1,51,SecondHalf,Pass,Successful,True
+789,2466500323.0,374,48,32,100008.0,Victor Lindelöf,1640761,8.4,16.1,1.7,39.8,51,SecondHalf,Pass,Successful,True
+790,2466500403.0,375,49,32,79554.0,David de Gea,1640761,1.7,39.8,54.1,33.1,52,SecondHalf,Pass,Unsuccessful,True
+791,2466500423.0,460,49,167,297390.0,Manuel Akanji,1640761,44.5,67.2,,,52,SecondHalf,BallRecovery,Successful,False
+792,2466500517.0,461,49,167,297390.0,Manuel Akanji,1640761,50.9,63.9,43.8,48.2,52,SecondHalf,Pass,Successful,True
+793,2466500657.0,462,49,167,128967.0,João Cancelo,1640761,40.0,54.8,15.4,57.0,52,SecondHalf,Pass,Successful,True
+794,2466500683.0,463,49,167,121774.0,Ederson,1640761,18.0,57.2,24.9,32.3,52,SecondHalf,Pass,Successful,True
+795,2466500757.0,464,49,167,297390.0,Manuel Akanji,1640761,24.9,32.9,18.4,56.0,52,SecondHalf,Pass,Successful,True
+796,2466500801.0,465,49,167,121774.0,Ederson,1640761,18.4,61.4,31.2,95.6,52,SecondHalf,Pass,Successful,True
+797,2466500923.0,466,49,167,355110.0,Sergio Gómez,1640761,38.1,95.0,28.8,85.7,52,SecondHalf,Pass,Successful,True
+798,2466501013.0,467,49,167,136741.0,Bernardo Silva,1640761,25.4,87.0,11.5,83.9,52,SecondHalf,Pass,Successful,True
+799,2466501083.0,468,49,167,122945.0,Nathan Aké,1640761,4.6,84.9,31.6,92.7,52,SecondHalf,Pass,Successful,True
+800,2466503971.0,488,49,167,113069.0,Jack Grealish,1640761,34.6,90.1,,,52,SecondHalf,Aerial,Successful,False
+801,2466504797.0,416,49,32,353418.0,Diogo Dalot,1640761,65.4,9.9,,,52,SecondHalf,Aerial,Unsuccessful,False
+802,2466504023.0,489,49,167,113069.0,Jack Grealish,1640761,32.1,90.8,43.5,90.5,52,SecondHalf,Pass,Successful,True
+803,2466501097.0,469,49,167,315227.0,Erling Haaland,1640761,41.2,95.6,,,52,SecondHalf,Dispossessed,Successful,True
+804,2466501119.0,377,49,32,100008.0,Victor Lindelöf,1640761,58.8,4.4,,,52,SecondHalf,Tackle,Successful,True
+805,2466501559.0,471,50,167,355110.0,Sergio Gómez,1640761,36.2,100.0,38.2,84.9,53,SecondHalf,Pass,Successful,True
+806,2466501589.0,472,50,167,136741.0,Bernardo Silva,1640761,38.2,84.9,30.7,94.7,53,SecondHalf,Pass,Successful,True
+807,2466501765.0,473,50,167,355110.0,Sergio Gómez,1640761,30.7,94.7,5.7,67.5,53,SecondHalf,Pass,Successful,True
+808,2466501889.0,474,50,167,121774.0,Ederson,1640761,8.6,56.3,16.2,29.5,53,SecondHalf,Pass,Successful,True
+809,2466501961.0,475,50,167,297390.0,Manuel Akanji,1640761,52.8,45.7,65.9,91.2,53,SecondHalf,Pass,Successful,True
+810,2466502001.0,476,50,167,113069.0,Jack Grealish,1640761,78.6,75.6,95.2,75.6,53,SecondHalf,Pass,Successful,True
+811,2466502013.0,477,50,167,355110.0,Sergio Gómez,1640761,95.7,75.6,95.2,71.9,53,SecondHalf,Pass,Unsuccessful,True
+812,2466502029.0,379,50,32,353418.0,Diogo Dalot,1640761,6.2,24.7,,,53,SecondHalf,BlockedPass,Successful,True
+813,2466502073.0,380,50,32,353418.0,Diogo Dalot,1640761,5.5,26.4,,,53,SecondHalf,CornerAwarded,Unsuccessful,False
+814,2466502065.0,478,50,167,355110.0,Sergio Gómez,1640761,94.5,73.6,,,53,SecondHalf,CornerAwarded,Successful,False
+815,2466502647.0,480,51,167,73084.0,Kevin De Bruyne,1640761,99.7,99.3,97.3,48.2,54,SecondHalf,Pass,Unsuccessful,True
+816,2466502669.0,381,51,32,100008.0,Victor Lindelöf,1640761,6.7,51.0,10.5,67.0,54,SecondHalf,Clearance,Successful,True
+817,2466502691.0,481,51,167,315227.0,Erling Haaland,1640761,90.5,28.1,75.1,52.8,54,SecondHalf,Pass,Unsuccessful,True
+818,2466502707.0,382,51,32,364315.0,Antony,1640761,29.5,38.8,,,54,SecondHalf,BallRecovery,Successful,False
+819,2466502763.0,383,51,32,364315.0,Antony,1640761,29.5,38.8,29.4,29.2,54,SecondHalf,Pass,Successful,True
+820,2466502769.0,384,51,32,346300.0,Jadon Sancho,1640761,30.5,12.2,32.6,11.8,54,SecondHalf,Pass,Unsuccessful,True
+821,2466502803.0,482,51,167,73084.0,Kevin De Bruyne,1640761,68.2,85.8,,,54,SecondHalf,BlockedPass,Successful,True
+822,2466502939.0,386,51,32,123761.0,Bruno Fernandes,1640761,29.0,0.0,21.8,6.5,54,SecondHalf,Pass,Successful,True
+823,2466503013.0,387,51,32,353418.0,Diogo Dalot,1640761,21.8,8.3,15.2,28.8,54,SecondHalf,Pass,Successful,True
+824,2466503059.0,388,51,32,100008.0,Victor Lindelöf,1640761,18.2,30.3,14.4,55.2,54,SecondHalf,Pass,Successful,True
+825,2466503119.0,389,51,32,340105.0,Lisandro Martínez,1640761,14.4,55.8,26.5,59.4,54,SecondHalf,Pass,Successful,True
+826,2466503149.0,390,51,32,69344.0,Christian Eriksen,1640761,33.9,51.5,48.6,53.9,54,SecondHalf,Pass,Successful,True
+827,2466503191.0,391,51,32,300299.0,Marcus Rashford,1640761,48.6,53.9,43.7,49.7,54,SecondHalf,Pass,Successful,True
+828,2466503319.0,392,51,32,336915.0,Scott McTominay,1640761,43.7,49.7,57.1,89.4,54,SecondHalf,Pass,Successful,True
+829,2466503391.0,393,51,32,118244.0,Luke Shaw,1640761,62.4,91.2,57.5,82.6,54,SecondHalf,Pass,Successful,True
+830,2466503439.0,394,51,32,69344.0,Christian Eriksen,1640761,56.8,78.8,51.4,69.6,54,SecondHalf,Pass,Successful,True
+831,2466503487.0,395,51,32,340105.0,Lisandro Martínez,1640761,51.5,71.1,60.9,71.5,54,SecondHalf,Pass,Successful,True
+832,2466503509.0,396,51,32,300299.0,Marcus Rashford,1640761,60.4,71.5,53.7,60.3,54,SecondHalf,Pass,Unsuccessful,True
+833,2466506975.0,519,51,167,315227.0,Erling Haaland,1640761,44.6,41.8,,,54,SecondHalf,Interception,Successful,True
+834,2466503545.0,485,51,167,315227.0,Erling Haaland,1640761,45.6,39.4,,,54,SecondHalf,BallRecovery,Successful,False
+835,2466503573.0,486,51,167,315227.0,Erling Haaland,1640761,42.6,38.2,44.6,33.8,54,SecondHalf,Pass,Successful,True
+836,2466503635.0,487,51,167,73084.0,Kevin De Bruyne,1640761,54.4,29.6,86.6,11.3,54,SecondHalf,Pass,Unsuccessful,True
+837,2466503637.0,397,52,32,340105.0,Lisandro Martínez,1640761,15.5,90.9,,,55,SecondHalf,BallRecovery,Successful,False
+838,2466503697.0,398,52,32,340105.0,Lisandro Martínez,1640761,15.5,90.9,4.8,66.3,55,SecondHalf,Pass,Successful,True
+839,2466503761.0,399,52,32,79554.0,David de Gea,1640761,3.7,56.0,11.0,60.8,55,SecondHalf,Pass,Successful,True
+840,2466503837.0,400,52,32,69344.0,Christian Eriksen,1640761,12.3,62.3,25.1,94.4,55,SecondHalf,Pass,Successful,True
+841,2466503911.0,401,52,32,118244.0,Luke Shaw,1640761,26.7,93.6,26.3,86.6,55,SecondHalf,Pass,Successful,True
+842,2466503981.0,402,52,32,340105.0,Lisandro Martínez,1640761,27.5,80.2,24.0,47.6,55,SecondHalf,Pass,Successful,True
+843,2466504047.0,403,52,32,100008.0,Victor Lindelöf,1640761,24.1,50.6,26.1,70.5,55,SecondHalf,Pass,Successful,True
+844,2466504195.0,404,52,32,340105.0,Lisandro Martínez,1640761,31.5,72.0,26.2,43.3,55,SecondHalf,Pass,Successful,True
+845,2466504265.0,405,52,32,100008.0,Victor Lindelöf,1640761,27.7,33.7,60.7,7.9,55,SecondHalf,Pass,Successful,True
+846,2466504359.0,406,52,32,353418.0,Diogo Dalot,1640761,62.8,10.1,63.9,27.3,55,SecondHalf,Pass,Successful,True
+847,2466504387.0,407,52,32,300299.0,Marcus Rashford,1640761,73.2,65.8,83.2,83.2,55,SecondHalf,Pass,Successful,True
+848,2466504423.0,408,52,32,118244.0,Luke Shaw,1640761,83.3,83.2,78.2,74.5,55,SecondHalf,Pass,Successful,True
+849,2466504445.0,409,52,32,69344.0,Christian Eriksen,1640761,76.7,71.4,75.0,51.2,55,SecondHalf,Pass,Successful,True
+850,2466504461.0,410,52,32,346300.0,Jadon Sancho,1640761,74.1,49.4,71.5,54.8,55,SecondHalf,Pass,Successful,True
+851,2466504507.0,411,52,32,123761.0,Bruno Fernandes,1640761,71.6,50.4,75.0,26.8,55,SecondHalf,Pass,Successful,True
+852,2466504595.0,412,52,32,353418.0,Diogo Dalot,1640761,75.7,28.3,82.5,23.7,55,SecondHalf,Pass,Successful,True
+853,2466504663.0,413,52,32,364315.0,Antony,1640761,84.9,20.4,77.1,23.6,55,SecondHalf,Pass,Successful,True
+854,2466504693.0,414,52,32,353418.0,Diogo Dalot,1640761,76.0,42.8,74.0,63.0,55,SecondHalf,Pass,Successful,True
+855,2466504705.0,415,53,32,118244.0,Luke Shaw,1640761,74.0,63.0,80.5,67.2,56,SecondHalf,Pass,Unsuccessful,True
+856,2466504709.0,490,53,167,331254.0,Phil Foden,1640761,19.2,29.3,,,56,SecondHalf,Interception,Successful,True
+857,2466504727.0,491,53,167,136741.0,Bernardo Silva,1640761,19.4,32.6,,,56,SecondHalf,BallRecovery,Successful,False
+858,2466504759.0,492,53,167,136741.0,Bernardo Silva,1640761,20.2,31.9,33.7,31.9,56,SecondHalf,Pass,Successful,True
+859,2466504781.0,493,53,167,73084.0,Kevin De Bruyne,1640761,34.4,32.2,45.3,46.0,56,SecondHalf,Pass,Successful,True
+860,2466504847.0,494,53,167,315227.0,Erling Haaland,1640761,46.9,42.5,68.7,4.4,56,SecondHalf,Pass,Successful,True
+861,2466504899.0,495,53,167,73084.0,Kevin De Bruyne,1640761,68.7,4.4,58.0,9.1,56,SecondHalf,Pass,Successful,True
+862,2466504943.0,496,53,167,331254.0,Phil Foden,1640761,58.0,9.5,54.1,21.1,56,SecondHalf,Pass,Successful,True
+863,2466505053.0,497,53,167,136741.0,Bernardo Silva,1640761,54.4,21.2,62.4,7.3,56,SecondHalf,Pass,Successful,True
+864,2466505079.0,498,53,167,331254.0,Phil Foden,1640761,65.5,6.0,66.0,3.4,56,SecondHalf,Pass,Successful,True
+865,2466505089.0,499,53,167,73084.0,Kevin De Bruyne,1640761,65.8,3.1,55.8,13.3,56,SecondHalf,Pass,Successful,True
+866,2466505155.0,500,53,167,128967.0,João Cancelo,1640761,55.7,13.4,59.5,22.7,56,SecondHalf,Pass,Successful,True
+867,2466505193.0,501,53,167,136741.0,Bernardo Silva,1640761,62.1,25.3,55.2,18.1,56,SecondHalf,Pass,Successful,True
+868,2466505221.0,502,53,167,128967.0,João Cancelo,1640761,55.2,18.1,63.7,2.9,56,SecondHalf,Pass,Successful,True
+869,2466505253.0,503,53,167,73084.0,Kevin De Bruyne,1640761,64.9,2.9,64.5,26.3,56,SecondHalf,Pass,Successful,True
+870,2466505281.0,504,53,167,136741.0,Bernardo Silva,1640761,64.8,26.3,56.4,10.7,56,SecondHalf,Pass,Successful,True
+871,2466505329.0,505,53,167,128967.0,João Cancelo,1640761,56.4,10.7,59.4,19.4,56,SecondHalf,Pass,Successful,True
+872,2466505375.0,506,53,167,136741.0,Bernardo Silva,1640761,54.4,25.1,51.1,39.2,56,SecondHalf,Pass,Successful,True
+873,2466505429.0,507,53,167,77464.0,Ilkay Gündogan,1640761,51.6,30.1,47.1,7.1,56,SecondHalf,Pass,Successful,True
+874,2466505475.0,508,53,167,128967.0,João Cancelo,1640761,47.1,7.1,35.8,32.0,56,SecondHalf,Pass,Successful,True
+875,2466505613.0,509,53,167,297390.0,Manuel Akanji,1640761,35.8,32.0,29.0,56.1,56,SecondHalf,Pass,Successful,True
+876,2466505675.0,510,53,167,122945.0,Nathan Aké,1640761,31.8,60.9,31.2,27.7,56,SecondHalf,Pass,Successful,True
+877,2466505715.0,511,53,167,297390.0,Manuel Akanji,1640761,32.6,25.0,44.3,22.3,56,SecondHalf,Pass,Successful,True
+878,2466505795.0,512,53,167,331254.0,Phil Foden,1640761,44.4,22.3,26.7,11.0,56,SecondHalf,Pass,Successful,True
+879,2466506021.0,513,53,167,297390.0,Manuel Akanji,1640761,26.7,11.0,13.3,44.3,56,SecondHalf,Pass,Successful,True
+880,2466506055.0,514,54,167,121774.0,Ederson,1640761,22.1,53.9,27.0,3.4,57,SecondHalf,Pass,Successful,True
+881,2466506107.0,515,54,167,128967.0,João Cancelo,1640761,27.0,3.4,18.5,14.8,57,SecondHalf,Pass,Successful,True
+882,2466506205.0,516,54,167,297390.0,Manuel Akanji,1640761,18.5,14.8,8.5,46.9,57,SecondHalf,Pass,Successful,True
+883,2466506277.0,517,54,167,121774.0,Ederson,1640761,8.3,51.6,31.8,100.0,57,SecondHalf,Pass,Unsuccessful,True
+884,2466506471.0,418,54,32,353418.0,Diogo Dalot,1640761,59.1,0.0,48.6,13.4,57,SecondHalf,Pass,Successful,True
+885,2466731561.0,758,54,32,336915.0,Scott McTominay,1640761,47.0,12.4,29.1,12.1,57,SecondHalf,Pass,Successful,True
+886,2466506501.0,419,54,32,100008.0,Victor Lindelöf,1640761,30.0,22.7,8.1,40.6,57,SecondHalf,Pass,Successful,True
+887,2466506553.0,420,54,32,79554.0,David de Gea,1640761,8.1,40.6,18.3,72.9,57,SecondHalf,Pass,Successful,True
+888,2466506569.0,421,54,32,340105.0,Lisandro Martínez,1640761,17.2,72.0,7.1,54.9,57,SecondHalf,Pass,Successful,True
+889,2466506621.0,422,54,32,79554.0,David de Gea,1640761,7.8,58.8,15.3,81.7,57,SecondHalf,Pass,Successful,True
+890,2466506637.0,423,54,32,340105.0,Lisandro Martínez,1640761,15.3,82.7,20.4,93.8,57,SecondHalf,Pass,Successful,True
+891,2466506663.0,424,54,32,118244.0,Luke Shaw,1640761,20.4,93.8,23.8,82.1,57,SecondHalf,Pass,Successful,True
+892,2466506705.0,425,54,32,336915.0,Scott McTominay,1640761,23.8,82.1,15.9,84.8,57,SecondHalf,Pass,Successful,True
+893,2466506769.0,426,54,32,118244.0,Luke Shaw,1640761,13.6,84.1,5.1,68.8,57,SecondHalf,Pass,Successful,True
+894,2466506839.0,427,54,32,79554.0,David de Gea,1640761,3.5,58.4,15.3,8.2,57,SecondHalf,Pass,Successful,True
+895,2466507013.0,428,54,32,353418.0,Diogo Dalot,1640761,17.7,6.8,17.9,26.2,57,SecondHalf,Pass,Successful,True
+896,2466507091.0,429,55,32,100008.0,Victor Lindelöf,1640761,34.5,31.5,32.2,12.2,58,SecondHalf,Pass,Successful,True
+897,2466507147.0,430,55,32,353418.0,Diogo Dalot,1640761,34.4,23.4,29.0,64.6,58,SecondHalf,Pass,Successful,True
+898,2466507197.0,431,55,32,340105.0,Lisandro Martínez,1640761,28.9,64.6,35.4,85.7,58,SecondHalf,Pass,Successful,True
+899,2466507287.0,432,55,32,69344.0,Christian Eriksen,1640761,35.4,85.7,51.5,78.1,58,SecondHalf,Pass,Successful,True
+900,2466507317.0,433,55,32,346300.0,Jadon Sancho,1640761,58.9,86.8,60.2,96.3,58,SecondHalf,Pass,Successful,True
+901,2466507363.0,434,55,32,118244.0,Luke Shaw,1640761,60.2,96.3,54.3,90.8,58,SecondHalf,Pass,Successful,True
+902,2466507515.0,435,55,32,69344.0,Christian Eriksen,1640761,54.1,86.6,73.2,22.1,58,SecondHalf,Pass,Successful,True
+903,2466507521.0,436,55,32,364315.0,Antony,1640761,77.1,37.7,,,58,SecondHalf,Goal,Successful,True
+904,2466507897.0,520,55,167,315227.0,Erling Haaland,1640761,50.1,50.0,33.0,49.7,58,SecondHalf,Pass,Successful,True
+905,2466507941.0,521,55,167,77464.0,Ilkay Gündogan,1640761,31.1,46.6,30.1,6.2,58,SecondHalf,Pass,Successful,True
+906,2466508091.0,522,56,167,128967.0,João Cancelo,1640761,30.5,9.4,22.4,33.7,59,SecondHalf,Pass,Successful,True
+907,2466508153.0,523,56,167,297390.0,Manuel Akanji,1640761,22.4,33.2,10.0,44.3,59,SecondHalf,Pass,Successful,True
+908,2466508223.0,524,56,167,121774.0,Ederson,1640761,8.3,53.7,12.8,23.8,59,SecondHalf,Pass,Successful,True
+909,2466508277.0,525,56,167,297390.0,Manuel Akanji,1640761,19.4,21.8,14.9,53.1,59,SecondHalf,Pass,Successful,True
+910,2466508365.0,526,56,167,121774.0,Ederson,1640761,14.8,56.6,27.1,96.9,59,SecondHalf,Pass,Successful,True
+911,2466508369.0,527,56,167,355110.0,Sergio Gómez,1640761,33.6,89.8,,,59,SecondHalf,Dispossessed,Successful,True
+912,2466508375.0,437,56,32,364315.0,Antony,1640761,66.4,10.2,,,59,SecondHalf,Tackle,Unsuccessful,True
+913,2466508421.0,528,56,167,355110.0,Sergio Gómez,1640761,24.8,89.6,23.9,75.8,59,SecondHalf,Pass,Successful,True
+914,2466508497.0,529,56,167,77464.0,Ilkay Gündogan,1640761,23.7,83.0,8.2,57.0,59,SecondHalf,Pass,Successful,True
+915,2466508571.0,530,56,167,121774.0,Ederson,1640761,8.7,57.0,9.8,71.6,59,SecondHalf,Pass,Successful,True
+916,2466508603.0,531,56,167,122945.0,Nathan Aké,1640761,9.8,71.6,26.1,80.1,59,SecondHalf,Pass,Unsuccessful,True
+917,2466508629.0,438,56,32,336915.0,Scott McTominay,1640761,66.0,22.1,,,59,SecondHalf,BallRecovery,Successful,False
+918,2466508691.0,439,56,32,336915.0,Scott McTominay,1640761,66.0,22.1,65.8,13.8,59,SecondHalf,Pass,Successful,True
+919,2466508751.0,440,56,32,364315.0,Antony,1640761,64.8,11.7,57.7,16.5,59,SecondHalf,Pass,Successful,True
+920,2466508769.0,441,56,32,353418.0,Diogo Dalot,1640761,56.3,25.2,45.9,50.0,59,SecondHalf,Pass,Successful,True
+921,2466508815.0,442,56,32,340105.0,Lisandro Martínez,1640761,45.9,50.0,53.7,65.8,59,SecondHalf,Pass,Successful,True
+922,2466508881.0,443,56,32,69344.0,Christian Eriksen,1640761,55.1,68.8,66.4,96.0,59,SecondHalf,Pass,Successful,True
+923,2466508893.0,444,56,32,118244.0,Luke Shaw,1640761,66.3,95.4,64.0,85.3,59,SecondHalf,Pass,Successful,True
+924,2466508953.0,445,56,32,346300.0,Jadon Sancho,1640761,63.7,85.0,58.3,91.2,59,SecondHalf,Pass,Successful,True
+925,2466509035.0,446,56,32,118244.0,Luke Shaw,1640761,56.2,90.8,43.0,82.0,59,SecondHalf,Pass,Successful,True
+926,2466509045.0,447,56,32,69344.0,Christian Eriksen,1640761,39.4,77.3,36.9,69.1,59,SecondHalf,Pass,Successful,True
+927,2466509059.0,448,56,32,340105.0,Lisandro Martínez,1640761,36.9,69.1,41.8,70.2,59,SecondHalf,Pass,Successful,True
+928,2466509105.0,449,56,32,336915.0,Scott McTominay,1640761,41.8,70.2,35.9,85.6,59,SecondHalf,Pass,Successful,True
+929,2466509157.0,450,56,32,69344.0,Christian Eriksen,1640761,35.9,85.6,61.3,94.5,59,SecondHalf,Pass,Successful,True
+930,2466509175.0,451,56,32,346300.0,Jadon Sancho,1640761,63.0,94.7,74.5,93.0,59,SecondHalf,Pass,Successful,True
+931,2466509185.0,452,57,32,118244.0,Luke Shaw,1640761,76.8,93.5,,,60,SecondHalf,TakeOn,Unsuccessful,True
+932,2466509201.0,532,57,167,297390.0,Manuel Akanji,1640761,23.2,6.5,,,60,SecondHalf,Tackle,Successful,True
+933,2466509349.0,454,57,32,118244.0,Luke Shaw,1640761,70.8,100.0,62.9,94.2,60,SecondHalf,Pass,Successful,True
+934,2466509371.0,455,57,32,346300.0,Jadon Sancho,1640761,62.9,94.2,51.3,83.9,60,SecondHalf,Pass,Successful,True
+935,2466509441.0,456,57,32,340105.0,Lisandro Martínez,1640761,47.3,78.4,41.6,47.6,60,SecondHalf,Pass,Successful,True
+936,2466509487.0,457,57,32,100008.0,Victor Lindelöf,1640761,39.5,40.6,33.9,16.2,60,SecondHalf,Pass,Successful,True
+937,2466509531.0,458,57,32,353418.0,Diogo Dalot,1640761,33.9,16.2,44.3,19.2,60,SecondHalf,Pass,Successful,True
+938,2466509549.0,459,57,32,100008.0,Victor Lindelöf,1640761,44.3,19.2,46.2,9.7,60,SecondHalf,Pass,Successful,True
+939,2466509599.0,460,57,32,364315.0,Antony,1640761,45.6,9.7,31.8,24.1,60,SecondHalf,Pass,Successful,True
+940,2466509701.0,461,57,32,353418.0,Diogo Dalot,1640761,29.7,27.4,17.8,51.2,60,SecondHalf,Pass,Successful,True
+941,2466509737.0,462,57,32,79554.0,David de Gea,1640761,17.8,51.2,24.2,68.8,60,SecondHalf,Pass,Successful,True
+942,2466509819.0,463,57,32,340105.0,Lisandro Martínez,1640761,24.2,68.8,18.9,33.1,60,SecondHalf,Pass,Successful,True
+943,2466509891.0,464,57,32,100008.0,Victor Lindelöf,1640761,18.3,32.8,7.0,50.7,60,SecondHalf,Pass,Successful,True
+944,2466509953.0,465,57,32,79554.0,David de Gea,1640761,7.3,51.6,11.7,73.8,60,SecondHalf,Pass,Successful,True
+945,2466509995.0,466,57,32,340105.0,Lisandro Martínez,1640761,11.5,74.7,39.6,89.1,60,SecondHalf,Pass,Unsuccessful,True
+946,2466510023.0,534,57,167,128967.0,João Cancelo,1640761,55.8,9.8,,,60,SecondHalf,Interception,Successful,True
+947,2466510051.0,536,57,167,128967.0,João Cancelo,1640761,58.0,15.1,,,60,SecondHalf,BallRecovery,Successful,False
+948,2466510039.0,535,57,167,128967.0,João Cancelo,1640761,58.0,12.7,,,60,SecondHalf,Dispossessed,Successful,True
+949,2466510043.0,467,57,32,123761.0,Bruno Fernandes,1640761,42.0,87.3,,,60,SecondHalf,Tackle,Unsuccessful,True
+950,2466510177.0,537,57,167,77464.0,Ilkay Gündogan,1640761,73.0,24.8,83.8,10.3,60,SecondHalf,Pass,Successful,True
+951,2466510211.0,538,57,167,331254.0,Phil Foden,1640761,82.8,8.9,74.8,8.6,60,SecondHalf,Pass,Successful,True
+952,2466510247.0,539,57,167,128967.0,João Cancelo,1640761,77.9,8.3,77.8,2.6,60,SecondHalf,Pass,Successful,True
+953,2466510329.0,540,57,167,331254.0,Phil Foden,1640761,77.1,3.5,68.4,33.8,60,SecondHalf,Pass,Successful,True
+954,2466510437.0,541,58,167,136741.0,Bernardo Silva,1640761,69.9,50.3,86.8,86.9,61,SecondHalf,Pass,Successful,True
+955,2466735141.0,866,58,167,113069.0,Jack Grealish,1640761,90.4,83.3,,,61,SecondHalf,TakeOn,Unsuccessful,True
+956,2466510441.0,542,58,167,113069.0,Jack Grealish,1640761,98.2,74.1,,,61,SecondHalf,BallTouch,Unsuccessful,True
+957,2466510783.0,469,58,32,300299.0,Marcus Rashford,1640761,0.0,0.0,,,61,SecondHalf,SubstitutionOff,Successful,False
+958,2466510789.0,470,58,32,122366.0,Anthony Martial,1640761,0.0,0.0,,,61,SecondHalf,SubstitutionOn,Successful,False
+959,2466510935.0,471,58,32,336915.0,Scott McTominay,1640761,0.0,0.0,,,61,SecondHalf,SubstitutionOff,Successful,False
+960,2466510945.0,472,58,32,88526.0,Casemiro,1640761,0.0,0.0,,,61,SecondHalf,SubstitutionOn,Successful,False
+961,2466511069.0,474,58,32,340105.0,Lisandro Martínez,1640761,5.1,62.5,3.1,47.4,61,SecondHalf,Pass,Successful,True
+962,2466511135.0,475,58,32,79554.0,David de Gea,1640761,7.0,50.3,17.1,8.5,61,SecondHalf,Pass,Successful,True
+963,2466511167.0,476,58,32,353418.0,Diogo Dalot,1640761,17.1,8.3,19.3,11.3,61,SecondHalf,Pass,Successful,True
+964,2466511203.0,477,58,32,88526.0,Casemiro,1640761,19.3,11.3,26.1,9.8,61,SecondHalf,Pass,Successful,True
+965,2466511207.0,478,58,32,364315.0,Antony,1640761,25.4,9.4,17.9,8.8,61,SecondHalf,Pass,Unsuccessful,True
+966,2466511221.0,544,58,167,113069.0,Jack Grealish,1640761,75.3,92.7,,,61,SecondHalf,BallRecovery,Successful,False
+967,2466511257.0,545,58,167,113069.0,Jack Grealish,1640761,72.8,97.2,70.1,97.8,61,SecondHalf,Pass,Unsuccessful,True
+968,2466511263.0,479,58,32,364315.0,Antony,1640761,20.1,5.2,,,61,SecondHalf,BlockedPass,Successful,True
+969,2466511471.0,547,59,167,355110.0,Sergio Gómez,1640761,66.6,100.0,33.0,86.7,62,SecondHalf,Pass,Successful,True
+970,2466511653.0,548,59,167,122945.0,Nathan Aké,1640761,24.0,77.9,19.2,51.2,62,SecondHalf,Pass,Successful,True
+971,2466511679.0,549,59,167,121774.0,Ederson,1640761,19.6,53.6,23.4,73.8,62,SecondHalf,Pass,Successful,True
+972,2466511835.0,550,59,167,122945.0,Nathan Aké,1640761,63.5,51.6,74.9,41.2,62,SecondHalf,Pass,Unsuccessful,True
+973,2466511821.0,481,59,32,340105.0,Lisandro Martínez,1640761,23.0,57.6,,,62,SecondHalf,BallRecovery,Successful,False
+974,2466511897.0,482,59,32,340105.0,Lisandro Martínez,1640761,23.0,57.6,44.5,66.4,62,SecondHalf,Pass,Unsuccessful,True
+975,2466511889.0,551,59,167,297390.0,Manuel Akanji,1640761,51.8,27.7,,,62,SecondHalf,BallRecovery,Successful,False
+976,2466511999.0,552,59,167,297390.0,Manuel Akanji,1640761,51.6,28.6,51.7,40.4,62,SecondHalf,Pass,Successful,True
+977,2466512055.0,553,59,167,77464.0,Ilkay Gündogan,1640761,64.6,45.7,71.5,41.6,62,SecondHalf,Pass,Successful,True
+978,2466512137.0,554,59,167,315227.0,Erling Haaland,1640761,73.7,57.6,84.4,83.3,62,SecondHalf,Pass,Successful,True
+979,2466512157.0,483,59,32,88526.0,Casemiro,1640761,12.2,29.0,,,62,SecondHalf,Challenge,Unsuccessful,False
+980,2466512209.0,555,59,167,113069.0,Jack Grealish,1640761,87.8,71.0,,,62,SecondHalf,TakeOn,Successful,True
+981,2466512221.0,556,59,167,113069.0,Jack Grealish,1640761,96.4,71.3,96.4,68.9,62,SecondHalf,Pass,Unsuccessful,True
+982,2466512217.0,484,59,32,353418.0,Diogo Dalot,1640761,5.4,27.9,,,62,SecondHalf,BlockedPass,Successful,True
+983,2466512241.0,485,59,32,353418.0,Diogo Dalot,1640761,4.5,29.5,,,62,SecondHalf,CornerAwarded,Unsuccessful,False
+984,2466512267.0,557,59,167,113069.0,Jack Grealish,1640761,95.5,70.5,,,62,SecondHalf,CornerAwarded,Successful,False
+985,2466512825.0,558,60,167,331254.0,Phil Foden,1640761,99.5,99.5,87.2,39.8,63,SecondHalf,Pass,Successful,True
+986,2466512849.0,559,60,167,122945.0,Nathan Aké,1640761,87.2,39.8,91.7,54.0,63,SecondHalf,Pass,Successful,True
+987,2466512873.0,560,60,167,297390.0,Manuel Akanji,1640761,92.4,52.6,,,63,SecondHalf,Aerial,Successful,False
+988,2466512855.0,486,60,32,340105.0,Lisandro Martínez,1640761,7.6,47.4,,,63,SecondHalf,Aerial,Unsuccessful,False
+989,2466512877.0,561,60,167,297390.0,Manuel Akanji,1640761,91.5,54.0,,,63,SecondHalf,SavedShot,Successful,True
+990,2466512971.0,489,60,32,353418.0,Diogo Dalot,1640761,4.8,57.3,,,63,SecondHalf,Save,Successful,True
+991,2466512933.0,487,60,32,88526.0,Casemiro,1640761,5.6,50.8,,,63,SecondHalf,Aerial,Successful,False
+992,2466512903.0,562,60,167,297390.0,Manuel Akanji,1640761,94.4,49.2,,,63,SecondHalf,Aerial,Unsuccessful,False
+993,2466512943.0,488,60,32,88526.0,Casemiro,1640761,4.6,51.5,4.7,66.9,63,SecondHalf,Clearance,Successful,True
+994,2466512947.0,563,60,167,77464.0,Ilkay Gündogan,1640761,96.3,36.1,93.3,33.7,63,SecondHalf,Pass,Unsuccessful,True
+995,2466513007.0,490,60,32,69344.0,Christian Eriksen,1640761,7.7,87.7,,,63,SecondHalf,BallRecovery,Successful,False
+996,2466513073.0,491,60,32,69344.0,Christian Eriksen,1640761,7.7,87.7,60.7,80.3,63,SecondHalf,Pass,Unsuccessful,True
+997,2466513085.0,564,60,167,128967.0,João Cancelo,1640761,32.5,13.1,,,63,SecondHalf,BallRecovery,Successful,False
+998,2466513227.0,565,60,167,128967.0,João Cancelo,1640761,32.8,12.8,60.3,4.0,63,SecondHalf,Pass,Successful,True
+999,2466513269.0,566,60,167,136741.0,Bernardo Silva,1640761,71.9,30.4,61.3,30.4,63,SecondHalf,Pass,Successful,True
+1000,2466513323.0,567,60,167,297390.0,Manuel Akanji,1640761,61.3,30.4,65.0,29.8,63,SecondHalf,Pass,Successful,True
+1001,2466513369.0,568,60,167,77464.0,Ilkay Gündogan,1640761,65.3,36.8,55.0,55.2,63,SecondHalf,Pass,Successful,True
+1002,2466513415.0,569,60,167,122945.0,Nathan Aké,1640761,55.0,56.0,57.6,86.0,63,SecondHalf,Pass,Successful,True
+1003,2466513459.0,570,60,167,355110.0,Sergio Gómez,1640761,57.9,86.4,65.7,97.1,63,SecondHalf,Pass,Successful,True
+1004,2466513495.0,571,60,167,113069.0,Jack Grealish,1640761,65.3,97.8,66.7,85.8,63,SecondHalf,Pass,Successful,True
+1005,2466513535.0,572,60,167,73084.0,Kevin De Bruyne,1640761,69.4,87.0,72.1,96.0,63,SecondHalf,Pass,Successful,True
+1006,2466513573.0,573,60,167,113069.0,Jack Grealish,1640761,75.0,88.8,77.5,66.2,63,SecondHalf,Pass,Successful,True
+1007,2466513603.0,574,60,167,136741.0,Bernardo Silva,1640761,77.5,66.2,81.6,69.2,63,SecondHalf,Pass,Successful,True
+1008,2466513611.0,575,60,167,113069.0,Jack Grealish,1640761,79.8,64.8,,,63,SecondHalf,Dispossessed,Successful,True
+1009,2466513641.0,492,61,32,69344.0,Christian Eriksen,1640761,20.2,35.2,,,64,SecondHalf,Tackle,Unsuccessful,True
+1010,2466513619.0,576,61,167,113069.0,Jack Grealish,1640761,80.7,64.8,,,64,SecondHalf,BallTouch,Successful,True
+1011,2466513685.0,493,61,32,88526.0,Casemiro,1640761,21.1,35.1,34.0,32.2,64,SecondHalf,Pass,Successful,True
+1012,2466513691.0,494,61,32,346300.0,Jadon Sancho,1640761,34.9,31.2,,,64,SecondHalf,BallRecovery,Successful,False
+1013,2466513737.0,495,61,32,346300.0,Jadon Sancho,1640761,42.5,28.5,40.7,14.3,64,SecondHalf,Pass,Successful,True
+1014,2466513747.0,496,61,32,123761.0,Bruno Fernandes,1640761,40.7,14.3,33.9,18.8,64,SecondHalf,Pass,Successful,True
+1015,2466513797.0,497,61,32,88526.0,Casemiro,1640761,33.9,18.8,44.3,45.5,64,SecondHalf,Pass,Successful,True
+1016,2466513845.0,498,61,32,364315.0,Antony,1640761,45.0,50.6,54.6,92.7,64,SecondHalf,Pass,Successful,True
+1017,2466513893.0,499,61,32,118244.0,Luke Shaw,1640761,55.0,92.7,52.2,85.4,64,SecondHalf,Pass,Successful,True
+1018,2466513965.0,500,61,32,122366.0,Anthony Martial,1640761,54.5,79.1,60.4,62.7,64,SecondHalf,Pass,Successful,True
+1019,2466513989.0,501,61,32,364315.0,Antony,1640761,55.1,64.3,45.8,47.0,64,SecondHalf,Pass,Successful,True
+1020,2466514045.0,502,61,32,100008.0,Victor Lindelöf,1640761,45.8,47.0,41.2,60.9,64,SecondHalf,Pass,Successful,True
+1021,2466514101.0,503,61,32,340105.0,Lisandro Martínez,1640761,40.0,63.0,59.0,100.0,64,SecondHalf,Pass,Unsuccessful,True
+1022,2466514315.0,578,61,167,128967.0,João Cancelo,1640761,36.6,0.0,25.7,13.9,64,SecondHalf,Pass,Successful,True
+1023,2466514353.0,579,61,167,297390.0,Manuel Akanji,1640761,25.7,13.3,29.8,1.7,64,SecondHalf,Pass,Successful,True
+1024,2466514421.0,580,61,167,128967.0,João Cancelo,1640761,29.8,3.5,21.1,12.1,64,SecondHalf,Pass,Successful,True
+1025,2466514485.0,581,61,167,297390.0,Manuel Akanji,1640761,22.0,17.3,15.1,49.3,64,SecondHalf,Pass,Successful,True
+1026,2466514589.0,582,61,167,121774.0,Ederson,1640761,16.8,48.5,21.5,23.3,64,SecondHalf,Pass,Successful,True
+1027,2466514693.0,583,61,167,297390.0,Manuel Akanji,1640761,30.0,29.5,30.3,47.2,64,SecondHalf,Pass,Successful,True
+1028,2466514721.0,584,62,167,136741.0,Bernardo Silva,1640761,36.4,65.4,48.3,92.1,65,SecondHalf,Pass,Successful,True
+1029,2466514759.0,585,62,167,355110.0,Sergio Gómez,1640761,48.3,92.1,24.3,70.7,65,SecondHalf,Pass,Successful,True
+1030,2466514789.0,586,62,167,122945.0,Nathan Aké,1640761,27.3,71.1,38.5,70.2,65,SecondHalf,Pass,Successful,True
+1031,2466514845.0,587,62,167,113069.0,Jack Grealish,1640761,35.2,70.7,12.8,43.4,65,SecondHalf,Pass,Successful,True
+1032,2466514877.0,588,62,167,121774.0,Ederson,1640761,18.5,44.9,21.5,28.9,65,SecondHalf,Pass,Successful,True
+1033,2466514917.0,589,62,167,297390.0,Manuel Akanji,1640761,21.5,28.9,27.8,38.3,65,SecondHalf,Pass,Successful,True
+1034,2466514981.0,590,62,167,77464.0,Ilkay Gündogan,1640761,28.1,38.2,27.8,21.8,65,SecondHalf,Pass,Successful,True
+1035,2466515019.0,591,62,167,297390.0,Manuel Akanji,1640761,30.8,20.0,47.2,6.0,65,SecondHalf,Pass,Successful,True
+1036,2466515063.0,592,62,167,128967.0,João Cancelo,1640761,66.0,4.4,,,65,SecondHalf,Foul,Successful,True
+1037,2466515129.0,505,62,32,118244.0,Luke Shaw,1640761,34.0,95.6,,,65,SecondHalf,Foul,Unsuccessful,False
+1038,2466745205.0,867,62,167,128967.0,João Cancelo,1640761,72.5,5.5,62.2,10.7,65,SecondHalf,Pass,Successful,True
+1039,2466515439.0,593,62,167,73084.0,Kevin De Bruyne,1640761,58.0,8.8,52.1,32.3,65,SecondHalf,Pass,Successful,True
+1040,2466515485.0,594,62,167,77464.0,Ilkay Gündogan,1640761,51.0,37.5,51.1,55.3,65,SecondHalf,Pass,Successful,True
+1041,2466515513.0,595,62,167,355110.0,Sergio Gómez,1640761,46.6,51.1,42.2,35.5,65,SecondHalf,Pass,Successful,True
+1042,2466515517.0,596,62,167,77464.0,Ilkay Gündogan,1640761,42.0,35.2,52.6,32.3,65,SecondHalf,Pass,Successful,True
+1043,2466515585.0,597,62,167,355110.0,Sergio Gómez,1640761,52.6,32.3,52.5,22.3,65,SecondHalf,Pass,Successful,True
+1044,2466515631.0,598,62,167,73084.0,Kevin De Bruyne,1640761,56.0,25.7,59.3,75.2,65,SecondHalf,Pass,Successful,True
+1045,2466515663.0,599,62,167,136741.0,Bernardo Silva,1640761,59.3,75.2,41.3,65.1,65,SecondHalf,Pass,Successful,True
+1046,2466515687.0,600,62,167,122945.0,Nathan Aké,1640761,41.6,65.0,50.5,64.5,65,SecondHalf,Pass,Successful,True
+1047,2466515727.0,601,62,167,355110.0,Sergio Gómez,1640761,48.0,67.2,63.8,72.2,65,SecondHalf,Pass,Successful,True
+1048,2466515795.0,602,63,167,136741.0,Bernardo Silva,1640761,68.0,70.4,90.5,66.8,66,SecondHalf,Pass,Successful,True
+1049,2466515805.0,603,63,167,315227.0,Erling Haaland,1640761,90.5,66.8,,,66,SecondHalf,MissedShots,Successful,True
+1050,2466516247.0,508,63,32,340105.0,Lisandro Martínez,1640761,5.0,61.2,4.0,46.6,66,SecondHalf,Pass,Successful,True
+1051,2466516269.0,509,63,32,79554.0,David de Gea,1640761,5.1,45.4,39.9,68.4,66,SecondHalf,Pass,Unsuccessful,True
+1052,2466516291.0,605,63,167,77464.0,Ilkay Gündogan,1640761,56.8,33.8,,,66,SecondHalf,BallTouch,Unsuccessful,True
+1053,2466516347.0,510,63,32,346300.0,Jadon Sancho,1640761,37.2,72.6,37.4,66.6,66,SecondHalf,Pass,Successful,True
+1054,2466516353.0,511,63,32,69344.0,Christian Eriksen,1640761,43.3,66.1,,,66,SecondHalf,TakeOn,Unsuccessful,True
+1055,2466516363.0,606,63,167,136741.0,Bernardo Silva,1640761,56.7,33.9,,,66,SecondHalf,Tackle,Unsuccessful,True
+1056,2466516433.0,512,63,32,69344.0,Christian Eriksen,1640761,40.0,66.0,53.6,70.6,66,SecondHalf,Pass,Successful,True
+1057,2466516447.0,513,63,32,346300.0,Jadon Sancho,1640761,52.2,67.0,,,66,SecondHalf,Dispossessed,Successful,True
+1058,2466516423.0,607,63,167,77464.0,Ilkay Gündogan,1640761,47.8,33.0,,,66,SecondHalf,Tackle,Successful,True
+1059,2466516451.0,608,63,167,77464.0,Ilkay Gündogan,1640761,37.8,34.0,,,66,SecondHalf,BallRecovery,Successful,False
+1060,2466516523.0,609,63,167,77464.0,Ilkay Gündogan,1640761,33.9,38.9,54.2,75.9,66,SecondHalf,Pass,Successful,True
+1061,2466516615.0,610,63,167,73084.0,Kevin De Bruyne,1640761,57.2,77.0,69.5,85.2,66,SecondHalf,Pass,Successful,True
+1062,2466516643.0,611,63,167,113069.0,Jack Grealish,1640761,75.5,77.7,77.9,65.6,66,SecondHalf,Pass,Successful,True
+1063,2466516671.0,612,63,167,73084.0,Kevin De Bruyne,1640761,79.2,65.7,94.4,76.5,66,SecondHalf,Pass,Successful,True
+1064,2466516697.0,613,63,167,355110.0,Sergio Gómez,1640761,94.4,76.5,90.9,48.8,66,SecondHalf,Pass,Successful,True
+1065,2466516729.0,614,63,167,315227.0,Erling Haaland,1640761,91.0,50.0,,,66,SecondHalf,Goal,Successful,True
+1066,2466518313.0,514,65,32,122366.0,Anthony Martial,1640761,50.0,50.3,48.7,48.5,68,SecondHalf,Pass,Successful,True
+1067,2466756935.0,759,65,32,123761.0,Bruno Fernandes,1640761,48.0,48.1,36.7,41.2,68,SecondHalf,Pass,Successful,True
+1068,2466518411.0,515,65,32,88526.0,Casemiro,1640761,38.2,43.6,33.2,27.7,68,SecondHalf,Pass,Successful,True
+1069,2466518489.0,516,65,32,353418.0,Diogo Dalot,1640761,31.0,29.2,22.3,38.5,68,SecondHalf,Pass,Successful,True
+1070,2466518555.0,517,65,32,100008.0,Victor Lindelöf,1640761,22.0,43.0,17.8,70.5,68,SecondHalf,Pass,Successful,True
+1071,2466518599.0,518,65,32,340105.0,Lisandro Martínez,1640761,15.0,72.3,21.9,95.6,68,SecondHalf,Pass,Successful,True
+1072,2466518617.0,519,65,32,118244.0,Luke Shaw,1640761,22.4,95.6,34.6,88.3,68,SecondHalf,Pass,Successful,True
+1073,2466518633.0,520,65,32,346300.0,Jadon Sancho,1640761,34.6,88.3,29.6,83.2,68,SecondHalf,Pass,Successful,True
+1074,2466518713.0,521,65,32,69344.0,Christian Eriksen,1640761,29.6,83.2,39.9,90.3,68,SecondHalf,Pass,Successful,True
+1075,2466518747.0,522,65,32,346300.0,Jadon Sancho,1640761,65.9,87.4,74.8,91.8,68,SecondHalf,Pass,Successful,True
+1076,2466518761.0,523,65,32,122366.0,Anthony Martial,1640761,76.3,92.9,81.3,84.2,68,SecondHalf,Pass,Unsuccessful,True
+1077,2466518769.0,618,65,167,136741.0,Bernardo Silva,1640761,14.8,15.1,,,68,SecondHalf,BallRecovery,Successful,False
+1078,2466518839.0,619,65,167,136741.0,Bernardo Silva,1640761,13.3,9.4,31.1,5.3,68,SecondHalf,Pass,Unsuccessful,True
+1079,2466518871.0,524,65,32,118244.0,Luke Shaw,1640761,63.3,90.0,,,68,SecondHalf,BallRecovery,Successful,False
+1080,2466518963.0,525,65,32,118244.0,Luke Shaw,1640761,65.4,90.8,72.2,94.5,68,SecondHalf,Pass,Successful,True
+1081,2466518971.0,526,65,32,122366.0,Anthony Martial,1640761,76.5,95.5,,,68,SecondHalf,Foul,Successful,True
+1082,2466518965.0,620,65,167,136741.0,Bernardo Silva,1640761,23.5,4.5,,,68,SecondHalf,Foul,Unsuccessful,False
+1083,2466519039.0,527,65,32,122366.0,Anthony Martial,1640761,80.6,96.6,80.6,93.4,68,SecondHalf,Pass,Successful,True
+1084,2466519053.0,528,65,32,346300.0,Jadon Sancho,1640761,79.5,92.1,85.6,95.6,68,SecondHalf,Pass,Successful,True
+1085,2466519067.0,529,65,32,122366.0,Anthony Martial,1640761,85.9,97.1,77.2,95.6,68,SecondHalf,Pass,Successful,True
+1086,2466519109.0,530,66,32,346300.0,Jadon Sancho,1640761,69.7,87.4,71.8,85.3,69,SecondHalf,Pass,Successful,True
+1087,2466525777.0,588,66,32,118244.0,Luke Shaw,1640761,74.8,84.8,69.5,88.9,69,SecondHalf,Pass,Successful,True
+1088,2466525935.0,589,66,32,346300.0,Jadon Sancho,1640761,74.2,91.1,67.4,90.9,69,SecondHalf,Pass,Successful,True
+1089,2466519145.0,531,66,32,69344.0,Christian Eriksen,1640761,61.5,85.3,52.6,48.5,69,SecondHalf,Pass,Successful,True
+1090,2466519165.0,532,66,32,100008.0,Victor Lindelöf,1640761,52.6,48.5,59.4,45.5,69,SecondHalf,Pass,Successful,True
+1091,2466519219.0,533,66,32,88526.0,Casemiro,1640761,59.4,45.5,56.6,8.2,69,SecondHalf,Pass,Successful,True
+1092,2466519283.0,534,66,32,353418.0,Diogo Dalot,1640761,58.6,11.9,69.7,6.8,69,SecondHalf,Pass,Successful,True
+1093,2466519363.0,535,66,32,364315.0,Antony,1640761,81.6,16.8,73.9,32.8,69,SecondHalf,Pass,Successful,True
+1094,2466519373.0,536,66,32,123761.0,Bruno Fernandes,1640761,77.8,32.4,,,69,SecondHalf,SavedShot,Successful,True
+1095,2466519397.0,621,66,167,77464.0,Ilkay Gündogan,1640761,23.0,69.5,,,69,SecondHalf,Save,Successful,True
+1096,2466519459.0,537,66,32,346300.0,Jadon Sancho,1640761,96.6,59.4,,,69,SecondHalf,BallTouch,Unsuccessful,True
+1097,2466519831.0,623,66,167,121774.0,Ederson,1640761,5.1,43.3,10.0,68.4,69,SecondHalf,Pass,Successful,True
+1098,2466519869.0,624,66,167,122945.0,Nathan Aké,1640761,12.7,72.9,31.3,73.2,69,SecondHalf,Pass,Successful,True
+1099,2466519911.0,625,66,167,136741.0,Bernardo Silva,1640761,30.6,75.0,10.4,88.1,69,SecondHalf,Pass,Successful,True
+1100,2466519927.0,626,66,167,122945.0,Nathan Aké,1640761,9.7,87.9,11.7,88.2,69,SecondHalf,Pass,Unsuccessful,True
+1101,2466519941.0,539,66,32,88526.0,Casemiro,1640761,93.7,10.6,,,69,SecondHalf,BlockedPass,Successful,True
+1102,2466520317.0,628,67,167,121774.0,Ederson,1640761,4.8,55.1,12.8,25.6,70,SecondHalf,Pass,Successful,True
+1103,2466520391.0,629,67,167,297390.0,Manuel Akanji,1640761,27.9,22.3,24.5,1.9,70,SecondHalf,Pass,Successful,True
+1104,2466520455.0,630,67,167,128967.0,João Cancelo,1640761,23.6,3.1,6.5,29.6,70,SecondHalf,Pass,Successful,True
+1105,2466520531.0,631,67,167,121774.0,Ederson,1640761,6.6,29.6,55.0,45.4,70,SecondHalf,Pass,Unsuccessful,True
+1106,2466520581.0,541,67,32,100008.0,Victor Lindelöf,1640761,46.4,49.9,59.2,38.3,70,SecondHalf,Pass,Successful,True
+1107,2466520615.0,542,67,32,364315.0,Antony,1640761,59.2,38.3,53.7,28.2,70,SecondHalf,Pass,Unsuccessful,True
+1108,2466520653.0,632,67,167,136741.0,Bernardo Silva,1640761,45.5,68.8,,,70,SecondHalf,Dispossessed,Successful,True
+1109,2466520671.0,543,67,32,88526.0,Casemiro,1640761,54.5,31.2,,,70,SecondHalf,Tackle,Unsuccessful,True
+1110,2466523271.0,648,67,167,136741.0,Bernardo Silva,1640761,52.6,71.0,,,70,SecondHalf,BallTouch,Successful,True
+1111,2466520751.0,633,67,167,73084.0,Kevin De Bruyne,1640761,50.7,69.6,,,70,SecondHalf,Foul,Successful,True
+1112,2466520765.0,544,67,32,88526.0,Casemiro,1640761,49.3,30.4,,,70,SecondHalf,Foul,Unsuccessful,False
+1113,2466520887.0,634,67,167,355110.0,Sergio Gómez,1640761,48.8,72.3,47.0,61.7,70,SecondHalf,Pass,Successful,True
+1114,2466520917.0,635,67,167,77464.0,Ilkay Gündogan,1640761,47.0,61.7,46.8,68.6,70,SecondHalf,Pass,Successful,True
+1115,2466520961.0,636,67,167,355110.0,Sergio Gómez,1640761,45.8,70.7,29.7,63.6,70,SecondHalf,Pass,Successful,True
+1116,2466521047.0,637,67,167,122945.0,Nathan Aké,1640761,28.9,60.3,30.5,26.9,70,SecondHalf,Pass,Successful,True
+1117,2466521093.0,638,67,167,297390.0,Manuel Akanji,1640761,41.4,16.6,41.3,2.2,70,SecondHalf,Pass,Successful,True
+1118,2466521167.0,639,68,167,331254.0,Phil Foden,1640761,37.1,4.0,19.8,34.4,71,SecondHalf,Pass,Successful,True
+1119,2466521229.0,640,68,167,121774.0,Ederson,1640761,20.8,40.0,87.9,72.3,71,SecondHalf,Pass,Unsuccessful,True
+1120,2466521237.0,545,68,32,79554.0,David de Gea,1640761,10.2,29.8,,,71,SecondHalf,KeeperPickup,Successful,False
+1121,2466521377.0,546,68,32,79554.0,David de Gea,1640761,9.4,36.7,13.0,41.3,71,SecondHalf,Pass,Successful,True
+1122,2466521407.0,547,68,32,100008.0,Victor Lindelöf,1640761,20.8,45.2,22.0,69.3,71,SecondHalf,Pass,Successful,True
+1123,2466521515.0,548,68,32,340105.0,Lisandro Martínez,1640761,23.1,66.9,23.3,56.9,71,SecondHalf,Pass,Successful,True
+1124,2466521581.0,549,68,32,88526.0,Casemiro,1640761,24.4,48.7,21.9,33.7,71,SecondHalf,Pass,Successful,True
+1125,2466521671.0,550,68,32,100008.0,Victor Lindelöf,1640761,22.0,36.3,20.6,75.7,71,SecondHalf,Pass,Successful,True
+1126,2466521729.0,551,68,32,340105.0,Lisandro Martínez,1640761,21.7,74.8,13.9,56.7,71,SecondHalf,Pass,Successful,True
+1127,2466521797.0,552,68,32,88526.0,Casemiro,1640761,13.0,49.1,34.4,43.3,71,SecondHalf,Pass,Successful,True
+1128,2466521809.0,553,68,32,123761.0,Bruno Fernandes,1640761,38.5,26.2,63.6,20.1,71,SecondHalf,Pass,Unsuccessful,True
+1129,2466521823.0,641,68,167,355110.0,Sergio Gómez,1640761,34.0,86.4,,,71,SecondHalf,BallTouch,Unsuccessful,True
+1130,2466521953.0,554,68,32,364315.0,Antony,1640761,72.6,28.0,86.6,32.2,71,SecondHalf,Pass,Successful,True
+1131,2466521963.0,555,68,32,122366.0,Anthony Martial,1640761,85.5,30.8,,,71,SecondHalf,Dispossessed,Successful,True
+1132,2466521977.0,642,68,167,136741.0,Bernardo Silva,1640761,14.5,69.2,,,71,SecondHalf,Tackle,Successful,True
+1133,2466521987.0,643,68,167,297390.0,Manuel Akanji,1640761,6.4,87.0,,,71,SecondHalf,BallRecovery,Successful,False
+1134,2466522027.0,644,68,167,297390.0,Manuel Akanji,1640761,7.0,87.8,26.1,100.0,71,SecondHalf,Pass,Unsuccessful,True
+1135,2466522215.0,557,69,32,353418.0,Diogo Dalot,1640761,74.3,0.0,67.7,26.2,72,SecondHalf,Pass,Successful,True
+1136,2466522245.0,558,69,32,364315.0,Antony,1640761,67.7,26.2,68.4,42.2,72,SecondHalf,Pass,Successful,True
+1137,2466522255.0,559,69,32,346300.0,Jadon Sancho,1640761,68.4,42.2,64.4,36.9,72,SecondHalf,Pass,Successful,True
+1138,2466522275.0,560,69,32,123761.0,Bruno Fernandes,1640761,64.4,36.9,88.4,58.1,72,SecondHalf,Pass,Unsuccessful,True
+1139,2466522295.0,646,69,167,128967.0,João Cancelo,1640761,9.5,40.9,,,72,SecondHalf,Interception,Successful,True
+1140,2466522311.0,561,69,32,123761.0,Bruno Fernandes,1640761,89.4,58.6,,,72,SecondHalf,CornerAwarded,Successful,False
+1141,2466522331.0,647,69,167,128967.0,João Cancelo,1640761,10.6,41.4,,,72,SecondHalf,CornerAwarded,Unsuccessful,False
+1142,2466522771.0,562,69,32,346300.0,Jadon Sancho,1640761,0.0,0.0,,,72,SecondHalf,SubstitutionOff,Successful,False
+1143,2466522779.0,563,69,32,114397.0,Fred,1640761,0.0,0.0,,,72,SecondHalf,SubstitutionOn,Successful,False
+1144,2466764497.0,760,69,32,,,1640761,0.0,0.0,,,72,SecondHalf,FormationChange,Successful,False
+1145,2466523005.0,564,69,32,69344.0,Christian Eriksen,1640761,99.5,99.5,81.2,75.9,72,SecondHalf,Pass,Successful,True
+1146,2466523055.0,565,69,32,114397.0,Fred,1640761,80.2,74.8,73.9,62.3,72,SecondHalf,Pass,Successful,True
+1147,2466523063.0,566,69,32,364315.0,Antony,1640761,72.8,62.4,65.3,66.9,72,SecondHalf,Pass,Successful,True
+1148,2466523117.0,567,70,32,118244.0,Luke Shaw,1640761,65.3,66.9,80.8,73.2,73,SecondHalf,Pass,Successful,True
+1149,2466523133.0,568,70,32,340105.0,Lisandro Martínez,1640761,78.3,69.3,76.3,58.4,73,SecondHalf,Pass,Successful,True
+1150,2466523175.0,569,70,32,364315.0,Antony,1640761,76.3,58.4,74.9,44.3,73,SecondHalf,Pass,Successful,True
+1151,2466523227.0,570,70,32,88526.0,Casemiro,1640761,74.5,42.5,74.9,29.4,73,SecondHalf,Pass,Successful,True
+1152,2466523279.0,571,70,32,123761.0,Bruno Fernandes,1640761,74.6,14.6,63.0,27.4,73,SecondHalf,Pass,Successful,True
+1153,2466523325.0,572,70,32,353418.0,Diogo Dalot,1640761,62.0,26.4,59.9,13.2,73,SecondHalf,Pass,Successful,True
+1154,2466523393.0,573,70,32,88526.0,Casemiro,1640761,52.3,12.3,52.2,35.5,73,SecondHalf,Pass,Successful,True
+1155,2466523409.0,574,70,32,118244.0,Luke Shaw,1640761,55.4,57.0,67.0,70.0,73,SecondHalf,Pass,Successful,True
+1156,2466523435.0,575,70,32,122366.0,Anthony Martial,1640761,67.0,70.0,61.1,73.6,73,SecondHalf,Pass,Successful,True
+1157,2466523463.0,576,70,32,118244.0,Luke Shaw,1640761,62.0,79.4,70.5,93.0,73,SecondHalf,Pass,Successful,True
+1158,2466523497.0,577,70,32,69344.0,Christian Eriksen,1640761,69.5,91.8,63.3,77.9,73,SecondHalf,Pass,Successful,True
+1159,2466523557.0,578,70,32,114397.0,Fred,1640761,63.3,77.9,70.3,59.1,73,SecondHalf,Pass,Successful,True
+1160,2466523567.0,579,70,32,364315.0,Antony,1640761,72.6,57.3,,,73,SecondHalf,MissedShots,Successful,True
+1161,2466523915.0,650,70,167,121774.0,Ederson,1640761,4.0,57.0,7.9,72.0,73,SecondHalf,Pass,Successful,True
+1162,2466524063.0,651,70,167,122945.0,Nathan Aké,1640761,14.9,70.2,32.1,6.4,73,SecondHalf,Pass,Successful,True
+1163,2466524095.0,652,71,167,128967.0,João Cancelo,1640761,32.1,6.4,38.8,12.7,74,SecondHalf,Pass,Successful,True
+1164,2466524183.0,653,71,167,73084.0,Kevin De Bruyne,1640761,41.9,7.4,65.1,2.5,74,SecondHalf,Pass,Successful,True
+1165,2466524239.0,654,71,167,331254.0,Phil Foden,1640761,62.9,12.5,48.2,29.0,74,SecondHalf,Pass,Successful,True
+1166,2466524281.0,655,71,167,77464.0,Ilkay Gündogan,1640761,45.7,30.1,35.3,62.9,74,SecondHalf,Pass,Successful,True
+1167,2466524309.0,656,71,167,122945.0,Nathan Aké,1640761,35.1,63.9,45.7,63.6,74,SecondHalf,Pass,Successful,True
+1168,2466524337.0,657,71,167,136741.0,Bernardo Silva,1640761,46.6,68.0,56.6,97.4,74,SecondHalf,Pass,Successful,True
+1169,2466524343.0,658,71,167,355110.0,Sergio Gómez,1640761,57.1,97.4,57.0,92.3,74,SecondHalf,Pass,Unsuccessful,True
+1170,2466524349.0,581,71,32,364315.0,Antony,1640761,34.2,8.6,,,74,SecondHalf,BallRecovery,Successful,False
+1171,2466524485.0,582,71,32,364315.0,Antony,1640761,55.2,7.4,46.8,14.7,74,SecondHalf,Pass,Successful,True
+1172,2466524513.0,583,71,32,88526.0,Casemiro,1640761,49.5,15.9,52.0,34.3,74,SecondHalf,Pass,Successful,True
+1173,2466524607.0,584,71,32,114397.0,Fred,1640761,53.0,34.2,57.9,8.8,74,SecondHalf,Pass,Successful,True
+1174,2466524699.0,585,71,32,364315.0,Antony,1640761,71.0,19.7,87.1,18.2,74,SecondHalf,Pass,Successful,True
+1175,2466524725.0,586,71,32,353418.0,Diogo Dalot,1640761,89.7,20.4,84.0,37.9,74,SecondHalf,Pass,Unsuccessful,True
+1176,2466524749.0,659,71,167,77464.0,Ilkay Gündogan,1640761,10.6,62.4,22.0,74.3,74,SecondHalf,Clearance,Successful,True
+1177,2466524753.0,660,71,167,113069.0,Jack Grealish,1640761,22.1,74.3,,,74,SecondHalf,BallRecovery,Successful,False
+1178,2466524833.0,661,71,167,113069.0,Jack Grealish,1640761,22.2,74.6,31.2,92.3,74,SecondHalf,Pass,Successful,True
+1179,2466524841.0,662,71,167,73084.0,Kevin De Bruyne,1640761,45.4,96.2,,,74,SecondHalf,TakeOn,Unsuccessful,True
+1180,2466524847.0,587,71,32,114397.0,Fred,1640761,54.6,3.8,,,74,SecondHalf,Tackle,Unsuccessful,True
+1181,2466524919.0,663,71,167,73084.0,Kevin De Bruyne,1640761,46.7,95.4,59.5,93.5,74,SecondHalf,Pass,Successful,True
+1182,2466524997.0,664,71,167,113069.0,Jack Grealish,1640761,67.5,62.6,75.9,64.4,74,SecondHalf,Pass,Successful,True
+1183,2466525045.0,665,71,167,315227.0,Erling Haaland,1640761,77.0,54.2,85.8,60.0,74,SecondHalf,Pass,Successful,True
+1184,2466525049.0,666,72,167,331254.0,Phil Foden,1640761,87.2,61.5,,,75,SecondHalf,Goal,Successful,True
+1185,2466527485.0,672,74,167,73084.0,Kevin De Bruyne,1640761,0.0,0.0,,,77,SecondHalf,SubstitutionOff,Successful,False
+1186,2466527497.0,673,74,167,365409.0,Julián Álvarez,1640761,0.0,0.0,,,77,SecondHalf,SubstitutionOn,Successful,False
+1187,2466527739.0,674,74,167,113069.0,Jack Grealish,1640761,0.0,0.0,,,77,SecondHalf,SubstitutionOff,Successful,False
+1188,2466527745.0,675,74,167,395692.0,Cole Palmer,1640761,0.0,0.0,,,77,SecondHalf,SubstitutionOn,Successful,False
+1189,2466527255.0,670,74,167,331254.0,Phil Foden,1640761,0.0,0.0,,,77,SecondHalf,SubstitutionOff,Successful,False
+1190,2466527259.0,671,74,167,104749.0,Riyad Mahrez,1640761,0.0,0.0,,,77,SecondHalf,SubstitutionOn,Successful,False
+1191,2466527973.0,676,74,167,77464.0,Ilkay Gündogan,1640761,0.0,0.0,,,77,SecondHalf,SubstitutionOff,Successful,False
+1192,2466527979.0,677,74,167,122117.0,Aymeric Laporte,1640761,0.0,0.0,,,77,SecondHalf,SubstitutionOn,Successful,False
+1193,2466530613.0,704,74,167,,,1640761,0.0,0.0,,,77,SecondHalf,FormationChange,Successful,False
+1194,2466528175.0,590,75,32,122366.0,Anthony Martial,1640761,49.8,49.9,34.8,56.6,78,SecondHalf,Pass,Successful,True
+1195,2466528201.0,591,75,32,114397.0,Fred,1640761,34.8,56.6,30.1,42.2,78,SecondHalf,Pass,Successful,True
+1196,2466528223.0,592,75,32,100008.0,Victor Lindelöf,1640761,29.7,43.3,24.3,67.2,78,SecondHalf,Pass,Successful,True
+1197,2466528289.0,593,75,32,340105.0,Lisandro Martínez,1640761,22.6,66.6,4.5,51.9,78,SecondHalf,Pass,Successful,True
+1198,2466528343.0,594,75,32,79554.0,David de Gea,1640761,6.3,49.1,36.1,24.1,78,SecondHalf,Pass,Unsuccessful,True
+1199,2466528373.0,678,75,167,122117.0,Aymeric Laporte,1640761,54.9,78.3,60.4,67.4,78,SecondHalf,Pass,Unsuccessful,True
+1200,2466528399.0,595,75,32,114397.0,Fred,1640761,33.0,41.9,30.9,28.6,78,SecondHalf,Pass,Successful,True
+1201,2466528427.0,596,75,32,353418.0,Diogo Dalot,1640761,30.0,28.2,36.4,30.9,78,SecondHalf,Pass,Successful,True
+1202,2466528447.0,597,75,32,114397.0,Fred,1640761,36.3,28.3,36.3,10.4,78,SecondHalf,Pass,Successful,True
+1203,2466528493.0,598,75,32,364315.0,Antony,1640761,36.3,10.4,26.9,17.6,78,SecondHalf,Pass,Successful,True
+1204,2466528623.0,599,75,32,353418.0,Diogo Dalot,1640761,27.0,19.4,21.4,38.0,78,SecondHalf,Pass,Successful,True
+1205,2466528663.0,600,75,32,100008.0,Victor Lindelöf,1640761,24.9,34.8,30.1,10.3,78,SecondHalf,Pass,Successful,True
+1206,2466528713.0,601,75,32,364315.0,Antony,1640761,26.3,11.3,15.7,29.1,78,SecondHalf,Pass,Successful,True
+1207,2466528757.0,602,75,32,100008.0,Victor Lindelöf,1640761,15.2,30.4,4.3,52.1,78,SecondHalf,Pass,Successful,True
+1208,2466528839.0,603,75,32,79554.0,David de Gea,1640761,4.3,52.1,19.8,42.8,78,SecondHalf,Pass,Successful,True
+1209,2466528843.0,604,75,32,88526.0,Casemiro,1640761,23.8,53.8,,,78,SecondHalf,Dispossessed,Successful,True
+1210,2466528859.0,679,75,167,395692.0,Cole Palmer,1640761,76.2,46.2,,,78,SecondHalf,Tackle,Unsuccessful,True
+1211,2466528873.0,605,75,32,88526.0,Casemiro,1640761,25.3,62.9,33.4,66.1,78,SecondHalf,Pass,Unsuccessful,True
+1212,2466528905.0,680,75,167,128967.0,João Cancelo,1640761,68.0,34.1,,,78,SecondHalf,Interception,Successful,True
+1213,2466528921.0,681,75,167,128967.0,João Cancelo,1640761,70.4,34.9,,,78,SecondHalf,BallRecovery,Successful,False
+1214,2466528951.0,682,75,167,128967.0,João Cancelo,1640761,70.7,35.3,71.9,45.8,78,SecondHalf,Pass,Successful,True
+1215,2466528975.0,683,75,167,395692.0,Cole Palmer,1640761,72.2,47.3,85.8,66.8,78,SecondHalf,Pass,Successful,True
+1216,2466528981.0,684,75,167,315227.0,Erling Haaland,1640761,87.5,67.6,,,78,SecondHalf,SavedShot,Successful,True
+1217,2466529001.0,606,75,32,100008.0,Victor Lindelöf,1640761,11.4,34.0,,,78,SecondHalf,Save,Successful,True
+1218,2466529081.0,685,75,167,395692.0,Cole Palmer,1640761,78.3,92.4,61.4,97.2,78,SecondHalf,Pass,Successful,True
+1219,2466529127.0,686,75,167,122945.0,Nathan Aké,1640761,61.4,97.2,53.5,75.2,78,SecondHalf,Pass,Successful,True
+1220,2466529213.0,687,76,167,136741.0,Bernardo Silva,1640761,53.0,73.5,44.7,32.8,79,SecondHalf,Pass,Successful,True
+1221,2466529303.0,688,76,167,297390.0,Manuel Akanji,1640761,44.7,33.2,42.4,62.6,79,SecondHalf,Pass,Successful,True
+1222,2466529395.0,689,76,167,122117.0,Aymeric Laporte,1640761,47.1,66.2,36.4,36.5,79,SecondHalf,Pass,Successful,True
+1223,2466529431.0,690,76,167,297390.0,Manuel Akanji,1640761,33.9,50.9,18.3,51.8,79,SecondHalf,Pass,Successful,True
+1224,2466529465.0,691,76,167,121774.0,Ederson,1640761,18.3,51.8,36.9,2.2,79,SecondHalf,Pass,Successful,True
+1225,2466529629.0,692,76,167,128967.0,João Cancelo,1640761,36.8,4.3,30.8,9.7,79,SecondHalf,Pass,Successful,True
+1226,2466529757.0,693,76,167,136741.0,Bernardo Silva,1640761,33.4,41.5,34.6,74.7,79,SecondHalf,Pass,Successful,True
+1227,2466529789.0,694,76,167,122117.0,Aymeric Laporte,1640761,54.2,88.2,58.9,95.7,79,SecondHalf,Pass,Successful,True
+1228,2466529829.0,695,76,167,122945.0,Nathan Aké,1640761,58.9,95.7,60.5,88.2,79,SecondHalf,Pass,Successful,True
+1229,2466529833.0,696,76,167,122117.0,Aymeric Laporte,1640761,60.9,88.4,62.7,86.0,79,SecondHalf,Pass,Unsuccessful,True
+1230,2466529879.0,607,76,32,364315.0,Antony,1640761,28.4,16.5,,,79,SecondHalf,BallTouch,Successful,True
+1231,2466530051.0,697,76,167,395692.0,Cole Palmer,1640761,58.1,77.7,30.3,59.9,79,SecondHalf,Pass,Successful,True
+1232,2466530105.0,698,76,167,136741.0,Bernardo Silva,1640761,42.5,43.0,57.1,20.0,79,SecondHalf,Pass,Successful,True
+1233,2466530139.0,699,76,167,365409.0,Julián Álvarez,1640761,57.7,17.2,48.9,5.2,79,SecondHalf,Pass,Successful,True
+1234,2466530207.0,700,76,167,128967.0,João Cancelo,1640761,48.9,5.2,66.5,9.5,79,SecondHalf,Pass,Successful,True
+1235,2466530227.0,701,76,167,365409.0,Julián Álvarez,1640761,73.4,22.9,71.5,40.0,79,SecondHalf,Pass,Unsuccessful,True
+1236,2466530243.0,608,77,32,88526.0,Casemiro,1640761,24.1,60.8,,,80,SecondHalf,Interception,Successful,True
+1237,2466530267.0,609,77,32,88526.0,Casemiro,1640761,24.1,60.8,28.7,63.9,80,SecondHalf,Pass,Successful,True
+1238,2466530299.0,610,77,32,69344.0,Christian Eriksen,1640761,28.7,63.9,32.2,89.7,80,SecondHalf,Pass,Successful,True
+1239,2466530305.0,611,77,32,123761.0,Bruno Fernandes,1640761,32.2,89.7,,,80,SecondHalf,BallRecovery,Successful,False
+1240,2466530315.0,612,77,32,123761.0,Bruno Fernandes,1640761,32.2,89.7,31.4,86.2,80,SecondHalf,Pass,Unsuccessful,True
+1241,2466530335.0,702,77,167,365409.0,Julián Álvarez,1640761,64.0,6.8,,,80,SecondHalf,BlockedPass,Successful,True
+1242,2466530513.0,614,77,32,118244.0,Luke Shaw,1640761,26.5,100.0,14.5,86.9,80,SecondHalf,Pass,Successful,True
+1243,2466530557.0,615,77,32,340105.0,Lisandro Martínez,1640761,13.3,78.2,10.4,40.6,80,SecondHalf,Pass,Successful,True
+1244,2466530575.0,616,77,32,100008.0,Victor Lindelöf,1640761,10.4,40.6,3.6,47.6,80,SecondHalf,Pass,Successful,True
+1245,2466530645.0,617,77,32,79554.0,David de Gea,1640761,3.6,47.6,53.3,57.0,80,SecondHalf,Pass,Unsuccessful,True
+1246,2466530675.0,705,77,167,297390.0,Manuel Akanji,1640761,43.5,43.7,54.7,53.0,80,SecondHalf,Pass,Successful,True
+1247,2466530679.0,706,77,167,355110.0,Sergio Gómez,1640761,55.0,53.1,,,80,SecondHalf,BallRecovery,Successful,False
+1248,2466530703.0,707,77,167,355110.0,Sergio Gómez,1640761,55.1,53.4,51.1,42.5,80,SecondHalf,Pass,Successful,True
+1249,2466530719.0,708,77,167,136741.0,Bernardo Silva,1640761,51.1,42.5,62.0,52.2,80,SecondHalf,Pass,Unsuccessful,True
+1250,2466530711.0,618,77,32,88526.0,Casemiro,1640761,35.4,49.7,,,80,SecondHalf,BallRecovery,Successful,False
+1251,2466530769.0,619,77,32,88526.0,Casemiro,1640761,35.4,49.7,57.0,75.0,80,SecondHalf,Pass,Successful,True
+1252,2466530793.0,620,77,32,123761.0,Bruno Fernandes,1640761,57.2,75.0,44.0,73.5,80,SecondHalf,Pass,Successful,True
+1253,2466530825.0,621,77,32,118244.0,Luke Shaw,1640761,44.0,73.5,46.4,66.3,80,SecondHalf,Pass,Successful,True
+1254,2466530879.0,622,77,32,114397.0,Fred,1640761,45.7,66.3,46.1,54.3,80,SecondHalf,Pass,Successful,True
+1255,2466530939.0,623,77,32,88526.0,Casemiro,1640761,44.2,49.7,40.0,28.5,80,SecondHalf,Pass,Successful,True
+1256,2466531017.0,624,77,32,100008.0,Victor Lindelöf,1640761,51.2,23.9,58.7,5.9,80,SecondHalf,Pass,Successful,True
+1257,2466531039.0,625,77,32,353418.0,Diogo Dalot,1640761,58.8,13.4,51.1,15.6,80,SecondHalf,Pass,Successful,True
+1258,2466531093.0,626,77,32,100008.0,Victor Lindelöf,1640761,50.2,16.4,46.2,28.6,80,SecondHalf,Pass,Successful,True
+1259,2466531135.0,627,77,32,88526.0,Casemiro,1640761,50.9,30.6,68.3,87.5,80,SecondHalf,Pass,Unsuccessful,True
+1260,2466531177.0,709,77,167,128967.0,João Cancelo,1640761,22.9,16.6,28.5,24.5,80,SecondHalf,Pass,Successful,True
+1261,2466531187.0,710,77,167,104749.0,Riyad Mahrez,1640761,28.5,24.5,,,80,SecondHalf,BallRecovery,Successful,False
+1262,2466531259.0,711,77,167,104749.0,Riyad Mahrez,1640761,25.8,24.2,13.6,51.5,80,SecondHalf,Pass,Successful,True
+1263,2466531353.0,712,77,167,297390.0,Manuel Akanji,1640761,13.6,51.5,8.1,75.5,80,SecondHalf,Pass,Successful,True
+1264,2466531387.0,713,78,167,122117.0,Aymeric Laporte,1640761,9.1,83.0,19.7,96.6,81,SecondHalf,Pass,Successful,True
+1265,2466531445.0,714,78,167,122945.0,Nathan Aké,1640761,19.7,96.6,26.8,96.2,81,SecondHalf,Pass,Successful,True
+1266,2466531479.0,715,78,167,395692.0,Cole Palmer,1640761,25.2,98.0,,,81,SecondHalf,BallTouch,Unsuccessful,True
+1267,2466531605.0,629,78,32,353418.0,Diogo Dalot,1640761,73.7,0.0,61.3,8.3,81,SecondHalf,Pass,Successful,True
+1268,2466531643.0,630,78,32,88526.0,Casemiro,1640761,56.4,10.6,40.4,32.1,81,SecondHalf,Pass,Successful,True
+1269,2466531675.0,631,78,32,100008.0,Victor Lindelöf,1640761,45.3,48.1,56.4,60.6,81,SecondHalf,Pass,Successful,True
+1270,2466531733.0,632,78,32,123761.0,Bruno Fernandes,1640761,55.0,61.4,51.1,94.5,81,SecondHalf,Pass,Successful,True
+1271,2466531753.0,633,78,32,118244.0,Luke Shaw,1640761,52.0,94.2,54.4,85.4,81,SecondHalf,Pass,Successful,True
+1272,2466531797.0,634,78,32,123761.0,Bruno Fernandes,1640761,54.4,85.4,51.5,89.9,81,SecondHalf,Pass,Successful,True
+1273,2466531839.0,635,78,32,118244.0,Luke Shaw,1640761,51.5,89.9,57.6,83.0,81,SecondHalf,Pass,Successful,True
+1274,2466531865.0,636,78,32,122366.0,Anthony Martial,1640761,57.6,83.0,58.8,92.4,81,SecondHalf,Pass,Unsuccessful,True
+1275,2466532411.0,718,78,167,128967.0,João Cancelo,1640761,38.2,11.6,,,81,SecondHalf,BallTouch,Successful,True
+1276,2466531901.0,637,78,32,123761.0,Bruno Fernandes,1640761,58.8,92.4,55.2,87.1,81,SecondHalf,Pass,Successful,True
+1277,2466531927.0,638,78,32,118244.0,Luke Shaw,1640761,54.3,90.2,57.6,76.0,81,SecondHalf,Pass,Successful,True
+1278,2466531969.0,639,78,32,114397.0,Fred,1640761,57.6,76.0,56.0,81.7,81,SecondHalf,Pass,Successful,True
+1279,2466532063.0,640,78,32,123761.0,Bruno Fernandes,1640761,56.0,81.7,56.1,55.4,81,SecondHalf,Pass,Successful,True
+1280,2466532095.0,641,78,32,69344.0,Christian Eriksen,1640761,61.1,52.5,100.0,86.0,81,SecondHalf,Pass,Unsuccessful,True
+1281,2466532543.0,719,78,167,121774.0,Ederson,1640761,3.7,40.2,6.8,69.5,81,SecondHalf,Pass,Successful,True
+1282,2466532575.0,720,78,167,122117.0,Aymeric Laporte,1640761,11.2,71.3,4.0,47.5,81,SecondHalf,Pass,Successful,True
+1283,2466532601.0,721,79,167,121774.0,Ederson,1640761,4.0,47.5,30.1,3.1,82,SecondHalf,Pass,Successful,True
+1284,2466532683.0,643,79,32,123761.0,Bruno Fernandes,1640761,64.8,95.1,,,82,SecondHalf,Challenge,Unsuccessful,False
+1285,2466532619.0,722,79,167,128967.0,João Cancelo,1640761,35.2,4.9,,,82,SecondHalf,TakeOn,Successful,True
+1286,2466532755.0,723,79,167,128967.0,João Cancelo,1640761,45.5,7.4,34.8,31.4,82,SecondHalf,Pass,Successful,True
+1287,2466532847.0,724,79,167,136741.0,Bernardo Silva,1640761,36.7,27.2,27.5,8.6,82,SecondHalf,Pass,Successful,True
+1288,2466532941.0,725,79,167,297390.0,Manuel Akanji,1640761,27.1,14.0,23.6,52.8,82,SecondHalf,Pass,Successful,True
+1289,2466532973.0,726,79,167,121774.0,Ederson,1640761,23.9,52.4,27.1,62.3,82,SecondHalf,Pass,Successful,True
+1290,2466533051.0,727,79,167,122117.0,Aymeric Laporte,1640761,27.1,62.1,25.1,23.2,82,SecondHalf,Pass,Successful,True
+1291,2466533073.0,728,79,167,297390.0,Manuel Akanji,1640761,32.4,26.8,42.4,31.4,82,SecondHalf,Pass,Successful,True
+1292,2466533187.0,729,79,167,365409.0,Julián Álvarez,1640761,42.4,31.4,53.2,4.0,82,SecondHalf,Pass,Successful,True
+1293,2466533207.0,730,79,167,128967.0,João Cancelo,1640761,53.7,9.4,46.6,29.6,82,SecondHalf,Pass,Successful,True
+1294,2466533299.0,731,79,167,136741.0,Bernardo Silva,1640761,46.5,29.6,33.9,20.2,82,SecondHalf,Pass,Successful,True
+1295,2466533303.0,732,79,167,297390.0,Manuel Akanji,1640761,33.2,36.1,,,82,SecondHalf,Foul,Successful,True
+1296,2466533319.0,644,79,32,123761.0,Bruno Fernandes,1640761,66.8,63.9,,,82,SecondHalf,Foul,Unsuccessful,False
+1297,2466533457.0,645,79,32,123761.0,Bruno Fernandes,1640761,0.0,0.0,,,82,SecondHalf,Card,Successful,False
+1298,2466533619.0,733,79,167,136741.0,Bernardo Silva,1640761,33.8,31.0,30.3,34.2,82,SecondHalf,Pass,Successful,True
+1299,2466766163.0,868,79,167,297390.0,Manuel Akanji,1640761,32.1,32.3,37.4,30.8,82,SecondHalf,Pass,Successful,True
+1300,2466766665.0,869,79,167,136741.0,Bernardo Silva,1640761,33.9,40.9,24.5,70.9,82,SecondHalf,Pass,Successful,True
+1301,2466533639.0,734,80,167,122117.0,Aymeric Laporte,1640761,38.1,77.1,45.0,52.1,83,SecondHalf,Pass,Successful,True
+1302,2466533655.0,735,80,167,315227.0,Erling Haaland,1640761,44.2,48.5,36.4,46.6,83,SecondHalf,Pass,Successful,True
+1303,2466533747.0,736,80,167,136741.0,Bernardo Silva,1640761,36.4,46.6,46.0,7.6,83,SecondHalf,Pass,Successful,True
+1304,2466533793.0,737,80,167,128967.0,João Cancelo,1640761,60.6,14.5,73.6,3.2,83,SecondHalf,Pass,Successful,True
+1305,2466533827.0,738,80,167,104749.0,Riyad Mahrez,1640761,74.0,6.7,74.1,25.3,83,SecondHalf,Pass,Successful,True
+1306,2466533925.0,739,80,167,128967.0,João Cancelo,1640761,74.7,22.6,83.9,14.2,83,SecondHalf,Pass,Successful,True
+1307,2466533975.0,740,80,167,365409.0,Julián Álvarez,1640761,85.0,16.7,70.9,35.6,83,SecondHalf,Pass,Successful,True
+1308,2466534023.0,741,80,167,136741.0,Bernardo Silva,1640761,70.9,36.4,72.5,52.4,83,SecondHalf,Pass,Successful,True
+1309,2466534047.0,742,80,167,355110.0,Sergio Gómez,1640761,72.8,54.8,76.6,69.8,83,SecondHalf,Pass,Unsuccessful,True
+1310,2466534049.0,646,80,32,364315.0,Antony,1640761,24.8,29.4,,,83,SecondHalf,Interception,Successful,True
+1311,2466534075.0,647,80,32,353418.0,Diogo Dalot,1640761,18.1,25.6,,,83,SecondHalf,BallRecovery,Successful,False
+1312,2466534103.0,648,80,32,353418.0,Diogo Dalot,1640761,18.1,25.6,23.5,28.6,83,SecondHalf,Pass,Successful,True
+1313,2466534109.0,649,80,32,364315.0,Antony,1640761,23.5,28.6,25.1,31.8,83,SecondHalf,Pass,Unsuccessful,True
+1314,2466534119.0,743,80,167,355110.0,Sergio Gómez,1640761,74.7,64.7,,,83,SecondHalf,Interception,Successful,True
+1315,2466536671.0,780,80,167,355110.0,Sergio Gómez,1640761,78.9,69.9,,,83,SecondHalf,BallRecovery,Successful,False
+1316,2466534149.0,744,80,167,355110.0,Sergio Gómez,1640761,78.8,64.1,,,83,SecondHalf,BallTouch,Unsuccessful,True
+1317,2466534969.0,657,80,32,364315.0,Antony,1640761,14.2,27.9,,,83,SecondHalf,BallRecovery,Successful,False
+1318,2466534171.0,650,80,32,364315.0,Antony,1640761,13.6,31.3,13.8,28.6,83,SecondHalf,Pass,Unsuccessful,True
+1319,2466534203.0,745,80,167,395692.0,Cole Palmer,1640761,85.9,69.3,,,83,SecondHalf,BallTouch,Successful,True
+1320,2466534213.0,651,80,32,88526.0,Casemiro,1640761,23.5,23.0,,,83,SecondHalf,Dispossessed,Successful,True
+1321,2466534225.0,746,80,167,136741.0,Bernardo Silva,1640761,76.5,77.0,,,83,SecondHalf,Tackle,Unsuccessful,True
+1322,2466536381.0,669,80,32,88526.0,Casemiro,1640761,26.0,26.4,,,83,SecondHalf,BallTouch,Successful,True
+1323,2466536411.0,779,80,167,136741.0,Bernardo Silva,1640761,77.1,73.2,,,83,SecondHalf,BallTouch,Successful,True
+1324,2466534371.0,652,80,32,364315.0,Antony,1640761,12.0,12.0,11.9,19.7,83,SecondHalf,Pass,Successful,True
+1325,2466534441.0,653,80,32,100008.0,Victor Lindelöf,1640761,11.7,19.7,10.2,11.0,83,SecondHalf,Pass,Successful,True
+1326,2466534493.0,654,80,32,364315.0,Antony,1640761,9.7,9.8,37.6,40.0,83,SecondHalf,Pass,Successful,True
+1327,2466534513.0,655,80,32,122366.0,Anthony Martial,1640761,37.7,40.8,,,83,SecondHalf,Aerial,Successful,False
+1328,2466534503.0,747,80,167,297390.0,Manuel Akanji,1640761,62.3,59.2,,,83,SecondHalf,Aerial,Unsuccessful,False
+1329,2466534519.0,656,80,32,122366.0,Anthony Martial,1640761,37.6,40.0,,,83,SecondHalf,BallTouch,Unsuccessful,True
+1330,2466534527.0,748,80,167,297390.0,Manuel Akanji,1640761,62.3,53.0,,,83,SecondHalf,BallRecovery,Successful,False
+1331,2466534619.0,749,80,167,297390.0,Manuel Akanji,1640761,61.4,51.5,45.2,43.4,83,SecondHalf,Pass,Successful,True
+1332,2466534663.0,750,80,167,128967.0,João Cancelo,1640761,46.5,49.6,47.8,61.2,83,SecondHalf,Pass,Successful,True
+1333,2466534729.0,751,80,167,355110.0,Sergio Gómez,1640761,46.3,66.8,45.9,86.7,83,SecondHalf,Pass,Successful,True
+1334,2466534757.0,752,80,167,122945.0,Nathan Aké,1640761,45.9,86.7,43.7,71.1,83,SecondHalf,Pass,Successful,True
+1335,2466534793.0,753,81,167,355110.0,Sergio Gómez,1640761,44.1,73.4,57.4,96.8,84,SecondHalf,Pass,Successful,True
+1336,2466534885.0,754,81,167,395692.0,Cole Palmer,1640761,54.7,94.1,30.9,71.7,84,SecondHalf,Pass,Successful,True
+1337,2466534965.0,755,81,167,122117.0,Aymeric Laporte,1640761,32.1,70.7,21.4,47.0,84,SecondHalf,Pass,Successful,True
+1338,2466534977.0,756,81,167,121774.0,Ederson,1640761,21.4,47.5,25.2,67.4,84,SecondHalf,Pass,Successful,True
+1339,2466535047.0,757,81,167,122117.0,Aymeric Laporte,1640761,29.7,73.2,46.1,95.3,84,SecondHalf,Pass,Successful,True
+1340,2466535069.0,758,81,167,122945.0,Nathan Aké,1640761,59.3,92.0,59.9,74.7,84,SecondHalf,Pass,Successful,True
+1341,2466535099.0,759,81,167,315227.0,Erling Haaland,1640761,59.9,74.7,69.8,80.9,84,SecondHalf,Pass,Unsuccessful,True
+1342,2466535125.0,658,81,32,353418.0,Diogo Dalot,1640761,29.5,26.2,,,84,SecondHalf,BallRecovery,Successful,False
+1343,2466535147.0,659,81,32,353418.0,Diogo Dalot,1640761,29.5,26.2,46.4,29.5,84,SecondHalf,Pass,Unsuccessful,True
+1344,2466535143.0,760,81,167,136741.0,Bernardo Silva,1640761,52.2,71.4,,,84,SecondHalf,BallRecovery,Successful,False
+1345,2466535231.0,761,81,167,136741.0,Bernardo Silva,1640761,41.9,78.8,27.8,80.1,84,SecondHalf,Pass,Successful,True
+1346,2466535307.0,762,81,167,122117.0,Aymeric Laporte,1640761,27.8,80.1,18.8,53.1,84,SecondHalf,Pass,Successful,True
+1347,2466535357.0,763,81,167,121774.0,Ederson,1640761,21.4,52.7,25.8,41.2,84,SecondHalf,Pass,Successful,True
+1348,2466535439.0,764,81,167,297390.0,Manuel Akanji,1640761,25.9,41.3,27.3,72.2,84,SecondHalf,Pass,Successful,True
+1349,2466535523.0,765,81,167,122117.0,Aymeric Laporte,1640761,27.5,69.9,19.5,53.1,84,SecondHalf,Pass,Successful,True
+1350,2466535575.0,766,81,167,121774.0,Ederson,1640761,22.9,52.8,23.5,34.7,84,SecondHalf,Pass,Successful,True
+1351,2466535705.0,767,81,167,297390.0,Manuel Akanji,1640761,25.7,31.6,14.8,56.9,84,SecondHalf,Pass,Successful,True
+1352,2466535753.0,768,81,167,121774.0,Ederson,1640761,14.8,59.1,14.9,70.8,84,SecondHalf,Pass,Successful,True
+1353,2466535793.0,769,81,167,122117.0,Aymeric Laporte,1640761,20.1,76.5,32.1,95.4,84,SecondHalf,Pass,Successful,True
+1354,2466535841.0,770,81,167,122945.0,Nathan Aké,1640761,33.4,95.6,39.6,97.2,84,SecondHalf,Pass,Successful,True
+1355,2466535879.0,771,81,167,395692.0,Cole Palmer,1640761,37.4,95.6,30.4,63.2,84,SecondHalf,Pass,Successful,True
+1356,2466535941.0,772,82,167,136741.0,Bernardo Silva,1640761,31.0,61.5,46.2,39.5,85,SecondHalf,Pass,Successful,True
+1357,2466535997.0,773,82,167,365409.0,Julián Álvarez,1640761,46.2,39.5,46.4,2.5,85,SecondHalf,Pass,Successful,True
+1358,2466536019.0,774,82,167,128967.0,João Cancelo,1640761,46.2,2.9,66.9,11.9,85,SecondHalf,Pass,Successful,True
+1359,2466545437.0,855,82,167,104749.0,Riyad Mahrez,1640761,71.9,8.7,,,85,SecondHalf,BallTouch,Successful,True
+1360,2466536059.0,775,82,167,128967.0,João Cancelo,1640761,60.2,8.5,67.8,13.3,85,SecondHalf,Pass,Unsuccessful,True
+1361,2466536117.0,661,82,32,340105.0,Lisandro Martínez,1640761,30.2,84.5,33.5,79.7,85,SecondHalf,Pass,Unsuccessful,True
+1362,2466536111.0,776,82,167,365409.0,Julián Álvarez,1640761,65.0,19.2,,,85,SecondHalf,Aerial,Successful,False
+1363,2466536121.0,662,82,32,118244.0,Luke Shaw,1640761,35.0,80.8,,,85,SecondHalf,Aerial,Unsuccessful,False
+1364,2466537473.0,782,82,167,365409.0,Julián Álvarez,1640761,65.3,18.5,65.6,28.0,85,SecondHalf,Pass,Unsuccessful,True
+1365,2466536139.0,663,82,32,114397.0,Fred,1640761,33.2,76.1,,,85,SecondHalf,BallRecovery,Successful,False
+1366,2466536149.0,664,82,32,114397.0,Fred,1640761,33.2,76.1,36.2,75.9,85,SecondHalf,Pass,Successful,True
+1367,2466536155.0,665,82,32,69344.0,Christian Eriksen,1640761,36.2,75.9,32.9,87.8,85,SecondHalf,Pass,Successful,True
+1368,2466536207.0,666,82,32,118244.0,Luke Shaw,1640761,32.9,87.8,40.0,93.9,85,SecondHalf,Pass,Successful,True
+1369,2466536213.0,667,82,32,123761.0,Bruno Fernandes,1640761,40.8,96.0,,,85,SecondHalf,Dispossessed,Successful,True
+1370,2466536231.0,777,82,167,365409.0,Julián Álvarez,1640761,59.2,4.0,,,85,SecondHalf,Tackle,Successful,True
+1371,2466536769.0,674,82,32,118244.0,Luke Shaw,1640761,40.6,100.0,25.2,88.6,85,SecondHalf,Pass,Successful,True
+1372,2466536781.0,675,82,32,340105.0,Lisandro Martínez,1640761,24.2,84.3,18.2,46.8,85,SecondHalf,Pass,Successful,True
+1373,2466536711.0,670,82,32,100008.0,Victor Lindelöf,1640761,22.3,39.4,7.2,55.4,85,SecondHalf,Pass,Successful,True
+1374,2466536717.0,671,82,32,79554.0,David de Gea,1640761,7.2,55.4,12.5,45.7,85,SecondHalf,Pass,Successful,True
+1375,2466536737.0,672,82,32,88526.0,Casemiro,1640761,12.5,45.7,6.9,29.4,85,SecondHalf,Pass,Successful,True
+1376,2466536763.0,673,82,32,100008.0,Victor Lindelöf,1640761,7.0,28.2,16.2,10.3,85,SecondHalf,Pass,Successful,True
+1377,2466536923.0,676,82,32,353418.0,Diogo Dalot,1640761,28.5,10.9,35.1,21.2,85,SecondHalf,Pass,Successful,True
+1378,2466536993.0,677,82,32,69344.0,Christian Eriksen,1640761,51.8,25.5,71.4,96.0,85,SecondHalf,Pass,Successful,True
+1379,2466537065.0,678,83,32,118244.0,Luke Shaw,1640761,84.0,91.8,85.3,74.4,86,SecondHalf,Pass,Successful,True
+1380,2466537067.0,679,83,32,114397.0,Fred,1640761,93.2,67.8,,,86,SecondHalf,SavedShot,Successful,True
+1381,2466537073.0,781,83,167,121774.0,Ederson,1640761,2.1,44.8,,,86,SecondHalf,Save,Successful,True
+1382,2466537151.0,680,83,32,122366.0,Anthony Martial,1640761,95.8,50.4,,,86,SecondHalf,Goal,Successful,True
+1383,2466537879.0,783,83,167,315227.0,Erling Haaland,1640761,50.3,49.5,39.2,56.5,86,SecondHalf,Pass,Successful,True
+1384,2466769977.0,870,83,167,355110.0,Sergio Gómez,1640761,41.0,61.7,34.9,85.0,86,SecondHalf,Pass,Successful,True
+1385,2466770079.0,871,83,167,122945.0,Nathan Aké,1640761,34.9,85.0,30.9,68.3,86,SecondHalf,Pass,Successful,True
+1386,2466770345.0,872,83,167,122117.0,Aymeric Laporte,1640761,30.9,68.3,9.6,40.6,86,SecondHalf,Pass,Successful,True
+1387,2466537945.0,785,83,167,121774.0,Ederson,1640761,8.1,43.7,31.8,93.2,86,SecondHalf,Pass,Successful,True
+1388,2466538035.0,786,83,167,122945.0,Nathan Aké,1640761,31.9,93.0,22.8,87.9,86,SecondHalf,Pass,Successful,True
+1389,2466538117.0,787,83,167,122117.0,Aymeric Laporte,1640761,23.9,85.1,12.1,55.8,86,SecondHalf,Pass,Successful,True
+1390,2466538159.0,788,84,167,121774.0,Ederson,1640761,12.7,55.2,23.0,56.6,87,SecondHalf,Pass,Successful,True
+1391,2466538213.0,789,84,167,136741.0,Bernardo Silva,1640761,23.0,56.7,21.9,84.2,87,SecondHalf,Pass,Successful,True
+1392,2466538311.0,790,84,167,122117.0,Aymeric Laporte,1640761,28.4,84.6,46.4,86.4,87,SecondHalf,Pass,Successful,True
+1393,2466538349.0,791,84,167,355110.0,Sergio Gómez,1640761,46.4,86.4,53.9,97.2,87,SecondHalf,Pass,Successful,True
+1394,2466538413.0,792,84,167,395692.0,Cole Palmer,1640761,57.2,97.1,64.3,87.2,87,SecondHalf,Pass,Successful,True
+1395,2466538459.0,793,84,167,355110.0,Sergio Gómez,1640761,70.2,84.9,91.4,82.8,87,SecondHalf,Pass,Successful,True
+1396,2466538533.0,794,84,167,395692.0,Cole Palmer,1640761,91.5,82.8,93.3,58.8,87,SecondHalf,Pass,Successful,True
+1397,2466538587.0,795,84,167,365409.0,Julián Álvarez,1640761,98.0,59.2,,,87,SecondHalf,Dispossessed,Successful,True
+1398,2466538617.0,681,84,32,340105.0,Lisandro Martínez,1640761,2.0,40.8,,,87,SecondHalf,Tackle,Successful,True
+1399,2466538623.0,682,84,32,340105.0,Lisandro Martínez,1640761,1.5,39.8,,,87,SecondHalf,CornerAwarded,Unsuccessful,False
+1400,2466538611.0,796,84,167,365409.0,Julián Álvarez,1640761,98.5,60.2,,,87,SecondHalf,CornerAwarded,Successful,False
+1401,2466539199.0,797,84,167,355110.0,Sergio Gómez,1640761,99.5,99.5,90.8,49.4,87,SecondHalf,Pass,Successful,True
+1402,2466539225.0,798,84,167,122117.0,Aymeric Laporte,1640761,90.4,49.9,,,87,SecondHalf,Aerial,Successful,False
+1403,2466539213.0,683,84,32,100008.0,Victor Lindelöf,1640761,9.6,50.1,,,87,SecondHalf,Aerial,Unsuccessful,False
+1404,2466539229.0,799,84,167,122117.0,Aymeric Laporte,1640761,90.8,49.4,,,87,SecondHalf,MissedShots,Successful,True
+1405,2466539631.0,685,85,32,340105.0,Lisandro Martínez,1640761,5.0,63.0,3.4,48.7,88,SecondHalf,Pass,Successful,True
+1406,2466539697.0,686,85,32,79554.0,David de Gea,1640761,10.3,44.5,24.0,55.1,88,SecondHalf,Pass,Successful,True
+1407,2466539759.0,687,85,32,114397.0,Fred,1640761,24.0,55.1,12.0,76.0,88,SecondHalf,Pass,Successful,True
+1408,2466539769.0,688,85,32,340105.0,Lisandro Martínez,1640761,11.5,78.5,13.4,79.7,88,SecondHalf,Pass,Unsuccessful,True
+1409,2466539791.0,801,85,167,365409.0,Julián Álvarez,1640761,89.1,17.9,,,88,SecondHalf,BlockedPass,Successful,True
+1410,2466539823.0,802,85,167,104749.0,Riyad Mahrez,1640761,77.0,11.0,,,88,SecondHalf,Aerial,Successful,False
+1411,2466539813.0,689,85,32,118244.0,Luke Shaw,1640761,23.0,89.0,,,88,SecondHalf,Aerial,Unsuccessful,False
+1412,2466539855.0,803,85,167,104749.0,Riyad Mahrez,1640761,72.8,12.8,78.9,22.6,88,SecondHalf,Pass,Unsuccessful,True
+1413,2466539903.0,690,85,32,114397.0,Fred,1640761,20.7,79.3,27.1,66.6,88,SecondHalf,Pass,Successful,True
+1414,2466539937.0,691,85,32,88526.0,Casemiro,1640761,32.7,56.7,52.8,35.5,88,SecondHalf,Pass,Successful,True
+1415,2466540037.0,692,85,32,353418.0,Diogo Dalot,1640761,53.3,35.5,68.3,12.5,88,SecondHalf,Pass,Successful,True
+1416,2466540049.0,693,85,32,364315.0,Antony,1640761,90.3,32.1,,,88,SecondHalf,SavedShot,Successful,True
+1417,2466540097.0,805,85,167,121774.0,Ederson,1640761,2.3,55.2,,,88,SecondHalf,Save,Successful,True
+1418,2466540093.0,804,85,167,121774.0,Ederson,1640761,2.3,55.2,,,88,SecondHalf,KeeperPickup,Successful,False
+1419,2466540399.0,806,85,167,121774.0,Ederson,1640761,8.3,54.0,8.8,26.3,88,SecondHalf,Pass,Successful,True
+1420,2466540433.0,807,86,167,297390.0,Manuel Akanji,1640761,8.8,26.8,33.0,38.3,89,SecondHalf,Pass,Successful,True
+1421,2466540495.0,808,86,167,365409.0,Julián Álvarez,1640761,29.6,41.6,13.6,63.3,89,SecondHalf,Pass,Successful,True
+1422,2466540569.0,809,86,167,122117.0,Aymeric Laporte,1640761,14.7,65.4,3.9,46.9,89,SecondHalf,Pass,Successful,True
+1423,2466540635.0,810,86,167,121774.0,Ederson,1640761,4.1,46.7,23.9,4.1,89,SecondHalf,Pass,Successful,True
+1424,2466540669.0,811,86,167,128967.0,João Cancelo,1640761,22.2,6.2,28.4,26.0,89,SecondHalf,Pass,Unsuccessful,True
+1425,2466540683.0,694,86,32,340105.0,Lisandro Martínez,1640761,67.6,70.2,,,89,SecondHalf,Interception,Successful,True
+1426,2466540709.0,695,86,32,69344.0,Christian Eriksen,1640761,70.1,63.6,,,89,SecondHalf,BallRecovery,Successful,False
+1427,2466540781.0,696,86,32,69344.0,Christian Eriksen,1640761,70.1,63.6,68.7,50.4,89,SecondHalf,Pass,Successful,True
+1428,2466540805.0,697,86,32,88526.0,Casemiro,1640761,68.8,51.6,100.0,69.9,89,SecondHalf,Pass,Unsuccessful,True
+1429,2466541089.0,813,86,167,121774.0,Ederson,1640761,4.7,41.5,9.5,69.3,89,SecondHalf,Pass,Successful,True
+1430,2466541153.0,814,86,167,122117.0,Aymeric Laporte,1640761,9.8,70.1,4.7,54.2,89,SecondHalf,Pass,Successful,True
+1431,2466541217.0,815,86,167,121774.0,Ederson,1640761,4.7,32.6,54.4,28.1,89,SecondHalf,Pass,Unsuccessful,True
+1432,2466541271.0,699,86,32,340105.0,Lisandro Martínez,1640761,42.6,72.9,50.8,55.1,89,SecondHalf,Pass,Successful,True
+1433,2466541321.0,700,86,32,88526.0,Casemiro,1640761,50.8,55.1,31.2,50.9,89,SecondHalf,Pass,Successful,True
+1434,2466541323.0,701,86,32,100008.0,Victor Lindelöf,1640761,31.1,46.9,,,89,SecondHalf,BallRecovery,Successful,False
+1435,2466541383.0,702,86,32,100008.0,Victor Lindelöf,1640761,31.1,46.9,33.5,27.9,89,SecondHalf,Pass,Successful,True
+1436,2466541413.0,703,86,32,353418.0,Diogo Dalot,1640761,31.5,23.1,55.2,33.3,89,SecondHalf,Pass,Successful,True
+1437,2466541433.0,704,86,32,69344.0,Christian Eriksen,1640761,55.2,33.3,43.0,40.4,89,SecondHalf,Pass,Successful,True
+1438,2466541455.0,705,86,32,88526.0,Casemiro,1640761,43.0,40.4,50.3,64.9,89,SecondHalf,Pass,Unsuccessful,True
+1439,2466541471.0,816,86,167,104749.0,Riyad Mahrez,1640761,49.0,38.9,,,89,SecondHalf,Interception,Successful,True
+1440,2466541501.0,706,86,32,123761.0,Bruno Fernandes,1640761,50.0,73.9,,,89,SecondHalf,TakeOn,Unsuccessful,True
+1441,2466541531.0,817,86,167,104749.0,Riyad Mahrez,1640761,50.0,26.1,,,89,SecondHalf,Tackle,Successful,True
+1442,2466541539.0,818,87,167,104749.0,Riyad Mahrez,1640761,47.0,24.2,,,90,SecondHalf,BallRecovery,Successful,False
+1443,2466541563.0,819,87,167,104749.0,Riyad Mahrez,1640761,49.0,23.6,,,90,SecondHalf,Dispossessed,Successful,True
+1444,2466541547.0,707,87,32,118244.0,Luke Shaw,1640761,51.0,76.4,,,90,SecondHalf,Tackle,Unsuccessful,True
+1445,2466541627.0,820,87,167,136741.0,Bernardo Silva,1640761,46.0,29.6,36.0,14.3,90,SecondHalf,Pass,Successful,True
+1446,2466541701.0,821,87,167,128967.0,João Cancelo,1640761,35.1,25.6,26.4,31.6,90,SecondHalf,Pass,Successful,True
+1447,2466541737.0,822,87,167,297390.0,Manuel Akanji,1640761,24.1,33.7,24.0,59.9,90,SecondHalf,Pass,Successful,True
+1448,2466541785.0,823,87,167,122117.0,Aymeric Laporte,1640761,24.0,59.9,30.1,52.7,90,SecondHalf,Pass,Successful,True
+1449,2466541971.0,824,87,167,136741.0,Bernardo Silva,1640761,34.5,58.2,25.4,65.4,90,SecondHalf,Pass,Successful,True
+1450,2466541997.0,825,87,167,122117.0,Aymeric Laporte,1640761,25.4,65.4,39.1,68.6,90,SecondHalf,Pass,Successful,True
+1451,2466542025.0,826,87,167,355110.0,Sergio Gómez,1640761,39.1,68.6,39.2,62.1,90,SecondHalf,Pass,Successful,True
+1452,2466542071.0,827,87,167,136741.0,Bernardo Silva,1640761,39.2,62.1,34.8,70.2,90,SecondHalf,Pass,Successful,True
+1453,2466542101.0,828,87,167,355110.0,Sergio Gómez,1640761,32.4,73.8,44.8,100.0,90,SecondHalf,Pass,Unsuccessful,True
+1454,2466542309.0,709,87,32,353418.0,Diogo Dalot,1640761,48.1,0.0,44.7,18.2,90,SecondHalf,Pass,Successful,True
+1455,2466542321.0,710,87,32,88526.0,Casemiro,1640761,43.0,18.6,38.1,10.7,90,SecondHalf,Pass,Successful,True
+1456,2466542349.0,711,87,32,353418.0,Diogo Dalot,1640761,38.1,10.7,24.1,33.9,90,SecondHalf,Pass,Successful,True
+1457,2466542409.0,712,87,32,100008.0,Victor Lindelöf,1640761,24.0,34.9,30.2,27.6,90,SecondHalf,Pass,Successful,True
+1458,2466542489.0,713,87,32,88526.0,Casemiro,1640761,31.2,37.3,82.5,8.7,90,SecondHalf,Pass,Unsuccessful,True
+1459,2466542609.0,831,87,167,122945.0,Nathan Aké,1640761,21.6,91.4,10.8,62.1,90,SecondHalf,Pass,Successful,True
+1460,2466542621.0,832,87,167,121774.0,Ederson,1640761,10.8,62.1,,,90,SecondHalf,BallRecovery,Successful,False
+1461,2466542783.0,833,88,167,121774.0,Ederson,1640761,14.8,59.7,22.0,57.6,91,SecondHalf,Pass,Successful,True
+1462,2466542927.0,834,88,167,136741.0,Bernardo Silva,1640761,19.9,59.1,7.4,56.0,91,SecondHalf,Pass,Successful,True
+1463,2466542963.0,835,88,167,121774.0,Ederson,1640761,2.6,64.7,32.9,17.5,91,SecondHalf,Pass,Successful,True
+1464,2466542983.0,836,88,167,128967.0,João Cancelo,1640761,36.4,18.5,,,91,SecondHalf,Aerial,Successful,False
+1465,2466542989.0,714,88,32,114397.0,Fred,1640761,63.6,81.5,,,91,SecondHalf,Aerial,Unsuccessful,False
+1466,2466542999.0,837,88,167,128967.0,João Cancelo,1640761,32.9,17.5,40.6,26.6,91,SecondHalf,Pass,Successful,True
+1467,2466543019.0,838,88,167,104749.0,Riyad Mahrez,1640761,40.5,28.0,40.4,39.1,91,SecondHalf,Pass,Successful,True
+1468,2466543045.0,839,88,167,128967.0,João Cancelo,1640761,40.4,39.1,37.9,33.4,91,SecondHalf,Pass,Unsuccessful,True
+1469,2466543123.0,715,88,32,123761.0,Bruno Fernandes,1640761,60.1,79.6,47.0,92.6,91,SecondHalf,Pass,Successful,True
+1470,2466543133.0,716,88,32,118244.0,Luke Shaw,1640761,47.0,92.6,,,91,SecondHalf,BallRecovery,Successful,False
+1471,2466543253.0,717,88,32,118244.0,Luke Shaw,1640761,53.5,95.7,37.5,82.7,91,SecondHalf,Pass,Successful,True
+1472,2466543301.0,718,88,32,340105.0,Lisandro Martínez,1640761,36.3,77.0,52.9,77.2,91,SecondHalf,Pass,Successful,True
+1473,2466543349.0,719,88,32,123761.0,Bruno Fernandes,1640761,53.2,77.3,61.6,93.6,91,SecondHalf,Pass,Successful,True
+1474,2466543407.0,720,88,32,118244.0,Luke Shaw,1640761,61.9,94.2,70.5,78.4,91,SecondHalf,Pass,Successful,True
+1475,2466543465.0,721,88,32,114397.0,Fred,1640761,68.4,80.2,65.0,67.9,91,SecondHalf,Pass,Successful,True
+1476,2466543475.0,722,88,32,88526.0,Casemiro,1640761,69.6,54.1,,,91,SecondHalf,SavedShot,Successful,True
+1477,2466543505.0,840,88,167,121774.0,Ederson,1640761,4.1,51.9,,,91,SecondHalf,Save,Successful,True
+1478,2466543533.0,723,88,32,364315.0,Antony,1640761,89.5,32.3,,,91,SecondHalf,SavedShot,Successful,True
+1479,2466543583.0,841,88,167,122945.0,Nathan Aké,1640761,8.9,69.3,,,91,SecondHalf,Save,Successful,True
+1480,2466543651.0,842,88,167,355110.0,Sergio Gómez,1640761,14.3,62.6,21.1,61.8,91,SecondHalf,Clearance,Successful,True
+1481,2466543679.0,844,88,167,104749.0,Riyad Mahrez,1640761,20.9,66.0,,,91,SecondHalf,BallRecovery,Successful,False
+1482,2466543659.0,843,88,167,104749.0,Riyad Mahrez,1640761,20.9,66.0,,,91,SecondHalf,BallTouch,Unsuccessful,True
+1483,2466543701.0,725,88,32,364315.0,Antony,1640761,74.6,13.5,,,91,SecondHalf,BallRecovery,Successful,False
+1484,2466543715.0,726,88,32,364315.0,Antony,1640761,74.6,13.5,71.5,18.0,91,SecondHalf,Pass,Successful,True
+1485,2466543761.0,727,88,32,353418.0,Diogo Dalot,1640761,71.5,18.0,65.7,30.1,91,SecondHalf,Pass,Successful,True
+1486,2466543771.0,728,88,32,88526.0,Casemiro,1640761,65.9,34.5,61.3,37.0,91,SecondHalf,Pass,Successful,True
+1487,2466543805.0,729,88,32,100008.0,Victor Lindelöf,1640761,60.7,37.7,56.4,61.1,91,SecondHalf,Pass,Successful,True
+1488,2466543951.0,730,88,32,340105.0,Lisandro Martínez,1640761,56.9,63.9,79.2,96.0,91,SecondHalf,Pass,Successful,True
+1489,2466543961.0,731,89,32,123761.0,Bruno Fernandes,1640761,74.4,72.6,,,92,SecondHalf,BallTouch,Unsuccessful,True
+1490,2466544331.0,846,89,167,365409.0,Julián Álvarez,1640761,25.6,27.0,25.8,24.8,92,SecondHalf,Pass,Unsuccessful,True
+1491,2466547273.0,750,89,32,123761.0,Bruno Fernandes,1640761,72.8,59.1,,,92,SecondHalf,BlockedPass,Successful,True
+1492,2466547043.0,749,89,32,122366.0,Anthony Martial,1640761,85.6,61.3,,,92,SecondHalf,Foul,Successful,True
+1493,2466544057.0,845,89,167,128967.0,João Cancelo,1640761,14.4,38.7,,,92,SecondHalf,Foul,Unsuccessful,False
+1494,2466544805.0,733,90,32,122366.0,Anthony Martial,1640761,88.5,50.0,,,93,SecondHalf,Goal,Successful,True
+1495,2466544825.0,847,90,167,121774.0,Ederson,1640761,0.0,0.0,,,93,SecondHalf,PenaltyFaced,Unsuccessful,False
+1496,2466545251.0,849,90,167,315227.0,Erling Haaland,1640761,50.1,50.1,34.7,47.5,93,SecondHalf,Pass,Successful,True
+1497,2466545281.0,850,90,167,136741.0,Bernardo Silva,1640761,35.3,46.6,33.1,5.9,93,SecondHalf,Pass,Successful,True
+1498,2466545319.0,851,90,167,128967.0,João Cancelo,1640761,33.2,6.1,23.6,21.7,93,SecondHalf,Pass,Successful,True
+1499,2466545353.0,852,90,167,297390.0,Manuel Akanji,1640761,23.6,21.8,7.7,50.6,93,SecondHalf,Pass,Successful,True
+1500,2466545407.0,853,90,167,121774.0,Ederson,1640761,8.0,53.6,32.6,100.0,93,SecondHalf,Pass,Unsuccessful,True
+1501,2466545603.0,735,90,32,353418.0,Diogo Dalot,1640761,61.6,0.0,41.9,16.2,93,SecondHalf,Pass,Successful,True
+1502,2466545635.0,736,90,32,100008.0,Victor Lindelöf,1640761,41.9,16.2,35.9,36.9,93,SecondHalf,Pass,Successful,True
+1503,2466545709.0,737,91,32,340105.0,Lisandro Martínez,1640761,35.8,36.7,36.4,13.4,94,SecondHalf,Pass,Successful,True
+1504,2466545741.0,738,91,32,100008.0,Victor Lindelöf,1640761,28.4,25.9,7.3,49.6,94,SecondHalf,Pass,Successful,True
+1505,2466545753.0,739,91,32,79554.0,David de Gea,1640761,7.3,49.6,12.8,63.6,94,SecondHalf,Pass,Successful,True
+1506,2466545785.0,740,91,32,118244.0,Luke Shaw,1640761,12.8,63.6,18.8,54.6,94,SecondHalf,Pass,Successful,True
+1507,2466545863.0,741,91,32,340105.0,Lisandro Martínez,1640761,23.1,68.5,39.0,58.4,94,SecondHalf,Pass,Successful,True
+1508,2466545951.0,742,91,32,123761.0,Bruno Fernandes,1640761,43.8,50.9,56.7,12.9,94,SecondHalf,Pass,Successful,True
+1509,2466546025.0,743,91,32,353418.0,Diogo Dalot,1640761,59.9,36.1,61.7,24.0,94,SecondHalf,Pass,Successful,True
+1510,2466546075.0,744,91,32,123761.0,Bruno Fernandes,1640761,68.8,24.6,100.0,74.6,94,SecondHalf,Pass,Unsuccessful,True
+1511,2466546643.0,857,91,167,121774.0,Ederson,1640761,5.4,55.1,54.3,0.0,94,SecondHalf,Pass,Unsuccessful,True
+1512,2466546805.0,747,92,32,118244.0,Luke Shaw,1640761,38.5,100.0,38.7,92.7,95,SecondHalf,Pass,Successful,True
+1513,2466776399.0,761,92,32,114397.0,Fred,1640761,36.9,87.3,38.6,95.7,95,SecondHalf,Pass,Successful,True
+1514,2466776735.0,762,92,32,118244.0,Luke Shaw,1640761,38.6,95.7,46.8,88.5,95,SecondHalf,Pass,Successful,True
+1515,2466546841.0,748,92,32,,,1640761,0.0,0.0,,,95,SecondHalf,End,Successful,False
+1516,2466546847.0,859,92,167,,,1640761,0.0,0.0,,,95,SecondHalf,End,Successful,False
+1517,2466547733.0,860,0,167,,,1640761,0.0,0.0,,,5,PostGame,End,Successful,False
+1518,2466547853.0,751,0,32,,,1640761,0.0,0.0,,,5,PostGame,End,Successful,False
+1519,2466384971.0,1,0,32,,,1640761,0.0,0.0,,,0,PreMatch,FormationSet,Successful,False
+1520,2466385027.0,1,0,167,,,1640761,0.0,0.0,,,0,PreMatch,FormationSet,Successful,False
